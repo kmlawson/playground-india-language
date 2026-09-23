@@ -22,6 +22,7 @@
     <a href="#explore">Map</a>
     <a href="#context">Context</a>
     <a href="#cautions">Cautions</a>
+    <a href="#bilingual">Second languages</a>
     <a href="data.html">Table browser</a>
     <a href="#method">Data</a>
     <a href="#resources">Further reading</a>
@@ -50,6 +51,7 @@
           <g id="g-neigh"></g>
           <g id="g-extra"></g>
           <g id="g-units"></g>
+          <g id="g-bil"></g>
           <g id="g-circles"></g>
           <g id="g-cities"></g>
           <g id="g-labels"></g>
@@ -107,6 +109,29 @@
     <summary>Table for the map above</summary>
     <div id="table-host"></div>
   </details>
+</section>
+
+<section id="bilingual" aria-labelledby="bil-title">
+  <div class="bil-head">
+    <h2 id="bil-title">Second languages</h2>
+    <p>1931 was the first Indian census to ask for a <b>subsidiary language</b>: any language habitually spoken besides the mother tongue. Table XV Part II summarises the answers for 54 mother tongues. <b>These are not complete counts.</b> Returns were compiled only “in those areas in which concurrent vernaculars were found to exist”, and only from the provinces named for each language. In 35 of the 54 entries the printed breakdown also fails to add up to the printed total. The site shows both figures and marks the difference. Select a language on the map to see its second languages, or browse below.</p>
+  </div>
+  <div class="bil-grid">
+    <div class="bil-col">
+      <h3>Who was bilingual?</h3>
+      <p class="cite">Share of each mother tongue’s speakers (in the provinces covered) who returned a second language. Click a row to see the breakdown.</p>
+      <div class="seg small" role="radiogroup" aria-label="Sort" id="bil-sort">
+        <button type="button" role="radio" data-s="pct" aria-checked="true">By share bilingual</button>
+        <button type="button" role="radio" data-s="n" aria-checked="false">By number bilingual</button>
+      </div>
+      <ul class="bars" id="bil-list"></ul>
+    </div>
+    <div class="bil-col">
+      <h3>The languages people added</h3>
+      <p class="cite">Each second language, ranked by the total number of people across all 54 entries who returned it. Click one to see whose second language it was.</p>
+      <ul class="bars" id="lf-list"></ul>
+    </div>
+  </div>
 </section>
 
 <article id="essay">
@@ -207,6 +232,7 @@
 <script src="data/census.js"></script>
 <script src="data/checks.js"></script>
 <script src="data/areas.js"></script>
+<script src="data/bilingual.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

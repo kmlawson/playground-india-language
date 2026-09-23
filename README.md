@@ -16,6 +16,8 @@ Live site: https://kmlawson.github.io/playground-india-language/
 | `data/languages.csv` | the classification with all-India totals |
 | `data/geo.js` | projected SVG paths for the 35 census units |
 | `data/checks.js` | the arithmetic checks shown on the page |
+| `data/bilingual.js`, `data/bilingual.csv` | Table XV Part II (bilingualism): 54 mother tongues × their subsidiary languages |
+| `source/transcribed_bilingual/pNNN.json` | hand transcription of Part II (scan leaves 515–517) |
 | `source/transcribed/pNNN.json` | the hand transcription, one file per scan leaf (477–514) |
 | `source/BRIEF.md`, `source/crop.py` | the instructions and crop helper used for the transcription |
 | `source/geo/plague_india/` | 1931 base boundaries from W. Tennant's plague_india (LGPL-3.0) |
@@ -32,6 +34,7 @@ members. Where the printed table is itself inconsistent the printed figure is ke
 
     python3 tools/check.py          # arithmetic report
     python3 tools/build_data.py     # -> data/census.js, data/*.csv, data/checks.js
+    python3 tools/build_bilingual.py  # -> data/bilingual.js, data/bilingual.csv
     tools/fetch_sources.sh          # boundary inputs (and the scan, for checking)
     python3 tools/latfix.py         # needs pyshp
     python3 tools/build_geo.py      # needs shapely + pyshp -> data/geo.js

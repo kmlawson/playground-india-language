@@ -96,6 +96,18 @@
 
   <section id="note-panel" hidden></section>
 
+  <section class="bil-browse" id="part2">
+    <h2>Part II: subsidiary languages</h2>
+    <p>Table XV Part II (printed pp. 510–512) gives, for 54 mother tongues, the people who returned a second language and which one. These are partial returns from the provinces named, not complete counts. Rows marked ≠ belong to entries whose printed breakdown does not add up to the printed total. <a href="data/bilingual.csv">bilingual.csv</a></p>
+    <div class="toolbar"><input id="q2" type="search" placeholder="Filter by mother tongue or second language…" autocomplete="off" spellcheck="false"><span id="count2"></span></div>
+    <div class="tbl-wrap">
+      <table class="data browse-table" id="t2">
+        <thead><tr><th scope="col">Mother tongue</th><th scope="col">Second language (as printed)</th><th scope="col">Persons</th><th scope="col">% of speakers</th><th scope="col">Speakers covered</th><th scope="col">Returned bilingual</th><th scope="col">Source</th></tr></thead>
+        <tbody id="rows2"></tbody>
+      </table>
+    </div>
+  </section>
+
   <section class="pages-list">
     <h2>The printed pages</h2>
     <p>Table XV Part I runs across 38 printed pages (pp. 472–509; scan leaves 477–514). Each link opens the page on the Internet Archive. The transcription files for each page are in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
@@ -104,6 +116,7 @@
 </main>
 
 <script src="data/census.js"></script>
+<script src="data/bilingual.js"></script>
 <script src="browse.js"></script>
 </body>
 </html>

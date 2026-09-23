@@ -64,6 +64,13 @@
   var LEAD = {}, DIV = {};
   MAP_UNITS.concat(['INDIA', '7a', '27a', '27b', '27c']).forEach(function (u) { LEAD[u] = leading(u); DIV[u] = diversity(u); });
 
+  /* ---------------------------------------------------------------- Part II: bilingualism */
+  var BIL = window.BILINGUAL || [];
+  var BIL_BY_LANG = {};
+  BIL.forEach(function (e) { if (e.lang != null) BIL_BY_LANG[e.lang] = e; });
+  function bilPct(e) { return e.bilingual != null && e.total ? e.bilingual / e.total * 100 : null; }
+  function bilLink(e) { return 'https://archive.org/details/india.history.resource.92539/page/n' + e.leaf + '/mode/1up'; }
+
   /* ---------------------------------------------------------------- state */
   var state = { mode: 'lang', measure: 'share', lang: null, unit: null };
   function defaultLang() {
@@ -364,6 +371,13 @@
         if (sub) { var ts = el('tspan', { x: a2[0], dy: '1.15em', class: 'v' }, t); ts.textContent = sub; }
       }
     });
+    // provinces from which the language's Part II returns came
+    var gB = $('#g-bil'); gB.textContent = '';
+    var be = state.mode === 'lang' ? BIL_BY_LANG[state.lang.id] : null;
+    if (be) be.units.forEach(function (u) {
+      var mu = u === '27a' || u === '27b' ? '27' : u;
+      if (G.units[mu]) el('path', { d: G.units[mu].d, class: 'bil-area' }, gB);
+    });
     if (state.unit && unitEls[state.unit]) unitEls[state.unit].classList.add('sel');
     applyView();
     renderLegend(sk, sc, maxN, RMAX);
@@ -403,6 +417,7 @@
       if (sk === 'div') h += '<div class="note">1 − Σp² over the ' + LEAVES.length + ' language entries. 0 = everyone shares one mother tongue.</div>';
     }
     h += '<div class="row"><span class="sw hatch"></span> not enumerated / not a census unit</div>';
+    if (state.mode === 'lang' && BIL_BY_LANG[state.lang.id]) h += '<div class="row"><span class="sw dash"></span> provinces with second-language returns</div>';
     $('#legend').innerHTML = h;
   }
   function niceSteps(max) {
@@ -446,6 +461,8 @@
     if (l.note) h2 += '<div class="note-box">Transcription note: ' + esc(l.note) + '</div>';
     if (l.col) h2 += '<div class="cite">Source: Table XV Part I, cols. ' + l.col + '–' + (l.col + 2) + ', printed p. ' + (l.page || '?') + ' · <a href="' + iaLink(l) + '" target="_blank" rel="noopener">view page scan ↗</a></div>';
     h2 += '<div class="cite"><a href="data.html#q=' + encodeURIComponent(l.name) + '&level=all">All figures for ' + esc(disp(l)) + ' in the table browser →</a></div>';
+    var be = BIL_BY_LANG[l.id];
+    if (be) h2 += bilBlock(be);
     if (l.kids.length) {
       var kids = l.kids.map(function (i) { return L[i]; }).sort(function (a, b) { return persons(b, 'INDIA') - persons(a, 'INDIA'); });
       var mx = persons(kids[0], 'INDIA') || 1;
@@ -455,6 +472,22 @@
       }).join('') + '</ul></div>';
     }
     box.innerHTML = h2;
+  }
+
+  function bilBlock(e) {
+    var p = bilPct(e), subs = e.subs.slice().sort(function (a, b) { return (b.n || 0) - (a.n || 0); });
+    var mx = subs.length ? (subs[0].n || 1) : 1, shown = subs.slice(0, 8);
+    var h = '<div class="bil-block"><span class="lbl">Second languages (Table XV Part II)</span>';
+    h += '<div class="stat"><div><b>' + pct(p) + '</b><span>returned a second language</span></div><div><b>' + num(e.bilingual) + '</b><span>of ' + num(e.total) + ' speakers</span></div></div>';
+    h += '<div class="cite">Returns from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).</div>';
+    h += '<ul class="bars">' + shown.map(function (x) {
+      return '<li class="static"><span class="nm">' + esc(x.name) + '</span><span class="val">' + (x.n == null ? '?' : num(x.n)) + (e.total && x.n ? ' · ' + pct(x.n / e.total * 100) : '') + '</span><span class="track"><span class="fill alt" style="width:' + ((x.n || 0) / mx * 100) + '%"></span></span></li>';
+    }).join('') + '</ul>';
+    if (subs.length > shown.length) h += '<div class="cite">…and ' + (subs.length - shown.length) + ' more: ' + esc(subs.slice(8).map(function (x) { return x.name + ' (' + (x.n == null ? '?' : fmtW.format(x.n)) + ')'; }).join(', ')) + '</div>';
+    if (e.diff) h += '<div class="note-box">In the print, these counts add up to ' + num(e.sum) + ', not the ' + num(e.bilingual) + ' given as the total (a difference of ' + (e.diff > 0 ? '+' : '') + fmtW.format(e.diff) + '). Both are shown as printed.</div>';
+    if (e.note) h += '<div class="cite">Transcription note: ' + esc(e.note) + '</div>';
+    h += '<div class="cite">Source: Table XV Part II, printed p. ' + e.page + ' · <a href="' + bilLink(e) + '" target="_blank" rel="noopener">view page scan ↗</a> · <a href="#bilingual">all second languages</a></div></div>';
+    return h;
   }
 
   function topLangs(u, n, level) {
@@ -678,6 +711,42 @@
     $('#area-table').innerHTML = t;
   }
 
+  /* ---------------------------------------------------------------- second languages section */
+  var bilSort = 'pct', bilOpen = null, lfOpen = null;
+  function renderBilSection() {
+    if (!BIL.length || !$('#bil-list')) return;
+    var rows = BIL.filter(function (e) { return e.bilingual != null; }).slice().sort(function (a, b) {
+      return bilSort === 'pct' ? bilPct(b) - bilPct(a) : b.bilingual - a.bilingual;
+    });
+    var mx = bilSort === 'pct' ? 100 : rows[0].bilingual;
+    $('#bil-list').innerHTML = rows.map(function (e, i) {
+      var v = bilSort === 'pct' ? bilPct(e) : e.bilingual, open = bilOpen === i + ':' + e.mt;
+      var h = '<li data-bil="' + esc(i + ':' + e.mt) + '" class="' + (open ? 'on' : '') + '"><span class="nm">' + esc(e.mt) + (e.diff ? ' <span class="flag-s" title="Breakdown does not add up in the print">≠</span>' : '') + '</span><span class="val">' + pct(bilPct(e)) + ' · ' + num(e.bilingual) + '</span><span class="track"><span class="fill" style="width:' + (v / mx * 100) + '%"></span></span></li>';
+      if (open) h += '<li class="detail">' + bilBlock(e).replace('<div class="bil-block">', '<div class="bil-block inline">') + (e.lang != null ? '<button type="button" class="linkish" data-lang="' + key(L[e.lang]) + '">Map ' + esc(disp(L[e.lang])) + ' →</button>' : '') + '</li>';
+      return h;
+    }).join('');
+    // lingua francas
+    var agg = {};
+    BIL.forEach(function (e) { e.subs.forEach(function (x) { if (x.n) { (agg[x.as] = agg[x.as] || { n: 0, from: [] }); agg[x.as].n += x.n; agg[x.as].from.push({ mt: e.mt, n: x.n, tot: e.total }); } }); });
+    var lf = Object.keys(agg).map(function (k) { return { name: k, n: agg[k].n, from: agg[k].from }; }).sort(function (a, b) { return b.n - a.n; }).slice(0, 25);
+    var m2 = lf[0].n;
+    $('#lf-list').innerHTML = lf.map(function (x) {
+      var open = lfOpen === x.name;
+      var h = '<li data-lf="' + esc(x.name) + '" class="' + (open ? 'on' : '') + '"><span class="nm">' + esc(x.name) + '</span><span class="val">' + num(x.n) + '</span><span class="track"><span class="fill alt" style="width:' + (x.n / m2 * 100) + '%"></span></span></li>';
+      if (open) {
+        var fr = x.from.sort(function (a, b) { return b.n - a.n; });
+        h += '<li class="detail"><span class="cite">Returned as a second language by speakers of: ' + fr.map(function (f) { return esc(f.mt) + ' ' + fmtW.format(f.n); }).join(', ') + '.</span></li>';
+      }
+      return h;
+    }).join('');
+  }
+  document.addEventListener('click', function (ev) {
+    var b = ev.target.closest('#bil-list [data-bil]'); if (b) { var k = b.getAttribute('data-bil'); bilOpen = bilOpen === k ? null : k; renderBilSection(); return; }
+    var f = ev.target.closest('#lf-list [data-lf]'); if (f) { var n = f.getAttribute('data-lf'); lfOpen = lfOpen === n ? null : n; renderBilSection(); return; }
+    var sb = ev.target.closest('#bil-sort [data-s]'); if (sb) { bilSort = sb.getAttribute('data-s'); [].forEach.call(document.querySelectorAll('#bil-sort button'), function (x) { x.setAttribute('aria-checked', x === sb); }); renderBilSection(); return; }
+    var ml = ev.target.closest('#bil-list [data-lang]'); if (ml) { setLang(byKey(ml.getAttribute('data-lang'))); document.getElementById('explore').scrollIntoView({ behavior: 'smooth' }); }
+  });
+
   /* ---------------------------------------------------------------- go */
   readHash();
   [].forEach.call(document.querySelectorAll('#mode-seg button'), function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === state.mode); });
@@ -688,4 +757,5 @@
   render();
   if (state.unit) { unitEls[state.unit].classList.add('sel'); renderUnit(); }
   renderChecks();
+  renderBilSection();
 })();

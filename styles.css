@@ -314,3 +314,26 @@ a.plain:hover { color: var(--accent); }
 #area-table { font: 13.5px/1.5 var(--sans); margin: 8px 0 16px; }
 #area-table table { max-width: 560px; }
 .unit, .neigh, .extra, .over-hatch { fill-rule: evenodd; }
+
+/* ------------------------------------------------------------ second languages */
+.bil-area { fill: none; stroke: var(--ink); stroke-width: 1.6; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; pointer-events: none; }
+#legend .sw.dash { border: 1.6px dashed var(--ink); background: transparent; }
+.bil-block { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--line); }
+.bil-block.inline { border-top: 0; margin-top: 0; padding: 4px 0 8px; }
+.bars .fill.alt { background: var(--s2); }
+.bars li.static { cursor: default; }
+.bars li.static:hover { background: none; }
+.bars li.detail { display: block; cursor: default; padding: 2px 4px 10px 12px; }
+.bars li.detail:hover { background: none; }
+.flag-s { color: var(--accent); font-weight: 600; }
+#bilingual { max-width: 1280px; margin: 24px auto 0; padding: 0 16px; }
+#bilingual h2 { font: 600 27px/1.2 var(--serif); margin: 16px 0 8px; }
+#bilingual h3 { font: 600 19px/1.3 var(--serif); margin: 0 0 4px; }
+.bil-head p { max-width: 880px; font: 16px/1.55 var(--serif); color: var(--ink-2); }
+.bil-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; }
+.bil-col { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; font-size: 13.5px; min-width: 0; }
+.bil-col .seg { margin: 6px 0; }
+.bil-browse { margin-top: 32px; }
+.bil-browse h2 { font: 600 22px var(--serif); margin: 0 0 6px; }
+.bil-browse p { font-size: 14px; max-width: 900px; }
+#q2 { padding: 7px 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font: 14.5px var(--sans); min-width: 280px; }

@@ -198,6 +198,25 @@
     try { localStorage.setItem('il-theme', dark ? 'light' : 'dark'); } catch (e) { }
   });
 
+  /* Part II */
+  var B = window.BILINGUAL || [];
+  var R2 = [];
+  B.forEach(function (e) { e.subs.forEach(function (x) { R2.push({ e: e, x: x, s: norm(e.mt + ' ' + x.name + ' ' + x.as) }); }); });
+  function render2() {
+    var w = norm($('#q2').value.trim()).split(/\s+/).filter(Boolean);
+    var rows = R2.filter(function (r) { return w.every(function (t) { return r.s.indexOf(t) >= 0; }); })
+      .sort(function (a, b) { return (b.x.n || 0) - (a.x.n || 0); });
+    $('#count2').textContent = fmtW.format(rows.length) + ' rows';
+    $('#rows2').innerHTML = rows.slice(0, 500).map(function (r) {
+      var e = r.e;
+      return '<tr><td class="nm"><span class="n">' + esc(e.mt) + (e.diff ? ' <span class="flag" title="Breakdown does not add up in the print (by ' + fmtW.format(e.diff) + ')">≠</span>' : '') + '</span><span class="p">' + esc(e.areas.join(', ')) + '</span></td>' +
+        '<td style="text-align:left">' + esc(r.x.name) + '</td><td>' + (r.x.n == null ? '?' : num(r.x.n)) + '</td><td>' + (r.x.n && e.total ? pct(r.x.n / e.total * 100) : '') + '</td>' +
+        '<td>' + num(e.total) + '</td><td>' + num(e.bilingual) + '</td>' +
+        '<td class="src"><a href="' + IA + e.leaf + '/mode/1up" target="_blank" rel="noopener">p.&nbsp;' + e.page + '</a></td></tr>';
+    }).join('') + (rows.length > 500 ? '<tr><td colspan="7" class="empty">First 500 rows shown; refine the filter.</td></tr>' : '');
+  }
+  if (B.length) { $('#q2').addEventListener('input', render2); render2(); }
+
   readHash();
   apply();
 })();
