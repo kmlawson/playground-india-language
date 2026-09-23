@@ -313,3 +313,4 @@ a.plain:hover { color: var(--accent); }
 @media (max-width: 600px) { #filters .f { flex-basis: 100%; } }
 #area-table { font: 13.5px/1.5 var(--sans); margin: 8px 0 16px; }
 #area-table table { max-width: 560px; }
+.unit, .neigh, .extra, .over-hatch { fill-rule: evenodd; }

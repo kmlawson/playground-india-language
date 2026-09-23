@@ -22,7 +22,10 @@ handed to the neighbour sharing most boundary, and the result is projected
 with the same spherical Mercator the froginawell.net Japanese-empire map uses.
 Run with a Python that has shapely + pyshp.
 """
-import json, math, os, sys
+import json, math, os, sys, time
+T0 = time.time()
+def tick(m):
+    print(f'[{time.time()-T0:6.1f}s] {m}', file=sys.stderr, flush=True)
 import shapefile
 from shapely.geometry import shape, mapping, Point, box
 from shapely.ops import unary_union, transform
@@ -166,6 +169,7 @@ adm1 = ne('ne_10m_admin_1_states_provinces', 'name', {'Andaman and Nicobar', 'Ma
                                                      'Arunachal Pradesh', 'Lakshadweep'})
 U['2'] = adm1['Andaman and Nicobar']
 
+tick('overrides')
 # ------------------------------------------------------------ district-based overrides
 # plague_india is hand-traced and coarse; where a 1931 unit coincides with modern
 # districts, those are used instead (checked against the areas printed in Table I:
@@ -234,6 +238,108 @@ X['french'] = gb('IND', ['Puducherry', 'Karaikal', 'Mahe', 'Yanam'])
 for k in U:
     U[k] = U[k].difference(X['goa']).difference(X['french'])
 
+tick('exact outlines')
+# ------------------------------------------------------------ exact modern outlines
+countries = ne('ne_10m_admin_0_countries', 'ADMIN', None)
+A1_NAMES = {'Delhi', 'Sikkim', 'Jammu and Kashmir', 'Ladakh', 'Azad Kashmir', 'Northern Areas', 'Baluchistan',
+            'K.P.', 'F.A.T.A.', 'Himachal Pradesh', 'Rajasthan', 'Gujarat', 'Uttarakhand', 'Uttar Pradesh',
+            'Haryana', 'Punjab', 'Chandigarh', 'Bihar', 'Jharkhand', 'West Bengal', 'Odisha', 'Chhattisgarh',
+            'Madhya Pradesh', 'Maharashtra', 'Telangana', 'Andhra Pradesh', 'Karnataka', 'Tamil Nadu', 'Kerala',
+            'Assam', 'Meghalaya', 'Manipur', 'Tripura', 'Mizoram', 'Nagaland', 'Sind', 'F.C.T.',
+            'Chittagong', 'Dhaka', 'Rangpur', 'Rajshahi', 'Khulna', 'Barisal', 'Sylhet'}
+A1 = ne('ne_10m_admin_1_states_provinces', 'name', A1_NAMES)   # 'Punjab' = both Punjabs
+override('11', A1['Delhi'])                                    # Delhi province = NCT (573 sq mi both)
+override('33', A1['Sikkim'])
+aksai = U['26'].intersection(countries['China'])
+siachen = countries.get('Siachen Glacier')
+override('26', unary_union([A1['Jammu and Kashmir'], A1['Ladakh'], A1['Azad Kashmir'], A1['Northern Areas'], aksai]
+                           + ([siachen] if siachen is not None else [])))
+# Baluchistan: modern province less Gwadar; the States by district, the rest British
+bal = A1['Baluchistan'].difference(X['gwadar'].buffer(0.005))
+pak_d = json.load(open(os.path.join(G, 'PAK-ADM2.geojson')))['features']
+bal_brit = unary_union([fix(shape(f['geometry'])) for f in pak_d
+                        if fix(shape(f['geometry'])).representative_point().within(bal)]).difference(bal_states).difference(gwadar)
+override('4', bal.intersection(bal_brit.buffer(0.01)))      # British districts: inland
+override('17', bal.difference(U['4']))                       # States: the rest, incl. the whole coast
+# NWFP: modern K.P. + F.A.T.A.; the 1931 districts by modern district, the rest agencies/tribal
+nw = unary_union([A1['K.P.'], A1['F.A.T.A.']])
+nw_d = U['13']
+override('13', nw.intersection(nw_d.buffer(0.01)))
+override('29', nw.difference(U['13']))
+# Himachal Pradesh by district: British Kangra/Kulu/Lahaul, Simla Hill States, Punjab States Agency
+hp_psa = gb('IND', ['Chamba', 'Mandi', 'Sirmaur'])
+hp_br = unary_union([gb('IND', ['Kangra', 'Kullu', 'Una', 'Lahul & Spiti']),
+                     gb('IND', ['Hamirpur'], pred=lambda g: g.centroid.y > 30)])
+hp = A1['Himachal Pradesh']
+override('30', hp.intersection(simla.buffer(0.01)))
+U['31'] = unary_union([U['31'].difference(hp), hp.intersection(hp_psa.buffer(0.01)).difference(U['30'])])
+U['14'] = unary_union([U['14'].difference(hp), hp.intersection(hp_br.buffer(0.01)).difference(U['30']).difference(U['31'])])
+for j in U:
+    if j not in ('14', '30', '31'):
+        U[j] = U[j].difference(hp)
+
+tick('constraints')
+# ------------------------------------------------------------ what can lie where
+# Each modern state/province may contain only the 1931 units listed. Anything else found
+# inside it is plague_india overshoot and goes to the permitted neighbour it touches most.
+# (Historical outliers are listed deliberately: e.g. Munagala/Bhadrachalam = Madras in
+# Telangana, Sironj = Tonk (Rajputana) in M.P., Khariar = C.P. in Odisha, Seraikela and
+# Kharsawan = B&O States in Jharkhand, Samthar/Datia = Central India in U.P.)
+ALLOWED = {
+    'Rajasthan': {'32', '1', '22', '24'}, 'Gujarat': {'35', '7', '21', '18'},
+    'Uttarakhand': {'15', '34'}, 'Uttar Pradesh': {'15', '34', '22'}, 'Haryana': {'14', '31', '30'},
+    'Punjab': {'14', '31', '30'}, 'Chandigarh': {'14'}, 'Bihar': {'6'}, 'Jharkhand': {'6', '20'},
+    'West Bengal': {'5', '6', '19'}, 'Odisha': {'20', '12', '6', '9'}, 'Chhattisgarh': {'9', '23'},
+    'Madhya Pradesh': {'22', '9', '24', '32', '15', '23'}, 'Maharashtra': {'7', '9', '25', '21'},
+    'Telangana': {'25', '12'}, 'Andhra Pradesh': {'12', '27'}, 'Karnataka': {'28', '7', '25', '12', '21', '10', '27'},
+    'Tamil Nadu': {'12', '27'}, 'Kerala': {'12', '27'}, 'Assam': {'3'}, 'Meghalaya': {'3', '16'},
+    'Manipur': {'16'}, 'Tripura': {'19'}, 'Mizoram': {'3'}, 'Nagaland': {'3'},
+    'Sind': {'7', '21'}, 'F.C.T.': {'14'},
+    'Chittagong': {'5'}, 'Dhaka': {'5'}, 'Rangpur': {'5'}, 'Rajshahi': {'5'}, 'Khulna': {'5'}, 'Barisal': {'5'},
+    'Sylhet': {'3'},
+}
+# Pakistani Punjab is named 'Punjab' too: handle it by country
+PK_PUNJAB = {'14', '31'}
+pk = countries['Pakistan']
+def enforce(region, allowed):
+    stray = [j for j in U if j not in allowed and U[j].intersection(region).area > 1e-6]
+    for j in stray:
+        piece = U[j].intersection(region)
+        U[j] = U[j].difference(region)
+        for part in (list(piece.geoms) if hasattr(piece, 'geoms') else [piece]):
+            if part.geom_type not in ('Polygon', 'MultiPolygon') or part.area < 1e-9:
+                continue
+            ring = part.buffer(0.03)
+            best, bl = None, 0
+            for k in allowed:
+                if k in U:
+                    l = ring.intersection(U[k]).intersection(region).area
+                    if l > bl:
+                        best, bl = k, l
+            if best is None:   # nothing permitted touches it: the biggest permitted unit in the region
+                best = max((k for k in allowed if k in U), key=lambda k: U[k].intersection(region).area)
+            U[best] = unary_union([U[best], part])
+# finer rules by modern district where a state-level rule is too coarse
+# Cutch: no Bombay States territory anywhere near it; Sind pieces inside modern Kachchh are
+# Rann marsh (the Kutch-Sind line through the Rann was only settled in 1968): hatch them
+kach = gb('IND', ['Kachchh'])
+rann_edge = U['7'].intersection(kach)
+U['7'] = U['7'].difference(kach)
+X['rann'] = unary_union([X['rann'], rann_edge])
+cutch_box = box(68.0, 22.5, 70.6, 24.2)
+stray21 = U['21'].intersection(cutch_box)
+U['21'] = U['21'].difference(cutch_box)
+U['35'] = unary_union([U['35'], stray21])
+for name, allowed in ALLOWED.items():
+    tick('  enforce ' + name)
+    region = A1[name]
+    if name == 'Punjab':
+        enforce(region.intersection(pk.buffer(-0.001)), PK_PUNJAB)
+        enforce(region.difference(pk), allowed)
+    else:
+        enforce(region, allowed)
+
+tick('clip')
 # ---------------------------------------------------------------- clip & fill
 land = ne('ne_10m_land', 'featurecla', None)
 land = unary_union(list(land.values())).intersection(box(55, 0, 105, 40))
@@ -270,6 +376,122 @@ for g in gparts:
     if best:
         U[best] = unary_union([U[best], g]); assigned += 1
 print(f'filled {assigned} gap pieces', file=sys.stderr)
+tick('sweep')
+# sliver sweep: whatever a 0.02-degree opening shaves off a unit (strips, spurs, hairlines
+# where two sources' lines disagree) goes to the neighbour it touches most, if it has one
+def sweep(d=0.02, maxarea=0.08):
+    from shapely.strtree import STRtree
+    keys = sorted(U, key=lambda k: int(k))
+    xkeys = ['x_' + k for k, v in X.items() if not v.is_empty]
+    geoms = [U[k] for k in keys] + [X[k[2:]] for k in xkeys]
+    allkeys = keys + xkeys
+    tree = STRtree(geoms)
+    give = {k: [] for k in allkeys}   # pieces to add to unit k
+    take = {k: [] for k in keys}   # pieces to remove from unit k
+    for i, k in enumerate(keys):
+        if k == '2':
+            continue
+        g = geoms[i]
+        res = _sh.difference(g, snap(g.buffer(-d).buffer(d)), grid_size=GRID)
+        for part in (list(res.geoms) if hasattr(res, 'geoms') else [res]):
+            if part.geom_type != 'Polygon' or part.area > maxarea or part.area > 0.02 * g.area:
+                continue
+            # a strip, not a corner chip: big enough, or long and thin
+            elong = part.length ** 2 / part.area if part.area > 0 else 0
+            if not (part.area > 2e-4 or (part.area > 1e-5 and elong > 60)):
+                continue
+            ring = _sh.set_precision(part.buffer(0.01), GRID)
+            best, bl = None, 0
+            for j in tree.query(ring):
+                if j == i:
+                    continue
+                try:
+                    l = _sh.intersection(ring, geoms[j], grid_size=GRID).area
+                except Exception:
+                    l = ring.buffer(0).intersection(geoms[j].buffer(0)).area
+                if l > bl:
+                    best, bl = j, l
+            if best is None or bl < 0.15 * (ring.area - part.area):
+                continue   # coastal or genuinely isolated: keep
+            take[k].append(part)
+            give[allkeys[best]].append(part)
+    moved = sum(len(v) for v in take.values())
+    for k in keys:
+        if take[k]:
+            U[k] = snap(_sh.difference(U[k], snap(unary_union(take[k])), grid_size=GRID))
+    for k in allkeys:
+        if give[k]:
+            if k.startswith('x_'):
+                X[k[2:]] = snap(_sh.union_all([X[k[2:]]] + [snap(g) for g in give[k]], grid_size=GRID))
+            else:
+                U[k] = snap(_sh.union_all([U[k]] + [snap(g) for g in give[k]], grid_size=GRID))
+    return moved
+def fill_holes():
+    from shapely.geometry import Polygon
+    allg = unary_union(list(U.values()) + [v for v in X.values() if not v.is_empty])
+    n = 0
+    for poly in (list(allg.geoms) if hasattr(allg, 'geoms') else [allg]):
+        for ring in poly.interiors:
+            h = Polygon(ring)
+            if h.area < 1e-7:
+                continue
+            ringb = h.buffer(0.01)
+            cand = [(ringb.intersection(u).area, 'u', k) for k, u in U.items()] + \
+                   [(ringb.intersection(v).area, 'x', k) for k, v in X.items() if not v.is_empty]
+            a, t, k = max(cand)
+            if a <= 0:
+                continue
+            if t == 'u':
+                U[k] = snap(unary_union([U[k], h]))
+            else:
+                X[k] = snap(unary_union([X[k], h]))
+            n += 1
+    return n
+import shapely as _sh
+GRID = 1e-6
+def snap(g):
+    g = _sh.set_precision(fix(g), GRID)
+    return g if g.is_valid else fix(g)
+for k in U:
+    U[k] = snap(U[k])
+for k in X:
+    if not X[k].is_empty:
+        X[k] = snap(X[k])
+print(f'sweep moved {sweep()} strips', file=sys.stderr)
+print(f'filled {fill_holes()} holes', file=sys.stderr)
+print(f'sweep moved {sweep()} strips (2nd pass)', file=sys.stderr)
+# orphan fragments: small detached pieces of a unit (< ~25 sq mi) that sit mostly against one
+# other unit are leftovers where two sources' lines disagree; real exclaves in the table are
+# larger (Barshi, Sironj, Narnaul, Chittur, ...) and are kept.
+def orphans(maxdeg2=0.006):
+    n = 0
+    for k in sorted(U, key=lambda k: int(k)):
+        if k == '2':
+            continue
+        ps = list(U[k].geoms) if hasattr(U[k], 'geoms') else [U[k]]
+        if len(ps) < 2:
+            continue
+        ps.sort(key=lambda p: -p.area)
+        for p in ps[1:]:
+            if p.area > maxdeg2:
+                continue
+            ring = p.buffer(0.02).difference(p)
+            cover = [(ring.intersection(u).area, j) for j, u in U.items() if j != k] + \
+                    [(ring.intersection(v).area, 'x_' + j) for j, v in X.items() if not v.is_empty]
+            tot = sum(a for a, _ in cover)
+            if tot <= 0:
+                continue
+            a, j = max(cover)
+            if a / tot < 0.6 or (a < 0.2 * ring.area and p.area > 0.002):
+                continue
+            U[k] = snap(U[k].difference(p))
+            if j.startswith('x_'):
+                X[j[2:]] = snap(unary_union([X[j[2:]], p]))
+            else:
+                U[j] = snap(unary_union([U[j], p]))
+            n += 1
+    return n
+print(f'reassigned {orphans()} orphan fragments', file=sys.stderr)
 # hatched non-units win over units where they touch
 xall = unary_union([v for v in X.values() if not v.is_empty])
 for k in U:
@@ -289,6 +511,7 @@ feats += [{'type': 'Feature', 'properties': {'code': 'x_' + k}, 'geometry': mapp
 with open(os.path.join(HERE, '..', 'data', 'units1931.geojson'), 'w') as fh:
     json.dump({'type': 'FeatureCollection', 'features': feats}, fh, separators=(',', ':'))
 
+tick('projection')
 # ---------------------------------------------------------------- projection
 LON0, LAT_MAX, PXD = 60.0, 38.0, 20.0
 R = PXD * 180 / math.pi
@@ -328,11 +551,35 @@ x1, y1 = fwd(101.5, 5.5)
 vb = [round(x0, 1), round(y0, 1), round(x1 - x0, 1), round(y1 - y0, 1)]
 frame = box(50, -6, 112, 48)
 
+# simplify units and hatched areas together as one coverage, so that neighbours keep a
+# single shared line (independent simplification leaves hairline gaps and overlaps)
+import shapely
+ckeys = order + [k for k, v in X.items() if not v.is_empty]
+cgeoms = [fix(proj(U[k]) if k in U else proj(X[k])) for k in ckeys]
+try:
+    simp = list(shapely.coverage_simplify(cgeoms, TOL * 1.2))
+    print('coverage simplification ok', file=sys.stderr)
+except Exception as e:
+    print('coverage simplification failed:', e, file=sys.stderr)
+    simp = [g.simplify(TOL, preserve_topology=True) for g in cgeoms]
+SIMP = dict(zip(ckeys, simp))
+def cpath(k, minarea=0.6):
+    g = SIMP[k]
+    polys = [g] if g.geom_type == 'Polygon' else [p for p in getattr(g, 'geoms', []) if p.geom_type == 'Polygon']
+    out = []
+    for p in polys:
+        if p.area < minarea:
+            continue
+        for ring in [p.exterior] + list(p.interiors):
+            cs = list(ring.coords)[:-1]
+            if len(cs) >= 3:
+                out.append('M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in cs) + 'Z')
+    return ''.join(out)
 units = {}
 for k in order:
     lx, ly = label_pt(U[k])
-    units[k] = {'d': path(U[k]), 'lx': lx, 'ly': ly}
-extra = {k: {'d': path(v), 'lx': label_pt(v)[0], 'ly': label_pt(v)[1]} for k, v in X.items() if not v.is_empty}
+    units[k] = {'d': cpath(k, minarea=0.02 if k in ('2', '12') else (0.3 if k in ('11', '33', '10') else 0.6)), 'lx': lx, 'ly': ly}
+extra = {k: {'d': cpath(k), 'lx': label_pt(v)[0], 'ly': label_pt(v)[1]} for k, v in X.items() if not v.is_empty}
 
 neigh = []
 for n in ['Afghanistan', 'Iran', 'Nepal', 'Bhutan', 'China', 'Sri Lanka', 'Thailand', 'Laos',
