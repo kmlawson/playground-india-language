@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="Browse and filter every figure of Census of India 1931, Imperial Table XV Part I (mother tongue), with links to the printed page scans.">
+<title>Table XV Browser</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f4f1ea'/%3E%3Cpath d='M9 7h10l4 6-3 12-6 2-5-9z' fill='%23256abf'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="browser">
+
+<header id="bar">
+  <div class="brand">
+    <h1><a href="./">Languages of India, 1931</a></h1>
+    <p class="sub">Table XV browser: every figure, with its printed page</p>
+  </div>
+  <nav aria-label="Sections">
+    <a href="./#explore">Map</a>
+    <a href="./#context">Context</a>
+    <a href="./#cautions">Cautions</a>
+    <a href="data.html" aria-current="page">Table browser</a>
+    <a href="./#resources">Further reading</a>
+    <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
+  </nav>
+</header>
+
+<main id="browse">
+  <p class="intro">This page holds the full transcription of <i>Census of India, 1931</i>, Vol.&nbsp;I Part&nbsp;II, Table XV Part I (mother tongue). There is one row for each language or group in each province, state or agency where it was returned. The <b>Source</b> link opens the printed page on the Internet Archive, so you can check any figure against the scan. Figures are shown as printed. Click <span class="flag">!</span> to read the transcriber’s note on that printed column: a misprint, a doubtful digit, a footnote. Rows marked <span class="flag sum">Σ</span> are group totals the table does not print, added up from their members.</p>
+
+  <form id="filters" onsubmit="return false">
+    <div class="f wide">
+      <label for="q">Search language or classification</label>
+      <input id="q" type="search" placeholder="e.g. Gondi, Naga, Dravidian, Karen…" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="f">
+      <label for="unit">Province / state</label>
+      <select id="unit"></select>
+    </div>
+    <div class="f">
+      <label for="fam">Family</label>
+      <select id="fam"></select>
+    </div>
+    <div class="f">
+      <label for="level">Show</label>
+      <select id="level">
+        <option value="lang">Languages only</option>
+        <option value="group">Groups and totals only</option>
+        <option value="all">Everything</option>
+      </select>
+    </div>
+    <div class="f">
+      <label for="min">At least … speakers</label>
+      <input id="min" type="number" min="0" step="1" value="0" inputmode="numeric">
+    </div>
+    <div class="f check">
+      <label><input type="checkbox" id="noted"> Only rows with notes</label>
+    </div>
+  </form>
+
+  <div class="toolbar">
+    <span id="count" aria-live="polite"></span>
+    <span class="spacer"></span>
+    <label class="numfmt">Numbers: <select id="fmt"><option value="in">Indian (1,23,456)</option><option value="intl">International (123,456)</option></select></label>
+    <button type="button" id="dl" class="btn">Download these rows (CSV)</button>
+    <button type="button" id="reset" class="btn ghost">Clear filters</button>
+  </div>
+
+  <div class="tbl-wrap">
+    <table class="data browse-table">
+      <thead>
+        <tr>
+          <th data-k="name" scope="col">Language / group</th>
+          <th data-k="unit" scope="col">Province, state or agency</th>
+          <th data-k="p" scope="col">Persons</th>
+          <th data-k="m" scope="col">Males</th>
+          <th data-k="f" scope="col">Females</th>
+          <th data-k="share" scope="col" title="Persons as a percentage of the unit’s population">% of unit</th>
+          <th data-k="ofl" scope="col" title="Persons as a percentage of the language’s all-India total">% of India’s speakers</th>
+          <th data-k="sr" scope="col" title="Females per 1,000 males">F / 1,000 M</th>
+          <th data-k="col" scope="col">Source</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <div class="pager">
+    <button type="button" class="btn ghost" id="prev">‹ Previous</button>
+    <span id="pageinfo"></span>
+    <button type="button" class="btn ghost" id="next">Next ›</button>
+    <select id="per" aria-label="Rows per page"><option>50</option><option selected>100</option><option>250</option><option>1000</option></select>
+  </div>
+
+  <section id="note-panel" hidden></section>
+
+  <section class="pages-list">
+    <h2>The printed pages</h2>
+    <p>Table XV Part I runs across 38 printed pages (pp. 472–509; scan leaves 477–514). Each link opens the page on the Internet Archive. The transcription files for each page are in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
+    <ul id="pages"></ul>
+  </section>
+</main>
+
+<script src="data/census.js"></script>
+<script src="browse.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "leaf": 509, "printed_page": 504,
+  "columns": [
+    {"cols": [866, 867, 868],
+     "header": ["Mongolian Family", "Other Mongolian"],
+     "total": false,
+     "values": {"INDIA": [9, 4, 5], "PROV": [9, 4, 5], "2": [null, null, null], "5": [null, null, null], "7": [null, null, null], "7a": [null, null, null], "8": [null, null, null], "9": [9, 4, 5], "10": [null, null, null], "11": [null, null, null], "12": [null, null, null], "13": [null, null, null], "14": [null, null, null], "15": [null, null, null], "STATES": [null, null, null], "17": [null, null, null], "18": [null, null, null], "21": [null, null, null], "25": [null, null, null], "26": [null, null, null], "27": [null, null, null], "27a": [null, null, null], "28": [null, null, null], "32": [null, null, null]},
+     "footnotes": "", "notes": "Header printed 'Mongolian Family—concld.'"},
+    {"cols": [869, 870, 871],
+     "header": ["Malayo-Polynesian Family", "Malayan Group", "Malayan Group Total"],
+     "total": true,
+     "values": {"INDIA": [342, 208, 134], "PROV": [336, 207, 129], "2": [null, null, null], "5": [null, null, null], "7": [266, 157, 109], "7a": [2, null, 2], "8": [51, 39, 12], "9": [null, null, null], "10": [null, null, null], "11": [2, 1, 1], "12": [6, 3, 3], "13": [null, null, null], "14": [10, 7, 3], "15": [1, null, 1], "STATES": [6, 1, 5], "17": [1, 1, null], "18": [null, null, null], "21": [null, null, null], "25": [null, null, null], "26": [4, null, 4], "27": [null, null, null], "27a": [null, null, null], "28": [null, null, null], "32": [1, null, 1]},
+     "footnotes": "", "notes": ""},
+    {"cols": [872, 873, 874],
+     "header": ["Malayo-Polynesian Family", "Malayan Group", "Tagalog and other Philippine Languages"],
+     "total": false,
+     "values": {"INDIA": [48, 38, 10], "PROV": [48, 38, 10], "2": [null, null, null], "5": [null, null, null], "7": [null, null, null], "7a": [null, null, null], "8": [48, 38, 10], "9": [null, null, null], "10": [null, null, null], "11": [null, null, null], "12": [null, null, null], "13": [null, null, null], "14": [null, null, null], "15": [null, null, null], "STATES": [null, null, null], "17": [null, null, null], "18": [null, null, null], "21": [null, null, null], "25": [null, null, null], "26": [null, null, null], "27": [null, null, null], "27a": [null, null, null], "28": [null, null, null], "32": [null, null, null]},
+     "footnotes": "", "notes": ""},
+    {"cols": [875, 876, 877],
+     "header": ["Malayo-Polynesian Family", "Malayan Group", "Javanese and other Malayan Languages"],
+     "total": false,
+     "values": {"INDIA": [294, 170, 124], "PROV": [288, 169, 119], "2": [null, null, null], "5": [null, null, null], "7": [266, 157, 109], "7a": [2, null, 2], "8": [3, 1, 2], "9": [null, null, null], "10": [null, null, null], "11": [2, 1, 1], "12": [6, 3, 3], "13": [null, null, null], "14": [10, 7, 3], "15": [1, null, 1], "STATES": [6, 1, 5], "17": [1, 1, null], "18": [null, null, null], "21": [null, null, null], "25": [null, null, null], "26": [4, null, 4], "27": [null, null, null], "27a": [null, null, null], "28": [null, null, null], "32": [1, null, 1]},
+     "footnotes": "Row 12 persons '6*'; row 32 persons printed as a dagger glyph followed by 1 ('†1').",
+     "notes": "Row 32 persons: the badly inked print looks like '11', but the first glyph matches the † marker (footnote: one female with no language returned); read as †1, which agrees with ..+1 and with the Malayan Group Total row 32 figure of 1. Row 2 females shows a stray ink blot above the '..'; treated as nil."}
+  ],
+  "rows_printed": ["INDIA", "PROV", "2", "5", "7", "7a", "8", "9", "10", "11", "12", "13", "14", "15", "STATES", "17", "18", "21", "25", "26", "27", "27a", "28", "32"],
+  "unreadable": [],
+  "notes": "Abridged row list: only rows 2,5,7,7a,8,9,10,11,12,13,14,15,17,18,21,25,26,27,27a (Cochin State),28,32 printed (other rows omitted as all-nil). Footnotes: '* Includes 2 males and 3 females who returned Kalade.' '† Refers to one female for whom no language was returned.'"
+}

@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="An interactive map of mother tongues recorded in the 1931 Census of India (Imperial Table XV), transcribed from the printed tables, with historical context and cautions.">
+<title>Languages of India, 1931</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f4f1ea'/%3E%3Cpath d='M9 7h10l4 6-3 12-6 2-5-9z' fill='%23256abf'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header id="bar">
+  <div class="brand">
+    <h1><a href="./">Languages of India, 1931</a></h1>
+    <p class="sub">Mother tongues in the Census of India, 1931 &middot; Imperial Table XV</p>
+  </div>
+  <nav aria-label="Sections">
+    <a href="#explore">Map</a>
+    <a href="#context">Context</a>
+    <a href="#cautions">Cautions</a>
+    <a href="data.html">Table browser</a>
+    <a href="#method">Data</a>
+    <a href="#resources">Further reading</a>
+    <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
+  </nav>
+</header>
+
+<main>
+<section id="explore" aria-label="Interactive map">
+  <div id="app">
+    <div id="stage">
+      <svg id="map" role="img" aria-labelledby="map-title" preserveAspectRatio="xMidYMid meet">
+        <title id="map-title">Map of British India's provinces, states and agencies in 1931</title>
+        <defs>
+          <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+            <rect width="6" height="6" class="hatch-bg"/>
+            <line x1="0" y1="0" x2="0" y2="6" class="hatch-line"/>
+          </pattern>
+          <pattern id="hatch-clear" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="6" class="hatch-line"/>
+          </pattern>
+        </defs>
+        <g id="viewport">
+          <rect id="sea" />
+          <g id="g-grat"></g>
+          <g id="g-neigh"></g>
+          <g id="g-extra"></g>
+          <g id="g-units"></g>
+          <g id="g-circles"></g>
+          <g id="g-cities"></g>
+          <g id="g-labels"></g>
+        </g>
+      </svg>
+      <div id="map-title-live" aria-live="polite"></div>
+      <div id="zoom">
+        <button type="button" data-z="in" aria-label="Zoom in">+</button>
+        <button type="button" data-z="out" aria-label="Zoom out">&minus;</button>
+        <button type="button" data-z="reset" aria-label="Reset view" title="Reset view">&#8634;</button>
+      </div>
+      <div id="map-toggles">
+        <label><input type="checkbox" id="opt-labels" checked> Labels</label>
+        <label><input type="checkbox" id="opt-cities"> Cities</label>
+      </div>
+      <div id="tooltip" role="tooltip" hidden></div>
+    </div>
+
+    <aside id="side">
+      <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
+        <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
+        <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
+        <button type="button" role="tab" data-mode="div" aria-selected="false">Diversity</button>
+      </div>
+
+      <div id="lang-controls">
+        <div class="field">
+          <label for="lang-search">Language or group</label>
+          <div class="combo">
+            <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
+                   placeholder="Search 330 languages and groups…" role="combobox"
+                   aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
+            <ul id="lang-list" role="listbox" hidden></ul>
+          </div>
+          <div id="quick" aria-label="Largest languages"></div>
+        </div>
+        <div class="field">
+          <span class="lbl" id="measure-lbl">Measure</span>
+          <div class="seg small" role="radiogroup" aria-labelledby="measure-lbl" id="measure-seg">
+            <button type="button" role="radio" data-measure="share" aria-checked="true" title="Speakers as a percentage of everyone enumerated in the unit">% of population</button>
+            <button type="button" role="radio" data-measure="count" aria-checked="false" title="Number of speakers, drawn as circles">Speakers</button>
+            <button type="button" role="radio" data-measure="dist" aria-checked="false" title="Where the language's speakers lived: each unit's share of the all-India total">Where they lived</button>
+            <button type="button" role="radio" data-measure="sex" aria-checked="false" title="Female speakers per 1,000 male speakers">Females/1,000 males</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="legend" aria-label="Legend"></div>
+      <div id="summary"></div>
+      <div id="unit-panel" hidden></div>
+    </aside>
+  </div>
+
+  <details id="table-wrap">
+    <summary>Table for the map above</summary>
+    <div id="table-host"></div>
+  </details>
+</section>
+
+<article id="essay">
+<section id="context">
+  <h2>The 1931 census and its language return</h2>
+  <p>The census of 1931 was the last in British India to be fully tabulated. It covered the provinces under British administration and the princely states and agencies, and it included Burma, which was separated from India in 1937. Enumeration took place on the night of 26 February 1931. Table I puts the population at <b>352,837,778</b>. Table XV, like the other tables built from individual returns, covers 350,529,557 people. The missing 2,308,221 were estimated, not enumerated: 2,212,837 in the agencies and tribal areas of the North-West Frontier; 75,735 in Ahmedabad, where a Congress boycott disrupted the count; and 19,649 in East Manglun in the Shan States. The tables were published in 1933 in Volume I, Part II (<i>Imperial Tables</i>), under J.&nbsp;H.&nbsp;Hutton as Census Commissioner.</p>
+  <p>Every household schedule had a <b>mother-tongue</b> column. For the first time there was also a column for <b>any other language habitually spoken</b> “in daily or domestic life”. Infants and deaf-mutes were recorded with their mother’s language. Part I of Table XV, mapped here, gives the mother-tongue figures. Part II gives the subsidiary-language figures, but it is a sample, not a count (see <a href="#cautions">Cautions</a>). Hutton’s report counts 223 languages under Grierson’s classification, against 222 in 1921 (para.&nbsp;150). Some later summaries give 225.</p>
+  <p>Hutton’s Chapter X explains why the census asked about languages beyond pure linguistics. The first reason was the “not unreasonable desire of many Indians for a redistribution of provinces on a linguistic basis”. The second was that the franchise might be extended to large tribal populations. The third was the wish to start primary education “in the real language of the child” (para.&nbsp;147). The Orissa Boundary Committee asked for the returns from the Oriya–Telugu borderland before they had even been extracted. Orissa became a separate province in 1936, and those figures were among its foundations. The same questions came back after independence, in the States Reorganisation Commission of 1953–55, and 1931 was the last full set of language figures from before Partition.</p>
+  <p>The classification (Family › Sub-family › Branch › Group › Language) follows Sir George Grierson’s <i>Linguistic Survey of India</i>, whose introductory volume came out in 1927. On this site you can map any level of it, from “Dravidian Family” down to single entries such as “Kurukh or Oraon”. Where the printed table gives no total for a group, the site adds up its members and says so.</p>
+  <p class="aside">This site was prompted by India State Stories’ essay <a href="https://www.indiastatestory.in/post/35-legacies-of-the-1931-linguistic-census">“Legacies of the 1931 Linguistic Census”</a>, which discusses these tables and their later use.</p>
+</section>
+
+<section id="cautions">
+  <h2>Cautions: read these before trusting a number</h2>
+  <ol class="cautions">
+    <li><b>“Western Hindi”, “Eastern Hindi” and “Bihari” are a clerk’s division, not what people said.</b> Nobody told an enumerator they spoke “Western Hindi”. The census used the single term <i>Hindustani</i> for both Hindi and Urdu as spoken languages. In the United Provinces Hindustani was the only entry permitted, to keep out the Hindi–Urdu controversy. The India table then reassigned Hindustani to Grierson’s languages by <i>locality</i>. In the United Provinces all 48 million Hindustani speakers went under “Western Hindi”, including the Awadhi-speaking east and the Bhojpuri-speaking districts that Grierson placed under Eastern Hindi and Bihari. That is why the United Provinces shows 100% Western Hindi and almost no Eastern Hindi. Hutton says that even for his linguistic map the Eastern/Western line was “taken arbitrarily as the boundary (more or less) of Agra and Oudh”, and that telling Lahnda from Panjabi was “more than the census enumerators could grasp” (para.&nbsp;152). The sharp edges these languages show on the map are therefore artefacts of this reclassification. The census recorded no split between Urdu and Hindi at all.</li>
+    <li><b>Some returns were politically coloured.</b> In the Oriya–Telugu and Oriya–Bengali borderlands there were rival campaigns over the boundaries of a new Orissa province. Hutton says they led people to “plump” for one language and to hide their bilingualism (para.&nbsp;148). In <b>Bhopal</b> (in the Central India Agency), Urdu was returned “in deliberate disregard of the actual facts” for Hindus as well as Muslims. Elsewhere some Muslims returned Urdu (Hindustani) as their mother tongue and the local vernacular as a second language, “though the precise opposite was the real fact”. In Bastar, some Gonds returned Halbi instead of Gondi because Halbi carried more status (para.&nbsp;149).</li>
+    <li><b>Tribal languages are probably undercounted.</b> Speakers who were bilingual in a regional language were often recorded under that language. For instance, the Central Provinces superintendent, quoted by Hutton, found that of 84,971 Sawaras “not a single one returned the tribal language”. The new subsidiary-language column helped, but only in some places.</li>
+    <li><b>Units are administrative, not linguistic.</b> The map shades whole provinces and agencies. Bengal, Madras or Hyderabad each contained several large language areas. For district detail you need the provincial volumes (see <a href="#resources">Further reading</a>).</li>
+    <li><b>Frontier areas were only partly enumerated.</b> Most of the North-West Frontier’s agencies and tribal areas (an estimated 2.2 million people) were not enumerated individually and are not in Table XV. The “NWFP Agencies &amp; Tribal Areas” row covers only 46,451 people, 96% of them men, in effect the garrisons and posts. The map hatches this unit so that its shading is not read as describing the tribes. The census also left out or estimated parts of the Assam hill tracts and the Burmese frontier. The north-eastern tracts beyond the administered border are hatched on the map and have no figures.</li>
+    <li><b>Burma and Aden were part of “India” in 1931.</b> Both are counted in the India totals. Burma accounts for most of the Tibeto-Chinese and Karen figures. Aden sits inside Bombay (row 7), and its figures are shown in Bombay’s panel.</li>
+    <li><b>Migrants show up everywhere.</b> A few thousand speakers of a northern language in a southern province usually means soldiers, traders, labourers or officials, not a settled community. The “Females/1,000 males” measure helps spot these groups: migrant groups tend to be mostly male.</li>
+    <li><b>The boundaries drawn here are approximate.</b> They are good enough to show which unit is which, but they are not survey-accurate. <a href="#method">Data</a> explains how they were built.</li>
+    <li><b>Transcription.</b> Every figure was copied by hand from the printed scan and checked arithmetically (see <a href="#method">Data</a>). Where the printed table does not add up, the printed figure has been kept and flagged, not silently corrected. For anything you intend to publish, check the figure against the page image. Every language panel links to its page.</li>
+  </ol>
+</section>
+
+<section id="method">
+  <h2>Where the data comes from</h2>
+  <h3>The figures</h3>
+  <p>The source is <i>Census of India, 1931. Vol. I – India. Part II – Imperial Tables</i> (Delhi: Manager of Publications, 1933), Table XV, “Language”, Part I, “Mother Tongue”. This site uses the scan on the Internet Archive, <a href="https://archive.org/details/india.history.resource.92539">india.history.resource.92539</a>, scan leaves 477–514 (printed pages 472–509). The same volume is also held by the <a href="https://dspace.gipe.ac.in/xmlui/handle/10973/18955">Gokhale Institute (GIPE) DSpace</a> and <a href="https://archive.org/details/tdl.49856-census-of-india-1931-vol-i-india-part-ii-imperial-tables">Tamil Digital Library</a>.</p>
+  <p>The table has 958 numbered columns: Persons, Males and Females for each language and each group total. It has 44 rows: India, the Provinces and States subtotals, 35 provinces, states and agencies, and sub-rows for Aden, Cochin, Travancore and the other Madras States. People read the whole table from page images, without OCR, and then checked it three ways:</p>
+  <ul>
+    <li>persons = males + females in every cell;</li>
+    <li>the provincial and state rows add up to the printed Provinces, States and India totals in every column;</li>
+    <li>the members of each group add up to the group total printed in the table.</li>
+  </ul>
+  <p>A separate reader then re-read a random sample of 250 cells without seeing the transcription. 247 agreed with it. Re-checking the scan showed that the other 3 were the second reader’s own slips (details in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/verification">source/verification</a>).</p>
+  <p id="check-summary">The results of these checks are listed below.</p>
+  <div id="check-list"></div>
+  <p>Every figure can be searched, filtered and checked against its page scan in the <a href="data.html">Table browser</a>. Downloads: <a href="data/table15.csv">table15.csv</a> (every figure, long format), <a href="data/languages.csv">languages.csv</a> (the classification with all-India totals), and the page-by-page transcription files in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
+  <h3>The map</h3>
+  <p>The base boundaries are the 1931 province/state layer from W. Tennant’s <a href="https://github.com/wtennant/plague_india">plague_india</a> repository (LGPL-3.0). Its latitudes have been rescaled to WGS84. That layer merges several census units, so they were separated here using modern district boundaries from <a href="https://www.geoboundaries.org/">geoBoundaries</a>, which run close to the old lines at this scale:</p>
+  <ul>
+    <li>Sylhet moved from Bengal to Assam, where it belonged in 1931;</li>
+    <li>Bahawalpur goes to the Punjab States Agency;</li>
+    <li>Khairpur goes to the Bombay States;</li>
+    <li>Kalat, Las Bela and Kharan become the Baluchistan States, and Gwadar, then Muscat’s, is shown as foreign;</li>
+    <li>the Malakand states, the agencies and the tribal belt are separated from the NWFP districts;</li>
+    <li>Kathiawar, Cutch and Palanpur form the Western India States Agency;</li>
+    <li>the Simla Hill States are separated from the Punjab States Agency.</li>
+  </ul>
+  <p>Some 1931 boundaries match modern districts closely, and for these the modern districts replace plague_india’s hand trace. They are Coorg (Kodagu), the NWFP districts and tribal agencies, Tehri Garhwal and Rampur, Manipur, Tripura and Cooch Behar, the Simla Hill States, Bahawalpur, Sind, and Burma (modern Myanmar). The same goes for the lines that became today’s international borders. The Rann of Kutch (from OpenStreetMap, ODbL) is drawn as salt waste, since Table I counts it in no unit’s area. The north-east frontier tracts, Portuguese and French India, and Muscat’s Gwadar are hatched.</p>
+  <p>To check the boundaries, each polygon’s area was compared with the area printed for its unit in Table I. The map total comes within 1.4% of the printed all-India figure (1,808,679 sq. mi), and every unit is within about ±10%, except the Andaman and Nicobar Islands, whose coastlines are modern. The full comparison is below.</p>
+  <div id="area-table"></div>
+  <p>Coastlines and neighbouring countries come from <a href="https://www.naturalearthdata.com/">Natural Earth</a> (public domain). The projection is Mercator, following the approach of the <a href="https://froginawell.net/reference/japanese-empire/">Japanese Empire map</a> this site is modelled on. Scattered enclaves (dozens of small states inside Gujarat, Central India and the Deccan) are merged into their agency. Small French and Portuguese territories other than Goa are not drawn. The build scripts are in <a href="https://github.com/kmlawson/playground-india-language/tree/main/tools">tools/</a>.</p>
+</section>
+
+<section id="resources">
+  <h2>Further reading and sources</h2>
+  <h3>The census itself</h3>
+  <ul class="refs">
+    <li>J. H. Hutton, <i>Census of India, 1931. Vol. I – India. Part I – Report</i> (1933), Chapter X, “Language”, which has the commentary quoted above. <a href="https://archive.org/details/CensusOfIndia1931">Internet Archive</a>.</li>
+    <li><i>Census of India, 1931. Vol. I – India. Part II – Imperial Tables</i> (1933). This is the source of these figures, and Table XV Part II has the bilingualism summary. <a href="https://archive.org/details/india.history.resource.92539">Internet Archive</a> · <a href="https://dspace.gipe.ac.in/xmlui/handle/10973/18955">GIPE</a> · <a href="https://censusindia.gov.in/nada/index.php/catalog/31043">Census of India digital library</a>.</li>
+    <li>The provincial and state volumes (Vols. II–XXVII). Their Table XV has district figures and subsidiary languages, and most include a linguistic map. For example: <a href="https://archive.org/details/in.ernet.dli.2015.101827">Assam, Part II</a>; <a href="https://archive.org/details/in.gov.ignca.31114">Western India States Agency</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56050">Jammu and Kashmir, Part II</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56021">Baluchistan</a>. Search the Internet Archive for “Census of India 1931” to find the others.</li>
+    <li>G. A. Grierson, <i>Linguistic Survey of India</i> (1903–1928), especially Vol. I Part I, <i>Introductory</i> (1927), which gives the classification the table follows. Searchable at the <a href="https://dsal.uchicago.edu/books/lsi/">Digital South Asia Library</a>.</li>
+    <li>The 1921 and 1951 census language tables for comparison. The 1951 tables, however, cover the Indian Union only, and their Hindi/Urdu/Hindustani categories were themselves contested.</li>
+  </ul>
+  <h3>Scholarship</h3>
+  <ul class="refs">
+    <li>India State Stories, <a href="https://www.indiastatestory.in/post/35-legacies-of-the-1931-linguistic-census">“Legacies of the 1931 Linguistic Census”</a>.</li>
+    <li>Bernard S. Cohn, “The Census, Social Structure and Objectification in South Asia”, in <i>An Anthropologist among the Historians and Other Essays</i> (1987).</li>
+    <li>Asha Sarangi, “Enumeration and the Linguistic Identity Formation in Colonial North India”, <i>Studies in History</i> 25:2 (2009).</li>
+    <li>Christopher R. King, <i>One Language, Two Scripts: The Hindi Movement in Nineteenth Century North India</i> (1994).</li>
+    <li>Paul R. Brass, <i>Language, Religion and Politics in North India</i> (1974).</li>
+    <li>Alok Rai, <i>Hindi Nationalism</i> (2001).</li>
+    <li>Sudipta Kaviraj, “Writing, Speaking, Being: Language and the Historical Formation of Identities in India”, in D. Hellmann-Rajanayagam and D. Rothermund (eds.), <i>Nationalstaat und Sprachkonflikte in Süd- und Südostasien</i> (1992).</li>
+    <li>Lisa Mitchell, <i>Language, Emotion, and Politics in South India: The Making of a Mother Tongue</i> (2009).</li>
+    <li>Sumathi Ramaswamy, <i>Passions of the Tongue: Language Devotion in Tamil India, 1891–1970</i> (1997).</li>
+    <li>Javed Majeed, <i>Colonialism and Knowledge in Grierson’s Linguistic Survey of India</i> (2018).</li>
+    <li>On Orissa: the <i>Report of the Orissa Committee</i> (1932), which made use of the 1931 language returns.</li>
+  </ul>
+  <h3>Maps</h3>
+  <ul class="refs">
+    <li>The linguistic map that accompanies Vol. I Part I of the 1931 report, and the language maps in the <i>Imperial Gazetteer of India</i>, <i>Atlas</i> (1909). <a href="https://dsal.uchicago.edu/maps/gazetteer/">DSAL Imperial Gazetteer maps</a>.</li>
+    <li><a href="https://froginawell.net/reference/japanese-empire/">The Japanese Empire map</a>, the SVG map this site’s design follows.</li>
+  </ul>
+</section>
+
+<footer>
+  <p>Figures: Census of India 1931 (public domain). Transcription, arrangement and code on this site: see the <a href="https://github.com/kmlawson/playground-india-language">repository</a>. Boundaries derive from plague_india (LGPL-3.0), geoBoundaries (PD / ODbL / CC BY 3.0 IGO), Natural Earth (PD) and OpenStreetMap (© OpenStreetMap contributors, ODbL).</p>
+</footer>
+</article>
+</main>
+
+<script src="data/geo.js"></script>
+<script src="data/census.js"></script>
+<script src="data/checks.js"></script>
+<script src="data/areas.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

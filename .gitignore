@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+# large inputs: re-create with tools/fetch_sources.sh
+source/92539*
+source/india.history.resource.92539*
+source/__ia_thumb.jpg
+source/Census of India 1931_djvu.txt
+source/t15/
+source/pages/
+source/geo/*.geojson
+source/geo/*.zip
+source/geo/*.json
+source/geo/ne_*/
+source/geo/plague_india/india_19[24]*
+source/geo/plague_india/india_1935*
+source/geo/plague_india/india_1936*
+source/geo/plague_india/*.qpj
+!source/geo/rann_of_kutch_osm.geojson
+.claude/
+source/t1/

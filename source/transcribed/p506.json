@@ -1,0 +1,815 @@
+{
+ "leaf": 506,
+ "printed_page": 501,
+ "columns": [
+  {
+   "cols": [
+    821,
+    822,
+    823
+   ],
+   "header": [
+    "Tibeto-Chinese Family",
+    "Tai-Chinese Sub-Family",
+    "Chinese Branch",
+    "Chinese Group",
+    "Other Chinese Languages"
+   ],
+   "total": false,
+   "values": {
+    "INDIA": [
+     118572,
+     83792,
+     34780
+    ],
+    "PROV": [
+     118423,
+     83692,
+     34731
+    ],
+    "1": [
+     8,
+     6,
+     2
+    ],
+    "2": [
+     199,
+     177,
+     12
+    ],
+    "3": [
+     507,
+     408,
+     99
+    ],
+    "4": [
+     40,
+     21,
+     19
+    ],
+    "5": [
+     4643,
+     3723,
+     920
+    ],
+    "6": [
+     78,
+     59,
+     19
+    ],
+    "7": [
+     1524,
+     1024,
+     500
+    ],
+    "7a": [
+     32,
+     27,
+     5
+    ],
+    "8": [
+     111081,
+     78017,
+     33064
+    ],
+    "9": [
+     24,
+     16,
+     8
+    ],
+    "10": null,
+    "11": [
+     13,
+     12,
+     1
+    ],
+    "12": [
+     98,
+     84,
+     14
+    ],
+    "13": [
+     5,
+     null,
+     5
+    ],
+    "14": [
+     123,
+     87,
+     36
+    ],
+    "15": [
+     80,
+     48,
+     32
+    ],
+    "STATES": [
+     149,
+     100,
+     49
+    ],
+    "16": [
+     25,
+     21,
+     4
+    ],
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": null,
+    "21": [
+     6,
+     null,
+     6
+    ],
+    "22": [
+     14,
+     14,
+     null
+    ],
+    "23": [
+     3,
+     1,
+     2
+    ],
+    "24": null,
+    "25": [
+     12,
+     8,
+     4
+    ],
+    "26": [
+     3,
+     2,
+     1
+    ],
+    "27": [
+     4,
+     4,
+     null
+    ],
+    "27a": [
+     1,
+     1,
+     null
+    ],
+    "27b": [
+     3,
+     3,
+     null
+    ],
+    "27c": null,
+    "28": [
+     16,
+     15,
+     1
+    ],
+    "29": null,
+    "30": null,
+    "31": [
+     37,
+     18,
+     19
+    ],
+    "32": null,
+    "33": [
+     26,
+     14,
+     12
+    ],
+    "34": null,
+    "35": [
+     3,
+     3,
+     null
+    ]
+   },
+   "footnotes": "",
+   "notes": "Row 2 (Andaman) printed 199 / 177 / 12: persons != males+females (177+12=189); Chinese Group Total on p.500 has 199/187/12, so 177 looks like a misprint for 187; kept as printed. With 177 the PROV males check fails by 10 (sum 83,682 vs printed 83,692); with 187 it balances. PROV row is smudged and 3/8 are indistinguishable there (glyphs look like '118,428 / 88,692 / 84,731'); read as 118,423 / 83,692 / 34,731, which is the only reading consistent with INDIA 118,572/83,792/34,780 minus STATES 149/100/49 and with persons = males + females."
+  },
+  {
+   "cols": [
+    824,
+    825,
+    826
+   ],
+   "header": [
+    "Tibeto-Chinese Family",
+    "Tai-Chinese Sub-Family",
+    "Chinese Branch",
+    "Chinese Group",
+    "Others (Anamese)"
+   ],
+   "total": false,
+   "values": {
+    "INDIA": [
+     8,
+     3,
+     5
+    ],
+    "PROV": [
+     8,
+     3,
+     5
+    ],
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": null,
+    "5": null,
+    "6": null,
+    "7": null,
+    "7a": null,
+    "8": [
+     8,
+     3,
+     5
+    ],
+    "9": null,
+    "10": null,
+    "11": null,
+    "12": null,
+    "13": null,
+    "14": null,
+    "15": null,
+    "STATES": null,
+    "16": null,
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": null,
+    "21": null,
+    "22": null,
+    "23": null,
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": null,
+    "27a": null,
+    "27b": null,
+    "27c": null,
+    "28": null,
+    "29": null,
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null
+   },
+   "footnotes": "",
+   "notes": ""
+  },
+  {
+   "cols": [
+    827,
+    828,
+    829
+   ],
+   "header": [
+    "Tibeto-Chinese Family",
+    "Tai-Chinese Sub-Family",
+    "Tai Branch",
+    "Tai Group",
+    "Siamese"
+   ],
+   "total": false,
+   "values": {
+    "INDIA": [
+     7,
+     2,
+     5
+    ],
+    "PROV": [
+     7,
+     2,
+     5
+    ],
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": null,
+    "5": [
+     2,
+     null,
+     2
+    ],
+    "6": null,
+    "7": null,
+    "7a": null,
+    "8": null,
+    "9": null,
+    "10": null,
+    "11": null,
+    "12": [
+     4,
+     2,
+     2
+    ],
+    "13": null,
+    "14": [
+     1,
+     null,
+     1
+    ],
+    "15": null,
+    "STATES": null,
+    "16": null,
+    "17": null,
+    "18": null,
+    "19": null,
+    "20": null,
+    "21": null,
+    "22": null,
+    "23": null,
+    "24": null,
+    "25": null,
+    "26": null,
+    "27": null,
+    "27a": null,
+    "27b": null,
+    "27c": null,
+    "28": null,
+    "29": null,
+    "30": null,
+    "31": null,
+    "32": null,
+    "33": null,
+    "34": null,
+    "35": null
+   },
+   "footnotes": "",
+   "notes": "Row 16 printed as dashes rather than '..'; taken as nil."
+  },
+  {
+   "cols": [
+    830,
+    831,
+    832
+   ],
+   "header": [
+    "Semitic Family",
+    "Semitic Family Total"
+   ],
+   "total": true,
+   "values": {
+    "INDIA": [
+     59954,
+     37052,
+     22902
+    ],
+    "PROV": [
+     49982,
+     31098,
+     18884
+    ],
+    "1": [
+     23,
+     12,
+     11
+    ],
+    "2": [
+     1,
+     null,
+     1
+    ],
+    "3": [
+     96,
+     74,
+     22
+    ],
+    "4": [
+     9,
+     5,
+     4
+    ],
+    "5": [
+     2743,
+     1751,
+     992
+    ],
+    "6": [
+     126,
+     82,
+     44
+    ],
+    "7": [
+     41597,
+     26059,
+     15538
+    ],
+    "7a": [
+     36154,
+     22668,
+     13486
+    ],
+    "8": [
+     1081,
+     590,
+     491
+    ],
+    "9": [
+     441,
+     333,
+     108
+    ],
+    "10": [
+     19,
+     11,
+     8
+    ],
+    "11": [
+     33,
+     25,
+     8
+    ],
+    "12": [
+     3038,
+     1674,
+     1364
+    ],
+    "13": [
+     24,
+     14,
+     10
+    ],
+    "14": [
+     668,
+     419,
+     249
+    ],
+    "15": [
+     83,
+     49,
+     34
+    ],
+    "STATES": [
+     9972,
+     5954,
+     4018
+    ],
+    "16": null,
+    "17": [
+     1,
+     1,
+     null
+    ],
+    "18": [
+     91,
+     65,
+     26
+    ],
+    "19": [
+     7,
+     7,
+     null
+    ],
+    "20": [
+     25,
+     13,
+     12
+    ],
+    "21": [
+     348,
+     213,
+     135
+    ],
+    "22": [
+     276,
+     135,
+     141
+    ],
+    "23": [
+     7,
+     4,
+     3
+    ],
+    "24": [
+     255,
+     188,
+     67
+    ],
+    "25": [
+     3172,
+     1932,
+     1240
+    ],
+    "26": [
+     11,
+     7,
+     4
+    ],
+    "27": [
+     4028,
+     2201,
+     1827
+    ],
+    "27a": [
+     505,
+     268,
+     237
+    ],
+    "27b": [
+     3499,
+     1919,
+     1580
+    ],
+    "27c": [
+     24,
+     14,
+     10
+    ],
+    "28": [
+     755,
+     586,
+     169
+    ],
+    "29": null,
+    "30": [
+     1,
+     null,
+     1
+    ],
+    "31": [
+     7,
+     7,
+     null
+    ],
+    "32": [
+     17,
+     10,
+     7
+    ],
+    "33": [
+     3,
+     3,
+     null
+    ],
+    "34": null,
+    "35": [
+     968,
+     582,
+     386
+    ]
+   },
+   "footnotes": "",
+   "notes": "Row 16 males printed as a dash; taken as nil. Row 18 females '26' printed in italic. Row 31 males glyph is broken but reads 7 (7 persons, females nil)."
+  },
+  {
+   "cols": [
+    833,
+    834,
+    835
+   ],
+   "header": [
+    "Semitic Family",
+    "Arabic"
+   ],
+   "total": false,
+   "values": {
+    "INDIA": [
+     54788,
+     34374,
+     20414
+    ],
+    "PROV": [
+     45299,
+     28665,
+     16634
+    ],
+    "1": [
+     16,
+     8,
+     8
+    ],
+    "2": [
+     1,
+     null,
+     1
+    ],
+    "3": [
+     82,
+     67,
+     15
+    ],
+    "4": [
+     9,
+     5,
+     4
+    ],
+    "5": [
+     1535,
+     1148,
+     387
+    ],
+    "6": [
+     123,
+     81,
+     42
+    ],
+    "7": [
+     38654,
+     24505,
+     14149
+    ],
+    "7a": [
+     33483,
+     21272,
+     12211
+    ],
+    "8": [
+     579,
+     329,
+     250
+    ],
+    "9": [
+     440,
+     333,
+     107
+    ],
+    "10": [
+     19,
+     11,
+     8
+    ],
+    "11": [
+     33,
+     25,
+     8
+    ],
+    "12": [
+     3035,
+     1672,
+     1363
+    ],
+    "13": [
+     24,
+     14,
+     10
+    ],
+    "14": [
+     667,
+     419,
+     248
+    ],
+    "15": [
+     82,
+     48,
+     34
+    ],
+    "STATES": [
+     9489,
+     5709,
+     3780
+    ],
+    "16": null,
+    "17": null,
+    "18": [
+     86,
+     61,
+     25
+    ],
+    "19": [
+     7,
+     7,
+     null
+    ],
+    "20": [
+     25,
+     13,
+     12
+    ],
+    "21": [
+     192,
+     144,
+     48
+    ],
+    "22": [
+     276,
+     135,
+     141
+    ],
+    "23": [
+     7,
+     4,
+     3
+    ],
+    "24": [
+     255,
+     188,
+     67
+    ],
+    "25": [
+     3172,
+     1932,
+     1240
+    ],
+    "26": [
+     11,
+     7,
+     4
+    ],
+    "27": [
+     3718,
+     2034,
+     1684
+    ],
+    "27a": [
+     236,
+     129,
+     107
+    ],
+    "27b": [
+     3458,
+     1891,
+     1567
+    ],
+    "27c": [
+     24,
+     14,
+     10
+    ],
+    "28": [
+     746,
+     584,
+     162
+    ],
+    "29": null,
+    "30": [
+     1,
+     null,
+     1
+    ],
+    "31": [
+     7,
+     7,
+     null
+    ],
+    "32": [
+     16,
+     9,
+     7
+    ],
+    "33": [
+     2,
+     2,
+     null
+    ],
+    "34": null,
+    "35": [
+     968,
+     582,
+     386
+    ]
+   },
+   "footnotes": "",
+   "notes": "Row 18 (Baroda) figures 86/61/25 printed in italic. STATES females glyph ambiguous 3/8 ('8,780'); read 3,780 (= 9,489 - 5,709). Rows 16-17 females printed as dash-like marks; taken as nil."
+  }
+ ],
+ "rows_printed": [
+  "INDIA",
+  "PROV",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "7a",
+  "8",
+  "9",
+  "10",
+  "11",
+  "12",
+  "13",
+  "14",
+  "15",
+  "STATES",
+  "16",
+  "17",
+  "18",
+  "19",
+  "20",
+  "21",
+  "22",
+  "23",
+  "24",
+  "25",
+  "26",
+  "27",
+  "27a",
+  "27b",
+  "27c",
+  "28",
+  "29",
+  "30",
+  "31",
+  "32",
+  "33",
+  "34",
+  "35"
+ ],
+ "unreadable": [],
+ "notes": "Header printed 'Tibeto-Chinese Family—concld. / Tai-Chinese Family—concld.' (sic 'Family' for the Sub-Family) over cols 821-829; 'Chinese Branch—concld.' and 'Chinese Group—concld.' over 821-826. Semitic Family continues on next page. No footnotes. Residual discrepancy: col 822 row 2 (177, apparently misprint for 187) — P!=M+F and PROV males off by 10."
+}
