@@ -202,6 +202,21 @@ for j in U:
     if j not in ('7',):
         U[j] = U[j].difference(sind)
 override('21', unary_union([U['21'], khairpur]))
+# Nothing in modern Rajasthan was Punjab or a Punjab state in 1931: Bahawalpur bordered Bikaner
+# directly. plague_india's Punjab overshoots into Bikaner, leaving a false strip; give it back.
+rajasthan = ne('ne_10m_admin_1_states_provinces', 'name', {'Rajasthan'})['Rajasthan']
+for j in ('14', '31'):
+    spill = U[j].intersection(rajasthan)
+    U[j] = U[j].difference(rajasthan)
+    U['32'] = unary_union([U['32'], spill])
+# hairline left where two datasets' versions of the border disagree: open Punjab's shape
+# along the Bahawalpur/Bikaner line and hand the shaved sliver to Bahawalpur
+zone = box(69, 27, 75, 30.3)
+p14 = U['14'].intersection(zone)
+opened = p14.buffer(-0.03).buffer(0.03).intersection(p14)
+sliver = p14.difference(opened)
+U['14'] = U['14'].difference(sliver)
+U['31'] = unary_union([U['31'], sliver])
 burma = ne('ne_10m_admin_0_countries', 'ADMIN', {'Myanmar'})['Myanmar']
 override('8', burma.difference(X['tribal_ne']))
 U['12'] = unary_union([U['12'], adm1['Lakshadweep']])                          # Laccadives, Minicoy
