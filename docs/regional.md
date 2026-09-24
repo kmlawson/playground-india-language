@@ -264,9 +264,18 @@ crosswalk CSV.
   were assigned by hand. Present-day India's J&K and Ladakh polygons are not matched through the lineage.
   Mirpur, Muzaffarabad and Poonch share Azad Kashmir and Punch, and so form one unit. Gilgit and the Frontier
   Ilaqas form one unit. Ladakh includes Baltistan (Skardu, Ghanche, Shigar, Kharmang).
-- **Burma** (Natural Earth admin-1): the district rows are grouped by 1931 division and drawn on present-day
-  states and regions. Pegu and Tenasserim are merged, because Toungoo (Tenasserim) now lies in Bago.
-  Magwe is drawn with Chin, and Sagaing with Kachin.
+- **Burma** is drawn on its own 1931 districts and states. They come from the administrative layer of the
+  Japanese Empire map (https://froginawell.net/reference/japanese-empire/, `japan-empire-map-admin.svg`).
+  `tools/regional/burma1931.py` projects them back to longitude and latitude (Mercator: 66°E origin, 20 px
+  per degree, R = 1145.915590, latMax 55°). It then clips them to Myanmar's Natural Earth outline and gives
+  any uncovered land to the shape it touches most. The result is `source/geo/burma_1931_districts.geojson`.
+  Each district of the Burma table is one unit, with three exceptions:
+  - Rangoon Town and Insein have no shapes of their own and are drawn with Hanthawaddy.
+  - The Pakokku Hill Tracts are drawn with Pakokku.
+  - The shapes do not say which Shan states were Northern and which Southern, so the two form one unit. The
+    Karenni states form another.
+
+  Hukawng Valley, the Triangle and the Wa States were unadministered and not enumerated.
 - **Not drawn**: Aden, and the NWFP “Trans-frontier posts” (46,451 persons, mostly garrisons; marked not
   comparable).
 
@@ -300,7 +309,12 @@ Three units still come out split, all for real reasons:
 Polygons are projected exactly like the province map (`data/geo.js`) and simplified together with
 `shapely.coverage_simplify` (tolerance 0.25 px), so neighbouring units still share their edges.
 
-Present-day areas with no 1931 figures are drawn hatched:
+Only these units are drawn: there is no separate 1931 province layer underneath. The 1931 province outlines
+come from the units themselves, as the union of the units belonging to each volume. A unit that spans two
+volumes goes with the one holding most of its people. Present-day districts that nothing links to are
+drawn as grey units with a note. These are the tribal agencies and the Dir, Swat and Chitral states of the
+North-West Frontier, Gwadar (Muscat's in 1931), Burma's unadministered tracts, and Yanam. Other present-day
+areas with no 1931 figures, also grey:
 - Goa, Daman, Diu, and Dadra and Nagar Haveli (Portuguese India);
 - Puducherry, Karaikal and Mahe (French India);
 - Lakshadweep, which was counted inside Malabar and South Kanara.
@@ -312,12 +326,12 @@ Present-day areas with no 1931 figures are drawn hatched:
   that no share can exceed 100%.
 - A **group** (a family, branch or group) is the sum of every leaf beneath it in the Vol. I tree, including
   the leaves matched only to the group itself.
-- **Hatched**: a unit is hatched in any of these cases:
+- **Grey** (no figures to show; the card says why): a unit is grey in any of these cases:
   - it has no figures;
   - its legible leaves cover less than 80% of its printed population (the damaged Gwalior districts);
   - it is in Burma and the selected language is not one of the groups the Burma table gives.
-- **Dashed red outline**: somewhere in the unit, the leaves and the printed population differ by more than
-  1%. The side panel names the area and gives both figures.
+- **Mismatch note**: somewhere in the unit, the leaves and the printed population differ by more than 1%.
+  The card names the area and gives both figures.
 - **Largest language** labels the largest single leaf. Hindustani as printed counts as one leaf.
 
 - **Population of this area, 1901–2011.** This comes from the *Census of India 2011*, Table A-2 (decadal
@@ -336,7 +350,7 @@ Present-day areas with no 1931 figures are drawn hatched:
   Bellary lost Adoni and other taluks to Andhra (×0.5). The panel says so. The language shares still
   describe the 1931 areas.
 - **Damaged areas found this way.** Some Gwalior districts have an illegible printed population (Bhind,
-  Gird). A unit is hatched if its printed population is missing and its legible language figures come to
+  Gird). A unit is shown grey if its printed population is missing and its legible language figures come to
   less than 80% of the Table A-2 figure for 1931.
 
 ## 10. Rebuilding
@@ -347,7 +361,8 @@ The inputs are:
 - geoBoundaries India ADM1 and ADM2 in `source/geo/` (fetched by `tools/fetch_sources.sh`, or set `GBIND`);
 - `source/geo/PAK-ADM2.geojson` and `source/geo/BGD-ADM2.geojson`;
 - the Census 2011 Table A-2 district spreadsheet (`source/census2011/A2-population-1901-2011.xlsx`, or set `CENSUS_A2`);
-- the Natural Earth admin-1 shapefile in `source/geo/`.
+- the Natural Earth admin-1 shapefile in `source/geo/` (for Myanmar's outline), and
+  `source/geo/burma_1931_districts.geojson` (committed; rebuild it with `tools/regional/burma1931.py`).
 
 The build needs Python with shapely, pyshp and openpyxl.
 

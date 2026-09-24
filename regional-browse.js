@@ -4,7 +4,7 @@
 (function () {
   'use strict';
   var R = window.REGIONAL, S = R.S, $ = function (s) { return document.querySelector(s); };
-  var fmt = new Intl.NumberFormat('en-IN');
+  var fmt = { format: function (n) { return window.NUMFMT.num(n); } };
   function num(n) { return n == null ? '' : n === '?' ? '?' : fmt.format(n); }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function norm(s) { return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
@@ -157,5 +157,6 @@
     root.setAttribute('data-theme', dark ? 'light' : 'dark');
     try { localStorage.setItem('il-theme', dark ? 'light' : 'dark'); } catch (e) { }
   });
+  document.addEventListener('numfmt', render);
   render();
 })();

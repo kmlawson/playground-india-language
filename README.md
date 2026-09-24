@@ -68,7 +68,8 @@ No build step, no libraries: plain HTML, CSS and JavaScript over pre-built data 
 
 **Present-day districts.**
 - geoBoundaries ADM1 and ADM2 for India, and ADM2 for Pakistan and Bangladesh.
-- Natural Earth admin-1 for Myanmar.
+- Burma: its 1931 districts and states, from the administrative layer of the
+  [Japanese Empire map](https://froginawell.net/reference/japanese-empire/).
 
 ## How it was put together
 
@@ -141,6 +142,24 @@ Details are in [LICENSE](LICENSE). The design follows the
 
 The version number and date appear at the foot of every page (`version.js`).
 
+- **2.1** (24 September 2026)
+  - District map: no red outlines or hatching on the map. Areas without figures are plain grey, and the
+    info card says why.
+  - A selected area's card moves to the top of the side panel; × clears it.
+  - Number-format switch in the header of every page: Indian (1,23,456; lakh, crore) or international
+    (123,456; thousand, million). It is remembered, and `?num=intl` in a link sets it.
+  - In-page links no longer scroll section headings under the sticky header.
+  - District map: only district units are drawn. The 1931 province outlines are built from them, and every
+    present-day district without figures is its own grey unit with a note. The "Modern borders" toggle is
+    gone. The number switch sits in the map toggles on both maps. The selection outline is light yellow.
+  - District map: quick buttons for the 22 largest languages, the Hindi composite and the Burma group.
+  - No red anywhere on the site: links, notes, flags, focus rings and checkboxes are blue, and the "more women"
+    end of the females-per-1,000-males scale is orange.
+  - District map: hovering (or tabbing to) a bar of the population chart shows a card with the figure and
+    the change since the previous census.
+  - District map cards link the relevant provincial plate(s) of the *Imperial Gazetteer of India, Atlas* (1931)
+    at the Digital South Asia Library, and explain why a unit groups several 1931 areas.
+  - Burma is drawn on its 1931 districts (from the Japanese Empire map's admin layer) instead of by division.
 - **2.0** (24 September 2026)
   - District map from 24 provincial and state volumes, drawn on present-day districts through the 1931–2024
     district lineage.

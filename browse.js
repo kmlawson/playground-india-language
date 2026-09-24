@@ -6,7 +6,7 @@
   var $ = function (s) { return document.querySelector(s); };
   var IA = 'https://archive.org/details/india.history.resource.92539/page/n';
   var fmtIN = new Intl.NumberFormat('en-IN'), fmtW = new Intl.NumberFormat('en-GB');
-  var fmt = fmtIN;
+  var fmt = window.NUMFMT.mode() === 'in' ? fmtIN : fmtW;     // header switch (version.js)
   function num(n) { return n == null ? '..' : fmt.format(n); }
   function pct(x) { if (x == null || !isFinite(x)) return ''; if (x === 0) return '0'; if (x < 0.01) return '<0.01'; if (x < 10) return x.toFixed(2); return x.toFixed(1); }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
@@ -145,7 +145,7 @@
   $('#per').addEventListener('change', function () { st.per = +$('#per').value; st.page = 0; apply(); });
   $('#prev').addEventListener('click', function () { st.page--; apply(); window.scrollTo({ top: $('.tbl-wrap').offsetTop - 80 }); });
   $('#next').addEventListener('click', function () { st.page++; apply(); window.scrollTo({ top: $('.tbl-wrap').offsetTop - 80 }); });
-  $('#fmt').addEventListener('change', function () { fmt = $('#fmt').value === 'in' ? fmtIN : fmtW; apply(); });
+  document.addEventListener('numfmt', function () { fmt = window.NUMFMT.mode() === 'in' ? fmtIN : fmtW; apply(); render2(); });
   $('#reset').addEventListener('click', function () {
     st = { q: '', unit: '', fam: '', level: 'lang', min: 0, noted: false, sort: 'p', dir: -1, page: 0, per: 100 };
     $('#q').value = ''; sel.value = ''; $('#fam').value = ''; $('#level').value = 'lang'; $('#min').value = 0; $('#noted').checked = false; $('#per').value = '100';

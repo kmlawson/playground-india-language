@@ -57,8 +57,7 @@ def main():
         for (vol, path, area), nodes in xw.items():
             outside = B.OUTSIDE.get((vol, area), [])
             if vol == 'burma':
-                div = next((p for p in path if p in B.BURMA_DIV), area if area in B.BURMA_DIV else None)
-                outside = B.BURMA_DIV.get(div, [])
+                outside = ['Burma 1931: ' + x.lstrip('@') for x in B.BURMA_SHAPES.get(B.deaccent(area), [])]
             manual = any(k in crosswalk.MANUAL for k in [(vol, area + '|' + pe) for pe in path] + [(vol, area)])
             rule = ('not comparable' if (vol, area) in B.NOT_COMPARABLE else 'hand crosswalk (MANUAL)' if manual
                     else 'hand mapping outside the lineage (OUTSIDE)' if outside else 'name match in province' if nodes else 'no geometry')

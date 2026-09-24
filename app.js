@@ -6,10 +6,8 @@
   var C = window.CENSUS, G = window.GEO;
   var SVGNS = 'http://www.w3.org/2000/svg';
   var $ = function (s, el) { return (el || document).querySelector(s); };
-  var fmt = new Intl.NumberFormat('en-IN');           // lakh grouping, as the tables print
-  var fmtW = new Intl.NumberFormat('en-GB');
-  var useIndian = true;
-  function num(n) { return n == null ? '–' : (useIndian ? fmt : fmtW).format(n); }
+  var fmtW = new Intl.NumberFormat('en-GB');          // small counts and ratios
+  function num(n) { return window.NUMFMT.num(n); }    // header switch: Indian (lakh) or international grouping
   function pct(x) {
     if (x == null || isNaN(x)) return '–';
     if (x === 0) return '0%';
@@ -454,7 +452,7 @@
     else live.textContent = state.mode === 'lead' ? 'Largest mother tongue in each unit' : 'Diversity within the 1931 classification (' + DIV_LEVELS[divLevel] + ')';
     writeHash();
   }
-  function compact(n) { return n >= 1e7 ? (n / 1e7).toFixed(n >= 1e8 ? 0 : 1) + ' cr' : n >= 1e5 ? (n / 1e5).toFixed(n >= 1e6 ? 0 : 1) + ' lakh' : n >= 1000 ? Math.round(n / 1000) + 'k' : String(n); }
+  function compact(n) { return window.NUMFMT.compact(n); }
   function shortName(l) {
     var n = disp(l);
     return n.replace(/ \(.*\)$/, '').replace(/^Kanarese$/, 'Kanarese').replace(/ or .*$/, '');
@@ -478,7 +476,7 @@
       h += '<div class="bins">' + sc.vars.map(function (v) { return '<span style="background:' + cssv(v) + '"></span>'; }).join('') + '</div>';
       h += '<div class="ticks">' + sc.ticks.map(function (t) { return '<span>' + t + '</span>'; }).join('') + '</div>';
       if (sk === 'share' || sk === 'dist') h += '<div class="row"><span class="sw" style="background:var(--land)"></span> none recorded</div>';
-      if (sk === 'sex') h += '<div class="row"><span class="sw hatch"></span> fewer than ' + SEX_MIN + ' speakers</div><div class="note">Blue: mostly men (often migrants). Red: mostly women. All India overall: ' + Math.round(UNITS.INDIA.pop[2] / UNITS.INDIA.pop[1] * 1000) + '.</div>';
+      if (sk === 'sex') h += '<div class="row"><span class="sw hatch"></span> fewer than ' + SEX_MIN + ' speakers</div><div class="note">Blue: mostly men (often migrants). Orange: mostly women. All India overall: ' + Math.round(UNITS.INDIA.pop[2] / UNITS.INDIA.pop[1] * 1000) + '.</div>';
       if (sk === 'div') h += '<div class="note">1 − Σp² over the table’s ' + DIV_LEVELS[divLevel] + '. 0 = everyone in one category. It depends on how finely the census divided languages, so the level changes the ranking.</div><div class="row"><span class="sw hatch"></span> not comparable (garrisons only)</div>';
     }
     h += '<div class="row"><span class="sw hatch"></span> not enumerated / not a census unit</div>';
@@ -920,4 +918,5 @@
   if (state.unit) { unitEls[state.unit].classList.add('sel'); renderUnit(); }
   renderChecks();
   renderBilSection();
+  document.addEventListener('numfmt', function () { render(); renderBilSection(); });
 })();

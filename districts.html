@@ -46,11 +46,8 @@
           <rect id="sea" />
           <g id="g-grat"></g>
           <g id="g-neigh"></g>
-          <g id="g-base"></g>
-          <g id="g-extra"></g>
           <g id="g-units"></g>
           <g id="g-prov"></g>
-          <g id="g-modern"></g>
           <g id="g-labels"></g>
         </g>
       </svg>
@@ -62,13 +59,14 @@
       </div>
       <div id="map-toggles">
         <label><input type="checkbox" id="opt-labels" checked> Labels</label>
-        <label title="Outlines of the 1931 provinces, states and agencies"><input type="checkbox" id="opt-prov" checked> 1931 provinces</label>
-        <label title="Present-day international borders"><input type="checkbox" id="opt-modern"> Modern borders</label>
+        <label title="Outlines of the areas covered by each 1931 provincial or state volume, drawn from the district units"><input type="checkbox" id="opt-prov" checked> 1931 provinces</label>
+        <label title="Indian grouping (1,23,456; lakh, crore). Untick for international grouping (123,456; thousand, million)."><input type="checkbox" id="opt-num" checked> Indian numbering</label>
       </div>
       <div id="tooltip" role="tooltip" hidden></div>
     </div>
 
     <aside id="side">
+      <div id="unit-panel" hidden></div>
       <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
         <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
         <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
@@ -87,7 +85,6 @@
       </div>
       <div id="legend" aria-label="Legend"></div>
       <div id="summary"></div>
-      <div id="unit-panel" hidden></div>
     </aside>
   </div>
 
@@ -103,7 +100,7 @@
   <ol class="cautions">
     <li><b>Hindi, Urdu and Hindustani cannot be compared across provinces here.</b> The United Provinces, Bihar and Orissa, and several other volumes printed one figure for “Hindustani” (or “Hindi”, “Urdu”) without dividing it into Western Hindi, Eastern Hindi and Bihari. The all-India volume made that division afterwards, at province level only. At district level the map therefore shows <b>Hindustani as printed</b> as its own entry, and offers a composite, <b>Hindustani + Western Hindi + Eastern Hindi + Bihari</b>, which is the only Hindi-area figure that means the same thing everywhere.</li>
     <li><b>A map unit is often larger than one 1931 district.</b> Districts have been split and merged many times since 1931, and princely states were scattered in enclaves. Where the history of a present-day district runs back to more than one 1931 unit, all of them are joined into one map unit and their figures added. Nothing is apportioned by area or estimated. Click a unit to see which 1931 areas and which present-day districts it contains.</li>
-    <li><b>Outside present-day India the grouping was made by hand.</b> Pakistan, Bangladesh and Myanmar are not in the district lineage database. Each 1931 district there was matched to the present-day districts carved out of it. Burma is shown only by division.</li>
+    <li><b>Outside present-day India the grouping was made by hand.</b> Pakistan, Bangladesh and Myanmar are not in the district lineage database. Each 1931 district in Pakistan and Bangladesh was matched to the present-day districts carved out of it. Burma is drawn on its own 1931 district boundaries.</li>
     <li><b>Not every volume could be read in full.</b> Two volumes have damaged or illegible pages: Gwalior State and part of the Central India Agency. Their totals fall short of the all-India volume, and the units affected are flagged. Delhi and Coorg have no district tables, so their province figures from Vol. I are used.</li>
     <li>All the cautions on the <a href="./#cautions">province map</a> apply here too: mother tongue was what the enumerator wrote down, and the language classification is the census’s own.</li>
   </ol>
@@ -125,8 +122,8 @@
     <li><b>Matching the tables.</b> Each area printed in a provincial table (a district, a state, an agency) was linked to its 1931 node in the lineage, by name within its province, or through a hand-made crosswalk for states grouped differently in the tables.</li>
     <li><b>Present-day shapes.</b> Each present-day district polygon from <a href="https://www.geoboundaries.org/">geoBoundaries</a> India ADM2 was linked to its latest node in the lineage.</li>
     <li><b>Map units.</b> Any 1931 area and present-day district connected through the lineage end up in one group. Each group is drawn as the union of its present-day districts, and its figures are the sum of its 1931 areas. Because units are built this way, a unit’s figures always describe the whole of the area drawn, and nothing has to be divided.</li>
-    <li><b>Pakistan, Bangladesh, Jammu and Kashmir, Burma.</b> These were assigned by hand: each 1931 district to the present-day districts made from it (geoBoundaries Pakistan and Bangladesh ADM2), and Burma’s divisions to present-day states and regions (Natural Earth). Nadia, Malda, Dinajpur and Sylhet, divided in 1947, include both their Indian and Bangladeshi parts. The Jammu and Kashmir grouping follows the 1931 districts and wazarats. It does not use the lineage, which treats the whole state as one unit.</li>
-    <li><b>Not drawn.</b> Aden has no shape on this map. The tribal areas of the North-West Frontier were not enumerated, and neither were the frontier tracts of Assam and Burma: these show hatched. The Portuguese and French possessions were outside the census. The Laccadives were counted with Malabar and South Kanara and cannot be separated from them.</li>
+    <li><b>Pakistan, Bangladesh, Jammu and Kashmir, Burma.</b> These were assigned by hand: each 1931 district to the present-day districts made from it (geoBoundaries Pakistan and Bangladesh ADM2), while Burma is drawn on its 1931 districts and states, taken from the administrative layer of the <a href="https://froginawell.net/reference/japanese-empire/">Japanese Empire map</a>. Rangoon Town and Insein are drawn with Hanthawaddy, and the Northern and Southern Shan States as one unit. Nadia, Malda, Dinajpur and Sylhet, divided in 1947, include both their Indian and Bangladeshi parts. The Jammu and Kashmir grouping follows the 1931 districts and wazarats. It does not use the lineage, which treats the whole state as one unit.</li>
+    <li><b>Not drawn.</b> Aden has no shape on this map. The tribal areas of the North-West Frontier were not enumerated, and neither were the unadministered tracts of Burma (Hukawng Valley, the Triangle, the Wa States): these show grey, and their cards say why. The Portuguese and French possessions were outside the census. The Laccadives were counted with Malabar and South Kanara and cannot be separated from them.</li>
   </ul>
   <p>Every printed figure, in both parts of the table and with its scan, can be searched in the <a href="regional.html">District tables</a>. Downloads: <a href="data/regional_table15.csv">regional_table15.csv</a> (every figure used, with its classification match and map unit), <a href="data/districts.js">data/districts.js</a>, and the rule tables in <a href="https://github.com/kmlawson/playground-india-language/tree/main/docs">docs/</a>. Code: the scripts in <a href="https://github.com/kmlawson/playground-india-language/tree/main/tools/regional">tools/regional/</a>.</p>
 </section>

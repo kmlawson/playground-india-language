@@ -82,12 +82,24 @@ OUTSIDE = {
     ('jk', 'Gilgit District'): ['PAK:Gilgit', 'PAK:Hunza', 'PAK:Nagar', 'PAK:Ghizer', 'PAK:Diamer', 'PAK:Astore'],
     ('jk', 'Frontier Ilaqas'): ['PAK:Gilgit', 'PAK:Hunza', 'PAK:Nagar', 'PAK:Ghizer', 'PAK:Diamer', 'PAK:Astore'],
 }
-# Burma: the provincial table's districts are summed to their 1931 division and drawn on today's
-# states/regions (Natural Earth). Pegu and Tenasserim are merged because Toungoo (Tenasserim) is now in Bago.
-BURMA_DIV = {'Arakan Division': ['MMR:Rakhine'], 'Pegu Division': ['MMR:Yangon', 'MMR:Bago'],
-             'Tenasserim Division': ['MMR:Bago', 'MMR:Mon', 'MMR:Kayin', 'MMR:Tanintharyi'], 'Irrawaddy Division': ['MMR:Ayeyarwady'],
-             'Magwe Division': ['MMR:Magway', 'MMR:Chin'], 'Mandalay Division': ['MMR:Mandalay'], 'Sagaing Division': ['MMR:Sagaing', 'MMR:Kachin'],
-             'Northern Shan States': ['MMR:Shan'], 'Southern Shan States': ['MMR:Shan'], 'Karenni': ['MMR:Kayah']}
+# Burma: each district of the provincial table on its 1931 shape (source/geo/burma_1931_districts.geojson, from the
+# Japanese Empire map's admin layer; tools/regional/burma1931.py). Keys are printed area names without diacritics.
+SHAN = 'Federated Shan States'
+BURMA_SHAPES = {'Akyab': ['Akyab'], 'Arakan Hill Tracts': ['Arakan Hill Distric'], 'Kyaukpyu': ['Kyaukpyu'], 'Sandoway': ['Sandoway'],
+                'Rangoon Town': ['Hanthawaddy'], 'Insein': ['Hanthawaddy'], 'Hanthawaddy': ['Hanthawaddy'],   # no separate shapes
+                'Pegu': ['Pegu'], 'Tharrawaddy': ['Tharawaddy'], 'Prome': ['Prome'], 'Bassein': ['Bassein'], 'Henzada': ['Henzada'],
+                'Myaungmya': ['Myaungmya'], 'Maubin': ['Maubin'], 'Pyapon': ['Pyapon'], 'Salween': ['Salween'], 'Thaton': ['Thaton'],
+                'Amherst': ['Amherst'], 'Tavoy': ['Tavoy'], 'Mergui': ['Mergui'], 'Toungoo': ['Toungoo'], 'Thayetmyo': ['Thayetmo'],
+                'Minbu': ['Minbu'], 'Magwe': ['Magwe'], 'Pakokku': ['Pakokku', 'Pakokku Hill Tracks'], 'Chin Hills': ['Chin Hills'],
+                'Mandalay': ['Mandalay'], 'Kyaukse': ['Kyaukse'], 'Meiktila': ['Meiktila'], 'Myingyan': ['Myingyan'], 'Yamethin': ['Yamethin'],
+                'Bhamo': ['Bhamo'], 'Myitkyina': ['Myitkyina'], 'Shwebo': ['Shwebo'], 'Sagaing': ['Sagaing'], 'Katha': ['Katha'],
+                'Lower Chindwin': ['Lower Chindwin'], 'Upper Chindwin': ['Upper Chindwin'],
+                # the shapes do not say which Shan states were Northern and which Southern, so the two form one unit
+                'Northern Shan States': ['@' + SHAN], 'Southern Shan States': ['@' + SHAN], 'Karenni': ['@Karenni States']}
+BURMA_UNADMINISTERED = {'Hukawng Valley', 'The Triangle', 'Wa States'}
+def deaccent(s):
+    import unicodedata
+    return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
 # 1931 districts divided by the 1947 boundary: the part now in Bangladesh / Pakistan is added to the lineage unit
 PARTITION = {'Nadia': ['BGD:Kushtia', 'BGD:Chuadanga', 'BGD:Meherpur'], 'Malda': ['BGD:Nawabganj'],
              'Dinajpur': ['BGD:Dinajpur', 'BGD:Thakurgaon', 'BGD:Panchagarh'],
@@ -123,6 +135,10 @@ def main():
     for a, bs in Gr.items():
         for b in bs:
             link(a, b)
+    B31_BY_DIV = collections.defaultdict(list)
+    for f in json.load(open(os.path.join(G_DIR, 'burma_1931_districts.geojson')))['features']:
+        if f['properties']['name'] not in BURMA_UNADMINISTERED and f['properties']['division'] in (SHAN, 'Karenni States'):
+            B31_BY_DIV[f['properties']['division']].append('A|B31:' + f['properties']['name'])
     # regional areas
     areas = {}
     for (vol, path, area), nodes in xw.items():
@@ -139,9 +155,12 @@ def main():
         for ref in OUTSIDE.get((vol, area), []):
             link(rid, 'A|' + ref)
         if vol == 'burma':
-            div = next((p for p in path if p in BURMA_DIV), area if area in BURMA_DIV else None)
-            for ref in BURMA_DIV.get(div, []):
-                link(rid, 'A|' + ref)
+            for ref in BURMA_SHAPES.get(deaccent(area), []):
+                if ref.startswith('@'):
+                    for k in B31_BY_DIV.get(ref[1:], []):
+                        link(rid, k)
+                else:
+                    link(rid, 'A|B31:' + ref)
     for u, nd in VOL1.items():
         link('V|' + u, nd)
     # partitioned 1931 districts
@@ -157,21 +176,21 @@ def main():
         key = None
         if a['state'] == 'jammuandkashmir':
             key = 'A|JK:' + a['name']            # J&K and Ladakh: drawn from the regional volume via OUTSIDE
-        elif a['id'] in matched:
-            key = 'A|IND:' + a['id']; link(key, matched[a['id']])
+        else:
+            key = 'A|IND:' + a['id']
+            if a['id'] in matched:
+                link(key, matched[a['id']])
         if key:
             shapes[key] = fix(a['geom']); sname[key] = a['name'] + ' (India)'; sstate[key] = a['state']
     for c in ('PAK', 'BGD'):
         for f in json.load(open(os.path.join(G_DIR, f'{c}-ADM2.geojson')))['features']:
             k = f'A|{c}:' + f['properties']['shapeName']
             shapes[k] = fix(shape(f['geometry'])); sname[k] = f['properties']['shapeName'] + (' (Pakistan)' if c == 'PAK' else ' (Bangladesh)')
-    import shapefile
-    r = shapefile.Reader(os.path.join(G_DIR, 'ne_10m_admin_1_states_provinces', 'ne_10m_admin_1_states_provinces'))
-    fl = [x[0] for x in r.fields][1:]
-    for sr in r.iterShapeRecords():
-        d = dict(zip(fl, sr.record))
-        if d['adm0_a3'] == 'MMR':
-            shapes['A|MMR:' + d['name']] = fix(shape(sr.shape.__geo_interface__)); sname['A|MMR:' + d['name']] = d['name'] + ' (Myanmar)'
+    for f in json.load(open(os.path.join(G_DIR, 'burma_1931_districts.geojson')))['features']:
+        k = 'A|B31:' + f['properties']['name']
+        if f['properties']['name'] in BURMA_UNADMINISTERED:
+            k = 'A|B31X:' + f['properties']['name']
+        shapes[k] = fix(shape(f['geometry'])); sname[k] = f['properties']['name'].replace('Distric', 'District').replace('Tracks', 'Tracts') + ' (Burma, 1931)'
     for k in list(edges):
         if k.startswith('A|') and k not in shapes:
             print('missing shape', k, file=sys.stderr)
@@ -254,8 +273,9 @@ def main():
         label = ', '.join(m['area'] for m in members) if members else ', '.join(names31)
         # population of the unit's area in every census 1901-2011, on 2011 district boundaries (Census 2011, Table A-2)
         series, snote, d2011 = None, None, []
-        if any(a.startswith(('A|PAK:', 'A|BGD:', 'A|MMR:')) for a in A):
-            snote = 'Partly outside present-day India: no series.'
+        if any(a.startswith(('A|PAK:', 'A|BGD:', 'A|B31')) for a in A):
+            ind = any(a.startswith(('A|IND:', 'A|JK:')) for a in A)
+            snote = ('Partly outside present-day India' if ind else 'Outside present-day India') + ': Census 2011 Table A-2 has no series for it.'
         elif R or V:
             keys = [x for x in comp if x.startswith('2011|')]
             jk = [A2_JK.get(census2011.n(a[5:])) for a in A if a.startswith('A|JK:')]
@@ -271,9 +291,27 @@ def main():
             note = NODATA_NOTE.get(sstate.get(A[0], 'x'), 'No 1931 figures.')
         elif status == 'nc':
             note = 'Not comparable: the regional volume gives no district breakdown for this territory.'
-        units_out.append({'series': series, 'snote': snote, 'd2011': d2011, 'note': note, 'geom': geom, 'name': label, 'names31': names31, 'members': members, 'missing31': missing31,
+        units_out.append({'akeys': A, 'series': series, 'snote': snote, 'd2011': d2011, 'note': note, 'geom': geom, 'name': label, 'names31': names31, 'members': members, 'missing31': missing31,
                           'status': status, 'pop': pop, 'vals': {str(k): v for k, v in vals.items() if v[0] or v[1] or v[2]},
                           'shapes': sorted(sname.get(a, a[2:]) for a in A)})
+    # present-day districts linked to nothing: drawn as units without figures, so the map has no holes
+    used = {a for u in units_out for a in u['akeys']}
+    for a in sorted(shapes):
+        if a in used:
+            continue
+        nm = sname.get(a, a[2:]).replace('DATA NOT AVAILABLE', 'Unassigned area in geoBoundaries').replace(' (Burma, 1931)', '')
+        if a.startswith('A|B31X:'):
+            note = 'Unadministered in 1931 and not enumerated (Census of India 1931, Vol. XI, Burma, Part I, p. 1).'
+        elif a.startswith('A|PAK:'):
+            note = ('Gwadar was a possession of Muscat in 1931, outside the census.' if 'Gwadar' in a else
+                    'Not in the 1931 district tables. The tribal areas and agencies of the North-West Frontier (and the states of Dir, Swat and Chitral) were not enumerated by district.')
+        elif sstate.get(a) == 'puducherry' or 'Yanam' in nm:
+            note = 'French India in 1931: outside the Census of India.'
+        else:
+            note = 'No 1931 figures could be linked to this present-day district.'
+        stats['no figures (unlinked shape)'] += 1
+        units_out.append({'akeys': [a], 'series': None, 'snote': None, 'd2011': [], 'note': note, 'geom': shapes[a].buffer(0), 'name': nm.replace(' (Pakistan)', '').replace(' (India)', ''),
+                          'names31': [], 'members': [], 'missing31': [], 'status': 'nodata', 'pop': [0, 0, 0], 'vals': {}, 'shapes': [nm]})
     print(dict(stats), file=sys.stderr)
     # projection identical to data/geo.js
     GEO = open(os.path.join(ROOT, 'data', 'geo.js')).read()
@@ -299,6 +337,16 @@ def main():
                 if len(cs) >= 3:
                     out.append('M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in cs) + 'Z')
         return ''.join(out)
+    # 1931 outlines drawn from the units themselves: each unit belongs to the volume holding most of its people
+    groups = collections.defaultdict(list)
+    for i, u in enumerate(units_out):
+        if not u['members']:
+            continue
+        w = collections.Counter()
+        for m in u['members']:
+            w[m['area'] if m['vol'] == 'india' else m['vol']] += ((m.get('check') or [0])[0] or 1)
+        groups[w.most_common(1)[0][0]].append(i)
+    prov = [{'g': k, 'd': path(fix(unary_union([simp[i] for i in ix])))} for k, ix in sorted(groups.items())]
     out = []
     for u, g, g0 in zip(units_out, simp, geoms):
         big = max(g0.geoms, key=lambda p: p.area) if hasattr(g0, 'geoms') else g0
@@ -330,7 +378,7 @@ def main():
         vols[m['key']] = {'title': __import__('load').VOL_NAMES.get(m['key'], m.get('title')), 'identifier': m.get('identifier'), 'unit': m.get('unit')}
     with open(os.path.join(ROOT, 'data', 'districts.js'), 'w') as fh:
         fh.write('/* Generated by tools/regional/build_districts.py. See docs/regional.md. */\n')
-        fh.write('window.DISTRICTS = ' + json.dumps({'units': out, 'vols': vols}, ensure_ascii=False, separators=(',', ':')) + ';\n')
+        fh.write('window.DISTRICTS = ' + json.dumps({'units': out, 'vols': vols, 'prov': prov}, ensure_ascii=False, separators=(',', ':')) + ';\n')
     print('wrote data/districts.js', os.path.getsize(os.path.join(ROOT, 'data', 'districts.js')) // 1024, 'KB', len(out), 'units', file=sys.stderr)
 
 if __name__ == '__main__':
