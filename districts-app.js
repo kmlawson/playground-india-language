@@ -29,7 +29,14 @@
   var BYID = {}; L.forEach(function (l) { BYID[l.id] = l; }); BYID.HU = HU; BYID.HB = HB; BYID['?'] = NM;
   function anc(id) { var out = [], l = BYID[id]; while (l) { out.push(l.id); l = l.parent != null ? BYID[l.parent] : null; } return out; }
   function pathOf(l) { var p = []; l = l.parent != null ? BYID[l.parent] : null; while (l) { p.unshift(l); l = l.parent != null ? BYID[l.parent] : null; } return p; }
-  function disp(l) { return l.name.replace(/^[A-Z]\.\s*/, ''); }
+  // names used in more than one section of the classification (Indo-European Family, Tibeto-Chinese Family,
+  // Indo-Aryan Branch...) carry their section, so the European Indo-European family is not mistaken for India's
+  var SECTION_TAG = { A: 'languages of India', B: 'other Asiatic and African languages', C: 'European languages' };
+  var NAME_COUNT = {};
+  L.forEach(function (l) { NAME_COUNT[l.name] = (NAME_COUNT[l.name] || 0) + 1; });
+  function sectionOf(l) { while (l.parent != null) l = L[l.parent]; var m = /^([ABC])\./.exec(l.name); return m ? m[1] : null; }
+  function tagged(l, name) { var sec = NAME_COUNT[l.name] > 1 && l.kids.length ? sectionOf(l) : null; return sec ? name + ' (' + SECTION_TAG[sec] + ')' : name; }
+  function disp(l) { var n = l.name.replace(/^[A-Z]\.\s*/, ''); return typeof l.id === 'number' ? tagged(l, n) : n; }
 
   var U = D.units;
   U.forEach(function (u, i) {

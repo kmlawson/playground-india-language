@@ -27,9 +27,16 @@
   var ROOTS = L.filter(function (l) { return l.parent == null; });
   var LEAVES = L.filter(function (l) { return !l.kids.length; });
   var GENERIC = /^(others?\b|other\b|.*unspecified|unclassed$|.*not stated|.*n\.o\.s)/i;
+  // names used in more than one section of the classification (Indo-European Family, Tibeto-Chinese Family,
+  // Indo-Aryan Branch...) carry their section, so the European Indo-European family is not mistaken for India's
+  var SECTION_TAG = { A: 'languages of India', B: 'other Asiatic and African languages', C: 'European languages' };
+  var NAME_COUNT = {};
+  L.forEach(function (l) { NAME_COUNT[l.name] = (NAME_COUNT[l.name] || 0) + 1; });
+  function sectionOf(l) { while (l.parent != null) l = L[l.parent]; var m = /^([ABC])\./.exec(l.name); return m ? m[1] : null; }
+  function tagged(l, name) { var sec = NAME_COUNT[l.name] > 1 && l.kids.length ? sectionOf(l) : null; return sec ? name + ' (' + SECTION_TAG[sec] + ')' : name; }
   function disp(l) {
     if (GENERIC.test(l.name) && l.parent != null) return l.name + ' (' + L[l.parent].name + ')';
-    return l.name;
+    return tagged(l, l.name);
   }
   function pathOf(l) { var p = []; while (l) { p.unshift(l); l = l.parent != null ? L[l.parent] : null; } return p; }
   function persons(l, u) { var t = l.v[u]; return t ? (t[0] || 0) : 0; }
@@ -898,7 +905,7 @@
     s.go();
     box.focus();
   }
-  $('#btn-tour').addEventListener('click', function () { showTour(0); });
+  $('#btn-tour').addEventListener('click', function (ev) { ev.preventDefault(); showTour(0); });
   $('#tour').addEventListener('click', function (ev) {
     var b = ev.target.closest('[data-tour]'); if (!b) return;
     var a = b.getAttribute('data-tour');
@@ -919,4 +926,5 @@
   renderChecks();
   renderBilSection();
   document.addEventListener('numfmt', function () { render(); renderBilSection(); });
+  if (location.hash === '#tour') showTour(0);          // "Start here" from another page
 })();

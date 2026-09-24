@@ -16,17 +16,20 @@
 <header id="bar">
   <div class="brand">
     <h1><a href="./">Languages of India, 1931</a></h1>
-    <p class="sub">Table XV browser: every figure, with its printed page</p>
+    <p class="sub">Mother tongues in the Census of India, 1931 &middot; Table XV</p>
+    <p class="scope" title="What 'India' means on this site">1931 census territory · includes Burma and Aden · administrative units, not language regions</p>
   </div>
-  <nav aria-label="Sections">
-    <a href="./#explore">Map</a>
-    <a href="./#context">Context</a>
-    <a href="./#cautions">Cautions</a>
+  <nav aria-label="Site">
+    <a href="./#tour" class="btn">Start here</a>
+    <a href="./">Province map</a>
     <a href="districts.html">District map</a>
     <a href="data.html" aria-current="page">Province tables</a>
     <a href="regional.html">District tables</a>
+    <a href="./#context">Context</a>
+    <a href="./#cautions">Cautions</a>
+    <a href="./#bilingual">Second languages</a>
+    <a href="./#method">Sources and method</a>
     <a href="./#resources">Further reading</a>
-    <button type="button" id="btn-num" class="icon-btn num-btn"></button>
     <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
   </nav>
 </header>
@@ -67,6 +70,7 @@
   <div class="toolbar">
     <span id="count" aria-live="polite"></span>
     <span class="spacer"></span>
+    <label class="numfmt" title="Indian grouping (1,23,456; lakh, crore). Untick for international grouping (123,456; thousand, million)."><input type="checkbox" id="opt-num" checked> Indian numbering</label>
     <button type="button" id="dl" class="btn">Download these rows (CSV)</button>
     <button type="button" id="reset" class="btn ghost">Clear filters</button>
   </div>

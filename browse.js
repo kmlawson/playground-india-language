@@ -13,7 +13,14 @@
   function norm(s) { return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
   var GENERIC = /^(others?\b|other\b|.*unspecified|unclassed$)/i;
   function pathOf(l) { var p = []; while (l) { p.unshift(l); l = l.parent != null ? L[l.parent] : null; } return p; }
-  function disp(l) { return GENERIC.test(l.name) && l.parent != null ? l.name + ' (' + L[l.parent].name + ')' : l.name; }
+  // names used in more than one section of the classification (Indo-European Family, Tibeto-Chinese Family,
+  // Indo-Aryan Branch...) carry their section, so the European Indo-European family is not mistaken for India's
+  var SECTION_TAG = { A: 'languages of India', B: 'other Asiatic and African languages', C: 'European languages' };
+  var NAME_COUNT = {};
+  L.forEach(function (l) { NAME_COUNT[l.name] = (NAME_COUNT[l.name] || 0) + 1; });
+  function sectionOf(l) { while (l.parent != null) l = L[l.parent]; var m = /^([ABC])\./.exec(l.name); return m ? m[1] : null; }
+  function tagged(l, name) { var sec = NAME_COUNT[l.name] > 1 && l.kids.length ? sectionOf(l) : null; return sec ? name + ' (' + SECTION_TAG[sec] + ')' : name; }
+  function disp(l) { return GENERIC.test(l.name) && l.parent != null ? l.name + ' (' + L[l.parent].name + ')' : tagged(l, l.name); }
   // the family a node belongs to: the child of its section root
   function family(l) { var p = pathOf(l); return p.length > 1 ? p[1] : p[0]; }
   // nearest printed ancestor-or-self, for a source link on computed groups

@@ -142,6 +142,11 @@ Details are in [LICENSE](LICENSE). The design follows the
 
 The version number and date appear at the foot of every page (`version.js`).
 
+- **2.2** (24 September 2026)
+  - One header on every page, with the same links (the current page marked). "Start here" opens the tour
+    from any page. The number switch sits in the map toggles and the table toolbars.
+  - Family and branch names that occur in more than one section of the classification carry their section,
+    e.g. "Indo-European Family (languages of India)" and "Indo-European Family (European languages)".
 - **2.1** (24 September 2026)
   - District map: no red outlines or hatching on the map. Areas without figures are plain grey, and the
     info card says why.

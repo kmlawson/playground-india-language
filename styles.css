@@ -280,7 +280,7 @@ body { overflow-x: hidden; }
 .toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 12px 0 8px; font-size: 14px; }
 .toolbar .spacer { flex: 1; }
 .toolbar select { width: auto; }
-.numfmt { color: var(--muted); font-size: 13px; }
+.numfmt { color: var(--muted); font-size: 13px; display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 .btn { border: 1px solid var(--ink); background: var(--ink); color: var(--panel); border-radius: 8px; padding: 6px 12px; cursor: pointer; font-size: 13.5px; }
 .btn.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
 .btn:disabled { opacity: .4; cursor: default; }
@@ -415,3 +415,4 @@ input[type=checkbox], input[type=radio] { accent-color: var(--accent); }
 .pop-tip b { display: block; font-size: 13px; }
 .pop-tip .big { display: block; font-size: 16px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .pop-tip .m { display: block; color: var(--muted); font-size: 12px; }
+#bar nav a.btn, #bar nav a.btn:hover { color: var(--panel); background: var(--ink); }
