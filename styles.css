@@ -13,7 +13,7 @@
   --ocean: #cadfeb;
   --land: #ece6d8;        /* a unit with nothing to show */
   --nofig: #dcd8cf;       /* district map: no figures for this area */
-  --sel: #f6dc5a;         /* selection outline: light yellow */
+  --sel: #fff59d;         /* selection outline: bright pastel yellow */
   --neigh: #dcd6c8;
   --neigh-line: #b9b1a1;
   --unit-line: #fffdf8;
@@ -102,7 +102,7 @@ button { font: inherit; color: inherit; }
 .neigh { fill: var(--neigh); stroke: var(--neigh-line); stroke-width: .7; vector-effect: non-scaling-stroke; }
 .neigh-label { fill: var(--muted); font: italic 11px var(--serif); text-anchor: middle; pointer-events: none;
   paint-order: stroke; stroke: var(--neigh); stroke-width: 3px; }
-.extra { fill: url(#hatch); stroke: var(--neigh-line); stroke-width: .6; vector-effect: non-scaling-stroke; }
+.extra { fill: var(--nofig); stroke: var(--neigh-line); stroke-width: .6; vector-effect: non-scaling-stroke; }
 .hatch-line { stroke: var(--hatch); stroke-width: .6; stroke-opacity: .7; }
 .hatch-bg { fill: var(--land); }
 .unit { stroke: var(--unit-line); stroke-width: 1.1; vector-effect: non-scaling-stroke; stroke-linejoin: round;
@@ -318,7 +318,6 @@ a.plain:hover { color: var(--accent); }
 .unit, .neigh, .extra, .over-hatch { fill-rule: evenodd; }
 
 /* ------------------------------------------------------------ second languages */
-.bil-area { fill: none; stroke: var(--ink); stroke-width: 1.6; stroke-dasharray: 4 3; vector-effect: non-scaling-stroke; pointer-events: none; }
 #legend .sw.dash { border: 1.6px dashed var(--ink); background: transparent; }
 .bil-block { margin-top: 10px; padding-top: 8px; border-top: 1px dashed var(--line); }
 .bil-block.inline { border-top: 0; margin-top: 0; padding: 4px 0 8px; }
@@ -344,7 +343,7 @@ a.plain:hover { color: var(--accent); }
 #bar .scope { margin: 2px 0 0; font-size: 12px; color: var(--ink-2); display: inline-block; border: 1px solid var(--line);
   border-radius: 999px; padding: 1px 9px; background: var(--bg); }
 #btn-tour { margin-right: 6px; }
-.modern { fill: none; stroke: var(--ink-2); stroke-width: 1.6; stroke-dasharray: 5 3; vector-effect: non-scaling-stroke; pointer-events: none; }
+.modern { fill: none; stroke: var(--ink-2); stroke-width: 1.4; vector-effect: non-scaling-stroke; pointer-events: none; }
 #g-modern { display: none; }
 #stage.show-modern #g-modern { display: inline; }
 .flag-m { display: inline-block; min-width: 15px; padding: 0 4px; margin-left: 2px; border-radius: 8px; border: 1px solid var(--accent);
@@ -416,3 +415,4 @@ input[type=checkbox], input[type=radio] { accent-color: var(--accent); }
 .pop-tip .big { display: block; font-size: 16px; font-weight: 600; font-variant-numeric: tabular-nums; }
 .pop-tip .m { display: block; color: var(--muted); font-size: 12px; }
 #bar nav a.btn, #bar nav a.btn:hover { color: var(--panel); background: var(--ink); }
+#g-units .unit.nofig { fill: var(--nofig); }

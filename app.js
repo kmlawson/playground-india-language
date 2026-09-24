@@ -189,11 +189,11 @@
           'The tribal population (estimated at 2,212,837) was not enumerated and is not in Table XV, so these figures describe troops and officials, not the tribes.',
     '7': 'Includes Aden (51,478 people, shown separately below). Sind was part of Bombay in 1931. The estimated population of Ahmedabad city (75,735), where the census was boycotted, is not in Table XV.',
     '8': 'Burma was part of British India until 1937. The map draws modern Myanmar’s outline. The census area (233,492 sq. mi) left out unadministered tracts on the northern frontier, and the 19,649 people estimated for East Manglun (Shan States) are not in Table XV.',
-    '3': 'The hatched frontier tracts to the north and east were largely unadministered and not enumerated.',
-    '35': 'Kathiawar, Cutch and the Palanpur agency, as constituted in 1931. The Rann of Kutch (hatched) is not counted in the area.'
+    '3': 'The grey frontier tracts to the north and east were largely unadministered and not enumerated.',
+    '35': 'Kathiawar, Cutch and the Palanpur agency, as constituted in 1931. The Rann of Kutch (grey) is not counted in the area.'
   };
   Object.keys(UNIT_NOTES).forEach(function (u) {
-    if (u === '29' && G.units[u]) el('path', { d: G.units[u].d, class: 'over-hatch' }, $('#g-units'));
+    /* unit 29 is explained in its hover box and info pane, not marked on the map */
   });
   var hovered = null;
   function hover(u) {
@@ -201,9 +201,7 @@
     hovered = u;
     if (u && unitEls[u]) { unitEls[u].classList.add('hover'); unitEls[u].parentNode.appendChild(unitEls[u]); }
     if (state.unit && unitEls[state.unit]) unitEls[state.unit].parentNode.appendChild(unitEls[state.unit]);
-    [].forEach.call(document.querySelectorAll('.over-hatch'), function (o) { o.parentNode.appendChild(o); });
   }
-  if (G.modern) el('path', { d: G.modern, class: 'modern' }, $('#g-modern'));
   G.cities.forEach(function (c) {
     var g = el('g', { class: 'city' }, $('#g-cities'));
     el('circle', { cx: c.x, cy: c.y, r: 2.2 }, g);
@@ -212,9 +210,9 @@
 
   // label anchors: generated representative points, with hand placement where a
   // unit is scattered or its largest piece is not where a reader looks for it.
-  var LABEL_AT = { '21': [74.3, 17.1], '31': [75.9, 30.1], '30': [77.4, 31.3], '4': [67.6, 30.4], '17': [65.3, 27.6],
-    '13': [72.0, 33.0], '29': [70.8, 34.9], '35': [70.6, 22.3], '22': [78.4, 24.3], '23': [83.2, 20.2], '20': [84.9, 21.6],
-    '19': [91.3, 23.8], '16': [93.9, 24.7], '34': [78.9, 30.4], '27': [76.7, 9.3], '18': [73.1, 22.3], '1': [74.6, 26.2],
+  var LABEL_AT = { '21': [73.5, 23.2], '31': [75.9, 30.1], '30': [77.4, 31.3], '4': [67.6, 30.4], '17': [65.3, 27.6],
+    '13': [70.6, 32.0], '29': [72.4, 35.3], '35': [70.6, 22.3], '22': [75.3, 22.7], '23': [83.1, 23.3], '20': [84.9, 21.6],
+    '19': [91.3, 23.8], '16': [93.9, 24.7], '34': [78.5, 30.8], '27': [76.7, 9.3], '18': [73.1, 22.3], '1': [74.6, 26.2],
     '11': [77.2, 28.6], '10': [75.8, 12.4], '33': [88.5, 27.6], '2': [92.8, 11.8], '8': [96.0, 21.0], '3': [92.6, 26.5],
     '26': [75.8, 34.2], '14': [73.4, 31.0], '32': [73.6, 26.5], '24': [77.8, 25.4], '12': [79.3, 14.0], '25': [78.3, 17.8],
     '28': [76.4, 13.4], '9': [79.3, 21.4], '6': [85.7, 24.6], '5': [89.2, 23.6], '15': [80.8, 27.0], '7': [74.6, 19.5] };
@@ -274,8 +272,11 @@
       [].forEach.call(t.querySelectorAll('tspan'), function (ts) { ts.setAttribute('dy', '1.15em'); });
       var b; try { b = t.getBBox(); } catch (e) { return; }
       var pad = b.height * 0.08, placed = false;
+      var owner = unitEls[t.getAttribute('data-u')];
       [0, -1.05, 1.05, -2.1, 2.1].some(function (m) {
         var bb = { x: b.x, y: b.y + m * b.height, width: b.width, height: b.height };
+        // a moved label must still sit over its own unit
+        if (m && owner && owner.isPointInFill && !owner.isPointInFill(new DOMPoint(bb.x + bb.width / 2, bb.y + bb.height / 2))) return false;
         if (!hits(bb, pad)) { t.setAttribute('y', +y0 + m * b.height); kept.push(bb); placed = true; return true; }
         return false;
       });
@@ -374,6 +375,8 @@
         else h += '<span class="big">' + fmtW.format(Math.round(t[2] / t[1] * 1000)) + '</span> females per 1,000 males<br><span class="m">' + num(t[1]) + ' m · ' + num(t[2]) + ' f</span>';
       }
       if (fl) h += '<br><span class="m warn">' + esc(fl[0] + ' ' + fl[1]) + '</span>';
+      var be = BIL_BY_LANG[l.id];
+      if (be) h += '<br><span class="m">' + (be.units.some(function (x) { return x === u || (u === '27' && (x === '27a' || x === '27b')); }) ? 'Second-language (Part II) returns for ' + esc(disp(l)) + ' include this unit.' : 'No second-language (Part II) returns for ' + esc(disp(l)) + ' from this unit.') + '</span>';
     } else if (state.mode === 'lead') {
       var d = LEAD[u];
       h += '<span class="big">' + esc(disp(d.lang)) + '</span><br>' + pct(d.share) + ' · ' + num(d.n) + ' speakers';
@@ -410,17 +413,17 @@
     MAP_UNITS.forEach(function (u) {
       var p = unitEls[u]; if (!p) return;
       var v = valueFor(u);
-      p.classList.remove('zero'); p.style.fill = '';
+      p.classList.remove('zero', 'nofig'); p.style.fill = '';
       if (sk === 'count') {
         p.classList.add('zero');
         if (v > 0) {
           var a = anchor(u);
           el('circle', { cx: a[0], cy: a[1], r: Math.max(1.2, Math.sqrt(v / maxN) * RMAX), class: 'circle' }, gC);
         }
-      } else if (sk === 'div' && NOT_COMPARABLE[u]) {
-        p.style.fill = 'url(#hatch)';
+      } else if (NOT_COMPARABLE[u]) {
+        p.classList.add('nofig');           // garrisons only: grey in every colour view; figures in the hover box and pane
       } else if (sk === 'sex') {
-        if (v == null) p.style.fill = 'url(#hatch)';
+        if (v == null) p.classList.add('nofig');
         else p.style.fill = cssv(sc.vars[bin(sc, v)]);
       } else if (v == null || v === 0) {
         p.classList.add('zero');
@@ -429,25 +432,20 @@
       }
       // labels
       var a2 = anchor(u), txt = null, sub = null;
-      if (state.mode === 'lead') { txt = shortName(LEAD[u].lang); sub = pct(LEAD[u].share); }
+      if (NOT_COMPARABLE[u] && sk !== 'count') { txt = null; }
+      else if (state.mode === 'lead') { txt = shortName(LEAD[u].lang); sub = pct(LEAD[u].share); }
       else if (state.mode === 'div') { txt = DIV[u] == null || NOT_COMPARABLE[u] ? null : DIV[u].toFixed(2); }
       else if (sk === 'share' || sk === 'dist') { if (v > 0) txt = pct(v); }
       else if (sk === 'count') { if (v > 0 && v / maxN > 0.02) txt = compact(v); }
       else if (sk === 'sex') { if (v != null) txt = fmtW.format(Math.round(v)); }
       p.setAttribute('aria-label', UNITS[u].name + ': ' + (txt ? txt + (sub ? ' ' + sub : '') : 'no value') + (state.mode === 'lang' ? ' (' + disp(state.lang) + ')' : state.mode === 'div' ? ' (diversity)' : ''));
       if (txt) {
-        var t = el('text', { x: a2[0], y: a2[1] + (sk === 'count' ? 0 : 3), class: 'label' + (SMALL[u] ? ' small' : ''), 'data-pri': popOf(u) }, gL);
+        var t = el('text', { x: a2[0], y: a2[1] + (sk === 'count' ? 0 : 3), class: 'label' + (SMALL[u] ? ' small' : ''), 'data-pri': popOf(u), 'data-u': u }, gL);
         t.textContent = txt;
         if (sub) { var ts = el('tspan', { x: a2[0], dy: '1.15em', class: 'v' }, t); ts.textContent = sub; }
       }
     });
-    // provinces from which the language's Part II returns came
-    var gB = $('#g-bil'); gB.textContent = '';
-    var be = state.mode === 'lang' ? BIL_BY_LANG[state.lang.id] : null;
-    if (be) be.units.forEach(function (u) {
-      var mu = u === '27a' || u === '27b' ? '27' : u;
-      if (G.units[mu]) el('path', { d: G.units[mu].d, class: 'bil-area' }, gB);
-    });
+    // which provinces sent second-language returns is said in the hover box, not drawn
     if (state.unit && unitEls[state.unit]) unitEls[state.unit].classList.add('sel');
     applyView();
     renderLegend(sk, sc, maxN, RMAX);
@@ -483,12 +481,11 @@
       h += '<div class="bins">' + sc.vars.map(function (v) { return '<span style="background:' + cssv(v) + '"></span>'; }).join('') + '</div>';
       h += '<div class="ticks">' + sc.ticks.map(function (t) { return '<span>' + t + '</span>'; }).join('') + '</div>';
       if (sk === 'share' || sk === 'dist') h += '<div class="row"><span class="sw" style="background:var(--land)"></span> none recorded</div>';
-      if (sk === 'sex') h += '<div class="row"><span class="sw hatch"></span> fewer than ' + SEX_MIN + ' speakers</div><div class="note">Blue: mostly men (often migrants). Orange: mostly women. All India overall: ' + Math.round(UNITS.INDIA.pop[2] / UNITS.INDIA.pop[1] * 1000) + '.</div>';
-      if (sk === 'div') h += '<div class="note">1 − Σp² over the table’s ' + DIV_LEVELS[divLevel] + '. 0 = everyone in one category. It depends on how finely the census divided languages, so the level changes the ranking.</div><div class="row"><span class="sw hatch"></span> not comparable (garrisons only)</div>';
+      if (sk === 'sex') h += '<div class="row"><span class="sw nofig"></span> fewer than ' + SEX_MIN + ' speakers</div><div class="note">Blue: mostly men (often migrants). Orange: mostly women. All India overall: ' + Math.round(UNITS.INDIA.pop[2] / UNITS.INDIA.pop[1] * 1000) + '.</div>';
+      if (sk === 'div') h += '<div class="note">1 − Σp² over the table’s ' + DIV_LEVELS[divLevel] + '. 0 = everyone in one category. It depends on how finely the census divided languages, so the level changes the ranking.</div><div class="row"><span class="sw nofig"></span> not comparable (garrisons only)</div>';
     }
-    h += '<div class="row"><span class="sw hatch"></span> not enumerated / not a census unit</div>';
+    h += '<div class="row"><span class="sw nofig"></span> not enumerated / not a census unit · hover for details</div>';
     h += '<div class="note symbols">Source marks: <b>!</b> printed inconsistency · <b>?</b> illegible · <b>Σ</b> calculated · <b>≈</b> estimated or approximate</div>';
-    if (state.mode === 'lang' && BIL_BY_LANG[state.lang.id]) h += '<div class="row"><span class="sw dash"></span> provinces with second-language returns</div>';
     $('#legend').innerHTML = h;
   }
   function niceSteps(max) {
@@ -569,11 +566,11 @@
     h += '<div class="stat"><div><b>' + pct(p) + '</b><span>returned a second language</span></div><div><b>' + num(e.bilingual) + '</b><span>of ' + num(e.total) + ' speakers</span></div></div>';
     if (e.coverage != null) {
       h += '<div class="coverage"><span class="lbl">Coverage</span><div class="cov-track" role="img" aria-label="Covers ' + e.coverage + '% of all-India speakers"><span style="width:' + Math.min(100, e.coverage) + '%"></span></div>';
-      h += '<div class="cite">Part II covers <b>' + num(e.total) + '</b> of the <b>' + num(e.india) + '</b> ' + esc(e.mt) + ' speakers in Part I (<b>' + e.coverage + '%</b>). Returns come from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).';
+      h += '<div class="cite">Part II covers <b>' + num(e.total) + '</b> of the <b>' + num(e.india) + '</b> ' + esc(e.mt) + ' speakers in Part I (<b>' + e.coverage + '%</b>). Returns come from ' + esc(e.areas.join(', ')) + ' only.';
       if (e.omitted && e.omitted.length) h += ' Not covered: ' + e.omitted.slice(0, 6).map(function (o) { return esc(o[1]) + ' (' + fmtW.format(o[2]) + ')'; }).join(', ') + (e.omitted.length > 6 ? '…' : '') + '.';
       h += '</div>' + (e.coverage < 50 ? '<div class="note-box">≈ Under half of this language’s speakers are covered. Don’t read these shares as the language’s overall bilingualism.</div>' : '') + '</div>';
     } else {
-      h += '<div class="cite">Returns from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).</div>';
+      h += '<div class="cite">Returns from ' + esc(e.areas.join(', ')) + ' only.</div>';
     }
     h += '<div class="cite">' + (e.diff ? '<b>!</b> Breakdown does not reconcile with the printed total (see below).' : '✓ Breakdown reconciles with the printed total.') + '</div>';
     h += '<ul class="bars">' + shown.map(function (x) {
@@ -719,11 +716,10 @@
     if (lv) { unitLevel = lv.getAttribute('data-level'); renderUnit(); return; }
     if (ev.target.closest('#unit-panel [data-all]')) { unitAll = !unitAll; renderUnit(); }
   });
-  ['opt-labels', 'opt-cities', 'opt-modern'].forEach(function (id) {
+  ['opt-labels', 'opt-cities'].forEach(function (id) {
     $('#' + id).addEventListener('change', function () {
       stage.classList.toggle('no-labels', !$('#opt-labels').checked);
       stage.classList.toggle('show-cities', $('#opt-cities').checked);
-      stage.classList.toggle('show-modern', $('#opt-modern').checked);
       declutter();
     });
   });

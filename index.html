@@ -64,7 +64,6 @@
           <g id="g-neigh"></g>
           <g id="g-extra"></g>
           <g id="g-units"></g>
-          <g id="g-modern"></g>
           <g id="g-bil"></g>
           <g id="g-circles"></g>
           <g id="g-cities"></g>
@@ -80,7 +79,6 @@
       <div id="map-toggles">
         <label><input type="checkbox" id="opt-labels" checked> Labels</label>
         <label><input type="checkbox" id="opt-cities"> Cities</label>
-        <label title="Show present-day international borders over the 1931 units"><input type="checkbox" id="opt-modern"> Modern borders</label>
         <label title="Indian grouping (1,23,456; lakh, crore). Untick for international grouping (123,456; thousand, million)."><input type="checkbox" id="opt-num" checked> Indian numbering</label>
       </div>
       <div id="tooltip" role="tooltip" hidden></div>
@@ -178,7 +176,7 @@
     <li><b>Some returns were politically coloured.</b> In the Oriya–Telugu and Oriya–Bengali borderlands there were rival campaigns over the boundaries of a new Orissa province. Hutton says they led people to “plump” for one language and to hide their bilingualism (para.&nbsp;148). In <b>Bhopal</b> (in the Central India Agency), Urdu was returned “in deliberate disregard of the actual facts” for Hindus as well as Muslims. Elsewhere some Muslims returned Urdu (Hindustani) as their mother tongue and the local vernacular as a second language, “though the precise opposite was the real fact”. In Bastar, some Gonds returned Halbi instead of Gondi because Halbi carried more status (para.&nbsp;149).</li>
     <li><b>Tribal languages are probably undercounted.</b> Speakers who were bilingual in a regional language were often recorded under that language. For instance, the Central Provinces superintendent, quoted by Hutton, found that of 84,971 Sawaras “not a single one returned the tribal language”. The new subsidiary-language column helped, but only in some places.</li>
     <li><b>Units are administrative, not linguistic.</b> The map shades whole provinces and agencies. Bengal, Madras or Hyderabad each contained several large language areas. For district detail you need the provincial volumes (see <a href="#resources">Further reading</a>).</li>
-    <li><b>Frontier areas were only partly enumerated.</b> Most of the North-West Frontier’s agencies and tribal areas (an estimated 2.2 million people) were not enumerated individually and are not in Table XV. The “NWFP Agencies &amp; Tribal Areas” row covers only 46,451 people, 96% of them men, in effect the garrisons and posts. The map hatches this unit so that its shading is not read as describing the tribes. The census also left out or estimated parts of the Assam hill tracts and the Burmese frontier. The north-eastern tracts beyond the administered border are hatched on the map and have no figures.</li>
+    <li><b>Frontier areas were only partly enumerated.</b> Most of the North-West Frontier’s agencies and tribal areas (an estimated 2.2 million people) were not enumerated individually and are not in Table XV. The “NWFP Agencies &amp; Tribal Areas” row covers only 46,451 people, 96% of them men, in effect the garrisons and posts. Its hover box and info pane say so, so that its shading is not read as describing the tribes. The census also left out or estimated parts of the Assam hill tracts and the Burmese frontier. The north-eastern tracts beyond the administered border are grey on the map and have no figures.</li>
     <li><b>Burma and Aden were part of “India” in 1931.</b> Both are counted in the India totals. Burma accounts for most of the Tibeto-Chinese and Karen figures. Aden sits inside Bombay (row 7), and its figures are shown in Bombay’s panel.</li>
     <li><b>Migrants show up everywhere.</b> A few thousand speakers of a northern language in a southern province usually means soldiers, traders, labourers or officials, not a settled community. The “Females/1,000 males” measure helps spot these groups: migrant groups tend to be mostly male.</li>
     <li><b>The boundaries drawn here are approximate.</b> They are good enough to show which unit is which, but they are not survey-accurate. <a href="#method">Data</a> explains how they were built.</li>
@@ -213,7 +211,7 @@
     <li>Kathiawar, Cutch and Palanpur form the Western India States Agency;</li>
     <li>the Simla Hill States are separated from the Punjab States Agency.</li>
   </ul>
-  <p>Some 1931 boundaries match modern districts closely, and for these the modern districts replace plague_india’s hand trace. They are Coorg (Kodagu), the NWFP districts and tribal agencies, Tehri Garhwal and Rampur, Manipur, Tripura and Cooch Behar, the Simla Hill States, Bahawalpur, Sind, and Burma (modern Myanmar). The same goes for the lines that became today’s international borders. The Rann of Kutch (from OpenStreetMap, ODbL) is drawn as salt waste, since Table I counts it in no unit’s area. The north-east frontier tracts, Portuguese and French India, and Muscat’s Gwadar are hatched.</p>
+  <p>Some 1931 boundaries match modern districts closely, and for these the modern districts replace plague_india’s hand trace. They are Coorg (Kodagu), the NWFP districts and tribal agencies, Tehri Garhwal and Rampur, Manipur, Tripura and Cooch Behar, the Simla Hill States, Bahawalpur, Sind, and Burma (modern Myanmar). The same goes for the lines that became today’s international borders. The Rann of Kutch (from OpenStreetMap, ODbL) is drawn as salt waste, since Table I counts it in no unit’s area. The north-east frontier tracts, Portuguese and French India, and Muscat’s Gwadar are grey.</p>
   <p>Every modern state and province then has a list of the 1931 units that could lie inside it. Any other unit found there must be an overshoot of the base map, and goes to the neighbouring unit it belongs with. The list keeps deliberate exceptions for real historical outliers: Madras’s Munagala and Bhadrachalam in Telangana, Tonk’s Sironj in Madhya Pradesh, Khariar in Odisha, Seraikela and Kharsawan in Jharkhand, and Datia and Samthar in Uttar Pradesh. After that, thin strips where two sources’ lines disagree, and leftover fragments, go to the unit they sit against. All shapes are simplified together, so neighbours share one line with no gaps or overlaps. The scripts are <code>tools/build_geo.py</code>, <code>tools/geo_audit.py</code> and <code>tools/area_check.py</code>.</p>
   <p>To check the boundaries, each polygon’s area was compared with the area printed for its unit in Table I. The map total comes within 1.4% of the printed all-India figure (1,808,679 sq. mi), and every unit is within about ±10%, except the Andaman and Nicobar Islands, whose coastlines are modern. The full comparison is below.</p>
   <div id="area-table"></div>
@@ -240,6 +238,15 @@
     <li>Asha Sarangi, “Enumeration and the Linguistic Identity Formation in Colonial North India”, <i>Studies in History</i> 25:2 (2009), 197–227. <a href="https://journals.sagepub.com/doi/abs/10.1177/025764301002500202">SAGE</a>. How census operations standardised linguistic diversity in the north.</li>
     <li>Thomas R. Trautmann, <i>Languages and Nations: The Dravidian Proof in Colonial Madras</i> (University of California Press, 2006). The intellectual history behind the table’s “Dravidian Family”.</li>
     <li>Javed Majeed, <i>Colonialism and Knowledge in Grierson’s Linguistic Survey of India</i> (Routledge, 2018). How the survey behind this classification was made.</li>
+    <li>Javed Majeed, <i>Nation and Region in Grierson’s Linguistic Survey of India</i> (Routledge, 2018). The companion volume: how the survey mapped languages onto regions and nations.</li>
+    <li>Richard Steadman-Jones, <i>Colonialism and Grammatical Representation: John Gilchrist and the Analysis of the ‘Hindustani’ Language in the Late Eighteenth and Early Nineteenth Centuries</i> (Philological Society, 2007). Where the British category “Hindustani” came from.</li>
+    <li>Pritipuspa Mishra, “The Mortality of Hindustani”, <i>Parallax</i> 18 (2012), 71–83; Alok Rai, “The Persistence of Hindustani”, <i>Annual of Urdu Studies</i> 20 (2005), 135–44. Two views of the category that the 1931 provincial tables print but Vol. I breaks up.</li>
+    <li>Walter N. Hakala, <i>Negotiating Languages: Urdu, Hindi, and the Definition of Modern South Asia</i> (Columbia University Press, 2016). How dictionaries and lexicographers drew the line between Hindi and Urdu.</li>
+    <li>Farina Mir, “Imperial Policy, Provincial Practices: Colonial Language Policy in Nineteenth-Century India”, <i>Indian Economic and Social History Review</i> 43:4 (2006), 395–427. Why provinces made different language choices under one imperial policy.</li>
+    <li>Judith T. Irvine, “Language Fields: Robert Needham Cust’s Language Map of South Asia, 1878”, in Cynthia Talbot (ed.), <i>Knowing India: Colonial and Modern Constructions of the Past</i> (Yoda Press, 2011). How language maps like this site’s ancestors were made.</li>
+    <li>Leslie F. Taylor, <i>The Ethnographical and Linguistic Survey of Burma: An Account of Its Institution and Progress</i> (Heffer, 1948); Carol A. Boshier, “Leslie Fernandes Taylor and the ‘Lost’ Linguistic and Ethnographical Survey of Burma”, <i>SOAS Journal of Postgraduate Research</i> 6 (2014), 49–76. Burma’s own, unfinished language survey.</li>
+    <li>Christopher A. Bayly, <i>Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870</i> (Cambridge University Press, 1996). The information order that the census grew out of.</li>
+    <li>Colin P. Masica, <i>The Indo-Aryan Languages</i> (Cambridge University Press, 1991). The standard linguistic reference for the groups behind Western and Eastern Hindi, Bihari, Rajasthani and Lahnda.</li>
     <li>Christopher R. King, <i>One Language, Two Scripts: The Hindi Movement in Nineteenth Century North India</i> (Oxford University Press, 1994). The script politics that led to the 1931 return of “Hindustani”.</li>
   </ul>
 
@@ -250,7 +257,13 @@
     <li>Lisa Mitchell, <i>Language, Emotion, and Politics in South India: The Making of a Mother Tongue</i> (Indiana University Press, 2009). How “mother tongue”, the very census category, became an object of attachment in Telugu.</li>
     <li>Veena Naregal, <i>Language Politics, Elites, and the Public Sphere: Western India under Colonialism</i> (Permanent Black, 2001). Marathi print, bilingual elites and linguistic hierarchy in western India.</li>
     <li>Mithilesh Kumar Jha, <i>Language Politics and Public Sphere in North India: Making of the Maithili Movement</i> (Oxford University Press, 2018), <a href="https://academic.oup.com/book/32339">Oxford Academic</a>. How Maithili became “minor” within the Hindi sphere, including through census classification and mapping. Maithili is folded into “Bihari” in these tables.</li>
+    <li>Richard Burghart, “A Quarrel in the Language Family: Agency and Representations of Speech in Mithila”, <i>Modern Asian Studies</i> 27:4 (1993), 761–804. Maithili against Hindi, and what “Bihari” in the tables covers.</li>
     <li>Paul R. Brass, <i>Language, Religion and Politics in North India</i> (Cambridge University Press, 1974); Alok Rai, <i>Hindi Nationalism</i> (Orient Longman, 2001). Hindi, Urdu and Punjabi politics around and after these returns.</li>
+    <li>Farina Mir, <i>The Social Space of Language: Vernacular Culture in British Colonial Punjab</i> (University of California Press, 2010). Punjabi literary culture under a colonial state that favoured Urdu.</li>
+    <li>Christopher Shackle, <i>From Wuch to Southern Lahnda: A Century of Siraiki Studies in English</i> (Bazm-e Saqafat, 1983). The history of the “Lahnda” category and what became Siraiki.</li>
+    <li>Chitralekha Zutshi, <i>Languages of Belonging: Islam, Regional Identity, and the Making of Kashmir</i> (Hurst, 2004). Language and identity in Jammu and Kashmir.</li>
+    <li>Jayeeta Sharma, <i>Empire’s Garden: Assam and the Making of Modern India</i> (Duke University Press, 2011). Tea, migrant labour and Assamese identity: why Mundari, Oriya and Santali appear in Assam’s tables.</li>
+    <li>S. C. Patra, <i>Formation of the Province of Orissa: The Success of the First Linguistic Movement in India</i> (Punthi Pustak, 1979). The Orissa province that the 1931 returns helped create.</li>
     <li><i>Report of the Orissa Committee</i> (1932). The boundary committee that asked for the 1931 language returns.</li>
   </ul>
 
@@ -259,6 +272,8 @@
     <li>UNESCO and IGNCA, <i>Tribal and Indigenous Languages of India</i> (2022), <a href="https://www.unesco.org/en/articles/unesco-launches-report-indias-tribal-and-indigenous-languages">UNESCO</a>. A review of what official records and surveys do and do not say about tribal languages, and a route into endangerment and documentation.</li>
     <li>G. N. Devy (chief ed.), <i>People’s Linguistic Survey of India</i> (Orient BlackSwan, 2012–), <a href="https://orientblackswan.com/books?id=0&amp;pid=0&amp;sid=191">volumes</a>. A speaker-centred counterpoint to official classification, recording some 780 languages.</li>
     <li>Anvita Abbi, “Vanishing Diversities and Submerging Identities”, in Asha Sarangi (ed.), <i>Language and Politics in India</i> (below). Tribal languages under the pressure of regional and national ones, which is the process Hutton’s “survival of tribal languages” section describes.</li>
+    <li>Prathama Banerjee, <i>Politics of Time: “Primitive” and History-Writing in a Colonial Society</i> (Oxford University Press, 2006). How the Santals were written into and out of history.</li>
+    <li>Felix Padel, <i>The Sacrifice of Human Being: British Rule and the Khonds of Orissa</i> (Oxford University Press, 2001). Colonial rule and the Kond (Kui) speakers counted in these tables.</li>
   </ul>
 
   <h3>After Partition</h3>
@@ -267,6 +282,8 @@
     <li>Tariq Rahman, <i>Language and Politics in Pakistan</i> (Oxford University Press, Karachi, 1996). What became of Urdu, Bengali, Sindhi, Pashto, Siraiki, Balochi and Punjabi in the western half of these tables, and of the Bengali movement.</li>
     <li>Sanjib Baruah, <i>India Against Itself: Assam and the Politics of Nationality</i> (University of Pennsylvania Press, 1999), <a href="https://www.pennpress.org/9780812234916/india-against-itself/">Penn Press</a>. Assam and the northeast, where the 1931 Assamese–Bengali figures later became explosive.</li>
     <li>Sudipta Kaviraj, “Writing, Speaking, Being: Language and the Historical Formation of Identities in India”, in D. Hellmann-Rajanayagam and D. Rothermund (eds.), <i>Nationalstaat und Sprachkonflikte in Süd- und Südostasien</i> (1992). An influential essay on how languages became identities.</li>
+    <li>Jyotirindra Das Gupta, <i>Language Conflict and National Development: Group Politics and National Language Policy in India</i> (University of California Press, 1970); Robert D. King, <i>Nehru and the Language Politics of India</i> (Oxford University Press, 1997). The fight over a national language after 1947.</li>
+    <li>B. R. Ambedkar, <i>Thoughts on Linguistic States</i> (1955), and the <i>Report of the States Reorganisation Commission</i> (Government of India, 1955). The redrawing of states along language lines that these tables anticipated.</li>
   </ul>
 
   <h3>Maps</h3>

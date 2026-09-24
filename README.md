@@ -140,14 +140,26 @@ Details are in [LICENSE](LICENSE). The design follows the
 
 ## Versions
 
-The version number and date appear at the foot of every page (`version.js`).
+The version is **1.xxx**, where xxx counts the pushes to the published site; it goes up by one on every push.
+The number and date appear at the foot of every page (`version.js`).
 
-- **2.2** (24 September 2026)
+- **1.009** (24 September 2026)
+  - Province map: no dashed or hatched marks. Areas without figures are plain grey, and the explanations are in
+    the hover box and info pane. The NWFP agencies (garrisons only) are grey in the colour views.
+  - Label positions checked against their units: the Central Provinces States, Central India Agency, Bombay
+    States, NWFP districts and agencies, and United Provinces States labels had sat over a neighbour. A label
+    moved out of a collision now stays over its own unit.
+  - The "Modern borders" toggle is gone from the province map as well.
+  - The selection outline is a bright pastel yellow.
+  - Further reading: 17 works from the bibliographies of Majeed (2018) and Mishra (2020), on Hindustani, Punjab,
+    Lahnda, Kashmir, Assam, Mithila, Orissa, Burma's language survey, Adivasi history and post-1947 language
+    politics.
+- **1.008** (24 September 2026), released as 2.2
   - One header on every page, with the same links (the current page marked). "Start here" opens the tour
     from any page. The number switch sits in the map toggles and the table toolbars.
   - Family and branch names that occur in more than one section of the classification carry their section,
     e.g. "Indo-European Family (languages of India)" and "Indo-European Family (European languages)".
-- **2.1** (24 September 2026)
+- **1.007** (24 September 2026), released as 2.1
   - District map: no red outlines or hatching on the map. Areas without figures are plain grey, and the
     info card says why.
   - A selected area's card moves to the top of the side panel; × clears it.
@@ -165,7 +177,7 @@ The version number and date appear at the foot of every page (`version.js`).
   - District map cards link the relevant provincial plate(s) of the *Imperial Gazetteer of India, Atlas* (1931)
     at the Digital South Asia Library, and explain why a unit groups several 1931 areas.
   - Burma is drawn on its 1931 districts (from the Japanese Empire map's admin layer) instead of by division.
-- **2.0** (24 September 2026)
+- **1.006** (24 September 2026), released as 2.0
   - District map from 24 provincial and state volumes, drawn on present-day districts through the 1931–2024
     district lineage.
   - Each unit's population in every census 1901–2011 (Census 2011, Table A-2), checked against 1931.
@@ -174,9 +186,8 @@ The version number and date appear at the foot of every page (`version.js`).
   - `docs/regional.md` documents the method.
   - Licence is now CC0 for this project's own work.
   - Lighter hatching.
-- **1.x** (August–September 2026)
-  - Province map of Vol. I Table XV Part I.
-  - Bilingualism (Part II).
-  - Province tables.
-  - Boundary cleanup.
-  - Guided tour and reading guide.
+- **1.005**: guided tour, reading guide, interpretive safeguards and accessibility.
+- **1.004**: bilingualism (Table XV Part II).
+- **1.003**: boundary cleanup throughout the map.
+- **1.002**: removed a false Punjab strip between Bahawalpur and Bikaner.
+- **1.001**: the province map of Vol. I Table XV Part I, with the Province tables.

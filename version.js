@@ -1,5 +1,6 @@
-/* Shared by every page: the site version and last-update date (shown at the foot of each page; bump both
- * on each release, see "Versions" in README.md), the number-format switch in the header, and the offset
+/* Shared by every page: the site version and last-update date (shown at the foot of each page). The version
+ * is 1.xxx, where xxx counts the pushes to the published site: bump it by one on every push (see "Versions" in
+ * README.md), the number-format switch in the header, and the offset
  * that keeps in-page links below the sticky header. */
 (function () {
   // number format: Indian grouping (1,23,456; lakh, crore) or international (123,456; thousand, million)
@@ -38,7 +39,7 @@
     var c = document.getElementById('opt-num');
     if (c) c.addEventListener('change', function () { window.NUMFMT.set(c.checked ? 'in' : 'intl'); });
   }
-  var SITE = { version: '2.2', updated: '24 September 2026' };
+  var SITE = { version: '1.009', updated: '24 September 2026' };
   window.SITE = SITE;
   function fill() {
     [].forEach.call(document.querySelectorAll('.version'), function (el) {
