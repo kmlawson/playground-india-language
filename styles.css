@@ -143,16 +143,21 @@ button { font: inherit; color: inherit; }
 #tooltip .m { color: var(--muted); font-size: 12px; }
 
 /* ------------------------------------------------------------ side */
+/* side panel: a selected unit's card on top (up to two-thirds of the window), the controls below; each scrolls on its own */
 #side {
-  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px;
-  overflow-y: auto; display: flex; flex-direction: column; gap: 12px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 0;
+  overflow: hidden; display: flex; flex-direction: column;
 }
+#side-main { flex: 1 1 auto; min-height: 0; overflow-y: auto; padding: 12px; display: flex; flex-direction: column; gap: 12px; }
+#side-main > * { flex-shrink: 0; }
+#side > #unit-panel { flex: 0 0 auto; max-height: 66vh; overflow-y: auto; padding: 12px; border-top: 0;
+  border-bottom: 2px solid var(--line); background: var(--panel); }
 .seg { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
-.seg button { flex: 1; border: 0; background: transparent; padding: 7px 6px; cursor: pointer; font-size: 13.5px; }
+.seg button { flex: 1; border: 0; background: transparent; padding: 4px 6px; cursor: pointer; font-size: 13px; line-height: 1.25; white-space: nowrap; }
 .seg button + button { border-left: 1px solid var(--line); }
 .seg button[aria-selected="true"], .seg button[aria-checked="true"] { background: var(--ink); color: var(--panel); }
 .seg.small { flex-wrap: wrap; }
-.seg.small button { font-size: 12.5px; padding: 6px 4px; flex: 1 1 45%; }
+.seg.small button { font-size: 12.5px; padding: 3px 4px; flex: 1 1 45%; }
 .seg.small button:nth-child(3) { border-left: 0; }
 .seg.small button:nth-child(n+3) { border-top: 1px solid var(--line); }
 .field { display: flex; flex-direction: column; gap: 6px; }
@@ -246,6 +251,7 @@ table.data tr.sub td:first-child { padding-left: 22px; font-style: italic; }
   #explore { padding: 8px 8px 0; }
   #stage { height: 62vh; min-height: 380px; }
   #side { max-height: none; overflow: visible; }
+  #side-main, #side > #unit-panel { overflow: visible; max-height: none; }
   #bar .sub { display: none; }
   #bar nav a { padding: 3px 5px; font-size: 13px; }
 }
@@ -257,7 +263,6 @@ table.data tr.sub td:first-child { padding-left: 22px; font-style: italic; }
 @media (forced-colors: active) {
   .unit { stroke: CanvasText; }
 }
-#side > * { flex-shrink: 0; }
 .over-hatch { fill: url(#hatch-clear); stroke: none; pointer-events: none; }
 #stage, #side { min-width: 0; }
 body { overflow-x: hidden; }
@@ -404,7 +409,6 @@ table.sens tr[role="button"]:hover td { background: var(--line-soft); }
 #g-base .nofig-base, #g-extra .nofig-base { fill: var(--nofig); stroke: none; pointer-events: none; }
 #g-units .unit.nofig { fill: var(--nofig); }
 #legend .sw.nofig { background: var(--nofig); }
-#side > #unit-panel:first-child { border-top: 0; padding-top: 0; border-bottom: 1px solid var(--line); padding-bottom: 12px; }
 .icon-btn.num-btn { width: auto; padding: 0 8px; font: 500 12.5px var(--sans); font-variant-numeric: tabular-nums; }
 .pop-block > .lbl { display: block; }
 input[type=checkbox], input[type=radio] { accent-color: var(--accent); }
@@ -416,3 +420,12 @@ input[type=checkbox], input[type=radio] { accent-color: var(--accent); }
 .pop-tip .m { display: block; color: var(--muted); font-size: 12px; }
 #bar nav a.btn, #bar nav a.btn:hover { color: var(--panel); background: var(--ink); }
 #g-units .unit.nofig { fill: var(--nofig); }
+#unit-panel .close { position: sticky; top: 0; z-index: 2; background: var(--panel); }
+/* "Largest language" legend: colour chips grouped by family */
+.lc-fam { display: flex; flex-wrap: wrap; align-items: center; gap: 3px 4px; margin: 5px 0; }
+.lc-name { font-size: 11.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; width: 100%; }
+.lc-chip { display: inline-flex; align-items: center; gap: 4px; border: 1px solid var(--line); background: transparent; border-radius: 999px;
+  padding: 1px 7px 1px 4px; font-size: 12px; cursor: pointer; color: var(--ink); }
+.lc-chip:hover { background: var(--line-soft); }
+.lc-chip .sw { width: 11px; height: 11px; border-radius: 50%; border: 0; flex: none; }
+#legend .sw.lc-tints { background: linear-gradient(90deg, hsl(20 62% 45%), hsl(20 44% 72%)); }

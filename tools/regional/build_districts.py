@@ -347,6 +347,14 @@ def main():
             w[m['area'] if m['vol'] == 'india' else m['vol']] += ((m.get('check') or [0])[0] or 1)
         groups[w.most_common(1)[0][0]].append(i)
     prov = [{'g': k, 'd': path(fix(unary_union([simp[i] for i in ix])))} for k, ix in sorted(groups.items())]
+    # neighbours (units sharing a boundary), so the map can label each contiguous block of units once
+    from shapely.strtree import STRtree
+    tree = STRtree(simp)
+    nbrs = []
+    for i, g in enumerate(simp):
+        gb = g.buffer(0.3)
+        nbrs.append(sorted(int(j) for j in tree.query(gb) if j != i and gb.intersection(simp[j]).length > 0.5 or
+                           (j != i and gb.intersection(simp[j]).area > 0.05)))
     out = []
     for u, g, g0 in zip(units_out, simp, geoms):
         big = max(g0.geoms, key=lambda p: p.area) if hasattr(g0, 'geoms') else g0
@@ -355,7 +363,8 @@ def main():
                     'members': u['members'], 'missing31': u['missing31'], 'status': u['status'], 'pop': u['pop'],
                     'vals': u['vals'], 'shapes': u['shapes'], 'note': u['note'],
                     'coarse': any(m['vol'] == 'burma' for m in u['members']),
-                    'series': u['series'], 'snote': u['snote'], 'd2011': u['d2011']})
+                    'series': u['series'], 'snote': u['snote'], 'd2011': u['d2011'],
+                    'nb': nbrs[len(out)], 'ar': round(g0.area, 1)})
     # every regional figure used, long format, with its classification match and map unit
     import csv
     unit_of = {}

@@ -580,10 +580,18 @@ for k in order:
     lx, ly = label_pt(U[k])
     units[k] = {'d': cpath(k, minarea=0.02 if k in ('2', '12') else (0.3 if k in ('11', '33', '10') else 0.6)), 'lx': lx, 'ly': ly}
 extra = {k: {'d': cpath(k), 'lx': label_pt(v)[0], 'ly': label_pt(v)[1]} for k, v in X.items() if not v.is_empty}
+# neighbours and areas (projected units), so the "Largest language" view can label each contiguous block once
+for k in units:
+    gk = proj(U[k]).buffer(0.6)
+    units[k]["nb"] = sorted(j for j in units if j != k and gk.intersection(proj(U[j])).area > 0.1)
+    units[k]["ar"] = round(proj(U[k]).area, 1)
 
 neigh = []
-for n in ['Afghanistan', 'Iran', 'Nepal', 'Bhutan', 'China', 'Sri Lanka', 'Thailand', 'Laos',
-          'Tajikistan', 'Oman', 'Turkmenistan', 'Uzbekistan', 'Malaysia', 'Vietnam', 'Cambodia',
+# French Indo-China in 1931: Vietnam, Laos and Cambodia drawn as one polygon (its outer boundary is today's;
+# Battambang and Siem Reap had passed to France in 1907, and Siam's gains of 1941 were returned in 1946)
+countries['French Indo-China'] = unary_union([countries[n] for n in ('Vietnam', 'Laos', 'Cambodia') if n in countries]).buffer(0)
+for n in ['Afghanistan', 'Iran', 'Nepal', 'Bhutan', 'China', 'Sri Lanka', 'Thailand', 'French Indo-China',
+          'Tajikistan', 'Oman', 'Turkmenistan', 'Uzbekistan', 'Malaysia',
           'Indonesia', 'Kyrgyzstan', 'Kazakhstan', 'United Arab Emirates', 'Maldives', 'Saudi Arabia',
           'Qatar', 'Bahrain', 'Yemen', 'Russia', 'Mongolia', 'Azerbaijan', 'Kuwait', 'Iraq']:
     if n in countries:

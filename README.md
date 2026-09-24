@@ -143,6 +143,16 @@ Details are in [LICENSE](LICENSE). The design follows the
 The version is **1.xxx**, where xxx counts the pushes to the published site; it goes up by one on every push.
 The number and date appear at the foot of every page (`version.js`).
 
+- **1.010** (24 September 2026)
+  - "Largest language" on both maps: a colour per language, with related languages in related colours
+    (Indo-European reds to olives, Dravidian greens, Karen teal, Tibeto-Chinese blues, Austric violets;
+    `langcolors.js`). A lighter tint marks a largest language under half the population. One label per
+    contiguous block of units with the same language, and a legend of colour chips grouped by family.
+  - A selected unit's card sits above the controls, up to two-thirds of the window; each scrolls on its own.
+  - Slimmer mode and measure buttons; bigger city dots.
+  - French Indo-China drawn as one polygon.
+  - The 1931 atlas links on district cards open DSAL's Mirador viewer, which shows the plate image.
+
 - **1.009** (24 September 2026)
   - Province map: no dashed or hatched marks. Areas without figures are plain grey, and the explanations are in
     the hover box and info pane. The NWFP agencies (garrisons only) are grey in the colour views.

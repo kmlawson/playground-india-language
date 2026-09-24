@@ -251,7 +251,7 @@
       t.setAttribute('font-size', (base * f * pxPerUnit()).toFixed(2));
     });
     [].forEach.call(document.querySelectorAll('#g-cities text'), function (t) { t.setAttribute('font-size', (10.5 * f * pxPerUnit()).toFixed(2)); });
-    [].forEach.call(document.querySelectorAll('#g-cities circle'), function (c) { c.setAttribute('r', (2.4 * f * pxPerUnit()).toFixed(2)); });
+    [].forEach.call(document.querySelectorAll('#g-cities circle'), function (c) { c.setAttribute('r', (3.2 * f * pxPerUnit()).toFixed(2)); });
     [].forEach.call(document.querySelectorAll('.neigh-label'), function (t) { t.setAttribute('font-size', (11 * f * pxPerUnit()).toFixed(2)); });
     declutter();
   }
@@ -403,6 +403,21 @@
     return n;
   }
   function scaleKey() { return state.mode === 'lang' ? state.measure : state.mode; }
+  // "Largest language": a colour per leading language (langcolors.js, shared with the district map),
+  // related languages in related colours, one label per contiguous block of units with the same language
+  var LEAD_ITEMS = null, LEAD_COLORS = {};
+  function leadItems() {
+    if (LEAD_ITEMS) return LEAD_ITEMS;
+    var seen = {}; LEAD_ITEMS = [];
+    MAP_UNITS.forEach(function (u) {
+      if (NOT_COMPARABLE[u] || !LEAD[u] || !LEAD[u].lang) return;
+      var l = LEAD[u].lang, k = key(l); if (seen[k]) return; seen[k] = 1;
+      var p = pathOf(l);
+      LEAD_ITEMS.push({ key: k, family: p.length > 1 ? p[1].name : null, order: l.id, label: shortName(l) });
+    });
+    LEAD_COLORS = window.LangColors.assign(LEAD_ITEMS);
+    return LEAD_ITEMS;
+  }
   function render() {
     var sk = scaleKey(), sc = SCALES[sk];
     var gC = $('#g-circles'); gC.textContent = '';
@@ -422,6 +437,8 @@
         }
       } else if (NOT_COMPARABLE[u]) {
         p.classList.add('nofig');           // garrisons only: grey in every colour view; figures in the hover box and pane
+      } else if (sk === 'lead') {
+        leadItems(); p.style.fill = window.LangColors.css(LEAD_COLORS[key(LEAD[u].lang)], LEAD[u].share < 50);
       } else if (sk === 'sex') {
         if (v == null) p.classList.add('nofig');
         else p.style.fill = cssv(sc.vars[bin(sc, v)]);
@@ -433,7 +450,7 @@
       // labels
       var a2 = anchor(u), txt = null, sub = null;
       if (NOT_COMPARABLE[u] && sk !== 'count') { txt = null; }
-      else if (state.mode === 'lead') { txt = shortName(LEAD[u].lang); sub = pct(LEAD[u].share); }
+      else if (state.mode === 'lead') { txt = null; }        // one label per block, below
       else if (state.mode === 'div') { txt = DIV[u] == null || NOT_COMPARABLE[u] ? null : DIV[u].toFixed(2); }
       else if (sk === 'share' || sk === 'dist') { if (v > 0) txt = pct(v); }
       else if (sk === 'count') { if (v > 0 && v / maxN > 0.02) txt = compact(v); }
@@ -445,6 +462,16 @@
         if (sub) { var ts = el('tspan', { x: a2[0], dy: '1.15em', class: 'v' }, t); ts.textContent = sub; }
       }
     });
+    if (state.mode === 'lead') {
+      window.LangColors.blocks(MAP_UNITS.filter(function (u) { return unitEls[u] && !NOT_COMPARABLE[u] && LEAD[u] && LEAD[u].lang; }).map(function (u) {
+        return { id: u, key: key(LEAD[u].lang), nb: G.units[u].nb, area: G.units[u].ar, pop: popOf(u) };
+      })).forEach(function (bk) {
+        var u = bk.anchor, a3 = anchor(u);
+        var t = el('text', { x: a3[0], y: a3[1] + 3, class: 'label' + (SMALL[u] && bk.n === 1 ? ' small' : ''), 'data-pri': bk.pop, 'data-u': u }, gL);
+        t.textContent = shortName(LEAD[u].lang);
+        if (bk.n === 1) { var ts = el('tspan', { x: a3[0], dy: '1.15em', class: 'v' }, t); ts.textContent = pct(LEAD[u].share); }
+      });
+    }
     // which provinces sent second-language returns is said in the hover box, not drawn
     if (state.unit && unitEls[state.unit]) unitEls[state.unit].classList.add('sel');
     applyView();
@@ -465,7 +492,9 @@
 
   function renderLegend(sk, sc, maxN, RMAX) {
     var h = '<div class="ttl">' + esc(sk === 'count' ? 'Number of speakers (circle area)' : sc.title) + '</div>';
-    if (sk === 'count') {
+    if (sk === 'lead') {
+      h = window.LangColors.legend(leadItems(), LEAD_COLORS, 'Largest mother tongue in each unit');
+    } else if (sk === 'count') {
       var steps = niceSteps(maxN), k = VB[2] / view.w / pxPerUnit();   // svg units -> screen px
       var rs = steps.map(function (v) { return Math.max(1.5, Math.sqrt(v / maxN) * RMAX * k); });
       var hh = rs[0] * 2 + 4, x = 4, s = '';
@@ -510,7 +539,7 @@
       if (state.mode === 'div') { box.innerHTML = divSummary(); return; }
       var rows = MAP_UNITS.slice().sort(function (a, b) { return state.mode === 'lead' ? LEAD[b].share - LEAD[a].share : (DIV[b] || 0) - (DIV[a] || 0); });
       var h = state.mode === 'lead'
-        ? '<h2>Largest mother tongue</h2><p class="cite">Each unit is labelled with the language returned by the most people, and shaded by that language’s share. Ranking uses the finest entries in the table (e.g. Western Hindi, Bengali), not families.</p>'
+        ? '<h2>Largest mother tongue</h2><p class="cite">Each unit is coloured by the language returned by the most people. Related languages have related colours: each family takes its own range of hues. A lighter tint means that language is the largest but under half the population. Neighbouring units with the same language share one label. Ranking uses the finest entries in the table (e.g. Western Hindi, Bengali), not families.</p>'
         : '<h2>Linguistic diversity</h2><p class="cite">The probability that two people drawn at random from a unit returned different mother tongues (Greenberg’s index), computed over the table’s finest entries. The split between Western Hindi, Eastern Hindi and Bihari was made by locality (see Cautions), so it can make areas look more or less diverse than they were.</p>';
       h += '<ul class="bars">' + rows.slice(0, 12).map(function (u) {
         var val = state.mode === 'lead' ? LEAD[u].share : (DIV[u] || 0) * 100;
@@ -702,6 +731,7 @@
     state.unit = state.unit === u ? null : u; unitAll = false;
     if (state.unit) { unitEls[u].classList.add('sel'); unitEls[u].parentNode.appendChild(unitEls[u]); }
     renderUnit(); writeHash();
+    if (state.unit) $('#unit-panel').scrollTop = 0;
     if (state.unit && window.matchMedia('(max-width: 900px)').matches) $('#unit-panel').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
   $('#mode-seg').addEventListener('click', function (ev) { var b = ev.target.closest('button'); if (b) setMode(b.getAttribute('data-mode')); });

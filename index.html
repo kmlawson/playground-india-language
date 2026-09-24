@@ -85,47 +85,50 @@
     </div>
 
     <aside id="side">
-      <section id="tour" hidden tabindex="-1" aria-live="polite"></section>
-      <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
-        <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
-        <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
-        <button type="button" role="tab" data-mode="div" aria-selected="false" title="Diversity within the census’s 1931 classification">Diversity</button>
-      </div>
-
-      <div id="lang-controls">
-        <div class="field">
-          <label for="lang-search">Language or group</label>
-          <div class="combo">
-            <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
-                   placeholder="Search 330 languages and groups…" role="combobox"
-                   aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
-            <ul id="lang-list" role="listbox" hidden></ul>
-          </div>
-          <div id="quick" aria-label="Largest languages"></div>
-        </div>
-        <div class="field">
-          <span class="lbl" id="measure-lbl">Measure</span>
-          <div class="seg small" role="radiogroup" aria-labelledby="measure-lbl" id="measure-seg">
-            <button type="button" role="radio" data-measure="share" aria-checked="true" title="Speakers as a percentage of everyone enumerated in the unit">% of population</button>
-            <button type="button" role="radio" data-measure="count" aria-checked="false" title="Number of speakers, drawn as circles">Speakers</button>
-            <button type="button" role="radio" data-measure="dist" aria-checked="false" title="Where the language's speakers lived: each unit's share of the all-India total">Where they lived</button>
-            <button type="button" role="radio" data-measure="sex" aria-checked="false" title="Female speakers per 1,000 male speakers">Females/1,000 males</button>
-          </div>
-        </div>
-      </div>
-
-      <div id="div-controls" class="field" hidden>
-        <span class="lbl" id="div-lbl">Count categories at the level of</span>
-        <div class="seg small" role="radiogroup" aria-labelledby="div-lbl" id="div-seg">
-          <button type="button" role="radio" data-level="entry" aria-checked="true">Language entries</button>
-          <button type="button" role="radio" data-level="branch" aria-checked="false">Branches</button>
-          <button type="button" role="radio" data-level="subfamily" aria-checked="false">Sub-families</button>
-          <button type="button" role="radio" data-level="family" aria-checked="false">Families</button>
-        </div>
-      </div>
-      <div id="legend" aria-label="Legend"></div>
-      <div id="summary"></div>
       <div id="unit-panel" hidden></div>
+      <div id="side-main">
+        <section id="tour" hidden tabindex="-1" aria-live="polite"></section>
+        <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
+          <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
+          <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
+          <button type="button" role="tab" data-mode="div" aria-selected="false" title="Diversity within the census’s 1931 classification">Diversity</button>
+        </div>
+
+        <div id="lang-controls">
+          <div class="field">
+            <label for="lang-search">Language or group</label>
+            <div class="combo">
+              <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
+                     placeholder="Search 330 languages and groups…" role="combobox"
+                     aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
+              <ul id="lang-list" role="listbox" hidden></ul>
+            </div>
+            <div id="quick" aria-label="Largest languages"></div>
+          </div>
+          <div class="field">
+            <span class="lbl" id="measure-lbl">Measure</span>
+            <div class="seg small" role="radiogroup" aria-labelledby="measure-lbl" id="measure-seg">
+              <button type="button" role="radio" data-measure="share" aria-checked="true" title="Speakers as a percentage of everyone enumerated in the unit">% of population</button>
+              <button type="button" role="radio" data-measure="count" aria-checked="false" title="Number of speakers, drawn as circles">Speakers</button>
+              <button type="button" role="radio" data-measure="dist" aria-checked="false" title="Where the language's speakers lived: each unit's share of the all-India total">Where they lived</button>
+              <button type="button" role="radio" data-measure="sex" aria-checked="false" title="Female speakers per 1,000 male speakers">Females/1,000 males</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="div-controls" class="field" hidden>
+          <span class="lbl" id="div-lbl">Count categories at the level of</span>
+          <div class="seg small" role="radiogroup" aria-labelledby="div-lbl" id="div-seg">
+            <button type="button" role="radio" data-level="entry" aria-checked="true">Language entries</button>
+            <button type="button" role="radio" data-level="branch" aria-checked="false">Branches</button>
+            <button type="button" role="radio" data-level="subfamily" aria-checked="false">Sub-families</button>
+            <button type="button" role="radio" data-level="family" aria-checked="false">Families</button>
+          </div>
+        </div>
+        <div id="legend" aria-label="Legend"></div>
+        <div id="summary"></div>
+    
+      </div>
     </aside>
   </div>
 
@@ -307,6 +310,7 @@
 <script src="data/areas.js"></script>
 <script src="data/bilingual.js"></script>
 <script src="version.js"></script>
+<script src="langcolors.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

@@ -39,7 +39,7 @@
     var c = document.getElementById('opt-num');
     if (c) c.addEventListener('change', function () { window.NUMFMT.set(c.checked ? 'in' : 'intl'); });
   }
-  var SITE = { version: '1.009', updated: '24 September 2026' };
+  var SITE = { version: '1.010', updated: '24 September 2026' };
   window.SITE = SITE;
   function fill() {
     [].forEach.call(document.querySelectorAll('.version'), function (el) {

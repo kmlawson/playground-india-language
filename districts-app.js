@@ -236,6 +236,23 @@
     if (state.mode === 'lang') return (u.agg[state.lang.id] || 0) / u.P * 100;
     return u.lead ? u.lead.n / u.P * 100 : null;
   }
+  // "Largest language": a colour per leading language (langcolors.js), one label per contiguous block
+  function familyOf(l) { var p = pathOf(l).concat([l]); return p.length > 1 ? p[1].name : null; }
+  function leadKey(u) { return u.status === 'ok' && u.lead && u.P && !u.damaged ? String(u.lead.l.id) : null; }
+  function leadLabel(l, u) {
+    if (l.kids.length && !(u && u.coarse)) return 'Other (not itemised)';
+    return l.name.replace(/^[A-Z]\.\s*/, '').replace(/ \(as printed\)$/, '').replace(/, Hindi or Urdu$/, '').replace(/ or .*$/, '').replace(/ \(.*\)$/, '').replace(/ Group$/, '');
+  }
+  var LEAD_ITEMS = [], LEAD_COLORS = {};
+  (function () {
+    var seen = {};
+    U.forEach(function (u) {
+      var k = leadKey(u); if (k == null || seen[k]) return; seen[k] = 1;
+      var l = u.lead.l;
+      LEAD_ITEMS.push({ key: k, family: l === NM ? null : familyOf(l), order: l === HU ? 268.5 : typeof l.id === 'number' ? l.id : 9999, label: leadLabel(l, u) });
+    });
+    LEAD_COLORS = window.LangColors.assign(LEAD_ITEMS);
+  })();
   function render() {
     var sc = SCALES[state.mode === 'lang' ? 'share' : 'lead'];
     U.forEach(function (u) {
@@ -243,21 +260,25 @@
       p.classList.remove('zero', 'sel', 'nofig'); p.style.fill = '';
       if (u.status === 'nodata' || u.status === 'nc' || !itemised(u)) { p.classList.add('nofig'); return; }
       var v = value(u);
+      if (state.mode === 'lead') { var k = leadKey(u); if (k == null) p.classList.add('nofig'); else p.style.fill = window.LangColors.css(LEAD_COLORS[k], v < 50); return; }
       if (!v) p.classList.add('zero'); else p.style.fill = 'var(' + SEQ[bin(sc, v)] + ')';
     });
     var gL = $('#g-labels'); gL.textContent = '';
-    U.slice().sort(function (a, b) { return b.P - a.P; }).forEach(function (u) {
+    if (state.mode === 'lead') {
+      window.LangColors.blocks(U.map(function (u) { return { id: u.i, key: unitEls[u.i] ? leadKey(u) : null, nb: u.nb, area: u.ar, pop: u.P }; }))
+        .sort(function (a, b) { return b.pop - a.pop; }).forEach(function (bk) {
+          var u = U[bk.anchor], t = el('text', { x: u.lx, y: u.ly, class: 'label' }, gL); t.textContent = leadLabel(u.lead.l, u);
+        });
+    } else U.slice().sort(function (a, b) { return b.P - a.P; }).forEach(function (u) {
       if (!unitEls[u.i] || !u.P || u.status !== 'ok' || !itemised(u)) return;
-      var txt = null;
-      if (state.mode === 'lead') txt = u.lead && u.lead.l.kids.length && !u.coarse ? 'Other (not itemised)' : u.lead ? disp(u.lead.l).replace(/ \(as printed\)$/, '').replace(/, Hindi or Urdu$/, '').replace(/ or .*$/, '').replace(/ Group$/, '') : null;
-      else { var v = value(u); if (v >= 0.5) txt = pct(v); }
-      if (!txt) return;
-      var t = el('text', { x: u.lx, y: u.ly, class: 'label' }, gL); t.textContent = txt;
+      var v = value(u); if (!(v >= 0.5)) return;
+      var t = el('text', { x: u.lx, y: u.ly, class: 'label' }, gL); t.textContent = pct(v);
     });
     scheduleLabels();
     if (state.unit != null && unitEls[state.unit]) { unitEls[state.unit].classList.add('sel'); unitEls[state.unit].parentNode.appendChild(unitEls[state.unit]); }
-    var h = '<div class="ttl">' + esc(sc.title) + '</div><div class="bins">' + SEQ.map(function (v) { return '<span style="background:var(' + v + ')"></span>'; }).join('') + '</div>';
-    h += '<div class="ticks">' + sc.ticks.map(function (t) { return '<span>' + t + '</span>'; }).join('') + '</div>';
+    var h = state.mode === 'lead' ? window.LangColors.legend(LEAD_ITEMS, LEAD_COLORS, 'Largest mother tongue in each unit')
+      : '<div class="ttl">' + esc(sc.title) + '</div><div class="bins">' + SEQ.map(function (v) { return '<span style="background:var(' + v + ')"></span>'; }).join('') + '</div>' +
+        '<div class="ticks">' + sc.ticks.map(function (t) { return '<span>' + t + '</span>'; }).join('') + '</div>';
     if (state.mode === 'lang') h += '<div class="row"><span class="sw" style="background:var(--land)"></span> none recorded</div>';
     h += '<div class="row" title="Grey areas have no figures to show. Click one to open its card with the reason and, where available, its 1901–2011 population." tabindex="0"><span class="sw nofig"></span> no figures to show here · click an area to see why</div>';
     $('#legend').innerHTML = h;
@@ -269,7 +290,7 @@
   }
   function renderSummary() {
     var box = $('#summary');
-    if (state.mode !== 'lang') { box.innerHTML = '<p class="cite">Colour shows the share of the largest single entry. Hindustani as printed is one entry; see the notes below the map.</p>'; return; }
+    if (state.mode !== 'lang') { box.innerHTML = '<p class="cite">Colour shows which entry is largest: related languages have related colours. Hindustani as printed is one entry; see the notes below the map. Click a language above to map it.</p>'; return; }
     var l = state.lang, crumbs = pathOf(l);
     var h = '<h2>' + esc(disp(l)) + '</h2>';
     if (crumbs.length) h += '<div class="crumbs">' + crumbs.map(function (a) { return TOT[a.id] ? '<button type="button" data-lang="' + a.id + '">' + esc(a.name) + '</button>' : esc(a.name); }).join(' › ') + '</div>';
@@ -289,7 +310,8 @@
     var v = D.vols[vol]; return v && v.identifier ? 'https://archive.org/details/' + v.identifier + '/page/n' + leaf + '/mode/1up' : null;
   }
   // the provincial plates of the Imperial Gazetteer of India, Atlas (1931), at the Digital South Asia Library
-  var DSAL = 'https://dsal.uchicago.edu/cgi-bin/reference/gaz_atlas_1931/query.py?object=';
+  // DSAL's Mirador viewer shows the plate image; its canvas number is DSAL's object number minus one
+  var DSAL = 'https://dsal.uchicago.edu/reference/gaz_atlas_1931/gaz_atlas_mirador?https://dsal.uchicago.edu/reference/gaz_atlas_1931/manifests/gazetteer_atlas_1931.json&canvasID=';
   var PLATES = { 37: 'Bengal, with Sikkim', 38: 'Bihar and Orissa', 39: 'Assam, with Bhutan', 40: 'The United Provinces',
     41: 'Punjab, Delhi and Punjab States', 42: 'North-West Frontier Province and Kashmir and Jammu', 43: 'Rajputana, with Ajmer-Merwara',
     44: 'Baluchistan', 45: 'Bombay, Sind, Baroda and States of Western India, northern section',
@@ -314,7 +336,7 @@
     });
     if (!ids.length) return '';
     return '<div class="subunits"><span class="lbl" style="display:block">1931 map</span>' + ids.map(function (o) {
-      return '<a href="' + DSAL + o + '" target="_blank" rel="noopener">' + esc(PLATES[o]) + '</a>';
+      return '<a href="' + DSAL + (o - 1) + '" target="_blank" rel="noopener">' + esc(PLATES[o]) + '</a>';
     }).join(' · ') + '<div class="cite">' + (ids.length > 1 ? 'Plates' : 'Plate') + ' of the <i>Imperial Gazetteer of India, Atlas</i> (1931), at the Digital South Asia Library' + (ids.length > 1 ? '. The province spans more than one sheet.' : '.') + '</div></div>';
   }
   function renderUnit() {
@@ -432,7 +454,7 @@
   function select(i) {
     state.unit = state.unit === i ? null : i; $('#unit-panel').removeAttribute('data-all'); render();
     if (state.unit != null) {
-      var side = $('#side'); side.scrollTop = 0;
+      $('#unit-panel').scrollTop = 0;
       var r = $('#unit-panel').getBoundingClientRect();
       if (r.top < 0 || r.top > window.innerHeight - 80) $('#unit-panel').scrollIntoView({ block: 'start', behavior: 'smooth' });
     }

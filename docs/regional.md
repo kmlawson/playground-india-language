@@ -332,7 +332,15 @@ areas with no 1931 figures, also grey:
   - it is in Burma and the selected language is not one of the groups the Burma table gives.
 - **Mismatch note**: somewhere in the unit, the leaves and the printed population differ by more than 1%.
   The card names the area and gives both figures.
-- **Largest language** labels the largest single leaf. Hindustani as printed counts as one leaf.
+- **Largest language** colours each unit by its largest single leaf (Hindustani as printed counts as one leaf).
+  Colours come from `langcolors.js`, shared with the province map:
+  - each language family takes a range of hues, and languages within it are spread along that range in
+    classification order, so related languages get related colours;
+  - the spread runs over a fixed list of every language that leads a unit on either map, so each language has
+    the same colour on both;
+  - a lighter tint means the language leads with under half the population;
+  - one label is placed per contiguous block of units with the same language, at the block's largest unit.
+    The build stores each unit's neighbours for this (`nb` in `data/districts.js`).
 
 - **Population of this area, 1901–2011.** This comes from the *Census of India 2011*, Table A-2 (decadal
   variation in population since 1901), district level, which recomputes every census from 1901 on 2011

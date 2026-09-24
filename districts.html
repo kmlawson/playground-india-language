@@ -72,24 +72,27 @@
 
     <aside id="side">
       <div id="unit-panel" hidden></div>
-      <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
-        <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
-        <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
-      </div>
-      <div id="lang-controls">
-        <div class="field">
-          <label for="lang-search">Language or group</label>
-          <div class="combo">
-            <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
-                   placeholder="Search languages and groups…" role="combobox"
-                   aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
-            <ul id="lang-list" role="listbox" hidden></ul>
-          </div>
-          <div id="quick" aria-label="Largest languages"></div>
+      <div id="side-main">
+        <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
+          <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
+          <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
         </div>
+        <div id="lang-controls">
+          <div class="field">
+            <label for="lang-search">Language or group</label>
+            <div class="combo">
+              <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
+                     placeholder="Search languages and groups…" role="combobox"
+                     aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
+              <ul id="lang-list" role="listbox" hidden></ul>
+            </div>
+            <div id="quick" aria-label="Largest languages"></div>
+          </div>
+        </div>
+        <div id="legend" aria-label="Legend"></div>
+        <div id="summary"></div>
+    
       </div>
-      <div id="legend" aria-label="Legend"></div>
-      <div id="summary"></div>
     </aside>
   </div>
 
@@ -143,6 +146,7 @@
 <script src="data/census.js"></script>
 <script src="data/districts.js"></script>
 <script src="version.js"></script>
+<script src="langcolors.js"></script>
 <script src="districts-app.js"></script>
 </body>
 </html>
