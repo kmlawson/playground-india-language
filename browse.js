@@ -38,9 +38,14 @@
         share: popOf(u) ? p / popOf(u) * 100 : null,
         ofl: india ? p / india * 100 : null,
         sr: m ? Math.round((f || 0) / m * 1000) : null,
-        col: l.col || 0, note: !!l.note
+        col: l.col || 0, note: !!l.note, flag: (l.f && l.f[u]) || null
       });
     });
+  });
+
+  /* sortable headers as buttons (keyboard operable) */
+  [].forEach.call(document.querySelectorAll('.browse-table thead th'), function (th) {
+    th.innerHTML = '<button type="button" class="th-btn">' + th.innerHTML + '</button>';
   });
 
   /* controls */
@@ -120,7 +125,7 @@
         (r.note ? ' <button type="button" class="flag" data-note="' + r.l.id + '" title="Transcriber’s note on this printed column">!</button>' : '') +
         '</span><span class="p">' + esc(r.path.split(' › ').slice(0, -1).join(' › ')) + '</span></td>' +
         '<td>' + esc(U[r.u].name) + '</td>' +
-        '<td>' + num(r.p) + '</td><td>' + num(r.m) + '</td><td>' + num(r.f) + '</td>' +
+        '<td>' + num(r.p) + (r.flag ? ' <span class="flag-m" tabindex="0" title="' + esc(r.flag[1]) + '" aria-label="' + esc(r.flag[1]) + '">' + esc(r.flag[0]) + '</span>' : '') + '</td><td>' + num(r.m) + '</td><td>' + num(r.f) + '</td>' +
         '<td>' + pct(r.share) + '</td><td>' + pct(r.ofl) + '</td><td>' + (r.sr == null ? '' : fmtW.format(r.sr)) + '</td>' +
         '<td class="src">' + sourceCell(r) + '</td></tr>';
     }).join('') : '<tr><td colspan="9" class="empty">No rows match these filters.</td></tr>';
@@ -162,12 +167,12 @@
   });
   $('#note-panel').addEventListener('click', function (ev) { if (ev.target.closest('.close')) this.hidden = true; });
   $('#dl').addEventListener('click', function () {
-    var head = ['classification_path', 'name', 'is_group', 'unit_code', 'unit', 'persons', 'males', 'females', 'pct_of_unit', 'pct_of_india_speakers', 'females_per_1000_males', 'table_columns', 'printed_page', 'scan_url', 'note'];
+    var head = ['classification_path', 'name', 'is_group', 'unit_code', 'unit', 'persons', 'males', 'females', 'pct_of_unit', 'pct_of_india_speakers', 'females_per_1000_males', 'table_columns', 'printed_page', 'scan_url', 'flag', 'flag_note', 'column_note'];
     var q = function (v) { v = v == null ? '' : String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; };
     var lines = [head.join(',')].concat(filtered.map(function (r) {
       var l = r.l;
       return [r.path, r.name, r.group ? 1 : 0, r.u, U[r.u].name, r.p, r.m, r.f, r.share == null ? '' : r.share.toFixed(4), r.ofl == null ? '' : r.ofl.toFixed(4), r.sr,
-        l.col ? l.col + '-' + (l.col + 2) : 'sum of members', l.page || '', l.leaf ? IA + l.leaf + '/mode/1up' : '', l.note || ''].map(q).join(',');
+        l.col ? l.col + '-' + (l.col + 2) : 'sum of members', l.page || '', l.leaf ? IA + l.leaf + '/mode/1up' : '', r.flag ? r.flag[0] : '', r.flag ? r.flag[1] : '', l.note || ''].map(q).join(',');
     }));
     var blob = new Blob([lines.join('\n')], { type: 'text/csv;charset=utf-8' });
     var a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'census1931-table15-filtered.csv';

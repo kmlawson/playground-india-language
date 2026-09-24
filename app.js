@@ -55,14 +55,45 @@
     LEAVES.forEach(function (l) { var v = persons(l, u); if (v > bv) { bv = v; best = l; } });
     return { lang: best, n: bv, share: popOf(u) ? bv / popOf(u) * 100 : 0 };
   }
-  function diversity(u) {
-    var tot = 0, s = 0, vals = [];
-    LEAVES.forEach(function (l) { var v = persons(l, u); if (v) { vals.push(v); tot += v; } });
-    vals.forEach(function (v) { s += (v / tot) * (v / tot); });
+  // Diversity is computed within the census's own classification, at a chosen level:
+  // the finest entries, or everything merged up to branch, sub-family or family.
+  var DIV_LEVELS = { entry: 'language entries', branch: 'branches', subfamily: 'sub-families', family: 'families' };
+  var DEPTH = { branch: 3, subfamily: 2, family: 1 };
+  function levelNode(l, lev) {
+    if (lev === 'entry') return l;
+    var p = pathOf(l);
+    return p[Math.min(DEPTH[lev], p.length - 1)];
+  }
+  function diversity(u, lev) {
+    var agg = {}, tot = 0, s = 0;
+    LEAVES.forEach(function (l) { var v = persons(l, u); if (v) { var k = levelNode(l, lev || 'entry').id; agg[k] = (agg[k] || 0) + v; tot += v; } });
+    Object.keys(agg).forEach(function (k) { s += (agg[k] / tot) * (agg[k] / tot); });
     return tot ? 1 - s : null;
   }
-  var LEAD = {}, DIV = {};
-  MAP_UNITS.concat(['INDIA', '7a', '27a', '27b', '27c']).forEach(function (u) { LEAD[u] = leading(u); DIV[u] = diversity(u); });
+  // units whose enumerated population is not comparable (figures describe garrisons, not the area)
+  var NOT_COMPARABLE = { '29': 1 };
+  var LEAD = {}, DIVS = { entry: {}, branch: {}, subfamily: {}, family: {} };
+  MAP_UNITS.concat(['INDIA', '7a', '27a', '27b', '27c']).forEach(function (u) {
+    LEAD[u] = leading(u);
+    Object.keys(DIVS).forEach(function (lev) { DIVS[lev][u] = diversity(u, lev); });
+  });
+  var divLevel = 'entry', DIV = DIVS.entry;
+  function divRank(lev) {
+    var r = {}; MAP_UNITS.filter(function (u) { return !NOT_COMPARABLE[u]; })
+      .sort(function (a, b) { return (DIVS[lev][b] || 0) - (DIVS[lev][a] || 0); }).forEach(function (u, i) { r[u] = i + 1; });
+    return r;
+  }
+
+  /* ---------------------------------------------------------------- source flags */
+  // ! printed inconsistency · ? illegible · Σ calculated (derived) · ≈ estimated / approximate
+  function flagOf(l, u) { return l && l.f ? l.f[u] || null : null; }
+  function mark(fl) {
+    if (!fl) return '';
+    return ' <span class="flag-m" tabindex="0" role="note" title="' + esc(fl[1]) + '" aria-label="' + esc(fl[1]) + '">' + esc(fl[0]) + '</span>';
+  }
+  var ESTIMATED = { '29': 'The agencies and tribal areas were not enumerated; only 46,451 people in posts and garrisons are counted.',
+    '7': 'Excludes the estimated population of Ahmedabad (75,735), where the census was boycotted.',
+    '8': 'Excludes the estimated population of East Manglun (19,649) and unadministered frontier tracts.' };
 
   /* ---------------------------------------------------------------- Part II: bilingualism */
   var BIL = window.BILINGUAL || [];
@@ -85,7 +116,7 @@
     dist: { cuts: [0.5, 2, 5, 10, 20, 40], vars: SEQ, ticks: ['>0', '0.5', '2', '5', '10', '20', '40%'], title: 'Share of all India’s speakers living in each unit' },
     sex: { cuts: [500, 800, 950, 1050, 1250, 2000], vars: DIVG, ticks: ['', '500', '800', '950', '1,050', '1,250', '2,000'], title: 'Female speakers per 1,000 male speakers' },
     lead: { cuts: [30, 40, 50, 65, 80, 90], vars: SEQ, ticks: ['', '30', '40', '50', '65', '80', '90%'], title: 'Largest language’s share of the population' },
-    div: { cuts: [0.1, 0.2, 0.3, 0.45, 0.6, 0.75], vars: SEQ, ticks: ['0', '.1', '.2', '.3', '.45', '.6', '.75'], title: 'Linguistic diversity: chance two people have different mother tongues' }
+    div: { cuts: [0.1, 0.2, 0.3, 0.45, 0.6, 0.75], vars: SEQ, ticks: ['0', '.1', '.2', '.3', '.45', '.6', '.75'], title: 'Diversity within the 1931 classification: chance two people fall in different categories' }
   };
   function bin(sc, v) { var i = 0; while (i < sc.cuts.length && v >= sc.cuts[i]) i++; return i; }
   function cssv(name) { return 'var(' + name + ')'; }
@@ -140,8 +171,12 @@
     p.addEventListener('pointerleave', function () { hover(null); hideTip(); });
     p.addEventListener('click', function () { if (!drag.moved) selectUnit(u); });
     p.addEventListener('keydown', function (ev) { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); selectUnit(u); } });
-    p.addEventListener('focus', function () { hover(u); });
-    p.addEventListener('blur', function () { hover(null); });
+    p.addEventListener('focus', function () {
+      hover(u);
+      var r = p.getBoundingClientRect();
+      showTip({ clientX: r.left + r.width / 2, clientY: r.top + r.height / 2 }, tipHTML(u));
+    });
+    p.addEventListener('blur', function () { hover(null); hideTip(); });
   });
   // units whose figures do not describe the population of the area drawn
   var UNIT_NOTES = {
@@ -163,6 +198,7 @@
     if (state.unit && unitEls[state.unit]) unitEls[state.unit].parentNode.appendChild(unitEls[state.unit]);
     [].forEach.call(document.querySelectorAll('.over-hatch'), function (o) { o.parentNode.appendChild(o); });
   }
+  if (G.modern) el('path', { d: G.modern, class: 'modern' }, $('#g-modern'));
   G.cities.forEach(function (c) {
     var g = el('g', { class: 'city' }, $('#g-cities'));
     el('circle', { cx: c.x, cy: c.y, r: 2.2 }, g);
@@ -211,12 +247,24 @@
     var labs = [].slice.call(document.querySelectorAll('#g-labels text'));
     labs.sort(function (a, b) { return (+b.getAttribute('data-pri')) - (+a.getAttribute('data-pri')); });
     var kept = [];
+    // city names (when shown) are fixed obstacles: value labels move out of their way
+    if (stage.classList.contains('show-cities')) {
+      [].forEach.call(document.querySelectorAll('#g-cities text, #g-cities circle'), function (c) { try { kept.push(c.getBBox()); } catch (e) { } });
+    }
+    function hits(b, pad) { return kept.some(function (k) { return b.x < k.x + k.width + pad && k.x < b.x + b.width + pad && b.y < k.y + k.height + pad && k.y < b.y + b.height + pad; }); }
     labs.forEach(function (t) {
       t.style.display = '';
+      var y0 = t.getAttribute('data-y0') || t.getAttribute('y');
+      t.setAttribute('data-y0', y0); t.setAttribute('y', y0);
+      [].forEach.call(t.querySelectorAll('tspan'), function (ts) { ts.setAttribute('dy', '1.15em'); });
       var b; try { b = t.getBBox(); } catch (e) { return; }
-      var pad = b.height * 0.08;
-      var hit = kept.some(function (k) { return b.x < k.x + k.width + pad && k.x < b.x + b.width + pad && b.y < k.y + k.height && k.y < b.y + b.height; });
-      if (hit) t.style.display = 'none'; else kept.push(b);
+      var pad = b.height * 0.08, placed = false;
+      [0, -1.05, 1.05, -2.1, 2.1].some(function (m) {
+        var bb = { x: b.x, y: b.y + m * b.height, width: b.width, height: b.height };
+        if (!hits(bb, pad)) { t.setAttribute('y', +y0 + m * b.height); kept.push(bb); placed = true; return true; }
+        return false;
+      });
+      if (!placed) t.style.display = 'none';
     });
   }
   // svg user units per screen pixel at zoom 1
@@ -302,6 +350,7 @@
       var l = state.lang, t = l.v[u];
       var n = t ? t[0] : 0;
       h += '<span class="m">' + esc(disp(l)) + '</span><br>';
+      var fl = flagOf(l, u);
       if (state.measure === 'share') h += '<span class="big">' + pct(n / popOf(u) * 100) + '</span> <span class="m">of ' + num(popOf(u)) + '</span><br>' + num(n) + ' speakers';
       else if (state.measure === 'count') h += '<span class="big">' + num(n) + '</span> speakers<br><span class="m">' + pct(n / popOf(u) * 100) + ' of the population</span>';
       else if (state.measure === 'dist') h += '<span class="big">' + pct(n / persons(l, 'INDIA') * 100) + '</span> <span class="m">of all speakers in India</span><br>' + num(n) + ' speakers';
@@ -309,16 +358,19 @@
         if (n < SEX_MIN) h += '<span class="m">' + num(n) + ' speakers: too few for a ratio</span>';
         else h += '<span class="big">' + fmtW.format(Math.round(t[2] / t[1] * 1000)) + '</span> females per 1,000 males<br><span class="m">' + num(t[1]) + ' m · ' + num(t[2]) + ' f</span>';
       }
+      if (fl) h += '<br><span class="m warn">' + esc(fl[0] + ' ' + fl[1]) + '</span>';
     } else if (state.mode === 'lead') {
       var d = LEAD[u];
       h += '<span class="big">' + esc(disp(d.lang)) + '</span><br>' + pct(d.share) + ' · ' + num(d.n) + ' speakers';
       var second = topLangs(u, 2)[1];
       if (second) h += '<br><span class="m">next: ' + esc(disp(second.l)) + ' ' + pct(second.n / popOf(u) * 100) + '</span>';
     } else {
-      h += '<span class="big">' + (DIV[u] == null ? '–' : DIV[u].toFixed(2)) + '</span> diversity index<br><span class="m">largest: ' + esc(disp(LEAD[u].lang)) + ' ' + pct(LEAD[u].share) + '</span>';
+      if (NOT_COMPARABLE[u]) h += '<span class="m">Not comparable: excluded from the ranking</span><br>';
+      h += '<span class="big">' + (DIV[u] == null ? '–' : DIV[u].toFixed(2)) + '</span> diversity across ' + DIV_LEVELS[divLevel] + '<br><span class="m">largest: ' + esc(disp(LEAD[u].lang)) + ' ' + pct(LEAD[u].share) + '</span>';
     }
-    if (UNIT_NOTES[u] && u === '29') h += '<br><span class="m" style="color:var(--accent)">Enumerated population only 46,451 (troops and posts). Not the tribal population.</span>';
-    return h + '<br><span class="m">Click for the unit’s languages</span>';
+    if (UNIT_NOTES[u] && u === '29') h += '<br><span class="m warn">≈ Enumerated population only 46,451 (troops and posts). Not the tribal population.</span>';
+    if (UNITS[u].flag) h += '<br><span class="m warn">' + esc(UNITS[u].flag[0] + ' Population row: ' + UNITS[u].flag[1]) + '</span>';
+    return h + '<br><span class="m">Click or press Enter for the unit’s languages</span>';
   }
 
   /* ---------------------------------------------------------------- render */
@@ -350,6 +402,8 @@
           var a = anchor(u);
           el('circle', { cx: a[0], cy: a[1], r: Math.max(1.2, Math.sqrt(v / maxN) * RMAX), class: 'circle' }, gC);
         }
+      } else if (sk === 'div' && NOT_COMPARABLE[u]) {
+        p.style.fill = 'url(#hatch)';
       } else if (sk === 'sex') {
         if (v == null) p.style.fill = 'url(#hatch)';
         else p.style.fill = cssv(sc.vars[bin(sc, v)]);
@@ -361,10 +415,11 @@
       // labels
       var a2 = anchor(u), txt = null, sub = null;
       if (state.mode === 'lead') { txt = shortName(LEAD[u].lang); sub = pct(LEAD[u].share); }
-      else if (state.mode === 'div') { txt = DIV[u] == null ? null : DIV[u].toFixed(2); }
+      else if (state.mode === 'div') { txt = DIV[u] == null || NOT_COMPARABLE[u] ? null : DIV[u].toFixed(2); }
       else if (sk === 'share' || sk === 'dist') { if (v > 0) txt = pct(v); }
       else if (sk === 'count') { if (v > 0 && v / maxN > 0.02) txt = compact(v); }
       else if (sk === 'sex') { if (v != null) txt = fmtW.format(Math.round(v)); }
+      p.setAttribute('aria-label', UNITS[u].name + ': ' + (txt ? txt + (sub ? ' ' + sub : '') : 'no value') + (state.mode === 'lang' ? ' (' + disp(state.lang) + ')' : state.mode === 'div' ? ' (diversity)' : ''));
       if (txt) {
         var t = el('text', { x: a2[0], y: a2[1] + (sk === 'count' ? 0 : 3), class: 'label' + (SMALL[u] ? ' small' : ''), 'data-pri': popOf(u) }, gL);
         t.textContent = txt;
@@ -386,7 +441,7 @@
     renderTable();
     var live = $('#map-title-live');
     if (state.mode === 'lang') live.textContent = disp(state.lang) + ' — ' + { share: '% of population', count: 'number of speakers', dist: 'where its speakers lived', sex: 'females per 1,000 males' }[state.measure];
-    else live.textContent = state.mode === 'lead' ? 'Largest mother tongue in each unit' : 'Linguistic diversity';
+    else live.textContent = state.mode === 'lead' ? 'Largest mother tongue in each unit' : 'Diversity within the 1931 classification (' + DIV_LEVELS[divLevel] + ')';
     writeHash();
   }
   function compact(n) { return n >= 1e7 ? (n / 1e7).toFixed(n >= 1e8 ? 0 : 1) + ' cr' : n >= 1e5 ? (n / 1e5).toFixed(n >= 1e6 ? 0 : 1) + ' lakh' : n >= 1000 ? Math.round(n / 1000) + 'k' : String(n); }
@@ -414,9 +469,10 @@
       h += '<div class="ticks">' + sc.ticks.map(function (t) { return '<span>' + t + '</span>'; }).join('') + '</div>';
       if (sk === 'share' || sk === 'dist') h += '<div class="row"><span class="sw" style="background:var(--land)"></span> none recorded</div>';
       if (sk === 'sex') h += '<div class="row"><span class="sw hatch"></span> fewer than ' + SEX_MIN + ' speakers</div><div class="note">Blue: mostly men (often migrants). Red: mostly women. All India overall: ' + Math.round(UNITS.INDIA.pop[2] / UNITS.INDIA.pop[1] * 1000) + '.</div>';
-      if (sk === 'div') h += '<div class="note">1 − Σp² over the ' + LEAVES.length + ' language entries. 0 = everyone shares one mother tongue.</div>';
+      if (sk === 'div') h += '<div class="note">1 − Σp² over the table’s ' + DIV_LEVELS[divLevel] + '. 0 = everyone in one category. It depends on how finely the census divided languages, so the level changes the ranking.</div><div class="row"><span class="sw hatch"></span> not comparable (garrisons only)</div>';
     }
     h += '<div class="row"><span class="sw hatch"></span> not enumerated / not a census unit</div>';
+    h += '<div class="note symbols">Source marks: <b>!</b> printed inconsistency · <b>?</b> illegible · <b>Σ</b> calculated · <b>≈</b> estimated or approximate</div>';
     if (state.mode === 'lang' && BIL_BY_LANG[state.lang.id]) h += '<div class="row"><span class="sw dash"></span> provinces with second-language returns</div>';
     $('#legend').innerHTML = h;
   }
@@ -439,6 +495,7 @@
   function renderSummary() {
     var box = $('#summary');
     if (state.mode !== 'lang') {
+      if (state.mode === 'div') { box.innerHTML = divSummary(); return; }
       var rows = MAP_UNITS.slice().sort(function (a, b) { return state.mode === 'lead' ? LEAD[b].share - LEAD[a].share : (DIV[b] || 0) - (DIV[a] || 0); });
       var h = state.mode === 'lead'
         ? '<h2>Largest mother tongue</h2><p class="cite">Each unit is labelled with the language returned by the most people, and shaded by that language’s share. Ranking uses the finest entries in the table (e.g. Western Hindi, Bengali), not families.</p>'
@@ -452,7 +509,7 @@
     }
     var l = state.lang, t = l.v.INDIA || [0, 0, 0];
     var h2 = crumbs(l) + '<h2>' + esc(disp(l)) + '</h2>';
-    h2 += '<div class="stat"><div><b>' + num(t[0]) + '</b><span>speakers in India</span></div><div><b>' + pct(t[0] / popOf('INDIA') * 100) + '</b><span>of the population</span></div>';
+    h2 += '<div class="stat"><div><b>' + num(t[0]) + mark(flagOf(l, 'INDIA')) + '</b><span>speakers in India</span></div><div><b>' + pct(t[0] / popOf('INDIA') * 100) + '</b><span>of the population</span></div>';
     if (!l.kids.length) h2 += '<div><b>#' + l.rank + '</b><span>of ' + LEAVES.length + ' entries</span></div>';
     h2 += '</div><div class="cite">' + num(t[1]) + ' males · ' + num(t[2]) + ' females';
     if (t[1]) h2 += ' · ' + fmtW.format(Math.round(t[2] / t[1] * 1000)) + ' females per 1,000 males';
@@ -474,12 +531,36 @@
     box.innerHTML = h2;
   }
 
+  function divSummary() {
+    var levs = ['entry', 'branch', 'subfamily', 'family'], ranks = {};
+    levs.forEach(function (lv) { ranks[lv] = divRank(lv); });
+    var rows = MAP_UNITS.filter(function (u) { return !NOT_COMPARABLE[u]; }).sort(function (a, b) { return ranks[divLevel][a] - ranks[divLevel][b]; });
+    var h = '<h2>Diversity within the 1931 classification</h2><p class="cite">The chance that two people drawn at random from a unit fall in different categories of the census’s classification (Greenberg’s index, 1 − Σp²). It measures the <i>classification</i> as much as the population. Where the census split speech finely, a unit looks diverse. Where it merged speech, as when the United Provinces’ Hindustani was all classed Western Hindi, a unit looks uniform. Change the level to see how stable a unit’s rank is. The NWFP Agencies &amp; Tribal Areas are left out, because their 46,451 enumerated people were mostly garrisons.</p>';
+    h += '<table class="data sens"><caption class="cite" style="text-align:left">Rank of each unit at each level (1 = most diverse). Large moves are highlighted.</caption><thead><tr><th scope="col">Unit</th>' + levs.map(function (lv) { return '<th scope="col"' + (lv === divLevel ? ' class="cur"' : '') + '>' + DIV_LEVELS[lv].replace('language ', '') + '</th>'; }).join('') + '</tr></thead><tbody>';
+    rows.forEach(function (u) {
+      var r0 = ranks[divLevel][u];
+      h += '<tr data-unit="' + u + '" tabindex="0" role="button"><td>' + esc(UNITS[u].short) + '</td>' + levs.map(function (lv) {
+        var r = ranks[lv][u], big = Math.abs(r - r0) >= 6;
+        return '<td class="' + (lv === divLevel ? 'cur' : '') + (big ? ' moved' : '') + '" title="index ' + (DIVS[lv][u] == null ? '–' : DIVS[lv][u].toFixed(2)) + '">' + r + '</td>';
+      }).join('') + '</tr>';
+    });
+    return h + '</tbody></table>';
+  }
+
   function bilBlock(e) {
     var p = bilPct(e), subs = e.subs.slice().sort(function (a, b) { return (b.n || 0) - (a.n || 0); });
     var mx = subs.length ? (subs[0].n || 1) : 1, shown = subs.slice(0, 8);
     var h = '<div class="bil-block"><span class="lbl">Second languages (Table XV Part II)</span>';
     h += '<div class="stat"><div><b>' + pct(p) + '</b><span>returned a second language</span></div><div><b>' + num(e.bilingual) + '</b><span>of ' + num(e.total) + ' speakers</span></div></div>';
-    h += '<div class="cite">Returns from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).</div>';
+    if (e.coverage != null) {
+      h += '<div class="coverage"><span class="lbl">Coverage</span><div class="cov-track" role="img" aria-label="Covers ' + e.coverage + '% of all-India speakers"><span style="width:' + Math.min(100, e.coverage) + '%"></span></div>';
+      h += '<div class="cite">Part II covers <b>' + num(e.total) + '</b> of the <b>' + num(e.india) + '</b> ' + esc(e.mt) + ' speakers in Part I (<b>' + e.coverage + '%</b>). Returns come from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).';
+      if (e.omitted && e.omitted.length) h += ' Not covered: ' + e.omitted.slice(0, 6).map(function (o) { return esc(o[1]) + ' (' + fmtW.format(o[2]) + ')'; }).join(', ') + (e.omitted.length > 6 ? '…' : '') + '.';
+      h += '</div>' + (e.coverage < 50 ? '<div class="note-box">≈ Under half of this language’s speakers are covered. Don’t read these shares as the language’s overall bilingualism.</div>' : '') + '</div>';
+    } else {
+      h += '<div class="cite">Returns from ' + esc(e.areas.join(', ')) + ' only (dashed on the map).</div>';
+    }
+    h += '<div class="cite">' + (e.diff ? '<b>!</b> Breakdown does not reconcile with the printed total (see below).' : '✓ Breakdown reconciles with the printed total.') + '</div>';
     h += '<ul class="bars">' + shown.map(function (x) {
       return '<li class="static"><span class="nm">' + esc(x.name) + '</span><span class="val">' + (x.n == null ? '?' : num(x.n)) + (e.total && x.n ? ' · ' + pct(x.n / e.total * 100) : '') + '</span><span class="track"><span class="fill alt" style="width:' + ((x.n || 0) / mx * 100) + '%"></span></span></li>';
     }).join('') + '</ul>';
@@ -509,14 +590,14 @@
     box.hidden = false;
     var U = UNITS[u], p = U.pop || [0, 0, 0];
     var h = '<button type="button" class="close" aria-label="Close">×</button><h2>' + esc(U.name) + '</h2>';
-    h += '<div class="cite">' + (U.type === 'prov' ? 'Province' : 'State or agency') + ' · population ' + num(p[0]) + ' (' + num(p[1]) + ' m, ' + num(p[2]) + ' f)</div>';
+    h += '<div class="cite">' + (U.type === 'prov' ? 'Province' : 'State or agency') + ' · population ' + num(p[0]) + ' (' + num(p[1]) + ' m, ' + num(p[2]) + ' f)' + mark(U.flag) + (ESTIMATED[u] ? mark(['≈', ESTIMATED[u]]) : '') + '</div>';
     h += '<div class="cite"><a href="data.html#unit=' + u + '">Every language returned in ' + esc(U.short) + ' →</a></div>';
     if (UNIT_NOTES[u]) h += '<div class="note-box">' + esc(UNIT_NOTES[u]) + '</div>';
-    h += '<div class="stat"><div><b>' + (DIV[u] == null ? '–' : DIV[u].toFixed(2)) + '</b><span>diversity index</span></div><div><b>' + countLangs(u) + '</b><span>entries with speakers</span></div></div>';
+    h += '<div class="stat"><div><b>' + (DIV[u] == null ? '–' : DIV[u].toFixed(2)) + '</b><span>diversity (' + DIV_LEVELS[divLevel] + ')</span></div><div><b>' + countLangs(u) + '</b><span>entries with speakers</span></div></div>';
     h += '<div class="seg small" role="radiogroup" aria-label="Level" style="margin:6px 0"><button type="button" role="radio" data-level="lang" aria-checked="' + (unitLevel === 'lang') + '">Languages</button><button type="button" role="radio" data-level="fam" aria-checked="' + (unitLevel === 'fam') + '">Families</button></div>';
     var list = topLangs(u, unitAll ? 999 : 12, unitLevel), mx = list.length ? list[0].n : 1;
     h += '<ul class="bars">' + list.map(function (x) {
-      return '<li data-lang="' + key(x.l) + '" class="' + (state.mode === 'lang' && state.lang === x.l ? 'on' : '') + '"><span class="nm">' + esc(disp(x.l)) + '</span><span class="val">' + num(x.n) + ' · ' + pct(x.n / p[0] * 100) + '</span><span class="track"><span class="fill" style="width:' + (x.n / mx * 100) + '%"></span></span></li>';
+      return '<li data-lang="' + key(x.l) + '" class="' + (state.mode === 'lang' && state.lang === x.l ? 'on' : '') + '"><span class="nm">' + esc(disp(x.l)) + '</span><span class="val">' + num(x.n) + mark(flagOf(x.l, u)) + ' · ' + pct(x.n / p[0] * 100) + '</span><span class="track"><span class="fill" style="width:' + (x.n / mx * 100) + '%"></span></span></li>';
     }).join('') + '</ul>';
     var total = unitLevel === 'fam' ? famPool().length : countLangs(u);
     if (total > 12) h += '<button type="button" class="linkish" data-all="1">' + (unitAll ? 'Show top 12' : 'Show all ' + total) + '</button>';
@@ -558,7 +639,7 @@
       var x = a.cells[sortCol], y = b.cells[sortCol];
       return (typeof x === 'string' ? x.localeCompare(y) : (x || 0) - (y || 0)) * sortDir;
     });
-    var h = '<table class="data"><caption class="cite" style="text-align:left;padding:4px 0">' + esc($('#map-title-live').textContent || '') + ' · click a heading to sort</caption><thead><tr>' + head.map(function (t, i) { return '<th data-i="' + i + '" aria-sort="' + (sortCol === i ? (sortDir > 0 ? 'ascending' : 'descending') : 'none') + '">' + t + '</th>'; }).join('') + '</tr></thead><tbody>';
+    var h = '<table class="data"><caption class="cite" style="text-align:left;padding:4px 0">' + esc($('#map-title-live').textContent || '') + ' · use a heading to sort</caption><thead><tr>' + head.map(function (t, i) { return '<th scope="col" aria-sort="' + (sortCol === i ? (sortDir > 0 ? 'ascending' : 'descending') : 'none') + '"><button type="button" class="th-btn" data-i="' + i + '">' + t + '</button></th>'; }).join('') + '</tr></thead><tbody>';
     rows.forEach(function (r) {
       var ty = UNITS[r.u].type;
       h += '<tr class="' + (ty === 'total' ? 'tot' : ty === 'sub' ? 'sub' : '') + '">' + r.cells.map(function (c, i) {
@@ -566,13 +647,13 @@
         if (state.mode === 'lang' && i >= 4) return '<td>' + pct(c) + '</td>';
         if (state.mode !== 'lang' && i === 3) return '<td>' + pct(c) + '</td>';
         if (state.mode !== 'lang' && i === 4) return '<td>' + (c == null ? '–' : c.toFixed(2)) + '</td>';
-        return '<td>' + num(c) + '</td>';
+        return '<td>' + num(c) + (i === 1 ? mark(state.mode === 'lang' ? flagOf(state.lang, r.u) : UNITS[r.u].flag) : '') + '</td>';
       }).join('') + '</tr>';
     });
     host.innerHTML = h + '</tbody></table>';
   }
   $('#table-host').addEventListener('click', function (ev) {
-    var th = ev.target.closest('th'); if (!th) return;
+    var th = ev.target.closest('[data-i]'); if (!th) return;
     var i = +th.getAttribute('data-i'); if (sortCol === i) sortDir = -sortDir; else { sortCol = i; sortDir = i === 0 ? 1 : -1; }
     renderTable();
   });
@@ -582,8 +663,15 @@
     state.mode = m;
     [].forEach.call(document.querySelectorAll('#mode-seg button'), function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === m); });
     $('#lang-controls').hidden = m !== 'lang';
+    $('#div-controls').hidden = m !== 'div';
     render();
   }
+  function setDivLevel(lv) {
+    divLevel = lv; DIV = DIVS[lv];
+    [].forEach.call(document.querySelectorAll('#div-seg button'), function (b) { b.setAttribute('aria-checked', b.getAttribute('data-level') === lv); });
+    render();
+  }
+  $('#div-seg').addEventListener('click', function (ev) { var b = ev.target.closest('button'); if (b) setDivLevel(b.getAttribute('data-level')); });
   function setMeasure(m) {
     state.measure = m;
     [].forEach.call(document.querySelectorAll('#measure-seg button'), function (b) { b.setAttribute('aria-checked', b.getAttribute('data-measure') === m); });
@@ -592,7 +680,7 @@
   function setLang(l) {
     if (!l) return;
     state.lang = l;
-    if (state.mode !== 'lang') { state.mode = 'lang'; [].forEach.call(document.querySelectorAll('#mode-seg button'), function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === 'lang'); }); $('#lang-controls').hidden = false; }
+    if (state.mode !== 'lang') { state.mode = 'lang'; [].forEach.call(document.querySelectorAll('#mode-seg button'), function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === 'lang'); }); $('#lang-controls').hidden = false; $('#div-controls').hidden = true; }
     $('#lang-search').value = '';
     [].forEach.call(document.querySelectorAll('#quick button'), function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lang') === key(l)); });
     render();
@@ -616,10 +704,12 @@
     if (lv) { unitLevel = lv.getAttribute('data-level'); renderUnit(); return; }
     if (ev.target.closest('#unit-panel [data-all]')) { unitAll = !unitAll; renderUnit(); }
   });
-  ['opt-labels', 'opt-cities'].forEach(function (id) {
+  ['opt-labels', 'opt-cities', 'opt-modern'].forEach(function (id) {
     $('#' + id).addEventListener('change', function () {
       stage.classList.toggle('no-labels', !$('#opt-labels').checked);
       stage.classList.toggle('show-cities', $('#opt-cities').checked);
+      stage.classList.toggle('show-modern', $('#opt-modern').checked);
+      declutter();
     });
   });
   // quick picks: the largest languages
@@ -678,14 +768,20 @@
   });
 
   /* ---------------------------------------------------------------- hash state */
+  // Map state lives in the query string (?mode=…&lang=…); the #fragment is left for sections.
   function writeHash() {
     var h = 'mode=' + state.mode;
     if (state.mode === 'lang') h += '&lang=' + key(state.lang) + '&m=' + state.measure;
+    if (state.mode === 'div' && divLevel !== 'entry') h += '&level=' + divLevel;
     if (state.unit) h += '&unit=' + state.unit;
-    try { history.replaceState(null, '', '#' + h); } catch (e) { }
+    var frag = /(^|&)(mode|lang|m|unit)=/.test(location.hash.slice(1)) ? '' : location.hash;
+    try { history.replaceState(null, '', location.pathname + '?' + h + frag); } catch (e) { }
   }
   function readHash() {
-    var q = {}; location.hash.replace(/^#/, '').split('&').forEach(function (kv) { var p = kv.split('='); if (p[0]) q[p[0]] = decodeURIComponent(p[1] || ''); });
+    var src = location.search.slice(1);
+    if (!src && /(^|&)(mode|lang)=/.test(location.hash.slice(1))) src = location.hash.slice(1);   // old #mode=… links
+    var q = {}; src.split('&').forEach(function (kv) { var p = kv.split('='); if (p[0]) q[p[0]] = decodeURIComponent(p[1] || ''); });
+    if (q.level && DIVS[q.level]) { divLevel = q.level; DIV = DIVS[q.level]; }
     if (q.mode && /^(lang|lead|div)$/.test(q.mode)) state.mode = q.mode;
     if (q.m && SCALES[q.m] || q.m === 'count') state.measure = q.m;
     state.lang = byKey(q.lang) || defaultLang();
@@ -715,19 +811,20 @@
   var bilSort = 'pct', bilOpen = null, lfOpen = null;
   function renderBilSection() {
     if (!BIL.length || !$('#bil-list')) return;
+    var comparable = $('#lf-comparable') && $('#lf-comparable').checked;
     var rows = BIL.filter(function (e) { return e.bilingual != null; }).slice().sort(function (a, b) {
       return bilSort === 'pct' ? bilPct(b) - bilPct(a) : b.bilingual - a.bilingual;
     });
     var mx = bilSort === 'pct' ? 100 : rows[0].bilingual;
     $('#bil-list').innerHTML = rows.map(function (e, i) {
       var v = bilSort === 'pct' ? bilPct(e) : e.bilingual, open = bilOpen === i + ':' + e.mt;
-      var h = '<li data-bil="' + esc(i + ':' + e.mt) + '" class="' + (open ? 'on' : '') + '"><span class="nm">' + esc(e.mt) + (e.diff ? ' <span class="flag-s" title="Breakdown does not add up in the print">≠</span>' : '') + '</span><span class="val">' + pct(bilPct(e)) + ' · ' + num(e.bilingual) + '</span><span class="track"><span class="fill" style="width:' + (v / mx * 100) + '%"></span></span></li>';
+      var h = '<li data-bil="' + esc(i + ':' + e.mt) + '" class="' + (open ? 'on' : '') + '"><span class="nm">' + esc(e.mt) + (e.diff ? ' <span class="flag-s" title="Breakdown does not add up in the print">≠</span>' : '') + '</span><span class="val">' + pct(bilPct(e)) + ' · ' + num(e.bilingual) + ' <span class="cov-chip' + (e.coverage != null && e.coverage < 50 ? ' low' : '') + '" title="Share of Part I speakers covered by the Part II returns">' + (e.coverage == null ? '' : 'covers ' + (e.coverage < 1 ? '<1' : Math.round(e.coverage)) + '%') + '</span></span><span class="track"><span class="fill" style="width:' + (v / mx * 100) + '%"></span></span></li>';
       if (open) h += '<li class="detail">' + bilBlock(e).replace('<div class="bil-block">', '<div class="bil-block inline">') + (e.lang != null ? '<button type="button" class="linkish" data-lang="' + key(L[e.lang]) + '">Map ' + esc(disp(L[e.lang])) + ' →</button>' : '') + '</li>';
       return h;
     }).join('');
     // lingua francas
     var agg = {};
-    BIL.forEach(function (e) { e.subs.forEach(function (x) { if (x.n) { (agg[x.as] = agg[x.as] || { n: 0, from: [] }); agg[x.as].n += x.n; agg[x.as].from.push({ mt: e.mt, n: x.n, tot: e.total }); } }); });
+    BIL.filter(function (e) { return !comparable || (e.coverage != null && e.coverage >= 50); }).forEach(function (e) { e.subs.forEach(function (x) { if (x.n) { (agg[x.as] = agg[x.as] || { n: 0, from: [] }); agg[x.as].n += x.n; agg[x.as].from.push({ mt: e.mt, n: x.n, tot: e.total }); } }); });
     var lf = Object.keys(agg).map(function (k) { return { name: k, n: agg[k].n, from: agg[k].from }; }).sort(function (a, b) { return b.n - a.n; }).slice(0, 25);
     var m2 = lf[0].n;
     $('#lf-list').innerHTML = lf.map(function (x) {
@@ -747,11 +844,66 @@
     var ml = ev.target.closest('#bil-list [data-lang]'); if (ml) { setLang(byKey(ml.getAttribute('data-lang'))); document.getElementById('explore').scrollIntoView({ behavior: 'smooth' }); }
   });
 
+  /* ---------------------------------------------------------------- keyboard */
+  // make every clickable list row reachable and operable from the keyboard
+  function focusableRows(root) {
+    [].forEach.call((root || document).querySelectorAll('.bars li[data-lang], .bars li[data-unit], .bars li[data-bil], .bars li[data-lf]'), function (li) {
+      if (!li.hasAttribute('tabindex')) { li.setAttribute('tabindex', '0'); li.setAttribute('role', 'button'); }
+    });
+  }
+  new MutationObserver(function () { focusableRows(); }).observe(document.body, { childList: true, subtree: true });
+  document.addEventListener('keydown', function (ev) {
+    var t = ev.target;
+    if ((ev.key === 'Enter' || ev.key === ' ') && t.matches && t.matches('.bars li[tabindex], tr[role="button"]')) { ev.preventDefault(); t.click(); return; }
+    // arrow keys move between tabs / radios in a segmented control
+    if (/^Arrow(Left|Right|Up|Down)$/.test(ev.key) && t.closest && t.closest('[role="tablist"],[role="radiogroup"]') && t.tagName === 'BUTTON') {
+      var btns = [].slice.call(t.closest('[role="tablist"],[role="radiogroup"]').querySelectorAll('button'));
+      var i = btns.indexOf(t), d = /Left|Up/.test(ev.key) ? -1 : 1;
+      var n = btns[(i + d + btns.length) % btns.length];
+      ev.preventDefault(); n.focus(); n.click();
+    }
+  });
+  $('#lf-comparable') && $('#lf-comparable').addEventListener('change', renderBilSection);
+
+  /* ---------------------------------------------------------------- guided tour */
+  var TOUR = [
+    { title: '1. Why Western Hindi fills the United Provinces', go: function () { setMode('lang'); setLang(findLang('Western Hindi')); setMeasure('share'); },
+      text: 'The census used one word, <i>Hindustani</i>, for both Hindi and Urdu, and in the United Provinces allowed no other. The India table then assigned Hindustani to Grierson’s languages by locality. All 48 million UP speakers went to “Western Hindi”, including the Awadhi-speaking east and the Bhojpuri districts. The dark block on the map is an artefact of that decision, not a finding about speech.' },
+    { title: '2. How census evidence entered the making of Orissa', go: function () { setMode('lang'); setLang(findLang('Oriya')); setMeasure('dist'); },
+      text: 'Oriya speakers were spread across Bihar and Orissa, the Madras Presidency (Ganjam and Vizagapatam), the Central Provinces and the feudatory states. The Orissa Boundary Committee asked for the 1931 returns before they were even tabulated, and Orissa became a province in 1936. Hutton warns that rival campaigns pushed people to “plump” for one language and hide their bilingualism, so read the borderland figures with care.' },
+    { title: '3. How sex ratios reveal soldiers, traders and migrant labour', go: function () { setMode('lang'); setLang(findLang('Telugu')); setMeasure('sex'); },
+      text: 'Where a language’s speakers are far from home, men usually outnumber women. There were 160,640 Telugu speakers in Burma, mostly labourers in Rangoon and the delta, with only 290 women for every 1,000 men. Oriya speakers in Burma had 60, and Pashto speakers in Bengal 64. Try English (soldiers and officials) or Panjabi to see the same pattern.' },
+    { title: '4. Why Part II is not a bilingualism census', go: function () { location.hash = 'bilingual'; },
+      text: 'Second languages were tabulated only for certain mother tongues and only in the provinces where “concurrent vernaculars” were found. For Kuki-Chin, the Part II returns cover 36,606 of 972,886 speakers, under 4%. Each entry in the <b>Second languages</b> section shows its coverage. The ranked list can be limited to entries that cover at least half their speakers.' }
+  ];
+  function findLang(n) { return L.filter(function (l) { return l.name === n; })[0]; }
+  var tourI = -1;
+  function showTour(i) {
+    tourI = i;
+    var box = $('#tour');
+    if (i < 0 || i >= TOUR.length) { box.hidden = true; return; }
+    var s = TOUR[i];
+    box.hidden = false;
+    box.innerHTML = '<div class="tour-head"><span class="lbl">Start here · ' + (i + 1) + ' of ' + TOUR.length + '</span><button type="button" class="close" data-tour="close" aria-label="Close the tour">×</button></div><h2>' + s.title + '</h2><p>' + s.text + '</p><div class="tour-nav">' +
+      (i > 0 ? '<button type="button" class="btn ghost" data-tour="prev">‹ Previous</button>' : '') +
+      (i < TOUR.length - 1 ? '<button type="button" class="btn" data-tour="next">Next ›</button>' : '<button type="button" class="btn" data-tour="close">Explore on your own</button>') + '</div>';
+    s.go();
+    box.focus();
+  }
+  $('#btn-tour').addEventListener('click', function () { showTour(0); });
+  $('#tour').addEventListener('click', function (ev) {
+    var b = ev.target.closest('[data-tour]'); if (!b) return;
+    var a = b.getAttribute('data-tour');
+    showTour(a === 'next' ? tourI + 1 : a === 'prev' ? tourI - 1 : -1);
+  });
+
   /* ---------------------------------------------------------------- go */
   readHash();
   [].forEach.call(document.querySelectorAll('#mode-seg button'), function (b) { b.setAttribute('aria-selected', b.getAttribute('data-mode') === state.mode); });
   [].forEach.call(document.querySelectorAll('#measure-seg button'), function (b) { b.setAttribute('aria-checked', b.getAttribute('data-measure') === state.measure); });
   $('#lang-controls').hidden = state.mode !== 'lang';
+  $('#div-controls').hidden = state.mode !== 'div';
+  [].forEach.call(document.querySelectorAll('#div-seg button'), function (b) { b.setAttribute('aria-checked', b.getAttribute('data-level') === divLevel); });
   [].forEach.call(document.querySelectorAll('#quick button'), function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lang') === key(state.lang)); });
   $('#lang-search').placeholder = 'Search ' + L.length + ' languages and groups…';
   render();

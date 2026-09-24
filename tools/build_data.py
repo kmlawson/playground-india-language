@@ -118,16 +118,21 @@ for f in sorted(glob.glob(os.path.join(SRC, 'p*.json')), key=lambda p: int(re.fi
         if sec:
             path = [sec] + rewrite(sec, [p for p in path if not re.match(r'^[ABC]\.\s*[-—–]', p) and p != sec])
         vals = {}
+        flags = {}   # row -> [code, text]: '!' printed inconsistency, '?' illegible, 'Σ' derived
         for r, t in c['values'].items():
             if t is None:
                 t = [None, None, None]
+            if not any(isinstance(x, str) for x in t) and None not in t and t[0] != t[1] + t[2]:
+                flags[r] = ['!', f'As printed, persons ({t[0]:,}) ≠ males ({t[1]:,}) + females ({t[2]:,}). Kept as printed.']
             if isinstance(t[0], str) and not any(isinstance(x, str) for x in t[1:]) and t[1] is not None:
+                flags[r] = ['Σ', f'Persons illegible or blank in the scan; males + females ({(t[1] or 0) + (t[2] or 0):,}) shown.']
                 # persons illegible, males and females legible: show their sum, flagged
                 derived.append(f'col {col0} ({" > ".join(path[1:])}), row {r} {UNITS.get(r, (r,))[0]}: '
                                f'persons illegible or blank in the scan; males + females = {(t[1] or 0) + (t[2] or 0):,} used')
                 t = [(t[1] or 0) + (t[2] or 0), t[1], t[2]]
             elif any(isinstance(x, str) for x in t):
                 illegible.append(f'col {col0} ({" > ".join(path[1:])}), row {r}: {t}')
+                flags[r] = ['?', 'A figure in this cell is illegible in the scan and is left blank.']
             vals[r] = [None if (x is None or isinstance(x, str)) else int(x) for x in t]
         # a column printed only in one half (e.g. Burushaski, States only): fill the missing
         # subtotal rows from the printed rows, and say so
@@ -138,7 +143,22 @@ for f in sorted(glob.glob(os.path.join(SRC, 'p*.json')), key=lambda p: int(re.fi
         if 'INDIA' not in vals and ('PROV' in vals or 'STATES' in vals):
             vals['INDIA'] = [(vals.get('PROV', [0, 0, 0])[i] or 0) + (vals.get('STATES', [0, 0, 0])[i] or 0) for i in range(3)]
             derived.append(f'col {col0} ({" > ".join(path[1:])}): INDIA row not printed; Provinces + States used')
-        cols.append({'col': c['cols'][0], 'leaf': d['leaf'], 'page': d.get('printed_page'),
+        # subtotal rows that do not equal the sum of their rows in the print
+        PR = [str(i) for i in range(1, 16)]; ST = [str(i) for i in range(16, 36)]
+        for tot, rows in (('PROV', PR), ('STATES', ST)):
+            if tot in vals and tot not in flags:
+                for i, lab in enumerate(('persons', 'males', 'females')):
+                    ssum = sum((vals[x][i] or 0) for x in rows if x in vals)
+                    if vals[tot][i] is not None and ssum != vals[tot][i]:
+                        flags[tot] = ['!', f'As printed, the {lab} subtotal ({vals[tot][i]:,}) differs from the sum of its rows ({ssum:,}).']
+                        break
+        if 'INDIA' in vals and 'INDIA' not in flags and 'PROV' in vals and 'STATES' in vals:
+            for i, lab in enumerate(('persons', 'males', 'females')):
+                a, b, cc = vals['INDIA'][i], vals['PROV'][i], vals['STATES'][i]
+                if None not in (a, b, cc) and a != b + cc:
+                    flags['INDIA'] = ['!', f'As printed, the India {lab} figure ({a:,}) ≠ Provinces + States ({b + cc:,}).']
+                    break
+        cols.append({'col': c['cols'][0], 'leaf': d['leaf'], 'page': d.get('printed_page'), 'flags': flags,
                      'path': path, 'total': bool(c.get('total')), 'values': vals,
                      'notes': (c.get('notes') or '') + (' ' + c['footnotes'] if c.get('footnotes') else '')})
     if d.get('notes'):
@@ -195,11 +215,12 @@ for h in hier[:200]:
     print('  HIER', h, file=sys.stderr)
 
 # ---------------------------------------------------------------- output
-pop = next(c for c in cols if c['path'] == ['Population'])['values']
+popcol = next(c for c in cols if c['path'] == ['Population'])
+pop = popcol['values']
 units = OrderedDict()
 for k, (name, typ) in UNITS.items():
     units[k] = {'name': name, 'short': SHORT.get(k, re.sub(r' State$', '', name)), 'type': typ,
-                'pop': pop.get(k)}
+                'pop': pop.get(k), 'flag': popcol['flags'].get(k)}
 
 langs = []
 index = {}
@@ -215,6 +236,7 @@ for k, n in nodes.items():
         'col': pc['col'] if pc else None, 'page': pc['page'] if pc else None,
         'leaf': pc['leaf'] if pc else None,
         'computed': pc is None,
+        'f': (pc['flags'] or None) if pc else None,
         'note': ' '.join(x for x in [NODE_NOTES.get(n['name'], ''),
                                      ' '.join('DERIVED: ' + m.split(': ', 1)[1] for m in derived if pc and m.startswith(f"col {pc['col']} ")),
                                      (pc['notes'].strip() if pc else '')] if x) or None,
@@ -232,15 +254,16 @@ with open(os.path.join(OUT, 'census.js'), 'w') as fh:
 with open(os.path.join(OUT, 'table15.csv'), 'w', newline='') as fh:
     w = csv.writer(fh)
     w.writerow(['classification_path', 'name', 'is_group', 'table_column', 'printed_page', 'scan_leaf',
-                'unit_code', 'unit', 'persons', 'males', 'females'])
+                'unit_code', 'unit', 'persons', 'males', 'females', 'flag', 'flag_note'])
     for L in langs:
         path = ' > '.join(nodes[list(nodes)[L['id']]]['path'])
         for u, (un, _) in UNITS.items():
             t = L['v'].get(u)
             if not t:
                 continue
+            fl = (L.get('f') or {}).get(u) or ['', '']
             w.writerow([path, L['name'], int(bool(L['kids'])), L['col'] or '', L['page'] or '', L['leaf'] or '',
-                        u, un, *t])
+                        u, un, *t, fl[0], fl[1]])
 with open(os.path.join(OUT, 'languages.csv'), 'w', newline='') as fh:
     w = csv.writer(fh)
     w.writerow(['classification_path', 'name', 'is_group', 'total_printed', 'table_column', 'printed_page',

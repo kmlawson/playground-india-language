@@ -64,7 +64,22 @@ for f in sorted(glob.glob(os.path.join(SRC, 'p*.json'))):
                          'illegible': not isinstance(n, int)})
         tot = sum(s['n'] or 0 for s in subs)
         bil = e['bilingual'] if isinstance(e['bilingual'], int) else None
+        # coverage against Part I: all-India speakers, and provinces with speakers left out
+        india = cover = None; omitted = []
+        if node:
+            india = (node['v'].get('INDIA') or [None])[0]
+            if india:
+                cover = round(e['total_speakers'] / india * 100, 1)
+            inc = set(AREA.get(a) for a in e['areas'])
+            inc_map = {('27' if u in ('27a', '27b') else u) for u in inc if u}
+            for u, t in node['v'].items():
+                if u in ('INDIA', 'PROV', 'STATES', '7a', '27a', '27b', '27c') or not t or not t[0]:
+                    continue
+                if u not in inc_map and india and t[0] / india >= 0.005:
+                    omitted.append([u, C['units'][u]['short'], t[0]])
+            omitted.sort(key=lambda x: -x[2])
         entries.append({
+            'india': india, 'coverage': cover, 'omitted': omitted,
             'num': e['num'], 'mt': e['mother_tongue'], 'sub_of': e.get('sub_of'),
             'lang': node['id'] if node else None,
             'areas': e['areas'], 'units': [AREA.get(a) for a in e['areas']],
@@ -83,11 +98,11 @@ with open(os.path.join(OUT, 'bilingual.js'), 'w') as fh:
     fh.write('window.BILINGUAL = ' + json.dumps(entries, ensure_ascii=False, separators=(',', ':')) + ';\n')
 with open(os.path.join(OUT, 'bilingual.csv'), 'w', newline='') as fh:
     w = csv.writer(fh)
-    w.writerow(['entry', 'mother_tongue', 'areas_returned_from', 'total_speakers', 'returned_bilingual_col3',
+    w.writerow(['entry', 'mother_tongue', 'areas_returned_from', 'total_speakers', 'all_india_speakers_part1', 'coverage_pct', 'returned_bilingual_col3',
                 'subsidiary_language_printed', 'subsidiary_language', 'persons', 'printed_page', 'scan_leaf'])
     for e in entries:
         for s in e['subs']:
-            w.writerow([e['num'] or '', e['mt'], '; '.join(e['areas']), e['total'], e['bilingual'],
+            w.writerow([e['num'] or '', e['mt'], '; '.join(e['areas']), e['total'], e['india'] or '', e['coverage'] or '', e['bilingual'],
                         s['name'], s['as'], s['n'] if s['n'] is not None else '?', e['page'], e['leaf']])
 bad = [e for e in entries if e['diff']]
 print(f'{len(entries)} entries; {len(bad)} do not add up to column 3 in the print', file=sys.stderr)

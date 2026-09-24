@@ -609,7 +609,18 @@ for lat in range(-5, 50, 5):
     pts = [fwd(lon, lat) for lon in range(50, 113)]
     grat.append({'k': 'lat', 'v': lat, 'd': 'M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in pts)})
 
-out = {'viewBox': vb, 'units': units, 'extra': extra, 'neighbours': neigh, 'cities': cities,
+# present-day international land borders (for the 'modern borders' overlay)
+tick('modern borders')
+mod = unary_union([countries[n].boundary for n in ('India', 'Pakistan', 'Bangladesh', 'Myanmar', 'Nepal',
+                                                   'Bhutan', 'Sri Lanka') if n in countries])
+mod = mod.intersection(land.buffer(-0.02)).intersection(frame)
+mg = proj(mod).simplify(0.5)
+def lpath(g):
+    ls = [g] if g.geom_type == 'LineString' else [x for x in getattr(g, 'geoms', []) if x.geom_type == 'LineString']
+    return ''.join('M' + 'L'.join(f'{x:.1f} {y:.1f}' for x, y in l.coords) for l in ls if l.length > 2)
+modern = lpath(mg)
+
+out = {'viewBox': vb, 'units': units, 'modern': modern, 'extra': extra, 'neighbours': neigh, 'cities': cities,
        'graticule': grat,
        'proj': {'type': 'mercator', 'lon0': LON0, 'latMax': LAT_MAX, 'pxPerDeg': PXD}}
 os.makedirs(os.path.dirname(OUT), exist_ok=True)

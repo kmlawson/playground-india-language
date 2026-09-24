@@ -5,6 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="description" content="An interactive map of mother tongues recorded in the 1931 Census of India (Imperial Table XV), transcribed from the printed tables, with historical context and cautions.">
 <title>Languages of India, 1931</title>
+<link rel="canonical" href="https://kmlawson.github.io/playground-india-language/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Languages of India, 1931">
+<meta property="og:description" content="An interactive map and source edition of the mother-tongue and bilingualism tables of the 1931 Census of India, transcribed from the printed pages, with every figure linked to its scan.">
+<meta property="og:url" content="https://kmlawson.github.io/playground-india-language/">
+<meta property="og:image" content="https://kmlawson.github.io/playground-india-language/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f4f1ea'/%3E%3Cpath d='M9 7h10l4 6-3 12-6 2-5-9z' fill='%23256abf'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,8 +26,10 @@
   <div class="brand">
     <h1><a href="./">Languages of India, 1931</a></h1>
     <p class="sub">Mother tongues in the Census of India, 1931 &middot; Imperial Table XV</p>
+    <p class="scope" title="What 'India' means on this site">1931 census territory · includes Burma and Aden · administrative units, not language regions</p>
   </div>
   <nav aria-label="Sections">
+    <button type="button" id="btn-tour" class="btn">Start here</button>
     <a href="#explore">Map</a>
     <a href="#context">Context</a>
     <a href="#cautions">Cautions</a>
@@ -51,6 +62,7 @@
           <g id="g-neigh"></g>
           <g id="g-extra"></g>
           <g id="g-units"></g>
+          <g id="g-modern"></g>
           <g id="g-bil"></g>
           <g id="g-circles"></g>
           <g id="g-cities"></g>
@@ -66,15 +78,17 @@
       <div id="map-toggles">
         <label><input type="checkbox" id="opt-labels" checked> Labels</label>
         <label><input type="checkbox" id="opt-cities"> Cities</label>
+        <label title="Show present-day international borders over the 1931 units"><input type="checkbox" id="opt-modern"> Modern borders</label>
       </div>
       <div id="tooltip" role="tooltip" hidden></div>
     </div>
 
     <aside id="side">
+      <section id="tour" hidden tabindex="-1" aria-live="polite"></section>
       <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
         <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
         <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
-        <button type="button" role="tab" data-mode="div" aria-selected="false">Diversity</button>
+        <button type="button" role="tab" data-mode="div" aria-selected="false" title="Diversity within the census’s 1931 classification">Diversity</button>
       </div>
 
       <div id="lang-controls">
@@ -99,6 +113,15 @@
         </div>
       </div>
 
+      <div id="div-controls" class="field" hidden>
+        <span class="lbl" id="div-lbl">Count categories at the level of</span>
+        <div class="seg small" role="radiogroup" aria-labelledby="div-lbl" id="div-seg">
+          <button type="button" role="radio" data-level="entry" aria-checked="true">Language entries</button>
+          <button type="button" role="radio" data-level="branch" aria-checked="false">Branches</button>
+          <button type="button" role="radio" data-level="subfamily" aria-checked="false">Sub-families</button>
+          <button type="button" role="radio" data-level="family" aria-checked="false">Families</button>
+        </div>
+      </div>
       <div id="legend" aria-label="Legend"></div>
       <div id="summary"></div>
       <div id="unit-panel" hidden></div>
@@ -119,7 +142,7 @@
   <div class="bil-grid">
     <div class="bil-col">
       <h3>Who was bilingual?</h3>
-      <p class="cite">Share of each mother tongue’s speakers (in the provinces covered) who returned a second language. Click a row to see the breakdown.</p>
+      <p class="cite">Share of each mother tongue’s speakers (in the provinces covered) who returned a second language. The chip shows how much of the language’s all-India population Part II covers. Click a row for the breakdown.</p>
       <div class="seg small" role="radiogroup" aria-label="Sort" id="bil-sort">
         <button type="button" role="radio" data-s="pct" aria-checked="true">By share bilingual</button>
         <button type="button" role="radio" data-s="n" aria-checked="false">By number bilingual</button>
@@ -127,8 +150,9 @@
       <ul class="bars" id="bil-list"></ul>
     </div>
     <div class="bil-col">
-      <h3>The languages people added</h3>
-      <p class="cite">Each second language, ranked by the total number of people across all 54 entries who returned it. Click one to see whose second language it was.</p>
+      <h3>Second-language returns in the selectively tabulated Part II data</h3>
+      <p class="cite">Each second language, ranked by the number of people who returned it across the Part II entries. This is not an all-India ranking: coverage ranges from under 4% of a mother tongue’s speakers to nearly all of them. Click a language to see whose second language it was.</p>
+      <label class="check-inline"><input type="checkbox" id="lf-comparable"> Only entries covering at least half their speakers</label>
       <ul class="bars" id="lf-list"></ul>
     </div>
   </div>
@@ -193,31 +217,57 @@
 
 <section id="resources">
   <h2>Further reading and sources</h2>
-  <h3>The census itself</h3>
+  <p>This is a reading guide, not a full bibliography. Each entry says why it matters for these tables. The list is still thin on Burma, on Adivasi perspectives and on the northeast. Suggestions are welcome.</p>
+
+  <h3>Read the census</h3>
   <ul class="refs">
-    <li>J. H. Hutton, <i>Census of India, 1931. Vol. I – India. Part I – Report</i> (1933), Chapter X, “Language”, which has the commentary quoted above. <a href="https://archive.org/details/CensusOfIndia1931">Internet Archive</a>.</li>
-    <li><i>Census of India, 1931. Vol. I – India. Part II – Imperial Tables</i> (1933). This is the source of these figures, and Table XV Part II has the bilingualism summary. <a href="https://archive.org/details/india.history.resource.92539">Internet Archive</a> · <a href="https://dspace.gipe.ac.in/xmlui/handle/10973/18955">GIPE</a> · <a href="https://censusindia.gov.in/nada/index.php/catalog/31043">Census of India digital library</a>.</li>
-    <li>The provincial and state volumes (Vols. II–XXVII). Their Table XV has district figures and subsidiary languages, and most include a linguistic map. For example: <a href="https://archive.org/details/in.ernet.dli.2015.101827">Assam, Part II</a>; <a href="https://archive.org/details/in.gov.ignca.31114">Western India States Agency</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56050">Jammu and Kashmir, Part II</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56021">Baluchistan</a>. Search the Internet Archive for “Census of India 1931” to find the others.</li>
-    <li>G. A. Grierson, <i>Linguistic Survey of India</i> (1903–1928), especially Vol. I Part I, <i>Introductory</i> (1927), which gives the classification the table follows. Searchable at the <a href="https://dsal.uchicago.edu/books/lsi/">Digital South Asia Library</a>.</li>
-    <li>The 1921 and 1951 census language tables for comparison. The 1951 tables, however, cover the Indian Union only, and their Hindi/Urdu/Hindustani categories were themselves contested.</li>
+    <li><i>Census of India, 1931. Vol. I – India. Part II – Imperial Tables</i> (1933). The source of every figure on this site: Table XV Part I (mother tongue) and Part II (bilingualism). <a href="https://archive.org/details/india.history.resource.92539">Internet Archive</a> · <a href="https://dspace.gipe.ac.in/xmlui/handle/10973/18955">GIPE</a> · <a href="https://censusindia.gov.in/nada/index.php/catalog/31043">Census of India digital library</a>.</li>
+    <li>J. H. Hutton, <i>Census of India, 1931. Vol. I – India. Part I – Report</i> (1933), ch. X “Language”. The Census Commissioner’s own account of what went wrong: Hindustani, Orissa, Bhopal, the Gonds. <a href="https://archive.org/details/CensusOfIndia1931">Internet Archive</a>.</li>
+    <li>The provincial and state volumes (Vols. II–XXVIII), whose Table XV gives districts, tahsils and states, often with district bilingualism. Examples: <a href="https://archive.org/details/in.ernet.dli.2015.101827">Assam</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56035">Burma</a> (district language and bilingualism tables); <a href="https://archive.org/details/in.gov.ignca.31114">Western India States</a>; <a href="https://archive.org/details/in.ernet.dli.2015.56050">Jammu and Kashmir</a>.</li>
+    <li>G. A. Grierson, <i>Linguistic Survey of India</i> (1903–1928), especially Vol. I Part I (1927). The classification the 1931 tables follow. Searchable at the <a href="https://dsal.uchicago.edu/books/lsi/">Digital South Asia Library</a>.</li>
+    <li>Later censuses, for comparison. The categories are not directly comparable across years. The 1961 census was the first to publish full mother-tongue and bilingualism tables for the Indian Union (e.g. <a href="https://censusindia.gov.in/nada/index.php/catalog/28303">Part II-C(ii), Uttar Pradesh</a>). The 2011 table <a href="https://censusindia.gov.in/nada/index.php/catalog/10262">C-17, “Population by bilingualism and trilingualism”</a> is the modern successor to Part II. The Census’s <a href="https://language.census.gov.in/">Language Census Data</a> portal explains how language returns are rationalised.</li>
   </ul>
-  <h3>Scholarship</h3>
+
+  <h3>How colonial categories were made</h3>
   <ul class="refs">
-    <li>India State Stories, <a href="https://www.indiastatestory.in/post/35-legacies-of-the-1931-linguistic-census">“Legacies of the 1931 Linguistic Census”</a>.</li>
-    <li>Bernard S. Cohn, “The Census, Social Structure and Objectification in South Asia”, in <i>An Anthropologist among the Historians and Other Essays</i> (1987).</li>
-    <li>Asha Sarangi, “Enumeration and the Linguistic Identity Formation in Colonial North India”, <i>Studies in History</i> 25:2 (2009).</li>
-    <li>Christopher R. King, <i>One Language, Two Scripts: The Hindi Movement in Nineteenth Century North India</i> (1994).</li>
-    <li>Paul R. Brass, <i>Language, Religion and Politics in North India</i> (1974).</li>
-    <li>Alok Rai, <i>Hindi Nationalism</i> (2001).</li>
-    <li>Sudipta Kaviraj, “Writing, Speaking, Being: Language and the Historical Formation of Identities in India”, in D. Hellmann-Rajanayagam and D. Rothermund (eds.), <i>Nationalstaat und Sprachkonflikte in Süd- und Südostasien</i> (1992).</li>
-    <li>Lisa Mitchell, <i>Language, Emotion, and Politics in South India: The Making of a Mother Tongue</i> (2009).</li>
-    <li>Sumathi Ramaswamy, <i>Passions of the Tongue: Language Devotion in Tamil India, 1891–1970</i> (1997).</li>
-    <li>Javed Majeed, <i>Colonialism and Knowledge in Grierson’s Linguistic Survey of India</i> (2018).</li>
-    <li>On Orissa: the <i>Report of the Orissa Committee</i> (1932), which made use of the 1931 language returns.</li>
+    <li>Bernard S. Cohn, “The Census, Social Structure and Objectification in South Asia”, in <i>An Anthropologist among the Historians and Other Essays</i> (Oxford University Press, 1987). The classic argument that enumeration helped make the categories it counted.</li>
+    <li>David Lelyveld, “Colonial Knowledge and the Fate of Hindustani”, <i>Comparative Studies in Society and History</i> 35:4 (1993), 665–682. <a href="https://doi.org/10.1017/S0010417500018661">doi:10.1017/S0010417500018661</a>. Essential background to the site’s Hindustani / Western Hindi problem.</li>
+    <li>Asha Sarangi, “Enumeration and the Linguistic Identity Formation in Colonial North India”, <i>Studies in History</i> 25:2 (2009), 197–227. <a href="https://journals.sagepub.com/doi/abs/10.1177/025764301002500202">SAGE</a>. How census operations standardised linguistic diversity in the north.</li>
+    <li>Thomas R. Trautmann, <i>Languages and Nations: The Dravidian Proof in Colonial Madras</i> (University of California Press, 2006). The intellectual history behind the table’s “Dravidian Family”.</li>
+    <li>Javed Majeed, <i>Colonialism and Knowledge in Grierson’s Linguistic Survey of India</i> (Routledge, 2018). How the survey behind this classification was made.</li>
+    <li>Christopher R. King, <i>One Language, Two Scripts: The Hindi Movement in Nineteenth Century North India</i> (Oxford University Press, 1994). The script politics that led to the 1931 return of “Hindustani”.</li>
   </ul>
+
+  <h3>Regional language movements</h3>
+  <ul class="refs">
+    <li>Pritipuspa Mishra, <i>Language and the Making of Modern India: Nationalism and the Vernacular in Colonial Odisha, 1803–1956</i> (Cambridge University Press, 2020), <a href="https://www.cambridge.org/core/books/language-and-the-making-of-modern-india/CD2F6CC59F0D753C207DCCDA783AF4D7">open access</a>. The making of Orissa, the first linguistic province, including how Adivasi languages were pushed aside.</li>
+    <li>Sumathi Ramaswamy, <i>Passions of the Tongue: Language Devotion in Tamil India, 1891–1970</i> (University of California Press, 1997), <a href="https://publishing.cdlib.org/ucpressebooks/public/book/passions-of-the-tongue-language-devotion-in-tamil-india-1891-1970.html">free online</a>. Tamil devotion and politics.</li>
+    <li>Lisa Mitchell, <i>Language, Emotion, and Politics in South India: The Making of a Mother Tongue</i> (Indiana University Press, 2009). How “mother tongue”, the very census category, became an object of attachment in Telugu.</li>
+    <li>Veena Naregal, <i>Language Politics, Elites, and the Public Sphere: Western India under Colonialism</i> (Permanent Black, 2001). Marathi print, bilingual elites and linguistic hierarchy in western India.</li>
+    <li>Mithilesh Kumar Jha, <i>Language Politics and Public Sphere in North India: Making of the Maithili Movement</i> (Oxford University Press, 2018), <a href="https://academic.oup.com/book/32339">Oxford Academic</a>. How Maithili became “minor” within the Hindi sphere, including through census classification and mapping. Maithili is folded into “Bihari” in these tables.</li>
+    <li>Paul R. Brass, <i>Language, Religion and Politics in North India</i> (Cambridge University Press, 1974); Alok Rai, <i>Hindi Nationalism</i> (Orient Longman, 2001). Hindi, Urdu and Punjabi politics around and after these returns.</li>
+    <li><i>Report of the Orissa Committee</i> (1932). The boundary committee that asked for the 1931 language returns.</li>
+  </ul>
+
+  <h3>Adivasi and minoritized languages</h3>
+  <ul class="refs">
+    <li>UNESCO and IGNCA, <i>Tribal and Indigenous Languages of India</i> (2022), <a href="https://www.unesco.org/en/articles/unesco-launches-report-indias-tribal-and-indigenous-languages">UNESCO</a>. A review of what official records and surveys do and do not say about tribal languages, and a route into endangerment and documentation.</li>
+    <li>G. N. Devy (chief ed.), <i>People’s Linguistic Survey of India</i> (Orient BlackSwan, 2012–), <a href="https://orientblackswan.com/books?id=0&amp;pid=0&amp;sid=191">volumes</a>. A speaker-centred counterpoint to official classification, recording some 780 languages.</li>
+    <li>Anvita Abbi, “Vanishing Diversities and Submerging Identities”, in Asha Sarangi (ed.), <i>Language and Politics in India</i> (below). Tribal languages under the pressure of regional and national ones, which is the process Hutton’s “survival of tribal languages” section describes.</li>
+  </ul>
+
+  <h3>After Partition</h3>
+  <ul class="refs">
+    <li>Asha Sarangi (ed.), <i>Language and Politics in India</i> (Oxford University Press, 2009), <a href="https://global.oup.com/academic/product/language-and-politics-in-india-9780198064220">OUP</a>. A bridge from colonial classification to the constitution, linguistic states (Schwartzberg), minorities and education.</li>
+    <li>Tariq Rahman, <i>Language and Politics in Pakistan</i> (Oxford University Press, Karachi, 1996). What became of Urdu, Bengali, Sindhi, Pashto, Siraiki, Balochi and Punjabi in the western half of these tables, and of the Bengali movement.</li>
+    <li>Sanjib Baruah, <i>India Against Itself: Assam and the Politics of Nationality</i> (University of Pennsylvania Press, 1999), <a href="https://www.pennpress.org/9780812234916/india-against-itself/">Penn Press</a>. Assam and the northeast, where the 1931 Assamese–Bengali figures later became explosive.</li>
+    <li>Sudipta Kaviraj, “Writing, Speaking, Being: Language and the Historical Formation of Identities in India”, in D. Hellmann-Rajanayagam and D. Rothermund (eds.), <i>Nationalstaat und Sprachkonflikte in Süd- und Südostasien</i> (1992). An influential essay on how languages became identities.</li>
+  </ul>
+
   <h3>Maps</h3>
   <ul class="refs">
-    <li>The linguistic map that accompanies Vol. I Part I of the 1931 report, and the language maps in the <i>Imperial Gazetteer of India</i>, <i>Atlas</i> (1909). <a href="https://dsal.uchicago.edu/maps/gazetteer/">DSAL Imperial Gazetteer maps</a>.</li>
+    <li>The linguistic map that accompanies Vol. I Part I of the 1931 report, and the language maps in the <i>Imperial Gazetteer of India, Atlas</i> (1909). <a href="https://dsal.uchicago.edu/maps/gazetteer/">DSAL Imperial Gazetteer maps</a>.</li>
+    <li>India State Stories, <a href="https://www.indiastatestory.in/post/35-legacies-of-the-1931-linguistic-census">“Legacies of the 1931 Linguistic Census”</a> and <a href="https://www.indiastatestory.in/post/2-districts-in-colonial-era">“Districts in Colonial Era”</a>. The essay that prompted this site, and district maps from 1872 to 1941.</li>
     <li><a href="https://froginawell.net/reference/japanese-empire/">The Japanese Empire map</a>, the SVG map this site’s design follows.</li>
   </ul>
 </section>

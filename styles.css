@@ -337,3 +337,46 @@ a.plain:hover { color: var(--accent); }
 .bil-browse h2 { font: 600 22px var(--serif); margin: 0 0 6px; }
 .bil-browse p { font-size: 14px; max-width: 900px; }
 #q2 { padding: 7px 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font: 14.5px var(--sans); min-width: 280px; }
+
+/* ------------------------------------------------------------ critique round */
+#bar .scope { margin: 2px 0 0; font-size: 12px; color: var(--ink-2); display: inline-block; border: 1px solid var(--line);
+  border-radius: 999px; padding: 1px 9px; background: var(--bg); }
+#btn-tour { margin-right: 6px; }
+.modern { fill: none; stroke: var(--accent); stroke-width: 1.6; stroke-dasharray: 5 3; vector-effect: non-scaling-stroke; pointer-events: none; }
+#g-modern { display: none; }
+#stage.show-modern #g-modern { display: inline; }
+.flag-m { display: inline-block; min-width: 15px; padding: 0 4px; margin-left: 2px; border-radius: 8px; border: 1px solid var(--accent);
+  color: var(--accent); font: 600 11px/14px var(--sans); text-align: center; cursor: help; vertical-align: 1px; }
+#tooltip .warn, .warn { color: var(--accent); }
+#legend .symbols b { color: var(--accent); }
+.coverage { margin: 6px 0; }
+.cov-track { height: 8px; background: var(--line-soft); border-radius: 4px; overflow: hidden; margin: 3px 0 4px; }
+.cov-track span { display: block; height: 100%; background: var(--s3); }
+.cov-chip { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 8px; border: 1px solid var(--line); color: var(--muted); margin-left: 4px; }
+.cov-chip.low { border-color: var(--accent); color: var(--accent); }
+.check-inline { display: flex; gap: 6px; align-items: center; font-size: 13px; margin: 4px 0 8px; }
+#tour { background: var(--bg); border: 1px solid var(--accent); border-radius: 10px; padding: 10px 12px; font-size: 14px; line-height: 1.5; }
+#tour h2 { font: 600 17px/1.3 var(--serif); margin: 2px 0 6px; }
+#tour p { margin: 0 0 8px; }
+.tour-head { display: flex; justify-content: space-between; align-items: center; }
+.tour-head .close { border: 1px solid var(--line); background: transparent; border-radius: 6px; cursor: pointer; padding: 1px 8px; }
+.tour-nav { display: flex; gap: 8px; justify-content: flex-end; }
+table.sens { font-size: 12.5px; }
+table.sens td.cur, table.sens th.cur { font-weight: 600; background: var(--line-soft); }
+table.sens td.moved { color: var(--accent); font-weight: 600; }
+table.sens tr[role="button"] { cursor: pointer; }
+table.sens tr[role="button"]:hover td { background: var(--line-soft); }
+.th-btn { border: 0; background: none; font: inherit; font-weight: 600; color: inherit; cursor: pointer; padding: 0; }
+.bars li[tabindex]:focus-visible, tr[role="button"]:focus-visible { outline: 2px solid var(--focus); outline-offset: -2px; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .unit { transition: none; }
+  * { animation: none !important; }
+}
+/* phones: keep the map in view while the controls below it are used */
+@media (max-width: 900px) {
+  #bar { position: static; }
+  #stage { position: sticky; top: 0; z-index: 4; height: 46vh; min-height: 300px; box-shadow: var(--shadow); }
+  #bar .scope { font-size: 11px; }
+}
+[hidden] { display: none !important; }
