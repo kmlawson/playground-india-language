@@ -34,7 +34,9 @@
     <a href="#context">Context</a>
     <a href="#cautions">Cautions</a>
     <a href="#bilingual">Second languages</a>
-    <a href="data.html">Table browser</a>
+    <a href="districts.html">District map</a>
+    <a href="data.html">Province tables</a>
+    <a href="regional.html">District tables</a>
     <a href="#method">Data</a>
     <a href="#resources">Further reading</a>
     <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
@@ -48,12 +50,12 @@
       <svg id="map" role="img" aria-labelledby="map-title" preserveAspectRatio="xMidYMid meet">
         <title id="map-title">Map of British India's provinces, states and agencies in 1931</title>
         <defs>
-          <pattern id="hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
-            <rect width="6" height="6" class="hatch-bg"/>
-            <line x1="0" y1="0" x2="0" y2="6" class="hatch-line"/>
+          <pattern id="hatch" patternUnits="userSpaceOnUse" width="4" height="4" patternTransform="rotate(45)">
+            <rect width="4" height="4" class="hatch-bg"/>
+            <line x1="0" y1="0" x2="0" y2="4" class="hatch-line"/>
           </pattern>
-          <pattern id="hatch-clear" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
-            <line x1="0" y1="0" x2="0" y2="6" class="hatch-line"/>
+          <pattern id="hatch-clear" patternUnits="userSpaceOnUse" width="4" height="4" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="4" class="hatch-line"/>
           </pattern>
         </defs>
         <g id="viewport">
@@ -196,7 +198,9 @@
   <p>A separate reader then re-read a random sample of 250 cells without seeing the transcription. 247 agreed with it. Re-checking the scan showed that the other 3 were the second reader’s own slips (details in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/verification">source/verification</a>).</p>
   <p id="check-summary">The results of these checks are listed below.</p>
   <div id="check-list"></div>
-  <p>Every figure can be searched, filtered and checked against its page scan in the <a href="data.html">Table browser</a>. Downloads: <a href="data/table15.csv">table15.csv</a> (every figure, long format), <a href="data/languages.csv">languages.csv</a> (the classification with all-India totals), and the page-by-page transcription files in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
+  <p>Every figure can be searched, filtered and checked against its page scan in the <a href="data.html">Province tables</a>. Downloads: <a href="data/table15.csv">table15.csv</a> (every figure, long format), <a href="data/languages.csv">languages.csv</a> (the classification with all-India totals), and the page-by-page transcription files in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
+  <h3>District figures</h3>
+  <p>The provincial and state volumes print Table XV by district. The <a href="districts.html">district map</a> draws those figures on present-day district boundaries. Each 1931 area is linked to the districts made from it through the district lineage of Jolad, Kalra and Singh (CC BY 4.0), and the few that cannot be separated are grouped together. How the 24 volumes were made comparable is explained on <a href="districts.html#how">that page</a> and, rule by rule, in <a href="https://github.com/kmlawson/playground-india-language/blob/main/docs/regional.md">docs/regional.md</a>.</p>
   <h3>The map</h3>
   <p>The base boundaries are the 1931 province/state layer from W. Tennant’s <a href="https://github.com/wtennant/plague_india">plague_india</a> repository (LGPL-3.0). Its latitudes have been rescaled to WGS84. That layer merges several census units, so they were separated here using modern district boundaries from <a href="https://www.geoboundaries.org/">geoBoundaries</a>, which run close to the old lines at this scale:</p>
   <ul>
@@ -273,7 +277,8 @@
 </section>
 
 <footer>
-  <p>Figures: Census of India 1931 (public domain). Transcription, arrangement and code on this site: see the <a href="https://github.com/kmlawson/playground-india-language">repository</a>. Boundaries derive from plague_india (LGPL-3.0), geoBoundaries (PD / ODbL / CC BY 3.0 IGO), Natural Earth (PD) and OpenStreetMap (© OpenStreetMap contributors, ODbL).</p>
+  <p>Figures: Census of India 1931 (public domain). Transcription, arrangement and code on this site: no rights claimed (CC0); see the <a href="https://github.com/kmlawson/playground-india-language">repository</a> and its <a href="https://github.com/kmlawson/playground-india-language/blob/main/LICENSE">LICENSE</a>. Boundaries derive from plague_india (LGPL-3.0), geoBoundaries (PD / ODbL / CC BY 3.0 IGO), Natural Earth (PD) and OpenStreetMap (© OpenStreetMap contributors, ODbL).</p>
+  <p class="version"></p>
 </footer>
 </article>
 </main>
@@ -283,6 +288,7 @@
 <script src="data/checks.js"></script>
 <script src="data/areas.js"></script>
 <script src="data/bilingual.js"></script>
+<script src="version.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

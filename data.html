@@ -22,14 +22,16 @@
     <a href="./#explore">Map</a>
     <a href="./#context">Context</a>
     <a href="./#cautions">Cautions</a>
-    <a href="data.html" aria-current="page">Table browser</a>
+    <a href="districts.html">District map</a>
+    <a href="data.html" aria-current="page">Province tables</a>
+    <a href="regional.html">District tables</a>
     <a href="./#resources">Further reading</a>
     <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
   </nav>
 </header>
 
 <main id="browse">
-  <p class="intro">This page holds the full transcription of <i>Census of India, 1931</i>, Vol.&nbsp;I Part&nbsp;II, Table XV Part I (mother tongue). There is one row for each language or group in each province, state or agency where it was returned. The <b>Source</b> link opens the printed page on the Internet Archive, so you can check any figure against the scan. Figures are shown as printed. Click <span class="flag">!</span> beside a name to read the transcriber’s note on that printed column. A mark beside a figure flags that cell: <b>!</b> printed inconsistency, <b>?</b> illegible, <b>Σ</b> calculated. Rows marked <span class="flag sum">Σ</span> are group totals the table does not print, added up from their members.</p>
+  <p class="intro">For district-level figures from the provincial and state volumes, see the <a href="regional.html">District tables</a>. This page holds the full transcription of <i>Census of India, 1931</i>, Vol.&nbsp;I Part&nbsp;II, Table XV Part I (mother tongue). There is one row for each language or group in each province, state or agency where it was returned. The <b>Source</b> link opens the printed page on the Internet Archive, so you can check any figure against the scan. Figures are shown as printed. Click <span class="flag">!</span> beside a name to read the transcriber’s note on that printed column. A mark beside a figure flags that cell: <b>!</b> printed inconsistency, <b>?</b> illegible, <b>Σ</b> calculated. Rows marked <span class="flag sum">Σ</span> are group totals the table does not print, added up from their members.</p>
 
   <form id="filters" onsubmit="return false">
     <div class="f wide">
@@ -113,10 +115,12 @@
     <p>Table XV Part I runs across 38 printed pages (pp. 472–509; scan leaves 477–514). Each link opens the page on the Internet Archive. The transcription files for each page are in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/transcribed">source/transcribed/</a>.</p>
     <ul id="pages"></ul>
   </section>
+  <p class="version cite"></p>
 </main>
 
 <script src="data/census.js"></script>
 <script src="data/bilingual.js"></script>
+<script src="version.js"></script>
 <script src="browse.js"></script>
 </body>
 </html>

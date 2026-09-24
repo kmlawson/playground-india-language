@@ -1,0 +1,934 @@
+[
+ {
+  "volume": "I Part II",
+  "unit": "All India (Imperial Tables; province/state level only) - fallback for Coorg, Delhi etc.",
+  "identifier": "india.history.resource.92539",
+  "title": "Census of India, 1931, Vol. I; India; Part II.-Imperial Tables",
+  "url": "https://archive.org/details/india.history.resource.92539",
+  "total_leaves": 640,
+  "jp2_zip": "92539_jp2.zip",
+  "pdf": "92539.pdf",
+  "pdf_mb": 32.1,
+  "table_xv_intro_leaf": 476,
+  "table_xv_part1_leaves": [
+   477,
+   514
+  ],
+  "table_xv_part2_leaves": [
+   515,
+   517
+  ],
+  "part1_pages": 38,
+  "part2_pages": 3,
+  "printed_pages_part1": "472-509",
+  "printed_pages_part2": "510-512",
+  "layout": "Landscape (rotated) pages. Part I: rows = languages (classified by family), columns = India and each province/state/agency x Persons/Males/Females (no districts). Part II Bilingualism (515-517): rows = mother tongue x province/state/agency of return, columns = subsidiary languages.",
+  "rotated_pages": "Part I rotated",
+  "scan_quality": "Good 300ppi scan; OCR useless (rotated). Alt: tdl.49856-census-of-india-1931-vol-i-india-part-ii-imperial-tables (index files unavailable at time of check).",
+  "alternatives": [
+   "tdl.49856-census-of-india-1931-vol-i-india-part-ii-imperial-tables"
+  ],
+  "page_image_url_template": "https://archive.org/download/india.history.resource.92539/page/leaf{LEAF}_w2000.jpg",
+  "key": "india"
+ },
+ {
+  "volume": "II",
+  "unit": "Andaman and Nicobar Islands",
+  "identifier": "in.ernet.dli.2015.105673",
+  "title": "Census Of India 1931 Vol.2 (andaman And Nicobar Islands) Pt.1 Report And Pt.2-tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105673",
+  "total_leaves": 150,
+  "jp2_zip": "2015.105673.Census-Of-India-1931-Vol2-andaman-And-Nicobar-Islands-Pt1-Report-And-Pt2-tables_jp2.zip",
+  "pdf": "2015.105673.Census-Of-India-1931-Vol2-andaman-And-Nicobar-Islands-Pt1-Report-And-Pt2-tables.pdf",
+  "pdf_mb": 9.7,
+  "table_xv_intro_leaf": null,
+  "table_xv_part1_leaves": [
+   142,
+   142
+  ],
+  "table_xv_part2_leaves": null,
+  "part1_pages": 1,
+  "part2_pages": 0,
+  "printed_pages_part1": "114",
+  "printed_pages_part2": null,
+  "layout": "Single upright page. Rows = languages (A Vernaculars of India, B Other Asiatic, C European); columns = Total / Andamans / Nicobars x Persons/Males/Females. No bilingualism part.",
+  "rotated_pages": false,
+  "scan_quality": "Good, clear. Combined Part I Report + Part II Tables. Same scan as in.ernet.dli.2015.531273 and in.gov.ignca.31100.",
+  "alternatives": [
+   "in.ernet.dli.2015.531273",
+   "in.gov.ignca.31100",
+   "in.ernet.dli.2015.62784"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105673/page/leaf{LEAF}_w2000.jpg",
+  "key": "andaman"
+ },
+ {
+  "volume": "III",
+  "unit": "Assam",
+  "identifier": "in.ernet.dli.2015.56020",
+  "title": "Census Of India 1931 Vol.3 Assam Pt.2 Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56020",
+  "total_leaves": 332,
+  "jp2_zip": "2015.56020.Census-Of-India-1931-Vol3-Assam-Pt2-Tables_jp2.zip",
+  "pdf": "2015.56020.Census-Of-India-1931-Vol3-Assam-Pt2-Tables.pdf",
+  "pdf_mb": 12.2,
+  "table_xv_intro_leaf": 231,
+  "table_xv_part1_leaves": [
+   232,
+   257
+  ],
+  "table_xv_part2_leaves": [
+   258,
+   259
+  ],
+  "part1_pages": 26,
+  "part2_pages": 2,
+  "printed_pages_part1": "226-251",
+  "printed_pages_part2": "252-253",
+  "layout": "Landscape (rotated) pages. Part I: rows = districts/divisions of Assam incl. Manipur & Khasi States, columns = languages (Persons/Males/Females), grouped A Vernaculars of Assam, A(ii) of India outside Assam, B Asiatic, C European. Part II Bi-lingualism: rows = districts, columns = mother tongue x subsidiary language (Males/Females).",
+  "rotated_pages": true,
+  "scan_quality": "Good, 600ppi, clear print; leaf 260 blank.",
+  "alternatives": [
+   "in.gov.ignca.31102",
+   "in.ernet.dli.2015.101827"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56020/page/leaf{LEAF}_w2000.jpg",
+  "key": "assam"
+ },
+ {
+  "volume": "IV",
+  "unit": "Baluchistan",
+  "identifier": "in.ernet.dli.2015.56021",
+  "title": "Census Of India 1931 Vol.4 (baluchistan) Pt.1 Report And Pt.2 Imperial And Provincial Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56021",
+  "total_leaves": 430,
+  "jp2_zip": "2015.56021.Census-Of-India-1931-Vol4-baluchistan-Pt1-Report-And-Pt2-Imperial-And-Provincial-Tables_jp2.zip",
+  "pdf": "2015.56021.Census-Of-India-1931-Vol4-baluchistan-Pt1-Report-And-Pt2-Imperial-And-Provincial-Tables.pdf",
+  "pdf_mb": 21.3,
+  "table_xv_intro_leaf": 382,
+  "table_xv_part1_leaves": [
+   383,
+   386
+  ],
+  "table_xv_part2_leaves": [
+   389,
+   398
+  ],
+  "part1_pages": 4,
+  "part2_pages": 10,
+  "printed_pages_part1": "86-89",
+  "printed_pages_part2": "92-101",
+  "layout": "Upright pages in facing pairs. Part I: rows = languages, columns = districts (Quetta-Pishin, Loralai, Zhob, Bolan, Chagai, Sibi) and states (Kalat and its divisions, Las Bela, Kharan) x M/F. Leaf 382 is a summary statement; 387 blank; 388 Part II intro. Part II Bilingualism: rows = mother tongue within district/state, columns = subsidiary languages (local / non-local) M/F; 5 openings.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Combined Report+Tables volume (430 leaves). Alt: in.ernet.dli.2015.62802 (408 leaves, different scan), in.gov.ignca.31103 (OCR files unavailable at time of check).",
+  "alternatives": [
+   "in.ernet.dli.2015.62802",
+   "in.gov.ignca.31103"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56021/page/leaf{LEAF}_w2000.jpg",
+  "key": "baluchistan"
+ },
+ {
+  "volume": "V",
+  "unit": "Bengal (with Sikkim)",
+  "identifier": "in.ernet.dli.2015.56024",
+  "title": "Census Of India 1931 Vol.5 Bengal And Sikkim Pt.2 Report",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56024",
+  "total_leaves": 332,
+  "jp2_zip": "2015.56024.Census-Of-India-1931-Vol5-Bengal-And-Sikkim-Pt2-Report_jp2.zip",
+  "pdf": "2015.56024.Census-Of-India-1931-Vol5-Bengal-And-Sikkim-Pt2-Report.pdf",
+  "pdf_mb": 21.2,
+  "table_xv_intro_leaf": 191,
+  "table_xv_part1_leaves": [
+   192,
+   203
+  ],
+  "table_xv_part2_leaves": [
+   205,
+   224
+  ],
+  "part1_pages": 12,
+  "part2_pages": 20,
+  "printed_pages_part1": "186-197",
+  "printed_pages_part2": "199-218",
+  "layout": "Upright pages. Part I (mother tongue by locality and sex): rows = ~91 languages (serially numbered, grouped A-G), columns = localities x Both sexes/Males/Females. Part A (leaves 192-201): all Bengal + each district incl. Calcutta + states (Cooch Behar, Tripura); Part B: cities; Part C (leaf 202): Sikkim; Supplement I (leaf 202) and Supplement II (leaf 203, details of combined dialect entries). Part II Bi-lingualism: A (205-214) mother tongue by subsidiary language, B (215-224) subsidiary language by mother tongue, by district.",
+  "rotated_pages": false,
+  "scan_quality": "Good, 600ppi, crisp. Title says Pt.2 Report but it is Part II Tables. Same scan as in.gov.ignca.31105. in.ernet.dli.2015.98736 (582 leaves) is another copy.",
+  "alternatives": [
+   "in.gov.ignca.31105",
+   "in.ernet.dli.2015.98736"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56024/page/leaf{LEAF}_w2000.jpg",
+  "key": "bengal"
+ },
+ {
+  "volume": "VI",
+  "unit": "Calcutta (with Howrah and 24-Parganas suburbs)",
+  "identifier": "in.ernet.dli.2015.56025",
+  "title": "Census Of India 1931 Vol.6 Calcutta Pt.1 And 2",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56025",
+  "total_leaves": 198,
+  "jp2_zip": "2015.56025.Census-Of-India-1931-Vol6-Calcutta-Pt1-And-2_jp2.zip",
+  "pdf": "2015.56025.Census-Of-India-1931-Vol6-Calcutta-Pt1-And-2.pdf",
+  "pdf_mb": 11.4,
+  "table_xv_intro_leaf": null,
+  "table_xv_part1_leaves": [
+   181,
+   181
+  ],
+  "table_xv_part2_leaves": null,
+  "part1_pages": 1,
+  "part2_pages": 0,
+  "printed_pages_part1": "167",
+  "printed_pages_part2": null,
+  "layout": "Single upright page. Rows = 71 languages grouped A-G; columns = Calcutta with suburbs and Howrah / Calcutta / Suburbs in 24-Parganas / Howrah City x Both sexes/Males/Females. Part II not printed (leaf 182 states this).",
+  "rotated_pages": false,
+  "scan_quality": "Good. Parts I and II in one item. Same scan as in.gov.ignca.31106.",
+  "alternatives": [
+   "in.gov.ignca.31106"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56025/page/leaf{LEAF}_w2000.jpg",
+  "key": "calcutta"
+ },
+ {
+  "volume": "VII",
+  "unit": "Bihar and Orissa",
+  "identifier": "in.ernet.dli.2015.56027",
+  "title": "Census Of India 1931 Vol.7 (bihar And Orissa) Pt.2 Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56027",
+  "total_leaves": 238,
+  "jp2_zip": "2015.56027.Census-Of-India-1931-Vol7-bihar-And-Orissa-Pt2-Tables_jp2.zip",
+  "pdf": "2015.56027.Census-Of-India-1931-Vol7-bihar-And-Orissa-Pt2-Tables.pdf",
+  "pdf_mb": 14.4,
+  "table_xv_intro_leaf": 119,
+  "table_xv_part1_leaves": [
+   120,
+   124
+  ],
+  "table_xv_part2_leaves": [
+   126,
+   135
+  ],
+  "part1_pages": 5,
+  "part2_pages": 10,
+  "printed_pages_part1": "114-118",
+  "printed_pages_part2": "120-129",
+  "layout": "Landscape (rotated) pages. Part I Mother tongues: rows = province, British territory, divisions and districts, Feudatory States (Orissa States, Chota Nagpur States); columns = languages x Persons/Males/Females (Indo-Aryan, Munda, Dravidian, other Indian, Asiatic, European). Part II Bi-lingualism: by district/subdivision, mother tongue x subsidiary language. Leaf 125 blank.",
+  "rotated_pages": true,
+  "scan_quality": "Good, legible; OCR of table pages useless (rotated). Same scan as in.gov.ignca.31108.",
+  "alternatives": [
+   "in.gov.ignca.31108"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56027/page/leaf{LEAF}_w2000.jpg",
+  "key": "bihar_orissa"
+ },
+ {
+  "volume": "VIII",
+  "unit": "Bombay Presidency (British districts and Bombay States and Agencies)",
+  "identifier": "in.ernet.dli.2015.56029",
+  "title": "Census Of India 1931 Vol.8 Pt.2 (bombay Presidency ) Statical Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56029",
+  "total_leaves": 498,
+  "jp2_zip": "2015.56029.Census-Of-India-1931-Vol8-Pt2-bombay-Presidency--Statical-Tables_jp2.zip",
+  "pdf": "2015.56029.Census-Of-India-1931-Vol8-Pt2-bombay-Presidency--Statical-Tables.pdf",
+  "pdf_mb": 26.6,
+  "table_xv_intro_leaf": 363,
+  "table_xv_part1_leaves": [
+   364,
+   373
+  ],
+  "table_xv_part2_leaves": [
+   374,
+   406
+  ],
+  "part1_pages": 10,
+  "part2_pages": 33,
+  "printed_pages_part1": "360-369",
+  "printed_pages_part2": "370-402",
+  "layout": "Upright pages, facing pairs. Leaf 363 = summary statement of totals by language group. Part I: rows = Presidency, divisions, districts, then Bombay States and Agencies and individual states (~90 serial rows); columns = languages x Persons/Males/Females, Group A Indian languages, Group B Asiatic (372-373). Part II Bilingualism (374-406): one mother tongue per opening (Kanarese, Brahui, Baluchi, Siraiki, Kachchhi, Marathi, Konkani, Western Hindi, Gujarati, Bhili, Ahirani, Rajasthani, Telugu, English...), rows = areas of bilingualism (districts/states), columns = subsidiary languages M/F.",
+  "rotated_pages": false,
+  "scan_quality": "Good, clear; slight skew. Same scan as in.gov.ignca.31110.",
+  "alternatives": [
+   "in.gov.ignca.31110"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56029/page/leaf{LEAF}_w2000.jpg",
+  "key": "bombay"
+ },
+ {
+  "volume": "VIII Part III",
+  "unit": "Aden",
+  "identifier": "in.gov.ignca.31111",
+  "title": "Census of India 1931 vol.8; pt.3 (Bombay Presidency ) Aden-Report and tables",
+  "url": "https://archive.org/details/in.gov.ignca.31111",
+  "total_leaves": 44,
+  "jp2_zip": "31111_jp2.zip",
+  "pdf": "31111.pdf",
+  "pdf_mb": 3.7,
+  "table_xv_intro_leaf": 35,
+  "table_xv_part1_leaves": [
+   36,
+   37
+  ],
+  "table_xv_part2_leaves": null,
+  "part1_pages": 2,
+  "part2_pages": 0,
+  "printed_pages_part1": "32-33",
+  "printed_pages_part2": null,
+  "layout": "One opening (leaf 35 = divider title page). Rows = languages grouped A Indian, B Asiatic, C European, etc.; columns = religions (All religions, Hindu, Muslim, Jain, Zoroastrian, Christian, Sikh, Jew, Buddhist) x Persons/Males/Females. Aden only, no district breakdown.",
+  "rotated_pages": false,
+  "scan_quality": "Colour scan, yellowed paper, legible. Same leaves in in.ernet.dli.2015.56030 (greyscale).",
+  "alternatives": [
+   "in.ernet.dli.2015.56030"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.gov.ignca.31111/page/leaf{LEAF}_w2000.jpg",
+  "key": "aden"
+ },
+ {
+  "volume": "IX",
+  "unit": "Cities of the Bombay Presidency (Bombay, Karachi, Poona, Sholapur, etc.)",
+  "identifier": "in.ernet.dli.2015.105674",
+  "title": "Census Of India 1931 Vol.9 (cities Of The Bombay Presidency) Pt.1 Report, Pt.2 Statistical Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105674",
+  "total_leaves": 404,
+  "jp2_zip": "2015.105674.Census-Of-India-1931-Vol9-cities-Of-The-Bombay-Presidency-Pt1-Report-Pt2-Statistical-Tables_jp2.zip",
+  "pdf": "2015.105674.Census-Of-India-1931-Vol9-cities-Of-The-Bombay-Presidency-Pt1-Report-Pt2-Statistical-Tables.pdf",
+  "pdf_mb": 17.1,
+  "table_xv_intro_leaf": null,
+  "table_xv_part1_leaves": null,
+  "table_xv_part2_leaves": null,
+  "part1_pages": 0,
+  "part2_pages": 0,
+  "printed_pages_part1": null,
+  "printed_pages_part2": null,
+  "layout": "No language city table. Part II City Tables cover area, variation, religion, age, literacy, birthplace, occupation only. Only language material: report chapter II sections 15-16 (Language, Bilingualism, printed p.37, around leaf 70) and Appendix C Part II (leaf 179, p.136: children aged 4-15 in Bombay City by main languages and wards). Bombay City/Karachi etc. appear as rows in Vol. VIII Imperial Table XV.",
+  "rotated_pages": false,
+  "scan_quality": "n/a",
+  "alternatives": [
+   "in.ernet.dli.2015.116060",
+   "in.gov.ignca.31113"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105674/page/leaf{LEAF}_w2000.jpg",
+  "key": "bombay_cities"
+ },
+ {
+  "volume": "X",
+  "unit": "Western India States Agency",
+  "identifier": "in.ernet.dli.2015.56032",
+  "title": "Census Of India 1931 Vol.10 (western India States Agency) In Two Parts Pt.1 Report Pt.2 (statistical Tables)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56032",
+  "total_leaves": 522,
+  "jp2_zip": "2015.56032.Census-Of-India-1931-Vol10-western-India-States-Agency-In-Two-Parts-Pt1-Report-Pt2-statistical-Tables_jp2.zip",
+  "pdf": "2015.56032.Census-Of-India-1931-Vol10-western-India-States-Agency-In-Two-Parts-Pt1-Report-Pt2-statistical-Tables.pdf",
+  "pdf_mb": 23.3,
+  "table_xv_intro_leaf": 451,
+  "table_xv_part1_leaves": [
+   452,
+   459
+  ],
+  "table_xv_part2_leaves": [
+   460,
+   475
+  ],
+  "part1_pages": 8,
+  "part2_pages": 16,
+  "printed_pages_part1": "250-257",
+  "printed_pages_part2": "258-273",
+  "layout": "Upright facing pairs. Leaf 451 = details of other languages in each group. Part I: rows = Agency, sub-agencies and individual states (Kathiawar, Western Kathiawar, Eastern Kathiawar, Sabar Kantha, Cutch etc.); columns = languages x Persons/Males/Females, Group A Indian, B Asiatic, C European. Part II Bilingualism: one mother tongue per opening (Sindhi, Kachchhi, Marathi, Western Hindi, Gujarati, ..., English), rows = areas of bilingualism, columns = subsidiary languages M/F.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Combined Report+Tables. Same scan as in.gov.ignca.31114; in.ernet.dli.2015.62780 is a different scan (510 leaves).",
+  "alternatives": [
+   "in.gov.ignca.31114",
+   "in.ernet.dli.2015.62780"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56032/page/leaf{LEAF}_w2000.jpg",
+  "key": "wisa"
+ },
+ {
+  "volume": "XI",
+  "unit": "Burma",
+  "identifier": "in.ernet.dli.2015.56035",
+  "title": "Census Of India 1931 Vol.11 (burma) Pt.2- Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56035",
+  "total_leaves": 318,
+  "jp2_zip": "2015.56035.Census-Of-India-1931-Vol11-burma-Pt2--Tables_jp2.zip",
+  "pdf": "2015.56035.Census-Of-India-1931-Vol11-burma-Pt2--Tables.pdf",
+  "pdf_mb": 20.9,
+  "table_xv_intro_leaf": 225,
+  "table_xv_part1_leaves": [
+   226,
+   239
+  ],
+  "table_xv_part2_leaves": [
+   240,
+   241
+  ],
+  "part1_pages": 14,
+  "part2_pages": 2,
+  "printed_pages_part1": "220-233",
+  "printed_pages_part2": "234-235",
+  "layout": "Upright pages. Part I-A (226) classification of languages; I-B (227-231) provincial totals of speakers of each language (rows = languages, M/F); I-C (232-233) alphabetical index; I-D (234-237) distribution of language-groups by districts and states (rows = districts, columns = language groups M/F); I-E (238-239) distribution of selected languages (Arakanese, Shan, Karen etc.) by districts. Part II Bilingualism (240-241): rows = district x mother tongue, columns = subsidiary languages.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Same scan as in.gov.ignca.31116.",
+  "alternatives": [
+   "in.gov.ignca.31116"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56035/page/leaf{LEAF}_w2000.jpg",
+  "part1_district_leaves": [
+   234,
+   239
+  ],
+  "key": "burma"
+ },
+ {
+  "volume": "XII",
+  "unit": "Central Provinces and Berar",
+  "identifier": "in.ernet.dli.2015.56037",
+  "title": "Census Of India 1931 Vol.12 (central Provinces And Berar) Pt.2- Report",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56037",
+  "total_leaves": 534,
+  "jp2_zip": "2015.56037.Census-Of-India-1931-Vol12-central-Provinces-And-Berar-Pt2--Report_jp2.zip",
+  "pdf": "2015.56037.Census-Of-India-1931-Vol12-central-Provinces-And-Berar-Pt2--Report.pdf",
+  "pdf_mb": 25.6,
+  "table_xv_intro_leaf": 347,
+  "table_xv_part1_leaves": [
+   348,
+   357
+  ],
+  "table_xv_part2_leaves": [
+   368,
+   377
+  ],
+  "part1_pages": 10,
+  "part2_pages": 10,
+  "printed_pages_part1": "338-347",
+  "printed_pages_part2": "358-367",
+  "layout": "Upright facing pairs. Part I: rows = province, divisions/districts and Feudatory States (serial-numbered), columns = languages (by family: Aryan, Dravidian, Austric/Munda, unclassed; B Asiatic, C European) x Persons/Males/Females. Appendix to Part I (358-364): details of languages/dialects not shown separately. Part II Bi-lingualism: rows = area of bilingualism (district/state x tahsil or zamindari) grouped by mother tongue, columns = subsidiary languages.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Title mislabelled Pt.2 Report; it is Part II Tables. Same scan as in.gov.ignca.31118.",
+  "alternatives": [
+   "in.gov.ignca.31118"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56037/page/leaf{LEAF}_w2000.jpg",
+  "part1_appendix_leaves": [
+   358,
+   364
+  ],
+  "part2_intro_leaves": [
+   365,
+   367
+  ],
+  "key": "cp_berar"
+ },
+ {
+  "volume": "XIV",
+  "unit": "Madras Presidency (with Madras States: Pudukkottai, Banganapalle, Sandur)",
+  "identifier": "in.ernet.dli.2015.56039",
+  "title": "Census Of India 1931 Vol.14 (madras) Pt.2 Report",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56039",
+  "total_leaves": 352,
+  "jp2_zip": "2015.56039.Census-Of-India-1931-Vol14-madras-Pt2-Report_jp2.zip",
+  "pdf": "2015.56039.Census-Of-India-1931-Vol14-madras-Pt2-Report.pdf",
+  "pdf_mb": 17.9,
+  "table_xv_intro_leaf": 285,
+  "table_xv_part1_leaves": [
+   286,
+   289
+  ],
+  "table_xv_part2_leaves": [
+   292,
+   303
+  ],
+  "part1_pages": 4,
+  "part2_pages": 12,
+  "printed_pages_part1": "280-283",
+  "printed_pages_part2": "286-297",
+  "layout": "Landscape (rotated) pages. Part I Mother-tongue: rows = districts and states, columns = languages x Males/Females (A Vernaculars of India: (1) languages of the Presidency, (2) other Indian; B Asiatic; C European). Part II Subsidiary languages: blocks per mother tongue (Konkani, Korava/Yerukala, Oriya, Saora, ...), rows = districts, columns = subsidiary languages.",
+  "rotated_pages": true,
+  "scan_quality": "Good 600ppi scan but rotated table pages; OCR useless for tables. Title mislabelled Pt.2 Report. Same scan as in.gov.ignca.31121. Tamil Digital Library copies tdl.57608 / tdl.57798 (343 leaves) are alternatives.",
+  "alternatives": [
+   "in.gov.ignca.31121",
+   "tdl.57608-census-of-india-1931-madras-imperial-and-provincial-tables-vol-14-part",
+   "tdl.57798-census-of-india-1931-imperial-and-provinaial-tables-vol-14-part-2"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56039/page/leaf{LEAF}_w2000.jpg",
+  "part2_intro_leaves": 291,
+  "key": "madras"
+ },
+ {
+  "volume": "XV",
+  "unit": "North-West Frontier Province (districts + trans-frontier posts; tribal agencies separately where shown)",
+  "identifier": "in.ernet.dli.2015.56040",
+  "title": "Census Of India 1931 Vol.15 (north-west Frontier Province) Pt.1- Report, Pt.2- Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56040",
+  "total_leaves": 460,
+  "jp2_zip": "2015.56040.Census-Of-India-1931-Vol15-north-west-Frontier-Province-Pt1--Report-Pt2--Tables_jp2.zip",
+  "pdf": "2015.56040.Census-Of-India-1931-Vol15-north-west-Frontier-Province-Pt1--Report-Pt2--Tables.pdf",
+  "pdf_mb": 25.4,
+  "table_xv_intro_leaf": 357,
+  "table_xv_part1_leaves": [
+   358,
+   359
+  ],
+  "table_xv_part2_leaves": [
+   360,
+   371
+  ],
+  "part1_pages": 2,
+  "part2_pages": 12,
+  "printed_pages_part1": null,
+  "printed_pages_part2": null,
+  "layout": "Part I (one opening, 358-359): rows = languages, columns = N.-W.F. Province, districts (Hazara, Peshawar, Kohat, Bannu, Dera Ismail Khan) and trans-frontier posts x Persons/Males/Females. Part II Bilingualism (360-371, 6 openings): rows = area of bilingualism x mother tongue, columns = subsidiary languages (Pashto, Lahnda, Punjabi, Hindustani, Urdu, Hindi, ..., English) M/F.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Combined Report+Tables (460 leaves). Same scan as in.gov.ignca.31122. Report chapter X Language at leaves 200-213 incl. linguistic map (201).",
+  "alternatives": [
+   "in.gov.ignca.31122"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56040/page/leaf{LEAF}_w2000.jpg",
+  "key": "nwfp"
+ },
+ {
+  "volume": "XVI",
+  "unit": "Delhi Province",
+  "identifier": "in.ernet.dli.2015.62805",
+  "title": "Census Of India 1931 Vol Xvi Delhi",
+  "url": "https://archive.org/details/in.ernet.dli.2015.62805",
+  "total_leaves": 236,
+  "jp2_zip": "2015.62805.Census-Of-India-1931-Vol-Xvi-Delhi_jp2.zip",
+  "pdf": "2015.62805.Census-Of-India-1931-Vol-Xvi-Delhi.pdf",
+  "pdf_mb": 8.4,
+  "table_xv_intro_leaf": 207,
+  "table_xv_part1_leaves": [
+   208,
+   208
+  ],
+  "table_xv_part2_leaves": null,
+  "part1_pages": 1,
+  "part2_pages": 0,
+  "printed_pages_part1": "liv",
+  "printed_pages_part2": null,
+  "layout": "Leaf 207 (p. liii) = Table XV intro with a small statement of minor languages (Other Indian/Asiatic/European) and a BI-LINGUALISM heading with nothing beneath; leaf 208 (p. liv), which should carry the Part I table, is BLANK in this scan (image mean ~1.0).",
+  "rotated_pages": false,
+  "scan_quality": "PROBLEM: Table XV data page missing/blank in the only copy found. Delhi totals by language are available in Vol. I Part II Imperial Table XV (india.history.resource.92539). Combined Report and Tables volume.",
+  "alternatives": [],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.62805/page/leaf{LEAF}_w2000.jpg",
+  "key": "delhi"
+ },
+ {
+  "volume": "XVII",
+  "unit": "Punjab (British territory and Punjab States)",
+  "identifier": "in.ernet.dli.2015.56042",
+  "title": "Census Of India 1931 Vol.17 (punjab) Pt.2 Report",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56042",
+  "total_leaves": 338,
+  "jp2_zip": "2015.56042.Census-Of-India-1931-Vol17-punjab-Pt2-Report_jp2.zip",
+  "pdf": "2015.56042.Census-Of-India-1931-Vol17-punjab-Pt2-Report.pdf",
+  "pdf_mb": 21.0,
+  "table_xv_intro_leaf": 271,
+  "table_xv_part1_leaves": [
+   272,
+   279
+  ],
+  "table_xv_part2_leaves": [
+   280,
+   282
+  ],
+  "part1_pages": 8,
+  "part2_pages": 3,
+  "printed_pages_part1": "266-273",
+  "printed_pages_part2": "274-276",
+  "layout": "Upright facing pairs. Part I: rows = Punjab, British territory, divisions/districts and Punjab States (serial-numbered), columns = languages x Persons/Males/Females (Vernaculars of the Punjab, other Indian vernaculars, Asiatic/African, European). Part II Bi-lingualism: rows = districts/states, columns = mother tongue (Lahnda, Hindustani, Western Pahari, Pashto, ...) x subsidiary language.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Title mislabelled Pt.2 Report; it is Part II Tables. Same scan as in.gov.ignca.31124.",
+  "alternatives": [
+   "in.gov.ignca.31124"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56042/page/leaf{LEAF}_w2000.jpg",
+  "key": "punjab"
+ },
+ {
+  "volume": "XVIII",
+  "unit": "United Provinces of Agra and Oudh (British territory + Rampur, Tehri-Garhwal, Benares States)",
+  "identifier": "in.ernet.dli.2015.56044",
+  "title": "Census Of India 1931 Vol.18 (united Provinces Of Agra And Oudh) Pt.2 Report",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56044",
+  "total_leaves": 658,
+  "jp2_zip": "2015.56044.Census-Of-India-1931-Vol18-united-Provinces-Of-Agra-And-Oudh-Pt2-Report_jp2.zip",
+  "pdf": "2015.56044.Census-Of-India-1931-Vol18-united-Provinces-Of-Agra-And-Oudh-Pt2-Report.pdf",
+  "pdf_mb": 42.1,
+  "table_xv_intro_leaf": 497,
+  "table_xv_part1_leaves": [
+   498,
+   503
+  ],
+  "table_xv_part2_leaves": [
+   504,
+   505
+  ],
+  "part1_pages": 6,
+  "part2_pages": 2,
+  "printed_pages_part1": "484-489",
+  "printed_pages_part2": "490-491",
+  "layout": "Upright facing pairs. Part I Mother tongue: rows = province, British territory, Agra/Oudh provinces, divisions, ~48 districts and states (serial-numbered); columns = languages x Persons/Males/Females: Part A (1) Vernaculars of the Province, (2) Vernaculars foreign to the Province (Panjabi, Rajasthani, Marathi, Gujarati, Pashto, Bengali...), Part B non-Indian Asiatic, Part C European. Part II Bi-lingualism: one opening, rows = districts, columns = mother tongue x subsidiary language M/F.",
+  "rotated_pages": "Part II rotated",
+  "scan_quality": "Good. Title mislabelled Pt.2 Report; it is Part II Tables (658 leaves). Same scan as in.gov.ignca.31126.",
+  "alternatives": [
+   "in.gov.ignca.31126"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56044/page/leaf{LEAF}_w2000.jpg",
+  "key": "up"
+ },
+ {
+  "volume": "XIX",
+  "unit": "Baroda State",
+  "identifier": "in.ernet.dli.2015.56048",
+  "title": "Census Of India 1931 Vol.19 (baroda) Pt.2- Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56048",
+  "total_leaves": 150,
+  "jp2_zip": "2015.56048.Census-Of-India-1931-Vol19-baroda-Pt2--Tables_jp2.zip",
+  "pdf": "2015.56048.Census-Of-India-1931-Vol19-baroda-Pt2--Tables.pdf",
+  "pdf_mb": 7.4,
+  "table_xv_intro_leaf": 115,
+  "table_xv_part1_leaves": [
+   116,
+   117
+  ],
+  "table_xv_part2_leaves": [
+   118,
+   119
+  ],
+  "part1_pages": 2,
+  "part2_pages": 2,
+  "printed_pages_part1": "108-109",
+  "printed_pages_part2": "110-111",
+  "layout": "Table XV in three parts. Part A (one opening 116-117): rows = languages with dialects, columns = Baroda State total, Baroda City, Amreli, Baroda, Mehsana, Navsari divisions and Okhamandal x Persons/Males/Females. Part B Bilingualism (118) and Part C Polylingualism (119), one page each.",
+  "rotated_pages": "Part B rotated",
+  "scan_quality": "Good. Same scan as in.gov.ignca.31128.",
+  "alternatives": [
+   "in.gov.ignca.31128"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56048/page/leaf{LEAF}_w2000.jpg",
+  "key": "baroda"
+ },
+ {
+  "volume": "XX",
+  "unit": "Central India Agency (states and agencies)",
+  "identifier": "in.gov.ignca.31130",
+  "title": "Census of India 1931 vol.20 (Central India agency); pt.2 (Tables)",
+  "url": "https://archive.org/details/in.gov.ignca.31130",
+  "total_leaves": 404,
+  "jp2_zip": "31130_jp2.zip",
+  "pdf": "31130.pdf",
+  "pdf_mb": 16.0,
+  "table_xv_intro_leaf": 297,
+  "table_xv_part1_leaves": [
+   298,
+   307
+  ],
+  "table_xv_part2_leaves": [
+   311,
+   315
+  ],
+  "part1_pages": 10,
+  "part2_pages": 5,
+  "printed_pages_part1": null,
+  "printed_pages_part2": null,
+  "layout": "Upright facing pairs. Leaf 297 = Part I intro with summary statement by language family. Part I: rows = Central India Agency, agencies (Bhopal, Bundelkhand, Indore, Malwa, Baghelkhand...) and individual states; columns = languages x Persons/Males/Females. Appendix to Part I (308-310): details of languages not separately shown. Part II Bilingualism (311 intro + table, 312-315): rows = states by mother tongue, columns = subsidiary languages. Leaf 316 blank.",
+  "rotated_pages": false,
+  "scan_quality": "Colour scan of yellowed paper; legible at full resolution but lower contrast than DLI greyscale. Only copy found of Part II (IGNCA only; DLI has Part I Report only).",
+  "alternatives": [],
+  "page_image_url_template": "https://archive.org/download/in.gov.ignca.31130/page/leaf{LEAF}_w2000.jpg",
+  "part1_appendix_leaves": [
+   308,
+   310
+  ],
+  "key": "cia"
+ },
+ {
+  "volume": "XXI",
+  "unit": "Cochin State",
+  "identifier": "in.ernet.dli.2015.105676",
+  "title": "Census Of India 1931 Vol.21 (cochin) Pt.1 (report) Pt.2 (a And B Tables)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105676",
+  "total_leaves": 492,
+  "jp2_zip": "2015.105676.Census-Of-India-1931-Vol21-cochin-Pt1-report-Pt2-a-And-B-Tables_jp2.zip",
+  "pdf": "2015.105676.Census-Of-India-1931-Vol21-cochin-Pt1-report-Pt2-a-And-B-Tables.pdf",
+  "pdf_mb": 22.9,
+  "table_xv_intro_leaf": null,
+  "table_xv_part1_leaves": [
+   436,
+   436
+  ],
+  "table_xv_part2_leaves": [
+   437,
+   439
+  ],
+  "part1_pages": 1,
+  "part2_pages": 3,
+  "printed_pages_part1": "lxiv",
+  "printed_pages_part2": "lxv-lxvii",
+  "layout": "Part I (single page 436): rows = languages, columns = Cochin State Persons/Males/Females only (no district breakdown). Part II Bi-lingualism (437-438) with Supplement (439, persons speaking more than one subsidiary language): rows = mother tongue, columns = subsidiary languages M/F. District-level language data is only in Report ch. X Subsidiary Table II 'Distribution by language of the population of each district' at leaves 287-288 (pp. 227-228); linguistic map at leaf 280-281.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Combined Parts I and II (492 leaves). Same scan as in.gov.ignca.31131; in.ernet.dli.2015.116059 is another scan (477 leaves).",
+  "alternatives": [
+   "in.gov.ignca.31131",
+   "in.ernet.dli.2015.116059",
+   "in.ernet.dli.2015.116063"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105676/page/leaf{LEAF}_w2000.jpg",
+  "key": "cochin"
+ },
+ {
+  "volume": "XXII",
+  "unit": "Gwalior State",
+  "identifier": "in.ernet.dli.2015.116061",
+  "title": "Census Of India, 1931 Vol Xxii Gwalior Part - Ii",
+  "url": "https://archive.org/details/in.ernet.dli.2015.116061",
+  "total_leaves": 194,
+  "jp2_zip": "2015.116061.Census-Of-India-1931-Vol-Xxii-Gwalior-Part---Ii_jp2.zip",
+  "pdf": "2015.116061.Census-Of-India-1931-Vol-Xxii-Gwalior-Part---Ii.pdf",
+  "pdf_mb": 8.3,
+  "table_xv_intro_leaf": 149,
+  "table_xv_part1_leaves": [
+   151,
+   158
+  ],
+  "table_xv_part2_leaves": [
+   159,
+   160
+  ],
+  "part1_pages": 8,
+  "part2_pages": 2,
+  "printed_pages_part1": null,
+  "printed_pages_part2": null,
+  "layout": "Upright pages. Leaf 149 = Table XV title/notes (Part I Language, Part II Bi-lingualism); 150 blank. Part I A District details (151-157): rows = languages and dialects (A Languages of India: (1) proper to State, (2) other; B Asiatic; C European), columns = Gwalior State and districts (Gird, Isagarh, Bhilsa, Ujjain, Mandsaur, ...) x Persons/Males/Females; Part I B Cities (158, Lashkar City etc.). Part II Bi-lingualism (159-160): rows = district x mother tongue, columns = subsidiary languages.",
+  "rotated_pages": false,
+  "scan_quality": "Good greyscale scan; leaf 151 appears to be a continuation page placed before the opening page 152 - check page order when transcribing. Only Part II copy found (DLI 116061).",
+  "alternatives": [],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.116061/page/leaf{LEAF}_w2000.jpg",
+  "key": "gwalior"
+ },
+ {
+  "volume": "XXIII",
+  "unit": "Hyderabad State (H.E.H. the Nizam's Dominions)",
+  "identifier": "in.ernet.dli.2015.105678",
+  "title": "Census Of India 1931 Vol.23 H.e.h. The Nizams Dominions (hyderabad State) Pt.2- Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105678",
+  "total_leaves": 312,
+  "jp2_zip": "2015.105678.Census-Of-India-1931-Vol23-Heh-The-Nizams-Dominions-hyderabad-State-Pt2--Tables_jp2.zip",
+  "pdf": "2015.105678.Census-Of-India-1931-Vol23-Heh-The-Nizams-Dominions-hyderabad-State-Pt2--Tables.pdf",
+  "pdf_mb": 14.4,
+  "table_xv_intro_leaf": 229,
+  "table_xv_part1_leaves": [
+   230,
+   233
+  ],
+  "table_xv_part2_leaves": [
+   236,
+   243
+  ],
+  "part1_pages": 4,
+  "part2_pages": 8,
+  "printed_pages_part1": "224-227",
+  "printed_pages_part2": "230-237",
+  "layout": "Landscape (rotated) pages. Part I: rows = State, Natural divisions (Telingana, Marathwara) and districts (Hyderabad City, Atraf-i-Balda, Warangal, Karimnagar, Adilabad, Medak, Nizamabad, Mahbubnagar, Nalgonda, Aurangabad, Bhir, Nanded, Parbhani, Gulbarga, Osmanabad, Raichur, Bidar), columns = languages. Part II Bilingualism: rows = district x mother tongue, columns = subsidiary languages (Kanarese, Marathi, Telugu, Urdu...) P/M/F.",
+  "rotated_pages": "Part I rotated, Part II upright",
+  "scan_quality": "Good. Same scan as in.gov.ignca.31135. dli.ministry.01232 is another Vol XXIII Part II copy.",
+  "alternatives": [
+   "in.gov.ignca.31135",
+   "in.ernet.dli.2015.531275",
+   "dli.ministry.01232"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105678/page/leaf{LEAF}_w2000.jpg",
+  "part2_intro_leaves": 235,
+  "key": "hyderabad"
+ },
+ {
+  "volume": "XXIV",
+  "unit": "Jammu and Kashmir State",
+  "identifier": "in.ernet.dli.2015.56050",
+  "title": "Census Of India 1931 Vol.24 (jammu And Kashmir State) Pt.2 (imperial And State  Tables)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56050",
+  "total_leaves": 350,
+  "jp2_zip": "2015.56050.Census-Of-India-1931-Vol24-jammu-And-Kashmir-State-Pt2-imperial-And-State--Tables_jp2.zip",
+  "pdf": "2015.56050.Census-Of-India-1931-Vol24-jammu-And-Kashmir-State-Pt2-imperial-And-State--Tables.pdf",
+  "pdf_mb": 15.7,
+  "table_xv_intro_leaf": 229,
+  "table_xv_part1_leaves": [
+   230,
+   250
+  ],
+  "table_xv_part2_leaves": [
+   251,
+   275
+  ],
+  "part1_pages": 21,
+  "part2_pages": 25,
+  "printed_pages_part1": "220-240",
+  "printed_pages_part2": "241-265",
+  "layout": "Landscape (rotated) pages. Part I (a) languages of the State, (b) other Indian, (c) Asiatic, (d) European, plus unclassified languages (249-250): rows = State, provinces, districts, jagirs and ilaqas / tehsils; columns = languages by family (Persons/Males/Females). Part II-A Bilingualism (251-265): rows = tehsil x mother tongue (10 principal mother tongues), columns = subsidiary languages P/M/F + remarks. Part II-B Tri- and poly-lingualism (266-275). Leaf 276 blank.",
+  "rotated_pages": true,
+  "scan_quality": "Good; OCR useless on rotated tables. Same scan as in.gov.ignca.31137. NOTE in.ernet.dli.2015.116063 (titled J&K Part II) actually contains Cochin Vol XXI.",
+  "alternatives": [
+   "in.gov.ignca.31137"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56050/page/leaf{LEAF}_w2000.jpg",
+  "part2_A_leaves": [
+   251,
+   265
+  ],
+  "part2_B_leaves": [
+   266,
+   275
+  ],
+  "key": "jk"
+ },
+ {
+  "volume": "XXV",
+  "unit": "Mysore State",
+  "identifier": "in.ernet.dli.2015.56052",
+  "title": "Census Of India 1931 Vol.25 (mysore) Pt.2 (tables)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.56052",
+  "total_leaves": 276,
+  "jp2_zip": "2015.56052.Census-Of-India-1931-Vol25-mysore-Pt2-tables_jp2.zip",
+  "pdf": "2015.56052.Census-Of-India-1931-Vol25-mysore-Pt2-tables.pdf",
+  "pdf_mb": 10.8,
+  "table_xv_intro_leaf": 211,
+  "table_xv_part1_leaves": [
+   212,
+   221
+  ],
+  "table_xv_part2_leaves": [
+   224,
+   231
+  ],
+  "part1_pages": 10,
+  "part2_pages": 8,
+  "printed_pages_part1": "204-213",
+  "printed_pages_part2": "216-223",
+  "layout": "Landscape (rotated) pages. Part I (i) Language: rows = State, districts (Bangalore, Kolar, Tumkur, Mysore, Chitaldrug, Hassan, Kadur, Shimoga) and Civil & Military Station Bangalore, KGF etc.; columns = languages x Persons/Males/Females. Part II Bilingualism: confined to eight important mother tongues, rows = district/taluk x mother tongue, columns = subsidiary languages.",
+  "rotated_pages": true,
+  "scan_quality": "Good; OCR useless on rotated tables. Same scan as in.gov.ignca.31139; in.ernet.dli.2015.101578 (266 leaves) is another scan.",
+  "alternatives": [
+   "in.gov.ignca.31139",
+   "in.ernet.dli.2015.101578"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.56052/page/leaf{LEAF}_w2000.jpg",
+  "part2_intro_leaves": 223,
+  "key": "mysore"
+ },
+ {
+  "volume": "XXVI",
+  "unit": "Ajmer-Merwara",
+  "identifier": "in.ernet.dli.2015.105680",
+  "title": "Census Of India 1931 Vol.26 (ajmer-merwara) Report And Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105680",
+  "total_leaves": 156,
+  "jp2_zip": "2015.105680.Census-Of-India-1931-Vol26-ajmer-merwara-Report-And-Tables_jp2.zip",
+  "pdf": "2015.105680.Census-Of-India-1931-Vol26-ajmer-merwara-Report-And-Tables.pdf",
+  "pdf_mb": 7.1,
+  "table_xv_intro_leaf": 141,
+  "table_xv_part1_leaves": [
+   142,
+   142
+  ],
+  "table_xv_part2_leaves": null,
+  "part1_pages": 1,
+  "part2_pages": 0,
+  "printed_pages_part1": "34",
+  "printed_pages_part2": null,
+  "layout": "Single upright page. Rows = languages (A(i) Vernaculars of Rajputana, A(ii) other Indian, B Asiatic/African, C European); columns = Persons/Males/Females for the whole province only (no district split). Part II not compiled (note on leaf 141).",
+  "rotated_pages": false,
+  "scan_quality": "Good, clear. Combined Report and Tables. Same scan as in.ernet.dli.2015.531276 and in.gov.ignca.31140; wbsl.4037 is another copy (leaf 128-129).",
+  "alternatives": [
+   "in.ernet.dli.2015.531276",
+   "in.gov.ignca.31140",
+   "wbsl.4037",
+   "in.ernet.dli.2015.48746"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105680/page/leaf{LEAF}_w2000.jpg",
+  "key": "ajmer"
+ },
+ {
+  "volume": "XXVII",
+  "unit": "Rajputana Agency (states and chiefships)",
+  "identifier": "in.ernet.dli.2015.105322",
+  "title": "Census Of India 1931 Vol.27 (rajputana Agency) Report And Tables",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105322",
+  "total_leaves": 438,
+  "jp2_zip": "2015.105322.Census-Of-India-1931-Vol27-rajputana-Agency-Report-And-Tables_jp2.zip",
+  "pdf": "2015.105322.Census-Of-India-1931-Vol27-rajputana-Agency-Report-And-Tables.pdf",
+  "pdf_mb": 23.9,
+  "table_xv_intro_leaf": 329,
+  "table_xv_part1_leaves": [
+   330,
+   335
+  ],
+  "table_xv_part2_leaves": [
+   336,
+   337
+  ],
+  "part1_pages": 6,
+  "part2_pages": 2,
+  "printed_pages_part1": "142-147",
+  "printed_pages_part2": "148-149",
+  "layout": "Landscape (rotated) pages. Leaf 329 = explanatory note listing minor languages amalgamated under Others. Part I: rows = Rajputana Agency, residencies/agencies and individual states (Marwar, Mewar, Jaipur, Bikaner, ..., Kushalgarh chiefship); columns = languages x Persons/Males/Females. Part II Bilingualism: one opening, rows = state x mother tongue, columns = subsidiary languages.",
+  "rotated_pages": "Part I rotated",
+  "scan_quality": "Good; OCR useless on rotated tables. Combined Report and Tables (438 leaves). Same scan as in.ernet.dli.2015.531052, in.gov.ignca.28197, dli.ministry.19578; in.ernet.dli.2015.36613 (410 leaves, T15 intro at 301) is another scan.",
+  "alternatives": [
+   "in.ernet.dli.2015.531052",
+   "in.gov.ignca.28197",
+   "dli.ministry.19578",
+   "in.ernet.dli.2015.36613"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105322/page/leaf{LEAF}_w2000.jpg",
+  "key": "rajputana"
+ },
+ {
+  "volume": "XXVIII",
+  "unit": "Travancore State",
+  "identifier": "in.ernet.dli.2015.105681",
+  "title": "Census Of India 1931 Vol.28 (travancore) Pt.2 (tables)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.105681",
+  "total_leaves": 246,
+  "jp2_zip": "2015.105681.Census-Of-India-1931-Vol28-travancore-Pt2-tables_jp2.zip",
+  "pdf": "2015.105681.Census-Of-India-1931-Vol28-travancore-Pt2-tables.pdf",
+  "pdf_mb": 9.0,
+  "table_xv_intro_leaf": 143,
+  "table_xv_part1_leaves": [
+   144,
+   146
+  ],
+  "table_xv_part2_leaves": [
+   148,
+   157
+  ],
+  "part1_pages": 3,
+  "part2_pages": 10,
+  "printed_pages_part1": "134-136",
+  "printed_pages_part2": "138-147",
+  "layout": "Upright pages. Part I (144-146): rows = languages (A Vernaculars of India, B Asiatic, C European), columns = State, administrative divisions (Southern, Central, Northern, High Range) and natural divisions (Lowland, Midland, Highland) x Persons/Males/Females - no taluk split. Part II Bi-lingualism (148-157, facing pairs): rows = taluk x mother tongue, columns = subsidiary languages (Malayalam, Tamil, Telugu, Tulu, Kanarese, Konkani, Marathi, Western Hindi, Arabic, ...) M/F.",
+  "rotated_pages": false,
+  "scan_quality": "Good. Same scan as in.gov.ignca.31143.",
+  "alternatives": [
+   "in.gov.ignca.31143"
+  ],
+  "page_image_url_template": "https://archive.org/download/in.ernet.dli.2015.105681/page/leaf{LEAF}_w2000.jpg",
+  "part2_intro_leaves": 147,
+  "key": "travancore"
+ },
+ {
+  "volume": "XIII",
+  "unit": "Coorg",
+  "identifier": null,
+  "title": null,
+  "status": "NOT FOUND on Internet Archive (searched coorg/census/1931; only 1881-1921 and 1951 Coorg volumes exist). Coorg province totals are in Vol. I Part II Imperial Table XV (india.history.resource.92539).",
+  "key": "coorg"
+ },
+ {
+  "volume": "(Sikkim)",
+  "unit": "Sikkim",
+  "identifier": "in.ernet.dli.2015.56024",
+  "status": "No separate volume; Sikkim is Part C of Bengal Imperial Table XV Part I, leaf 202 of in.ernet.dli.2015.56024.",
+  "key": "sikkim"
+ }
+]

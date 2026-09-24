@@ -1,0 +1,3288 @@
+{
+ "key": "baroda",
+ "identifier": "in.ernet.dli.2015.56048",
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages with dialects (serial nos. 1-75; row 1 \"BARODA STATE\" = all languages), columns = areas x Persons/Males/Females",
+ "footnotes": "",
+ "leaf": 116,
+ "printed_page": 108,
+ "records": [
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "All languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2443007,
+   "males": 1257817,
+   "females": 1185190
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A—Languages of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2442610,
+   "males": 1257543,
+   "females": 1185067
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I—Indo-Aryan Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 3,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2441154,
+   "males": 1256548,
+   "females": 1184606
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Central Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 4,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2386327,
+   "males": 1227529,
+   "females": 1158798
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujarati",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": true,
+   "serial": 5,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2299935,
+   "males": 1179665,
+   "females": 1120270
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujarati (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": false,
+   "serial": 6,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2119551,
+   "males": 1088238,
+   "females": 1031313
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhil Dialects",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": true,
+   "serial": 7,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 180384,
+   "males": 91427,
+   "females": 88957
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhili",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 8,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 32827,
+   "males": 16187,
+   "females": 16640
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Barchi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 558,
+   "males": 286,
+   "females": 272
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chodhari",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 10,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 37746,
+   "males": 19319,
+   "females": 18427
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dhodia",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 11,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 22210,
+   "males": 11246,
+   "females": 10964
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gamtadi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 12,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 59209,
+   "males": 30179,
+   "females": 29030
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kathodi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 13,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 428,
+   "males": 216,
+   "females": 212
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kokni",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 14,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7930,
+   "males": 4134,
+   "females": 3796
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kolghi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 15,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 820,
+   "males": 411,
+   "females": 409
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kotali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 16,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2065,
+   "males": 1091,
+   "females": 974
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mavchi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 17,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 924,
+   "males": 503,
+   "females": 421
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Naikdi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 18,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 4130,
+   "males": 2011,
+   "females": 2119
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Varli",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 19,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 483,
+   "males": 262,
+   "females": 221
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Valvi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 20,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 29,
+   "males": 12,
+   "females": 17
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Vasavi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 21,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 11025,
+   "males": 5570,
+   "females": 5455
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Khandeshi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 22,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 38,
+   "males": 12,
+   "females": 25
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 23,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 920,
+   "males": 779,
+   "females": 141
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 24,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7246,
+   "males": 4389,
+   "females": 2857
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Banjari",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "serial": 25,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 104,
+   "males": 59,
+   "females": 45
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 26,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 78188,
+   "males": 42684,
+   "females": 35504
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pahari Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 27,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 152,
+   "males": 125,
+   "females": 27
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Naipali and Garhwali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "serial": 28,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 152,
+   "males": 125,
+   "females": 27
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mediate Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 29,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eastern Hindi (Awadhi)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Mediate Group"
+   ],
+   "lang_is_total": false,
+   "serial": 30,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi (Southern Group)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 31,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 35841,
+   "males": 19278,
+   "females": 16563
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 32,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 35532,
+   "males": 19086,
+   "females": 16446
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Goanese",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 33,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 131,
+   "males": 80,
+   "females": 51
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 34,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 132,
+   "males": 88,
+   "females": 44
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Other Dialects",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 35,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 46,
+   "males": 24,
+   "females": 22
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 36,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 200,
+   "males": 152,
+   "females": 48
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "serial": 37,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 193,
+   "males": 146,
+   "females": 47
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Oriya",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "serial": 38,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "North West Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 39,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 18631,
+   "males": 9461,
+   "females": 9170
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 40,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 17679,
+   "males": 8907,
+   "females": 8772
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lahnda",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 41,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 18,
+   "males": 5,
+   "females": 13
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 42,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 934,
+   "males": 549,
+   "females": 385
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "II—Dardic Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 43,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri and Chitrali",
+   "lang_path": [
+    "A—Languages of India",
+    "II—Dardic Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 44,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "III—Eranian Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 45,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 535,
+   "males": 431,
+   "females": 104
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Balochi",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 46,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 219,
+   "males": 161,
+   "females": 58
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 267,
+   "males": 239,
+   "females": 28
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 49,
+   "males": 31,
+   "females": 18
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "IV—Tibeto-Burman Family",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 49,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13,
+   "males": 6,
+   "females": 7
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "A—Languages of India",
+    "IV—Tibeto-Burman Family"
+   ],
+   "lang_is_total": false,
+   "serial": 50,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13,
+   "males": 6,
+   "females": 7
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "V—Dravidian Family",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 51,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 784,
+   "males": 487,
+   "females": 297
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 52,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 177,
+   "males": 111,
+   "females": 66
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 53,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 112,
+   "males": 78,
+   "females": 34
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 54,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 133,
+   "males": 80,
+   "females": 53
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 55,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 362,
+   "males": 218,
+   "females": 144
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "VI—Gipsy Languages",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 56,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 121,
+   "males": 68,
+   "females": 53
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Odki",
+   "lang_path": [
+    "A—Languages of India",
+    "VI—Gipsy Languages"
+   ],
+   "lang_is_total": false,
+   "serial": 57,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 115,
+   "males": 68,
+   "females": 47
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pendhari",
+   "lang_path": [
+    "A—Languages of India",
+    "VI—Gipsy Languages"
+   ],
+   "lang_is_total": false,
+   "serial": 58,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6,
+   "males": null,
+   "females": 6
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "B—Languages of other countries",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 59,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 397,
+   "males": 274,
+   "females": 123
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I—Indo-Aryan Branch (Southern Group)",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 60,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sinhalese",
+   "lang_path": [
+    "B—Languages of other countries",
+    "I—Indo-Aryan Branch (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 61,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "II—Indo-European Family (European Group)",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 62,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 250,
+   "males": 158,
+   "females": 92
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dutch",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 63,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 64,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 201,
+   "males": "?",
+   "females": 73
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 65,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14,
+   "males": 10,
+   "females": 4
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 66,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 67,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 27,
+   "males": 16,
+   "females": 11
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Slavonic-Russian",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 68,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "III—Semitic Family",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 69,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 91,
+   "males": 65,
+   "females": 26
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B—Languages of other countries",
+    "III—Semitic Family"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 86,
+   "males": 61,
+   "females": 25
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "lang_path": [
+    "B—Languages of other countries",
+    "III—Semitic Family"
+   ],
+   "lang_is_total": false,
+   "serial": 71,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "IV—Mongolian Family",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 72,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 46,
+   "males": 45,
+   "females": 1
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Japanese",
+   "lang_path": [
+    "B—Languages of other countries",
+    "IV—Mongolian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 73,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 40,
+   "males": 39,
+   "females": 1
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Turkish",
+   "lang_path": [
+    "B—Languages of other countries",
+    "IV—Mongolian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 74,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "V—African Languages (Ugandi, etc.)",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 75,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "All languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 112860,
+   "males": 62744,
+   "females": 50116
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "A—Languages of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 112679,
+   "males": 62631,
+   "females": 50048
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "I—Indo-Aryan Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 3,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 111999,
+   "males": 62205,
+   "females": 49794
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Central Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 4,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 85857,
+   "males": 48302,
+   "females": 37555
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": true,
+   "serial": 5,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 64372,
+   "males": 35201,
+   "females": 29171
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": false,
+   "serial": 6,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 63842,
+   "males": 34922,
+   "females": 28920
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Bhil Dialects",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": true,
+   "serial": 7,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 530,
+   "males": 279,
+   "females": 251
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Bhili",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 8,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 23,
+   "males": 17,
+   "females": 6
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Barchi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 505,
+   "males": 261,
+   "females": "?"
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Chodhari",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 10,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Khandeshi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 22,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 23,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 727,
+   "males": 621,
+   "females": 106
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 24,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1004,
+   "males": 622,
+   "females": 382
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 26,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 19752,
+   "males": 11856,
+   "females": 7896
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Pahari Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 27,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 121,
+   "males": 102,
+   "females": 19
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Naipali and Garhwali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "serial": 28,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 121,
+   "males": 102,
+   "females": 19
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Mediate Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 29,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Hindi (Awadhi)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Mediate Group"
+   ],
+   "lang_is_total": false,
+   "serial": 30,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi (Southern Group)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 31,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 25673,
+   "males": 13603,
+   "females": 12070
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 32,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 25514,
+   "males": 13515,
+   "females": 11999
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Goanese",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 33,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 90,
+   "males": 57,
+   "females": 33
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 34,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 69,
+   "males": 31,
+   "females": 38
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 36,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 59,
+   "males": 31,
+   "females": 28
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "serial": 37,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 59,
+   "males": 31,
+   "females": 28
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "North West Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 39,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 288,
+   "males": 166,
+   "females": 122
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 40,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 255,
+   "males": 143,
+   "females": 112
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 42,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 33,
+   "males": 23,
+   "females": 10
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "III—Eranian Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 45,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 102,
+   "males": 77,
+   "females": 25
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 46,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 51,
+   "males": 45,
+   "females": 6
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 21,
+   "males": 14,
+   "females": 7
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 30,
+   "males": 18,
+   "females": 12
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "V—Dravidian Family",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 51,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 577,
+   "males": 348,
+   "females": 229
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 52,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 63,
+   "males": 36,
+   "females": 27
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 53,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 107,
+   "males": 73,
+   "females": 34
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 54,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 109,
+   "males": 64,
+   "females": 45
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 55,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 298,
+   "males": 175,
+   "females": 123
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "VI—Gipsy Languages",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 56,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Odki",
+   "lang_path": [
+    "A—Languages of India",
+    "VI—Gipsy Languages"
+   ],
+   "lang_is_total": false,
+   "serial": 57,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "B—Languages of other countries",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 59,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 181,
+   "males": 113,
+   "females": 68
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "I—Indo-Aryan Branch (Southern Group)",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 60,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Sinhalese",
+   "lang_path": [
+    "B—Languages of other countries",
+    "I—Indo-Aryan Branch (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 61,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "II—Indo-European Family (European Group)",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 62,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 135,
+   "males": 80,
+   "females": 55
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 64,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 120,
+   "males": 71,
+   "females": 49
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 65,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 66,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 67,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Slavonic-Russian",
+   "lang_path": [
+    "B—Languages of other countries",
+    "II—Indo-European Family (European Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 68,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "III—Semitic Family",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 69,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 45,
+   "males": 32,
+   "females": 13
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B—Languages of other countries",
+    "III—Semitic Family"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 45,
+   "males": 32,
+   "females": 13
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "All languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 173948,
+   "males": 88806,
+   "females": 85142
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "A—Languages of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 173943,
+   "males": 88803,
+   "females": 85140
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "I—Indo-Aryan Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 3,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 173878,
+   "males": 88760,
+   "females": 85118
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Central Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 4,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 169337,
+   "males": 86547,
+   "females": 82790
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": true,
+   "serial": 5,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 165857,
+   "males": 84639,
+   "females": 81218
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": false,
+   "serial": 6,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 165812,
+   "males": 84617,
+   "females": 81195
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Bhil Dialects",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati"
+   ],
+   "lang_is_total": true,
+   "serial": 7,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 45,
+   "males": 22,
+   "females": 23
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Barchi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group",
+    "Gujarati",
+    "Bhil Dialects"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 45,
+   "males": 22,
+   "females": 23
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 23,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 24,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 37,
+   "males": 17,
+   "females": 20
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "serial": 26,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3436,
+   "males": 1884,
+   "females": 1552
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Pahari Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 27,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 10,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Naipali and Garhwali",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "serial": 28,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 10,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi (Southern Group)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 31,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1035,
+   "males": 580,
+   "females": 455
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi (Standard)",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "Marathi (Southern Group)"
+   ],
+   "lang_is_total": false,
+   "serial": 32,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1035,
+   "males": 580,
+   "females": 455
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "North West Group",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch"
+   ],
+   "lang_is_total": true,
+   "serial": 39,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3496,
+   "males": 1623,
+   "females": 1873
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 40,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3417,
+   "males": 1590,
+   "females": 1827
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "A—Languages of India",
+    "I—Indo-Aryan Branch",
+    "North West Group"
+   ],
+   "lang_is_total": false,
+   "serial": 42,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 79,
+   "males": 33,
+   "females": 46
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "III—Eranian Branch",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 45,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 63,
+   "males": 42,
+   "females": 21
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 46,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 46,
+   "males": 30,
+   "females": 16
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 16,
+   "males": 11,
+   "females": 5
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "A—Languages of India",
+    "III—Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "IV—Tibeto-Burman Family",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 49,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "A—Languages of India",
+    "IV—Tibeto-Burman Family"
+   ],
+   "lang_is_total": false,
+   "serial": 50,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "V—Dravidian Family",
+   "lang_path": [
+    "A—Languages of India"
+   ],
+   "lang_is_total": true,
+   "serial": 51,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A—Languages of India",
+    "V—Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "serial": 55,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "B—Languages of other countries",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 59,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "III—Semitic Family",
+   "lang_path": [
+    "B—Languages of other countries"
+   ],
+   "lang_is_total": true,
+   "serial": 69,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B—Languages of other countries",
+    "III—Semitic Family"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  }
+ ],
+ "unreadable": [
+  "English (row 64), Baroda State, Males (col 3): broken glyph \"12?\" reads like 125 or 128; persons 201 - females 73 = 128 and the European Group total 158 implies 128",
+  "Barchi (row 9), Baroda City, Females (col 7): third digit broken, looks like \"241\"/\"244\"; 505 - 261 = 244 and the state total 272 = 244 + 23 (Amreli) + 5 (Mehsana)"
+ ],
+ "notes": "Printed as \"TABLE XV—PART A—DISTRIBUTION OF LANGUAGE BY DIVISION\" (Baroda calls Part I \"Part A\"); opening pp. 108-109 = leaves 116-117, complete on this opening (75 rows). Leaf 116 holds cols 1-10 (State total, Baroda City, Amreli Division); cols 11-22 are on leaf 117. Khandeshi (row 22) State Females printed as 25 (glyph looks like 5), but 38 - 12 = 26 and divisions sum to 26 (City 0, Baroda 4, Navsari 22): kept 25 as printed; likely a broken 6. Row 1 \"BARODA STATE\" is the grand total of all languages (language recorded as \"All languages\"). Italic rows (Central Group, Bhil Dialects, Pahari/Mediate/Marathi/Eastern/North West Groups) are group subtotals. Banjari is a dialect indented under Rajasthani and is included in Rajasthani (Central Group sum works without it). Label spellings: \"Kashmiri and Chitrali\" and \"Pendhari\" (row 58, first letter faint, could be read \"Fendhari\") faint in print. Extra field \"serial\" = printed serial number."
+}

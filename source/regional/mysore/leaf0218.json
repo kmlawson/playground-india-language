@@ -1,0 +1,823 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 218,
+ "printed_page": 210,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State/districts/cities, columns = languages (Persons, Males, Females)",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Memani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    100,
+    101,
+    102
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Memani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    100,
+    101,
+    102
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Memani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    100,
+    101,
+    102
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Memani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    100,
+    101,
+    102
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 403,
+   "males": 201,
+   "females": 202
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 403,
+   "males": 201,
+   "females": 202
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 92,
+   "males": 42,
+   "females": 50
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 15,
+   "males": 11,
+   "females": 4
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 258,
+   "males": 124,
+   "females": 134
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Nagari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    103,
+    104,
+    105
+   ],
+   "persons": 14,
+   "males": 11,
+   "females": 3
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 764,
+   "males": 394,
+   "females": 370
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 738,
+   "males": 379,
+   "females": 359
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 669,
+   "males": 338,
+   "females": 331
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 46,
+   "males": 30,
+   "females": 16
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 14,
+   "males": 8,
+   "females": 6
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 9,
+   "males": 3,
+   "females": 6
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Sourashtra",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group",
+    "Gujarathi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    106,
+    107,
+    108
+   ],
+   "persons": 26,
+   "males": 15,
+   "females": 11
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panchali (Bhili)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    109,
+    110,
+    111
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panchali (Bhili)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    109,
+    110,
+    111
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panchali (Bhili)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    109,
+    110,
+    111
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 275,
+   "males": 238,
+   "females": 37
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 81,
+   "males": 72,
+   "females": 9
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 35,
+   "males": 30,
+   "females": 5
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 29,
+   "males": 29,
+   "females": null
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 9,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Central Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    112,
+    113,
+    114
+   ],
+   "persons": 194,
+   "males": 166,
+   "females": 28
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pahari (unspecified)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    115,
+    116,
+    117
+   ],
+   "persons": 10,
+   "males": 3,
+   "females": 7
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pahari (unspecified)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    115,
+    116,
+    117
+   ],
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Pahari (unspecified)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    115,
+    116,
+    117
+   ],
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Pahari (unspecified)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Indo-European Family",
+    "Pahari Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    115,
+    116,
+    117
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table XV(i) Language, rows = State totals (including/excluding Civil and Military Station, Bangalore), 11 districts/cities, and C&M Station Bangalore; columns = languages x Persons/Males/Females. Table spans printed pp. 204-213 (leaves 212-221); only this leaf transcribed here. Nil cells ('...') omitted; blank cells also omitted. Checks passed: P=M+F for every record; State incl. = State excl. + C&M Station; State excl. = sum of the 11 districts/cities, for every column. Memani, Nagari, Sourashtra are sub-heads of Gujarathi (continued from printed page 209); Gujarathi Total (cols 94-96, leaf 217) = Gujarathi + Memani + Nagari + Sourashtra checked across the two pages. Panchali (Bhili) and Panjabi are directly under Central Group."
+}

@@ -1,0 +1,799 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 245,
+ "printed_page": 235,
+ "table": "XV Part I",
+ "subtable": "(c) Languages of Asia",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas; columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 86,
+   "males": 80,
+   "females": 6
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 23,
+   "males": 23,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 23,
+   "males": 23,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 62,
+   "males": 56,
+   "females": 6
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 55,
+   "females": 5
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Yarkandi (Turkh)",
+   "lang_path": [
+    "Mongolian Family",
+    "Urai-Alatic Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "Mongolian Family",
+    "Monosyllabic or Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 146,
+   "males": 91,
+   "females": 55
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 6,
+   "females": 2
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 23,
+   "males": 14,
+   "females": 9
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 16,
+   "males": 8,
+   "females": 8
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 115,
+   "males": 71,
+   "females": 44
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 36,
+   "males": 27,
+   "females": 9
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Indo-European Family",
+    "Erarian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 77,
+   "males": 44,
+   "females": 33
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Javanese",
+   "lang_path": [
+    "Malayo-Polynesian Family",
+    "Malayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Javanese",
+   "lang_path": [
+    "Malayo-Polynesian Family",
+    "Malayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Javanese",
+   "lang_path": [
+    "Malayo-Polynesian Family",
+    "Malayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 574,
+   "males": 328,
+   "females": 246
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 564,
+   "males": 323,
+   "females": 241
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Wokhoi",
+   "lang_path": [
+    "Eranian Family",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 562,
+   "males": 321,
+   "females": 241
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Badakhashi",
+   "lang_path": [
+    "Eranian Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 150,
+   "males": 105,
+   "females": 45
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Badakhashi",
+   "lang_path": [
+    "Eranian Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 150,
+   "males": 105,
+   "females": 45
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Badakhashi",
+   "lang_path": [
+    "Eranian Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 150,
+   "males": 105,
+   "females": 45
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Headers kept as printed: 'Urai-Alatic Group' (sic, for Ural-Altaic) and 'Erarian Group' (sic, for Eranian). Arabic has no group header. Persian is classed under Indo-European Family, while Wokhoi and Badakhashi are under a separate 'Eranian Family' header, as printed. Ditto marks in the area stub expanded (e.g. 'Kathua \"' -> 'Kathua District', 'Chenani \"' -> 'Chenani Jagir'). No printed column numbers."
+}

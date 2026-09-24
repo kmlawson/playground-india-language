@@ -1,0 +1,914 @@
+{
+ "key": "bombay",
+ "identifier": "in.ernet.dli.2015.56029",
+ "leaf": 384,
+ "printed_page": 380,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "Single self-contained page (printed 380), mother tongue THARELI OR DHATKI. rows = 73 serial areas (with labels); columns = mother-tongue speakers, total of subsidiary languages, subsidiary languages Western Hindi, Gujarati, Sindhi, number of persons speaking two subsidiary languages, Males/Females (cols 3-14).",
+ "records": [
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 46605,
+   "females": 38138,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 12415,
+   "females": 7145,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 59,
+   "females": 24,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 213,
+   "females": 73,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 12143,
+   "females": 7048,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "No. of persons speaking two subsidiary languages",
+   "kind": "two_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 50,
+   "females": 9,
+   "cols": [
+    13,
+    14
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 46605,
+   "females": 38138,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 12415,
+   "females": 7145,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 59,
+   "females": 24,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 213,
+   "females": 73,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 12143,
+   "females": 7048,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "No. of persons speaking two subsidiary languages",
+   "kind": "two_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 50,
+   "females": 9,
+   "cols": [
+    13,
+    14
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 46605,
+   "females": 38138,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 12415,
+   "females": 7145,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 59,
+   "females": 24,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 213,
+   "females": 73,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 12143,
+   "females": 7048,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "No. of persons speaking two subsidiary languages",
+   "kind": "two_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 50,
+   "females": 9,
+   "cols": [
+    13,
+    14
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6428,
+   "females": 5102,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 5489,
+   "females": 3512,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5489,
+   "females": 3512,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 5924,
+   "females": 5214,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 183,
+   "females": 64,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 25,
+   "females": 3,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 132,
+   "females": 56,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 5,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "No. of persons speaking two subsidiary languages",
+   "kind": "two_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 19,
+   "females": 3,
+   "cols": [
+    13,
+    14
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 8,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2112,
+   "females": 1307,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 231,
+   "females": 131,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 230,
+   "females": 131,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 30,
+   "females": 24,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 32103,
+   "females": 26488,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Total of subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 6508,
+   "females": 3437,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Western Hindi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 33,
+   "females": 21,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 81,
+   "females": 17,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "Sindhi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6394,
+   "females": 3399,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Thareli or Dhatki",
+   "subsidiary": "No. of persons speaking two subsidiary languages",
+   "kind": "two_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 31,
+   "females": 6,
+   "cols": [
+    13,
+    14
+   ],
+   "nil": []
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Only Sind districts (and the Presidency / British Districts totals) carry figures; every other row is nil throughout. All area sums and total-subsidiary row sums pass."
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="Every figure transcribed from Table XV (Language) of the provincial and state volumes of the 1931 Census of India: mother tongue and subsidiary language by district, each linked to its page scan.">
+<title>District Tables, 1931</title>
+<link rel="canonical" href="https://kmlawson.github.io/playground-india-language/regional.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f4f1ea'/%3E%3Cpath d='M9 7h10l4 6-3 12-6 2-5-9z' fill='%23256abf'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="bar">
+  <div class="brand">
+    <h1><a href="./">Languages of India, 1931</a></h1>
+    <p class="sub">District tables · Table XV of the provincial and state volumes</p>
+  </div>
+  <nav aria-label="Sections">
+    <a href="./">Province map</a>
+    <a href="districts.html">District map</a>
+    <a href="data.html">Province tables</a>
+    <a href="regional.html" aria-current="page">District tables</a>
+    <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
+  </nav>
+</header>
+
+<main id="browse">
+  <p class="intro">This page lists every figure transcribed from Table XV (“Language”) of 24 provincial and state volumes of the <i>Census of India, 1931</i>: <b>16,573 mother-tongue rows</b> (Part I) and <b>23,808 subsidiary-language rows</b> (Part II), for 1,057 districts, states, divisions and totals. Figures are shown as printed. <b>Source</b> opens the printed page on the Internet Archive, and <b>Map</b> opens the area on the <a href="districts.html">district map</a>. The <b>Role</b> column shows how the district map uses each Part I row. <b>Leaf</b> rows are the finest rows, which are added up. <b>Total</b> rows are group, section or population totals, used only as checks. <b>Derived</b> rows are not printed: they hold the part of a printed group total that the volume does not break down. <a href="https://github.com/kmlawson/playground-india-language/blob/main/docs/regional.md">docs/regional.md</a> explains every rule. Marks: <b>?</b> illegible in the scan · <b>Σ</b> calculated.</p>
+
+  <div class="seg" role="tablist" aria-label="Table" id="tab-seg" style="max-width:520px;margin-bottom:10px">
+    <button type="button" role="tab" data-tab="p1" aria-selected="true">Part I: mother tongue</button>
+    <button type="button" role="tab" data-tab="p2" aria-selected="false">Part II: subsidiary language</button>
+  </div>
+
+  <form id="filters" onsubmit="return false">
+    <div class="f wide">
+      <label for="q">Search language</label>
+      <input id="q" type="search" placeholder="e.g. Gondi, Hindustani, Naga…" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="f wide">
+      <label for="qa">Search area</label>
+      <input id="qa" type="search" placeholder="e.g. Malabar, Bastar, Peshawar…" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="f">
+      <label for="vol">Volume</label>
+      <select id="vol"></select>
+    </div>
+    <div class="f" id="role-f">
+      <label for="role">Rows</label>
+      <select id="role">
+        <option value="">All printed rows</option>
+        <option value="LD" selected>Figures used on the map</option>
+        <option value="T">Totals only</option>
+      </select>
+    </div>
+    <div class="f">
+      <label for="min">At least … persons</label>
+      <input id="min" type="number" min="0" step="1" value="0" inputmode="numeric">
+    </div>
+    <div class="f check">
+      <label><input type="checkbox" id="notot" checked> Hide province and division totals</label>
+    </div>
+  </form>
+
+  <div class="toolbar">
+    <span id="count" aria-live="polite"></span>
+    <span id="unit-filter"></span>
+    <span class="spacer"></span>
+    <button type="button" id="dl" class="btn">Download these rows (CSV)</button>
+    <button type="button" id="reset" class="btn ghost">Clear filters</button>
+  </div>
+
+  <div class="tbl-wrap">
+    <table class="data browse-table" id="tbl">
+      <thead id="thead"></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  <div class="pager">
+    <button type="button" class="btn ghost" id="prev">‹ Previous</button>
+    <span id="pageinfo"></span>
+    <button type="button" class="btn ghost" id="next">Next ›</button>
+    <select id="per" aria-label="Rows per page"><option>50</option><option selected>100</option><option>250</option><option>1000</option></select>
+  </div>
+
+  <section class="pages-list">
+    <h2>About Part II</h2>
+    <p>Each volume laid out its subsidiary-language table in its own way. Some give the speakers of each mother tongue and then the numbers returning each second language. Others add the number returning two or three subsidiary languages, or give the figures in blocks. The <b>Measure</b> column records what each figure counts, as the volume labels it. These figures are not normalised and are not on the map. Compare them across volumes with care. Part II of the Central India Agency volume could not be read from the only scan.</p>
+    <p>Downloads: <a href="data/regional_table15.csv">regional_table15.csv</a> (every Part I figure used on the map, with its classification match), and the transcription files, one per scan leaf, in <a href="https://github.com/kmlawson/playground-india-language/tree/main/source/regional">source/regional/</a>.</p>
+  </section>
+  <p class="version cite"></p>
+</main>
+
+<script src="data/regional.js"></script>
+<script src="version.js"></script>
+<script src="regional-browse.js"></script>
+</body>
+</html>

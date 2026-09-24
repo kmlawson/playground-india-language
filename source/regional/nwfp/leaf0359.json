@@ -1,0 +1,1584 @@
+{
+ "key": "nwfp",
+ "identifier": "in.ernet.dli.2015.56040",
+ "leaf": 359,
+ "printed_page": "cxvii",
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages (Population, A Indian vernaculars [A(1) of N.-W.F.P., A(2) other], B other Asiatic & Africa, C European); columns = N.-W. F. Province, Districts (total), Hazara, Peshawar, Kohat, Bannu, Dera Ismail Khan, Trans-frontier posts x Persons/Males/Females. Complete table is one opening: leaf 358 (cols 1-12) + leaf 359 (cols 13-25).",
+ "records": [
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 236273,
+   "males": 126210,
+   "females": 110063
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A—Indian Vernaculars total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 235054,
+   "males": 125271,
+   "females": 109783
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (1)—Vernaculars of the N.-W. F. P. total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 222093,
+   "males": 115249,
+   "females": 106844
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 186299,
+   "males": 96344,
+   "females": 89955
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 35755,
+   "males": 18866,
+   "females": 16889
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 39,
+   "males": 39,
+   "females": null
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (2)—Other Indian Vernaculars total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 12961,
+   "males": 10022,
+   "females": 2939
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Punjabi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 11077,
+   "males": 8594,
+   "females": 2483
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 11,
+   "males": 11,
+   "females": null
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 1523,
+   "males": 1159,
+   "females": 364
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 176,
+   "males": 91,
+   "females": 85
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Gorkhali)",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 99,
+   "males": 99,
+   "females": null
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 75,
+   "males": 68,
+   "females": 7
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "B—Vernaculars of other Asiatic countries and Africa total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 363,
+   "males": 234,
+   "females": 129
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B—Vernaculars of other Asiatic countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 363,
+   "males": 234,
+   "females": 129
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "C—European languages total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 856,
+   "males": 705,
+   "females": 151
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 839,
+   "males": 696,
+   "females": 143
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 17,
+   "males": 9,
+   "females": 8
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 270301,
+   "males": 145163,
+   "females": 125138
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A—Indian Vernaculars total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 269731,
+   "males": 144712,
+   "females": 125019
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (1)—Vernaculars of the N.-W. F. P. total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 261997,
+   "males": 138568,
+   "females": 123429
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 228381,
+   "males": 121438,
+   "females": 106943
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 33547,
+   "males": 17076,
+   "females": 16471
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 69,
+   "males": 54,
+   "females": 15
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (2)—Other Indian Vernaculars total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 7734,
+   "males": 6144,
+   "females": 1590
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Punjabi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 6267,
+   "males": 5077,
+   "females": 1190
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 434,
+   "males": 341,
+   "females": 93
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 473,
+   "males": 331,
+   "females": 142
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 274,
+   "males": 152,
+   "females": 122
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Gorkhali)",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 81,
+   "males": 75,
+   "females": 6
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 205,
+   "males": 168,
+   "females": 37
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "B—Vernaculars of other Asiatic countries and Africa total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 13,
+   "males": 12,
+   "females": 1
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B—Vernaculars of other Asiatic countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 13,
+   "males": 12,
+   "females": 1
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "C—European languages total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 557,
+   "males": 439,
+   "females": 118
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 556,
+   "males": 439,
+   "females": 117
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 274064,
+   "males": 148106,
+   "females": 125958
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A—Indian Vernaculars total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 272042,
+   "males": 147044,
+   "females": 124998
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (1)—Vernaculars of the N.-W. F. P. total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 266776,
+   "males": 143257,
+   "females": 123519
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 53643,
+   "males": 28138,
+   "females": 25505
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 213115,
+   "males": 115101,
+   "females": 98014
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 15,
+   "males": 15,
+   "females": null
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kohistani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A (2)—Other Indian Vernaculars total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 5266,
+   "males": 3787,
+   "females": 1479
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Punjabi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 4446,
+   "males": 3250,
+   "females": 1196
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 19,
+   "males": 2,
+   "females": 17
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 398,
+   "males": 239,
+   "females": 159
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Gorkhali)",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 400,
+   "males": 294,
+   "females": 106
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "B—Vernaculars of other Asiatic countries and Africa total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 1681,
+   "males": 857,
+   "females": 824
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B—Vernaculars of other Asiatic countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 1678,
+   "males": 855,
+   "females": 823
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "B—Vernaculars of other Asiatic countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "C—European languages total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 341,
+   "males": 205,
+   "females": 136
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 336,
+   "males": 201,
+   "females": 135
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. Province",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 46451,
+   "males": 44635,
+   "females": 1816
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "A—Indian Vernaculars total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 42287,
+   "males": 40624,
+   "females": 1663
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "A (1)—Vernaculars of the N.-W. F. P. total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 13260,
+   "males": 12174,
+   "females": 1086
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 11013,
+   "males": 10060,
+   "females": 953
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1783,
+   "males": 1655,
+   "females": 128
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 453,
+   "males": 448,
+   "females": 5
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Kohistani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 11,
+   "males": 11,
+   "females": null
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "A (2)—Other Indian Vernaculars total",
+   "lang_path": [
+    "A—Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 29027,
+   "males": 28450,
+   "females": 577
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Punjabi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 18695,
+   "males": 18203,
+   "females": 492
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1156,
+   "males": 1132,
+   "females": 24
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1624,
+   "males": 1593,
+   "females": 31
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1741,
+   "males": 1711,
+   "females": 30
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Gorkhali)",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 4591,
+   "males": 4591,
+   "females": null
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1220,
+   "males": 1220,
+   "females": null
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "B—Vernaculars of other Asiatic countries and Africa total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 350,
+   "males": 210,
+   "females": 140
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B—Vernaculars of other Asiatic countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 350,
+   "males": 210,
+   "females": 140
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "C—European languages total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 3814,
+   "males": 3801,
+   "females": 13
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": "?",
+   "males": 3800,
+   "females": 13
+  },
+  {
+   "area": "Trans-frontier posts",
+   "area_path": [
+    "N.-W. F. Province"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C—European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  {
+   "area": "Trans-frontier posts",
+   "language": "English",
+   "field": "persons",
+   "col": 23,
+   "note": "hundreds digit missing in print; M+F = 3,813"
+  }
+ ],
+ "notes": "Table complete on this opening (leaves 358-359). Peshawar Females (col 13) are recorded in leaf0358.json with the Peshawar Persons/Males. Bannu European 'Others': Persons cell blank in print, Males '..', Females 1 - recorded females only. Trans-frontier posts English Persons printed '3,8 3' with a missing digit -> '?' (M+F implies 3,813). Trans-frontier posts Punjabi Females last digit blotted, read as 492 (consistent with 18,695-18,203)."
+}

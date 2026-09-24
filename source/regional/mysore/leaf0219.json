@@ -1,0 +1,1219 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 219,
+ "printed_page": 211,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State/districts/cities, columns = languages (Persons, Males, Females)",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gipsy Language (Ladar)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Unclassed Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    118,
+    119,
+    120
+   ],
+   "persons": 31,
+   "males": 17,
+   "females": 14
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gipsy Language (Ladar)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Unclassed Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    118,
+    119,
+    120
+   ],
+   "persons": 31,
+   "males": 17,
+   "females": 14
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Gipsy Language (Ladar)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Unclassed Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    118,
+    119,
+    120
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Gipsy Language (Ladar)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Unclassed Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    118,
+    119,
+    120
+   ],
+   "persons": 21,
+   "males": 7,
+   "females": 14
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Gipsy Language (Ladar)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Unclassed Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    118,
+    119,
+    120
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 1095,
+   "males": 783,
+   "females": 312
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 900,
+   "males": 679,
+   "females": 221
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 32,
+   "males": 19,
+   "females": 13
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 24,
+   "males": 18,
+   "females": 6
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 22,
+   "males": 13,
+   "females": 9
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 30,
+   "males": 10,
+   "females": 20
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 89,
+   "males": 50,
+   "females": 39
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 168,
+   "males": 139,
+   "females": 29
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 308,
+   "males": 264,
+   "females": 44
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 203,
+   "males": 150,
+   "females": 53
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    121,
+    122,
+    123
+   ],
+   "persons": 195,
+   "males": 104,
+   "females": 91
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 39,
+   "males": 27,
+   "females": 12
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 17,
+   "males": 12,
+   "females": 5
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 5,
+   "males": 1,
+   "females": 4
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 8,
+   "males": 8,
+   "females": null
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Southern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    124,
+    125,
+    126
+   ],
+   "persons": 22,
+   "males": 15,
+   "females": 7
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 275,
+   "males": 149,
+   "females": 126
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 134,
+   "males": 77,
+   "females": 57
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 17,
+   "males": 9,
+   "females": 8
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 15,
+   "males": 6,
+   "females": 9
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 54,
+   "males": 30,
+   "females": 24
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 10,
+   "males": 9,
+   "females": 1
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 15,
+   "males": 7,
+   "females": 8
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Persian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    127,
+    128,
+    129
+   ],
+   "persons": 141,
+   "males": 72,
+   "females": 69
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Armenian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Armenian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    130,
+    131,
+    132
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Armenian",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Indo-European Family",
+    "Armenian Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    130,
+    131,
+    132
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Tibeto-Chinese Family",
+    "Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    133,
+    134,
+    135
+   ],
+   "persons": 16,
+   "males": 15,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Tibeto-Chinese Family",
+    "Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    133,
+    134,
+    135
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Tibeto-Chinese Family",
+    "Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    133,
+    134,
+    135
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Tibeto-Chinese Family",
+    "Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    133,
+    134,
+    135
+   ],
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 746,
+   "males": 584,
+   "females": 162
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 737,
+   "males": 580,
+   "females": 157
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 22,
+   "males": 13,
+   "females": 9
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 13,
+   "males": 3,
+   "females": 10
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 35,
+   "males": 20,
+   "females": 15
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 158,
+   "males": 130,
+   "females": 28
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 292,
+   "males": 256,
+   "females": 36
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 202,
+   "males": 149,
+   "females": 53
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    136,
+    137,
+    138
+   ],
+   "persons": 9,
+   "males": 4,
+   "females": 5
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table XV(i) Language, rows = State totals (including/excluding Civil and Military Station, Bangalore), 11 districts/cities, and C&M Station Bangalore; columns = languages x Persons/Males/Females. Table spans printed pp. 204-213 (leaves 212-221); only this leaf transcribed here. Nil cells ('...') omitted; blank cells also omitted. Checks passed: P=M+F for every record; State incl. = State excl. + C&M Station; State excl. = sum of the 11 districts/cities, for every column. B. Total (cols 121-123) covers all B languages including those continued on printed page 212 (leaf 220); checked there."
+}

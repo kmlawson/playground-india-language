@@ -1,0 +1,3115 @@
+{
+ "key": "bihar_orissa",
+ "identifier": "in.ernet.dli.2015.56027",
+ "leaf": 133,
+ "printed_page": 127,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read (scan is landscape page turned sideways)",
+ "layout": "Part II Bi-lingualism. Rows = districts / subdivisions (col 1) x subsidiary language (col 3); for each mother tongue: Males/Females 'persons speaking above language as mother-tongue' (printed once per area) and Males/Females 'persons using subsidiary language in column 3' (one per subsidiary row). Leaves 126,128,130,132,134 carry Patna..Puri, leaves 127,129,131,133,135 carry Sambalpur..All other states, same columns as the preceding even leaf. Cols 2 (total population), 4 (total persons speaking col-3 language as mother tongue) and 5 (total persons using col-3 language as subsidiary to some other mother tongue) are printed only on leaves 126/127. Record 'measure' distinguishes these; persons are not printed for the per-language cells (persons=null). Table spans leaves 126-135 (printed pages 120-129).",
+ "records": [
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 17382,
+   "females": 18624
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 22
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 7
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 9
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 15133,
+   "females": 16036
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 2679,
+   "females": 2687
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 2004,
+   "females": 1948
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 1719,
+   "females": 1691
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 142,
+   "females": 82
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 315,
+   "females": 215
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 35,
+   "females": 14
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 290,
+   "females": 293
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 161,
+   "females": 156
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 83,
+   "females": 32
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 57,
+   "females": 36
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 17
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 3
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 77837,
+   "females": 83801
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 18
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 48556,
+   "females": 46143
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 1900,
+   "females": 2530
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 6347,
+   "females": 6170
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 5360,
+   "females": 5124
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 96,
+   "females": 114
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 79321,
+   "females": 84702
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 68679,
+   "females": 51821
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 15944,
+   "females": 21196
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 10889,
+   "females": 20852
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 7909,
+   "females": 8208
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 7402,
+   "females": 7546
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 21254,
+   "females": 19576
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 20684,
+   "females": 18526
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 471,
+   "females": 426
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 198,
+   "females": 113
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 317,
+   "females": 321
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 40,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 31,
+   "females": 6
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 9
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 47,
+   "females": 2
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 121,
+   "females": 93
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 465,
+   "females": 505
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 4401,
+   "females": 4370
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 58,
+   "females": 41
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 40,
+   "females": 38
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 702,
+   "females": 720
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 58,
+   "females": 26
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 74,
+   "females": 72
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 150,
+   "females": 82
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 112,
+   "females": 83
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 114,
+   "females": 197
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 12
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 71,
+   "females": 66
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 473,
+   "females": 237
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 53,
+   "females": 45
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": null,
+   "females": 60
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 202,
+   "females": 66
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 9
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 550,
+   "females": 654
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 722,
+   "females": 580
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 101,
+   "females": 63
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 353,
+   "females": 353
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 382,
+   "females": 247
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 135,
+   "females": 143
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 6
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Malto",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    70,
+    71
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 15
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 828,
+   "females": 771
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 120,
+   "females": 134
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 6
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Malto",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    72,
+    73
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 15
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 625,
+   "females": 573
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Malto",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    70,
+    71
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 12
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 932,
+   "females": 889
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Malto",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    72,
+    73
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 628,
+   "females": 684
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 10896,
+   "females": 11814
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 10181,
+   "females": 11434
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 65
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 546,
+   "females": 592
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 23
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 177,
+   "females": 524
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 390,
+   "females": 420
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 33876,
+   "females": 35416
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 33,
+   "females": 26
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 388,
+   "females": 420
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 17
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 17,
+   "females": 19
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 6
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 44830,
+   "females": 45895
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 7038,
+   "females": 6802
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 23475,
+   "females": 24883
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 207,
+   "females": 179
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 7276,
+   "females": 7453
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 160,
+   "females": 88
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": "?",
+   "females": 4955
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 253,
+   "females": 313
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 38,
+   "females": 36
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 45,
+   "females": 83
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 238,
+   "females": 231
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": null,
+   "females": 10
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 95,
+   "females": 77
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    62,
+    63
+   ],
+   "persons": null,
+   "males": 1754,
+   "females": 1862
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    66,
+    67
+   ],
+   "persons": null,
+   "males": 7158,
+   "females": 7929
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    74,
+    75
+   ],
+   "persons": null,
+   "males": 2594,
+   "females": 2763
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    78,
+    79
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 16
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Gondi",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    64,
+    65
+   ],
+   "persons": null,
+   "males": 1464,
+   "females": 1550
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi (Kui)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    68,
+    69
+   ],
+   "persons": null,
+   "males": 6720,
+   "females": 7183
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oraon (Kurukh)",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    76,
+    77
+   ],
+   "persons": null,
+   "males": 2123,
+   "females": 2089
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Tamil",
+   "mt_path": [
+    "Dravidian Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    80,
+    81
+   ],
+   "persons": null,
+   "males": null,
+   "females": 16
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Kalahandi (Feudatory States) Kandhi (Kui) / Oriya cols [68, 69]",
+  "Bonai (Feudatory States) Oraon (Kurukh) / Oriya cols [76, 77]"
+ ],
+ "notes": "Continuation of leaf 132 (printed p.127): no column headings or column numbers printed on this page; same five groups/columns as leaf 132 (Gondi 62-65, Kandhi (Kui) 66-69, Malto 70-73, Oraon (Kurukh) 74-77, Tamil 78-81).\nLayout: the scan is slightly skewed, so figures on the right of the page sit about one text line lower than their row labels; subsidiary-user figures were assigned by counting entries (dots or figures) in sequence down each column block. Every subsidiary line has its own entry, so the counts fit exactly.\nMother-tongue speaker figures agree with Table XV Part I (leaf 123) for all districts (subdivisions summed) and for Orissa States / Chota Nagpur States (Saraikela+Kharsawan), with two figures resolved by that check:\n  Oraon Sambalpur Sadr Males: printed '17,38?' (last digit looks like 9 overprinted 2); recorded 17,382 (Part I Sambalpur 20,061 - Bargarh 2,679).\n  Tamil Hazaribagh Sadr Females: reads like '89'; recorded 82 (Part I Hazaribagh F 123 = 82 + 5 + 36).\n  Malto Keonjhar Females: reads 12/13; recorded 12 (Part I Orissa States F 27 = 15 + 12).\nUNREADABLE:\n  Kandhi (Kui) Kalahandi, Oriya line, Males and Females: light-face figures broken. Males reads '10,740' or '19,740' (2nd digit 0/9); Females reads '14,6?1' (3rd digit 2/3, last 1/4). Recorded '?'. The column-5 total for Kalahandi/Oriya on leaf 127 should settle them.\n  Oraon Bonai, Oriya line, Males: '6,2?5' (3rd digit broken: 0/6/8). Recorded '?'.\nUncertain subsidiary readings (light-face 2/3, 0/9, 5/6):\n  Oraon Singhbhum Sadr, Hindustani line: Males 702 (could be 792/703), Females 720 (could be 729).\n  Oraon Kalahandi, Oriya line, Males: reads like '34'; recorded 24 because 34 would exceed the 33 male Oraon speakers.\n  Oraon Gangpur, Hindustani line, Females: 6,802 (3rd digit 0/9, last 2/3).\n  Oraon Simdega, Hindustani line: Males 10,889 (last digit 9/0), Females 20,852 (last 2/3).\n  Oraon Patna State, Oriya line, Females: 524. Oraon Chatra: 161 / 156.\n  Tamil Sambalpur Sadr, Hindustani line, Females: 9 (9/0).\n  Oraon Manbhum Sadr, Santali line, Males: 2 (2/3).\nAlignment notes: Oraon Kharsawan: Females 10 assigned to the Bengali line (Males nil); Oraon Kharsawan Oriya line 95 / 77. Tamil Dhalbhum: Females 60 on the Bengali line with Males nil. Tamil Singhbhum Sadr: Mundari line Males 5. Tamil Saraikela 7/4 on the Hindustani line. Gondi Jamshedpur City: Males 1 on the Bengali line and 1 on the Oriya line.\n  Tamil Singhbhum Sadr, Hindustani line, Males: printed glyph looks like '68' (light-face 5/6); recorded 58, since 68 would exceed the 58 male Tamil speakers (58 confirmed by Part I Singhbhum 1,253 = 58 + 473 + 722).\nCOLUMN-5 RECONCILIATION (checked against leaf 127 col 5):\n  Changed: Oraon Ranchi Sadr, Mundari line, Males 1,000 -> 1,900. The second digit is a light-face 0/9 glyph; col 5 (Ranchi Sadr / Mundari 5,931) needs +900, so 9 was chosen by col 5.\n  Not changed, col 5 doesn't settle it: Singhbhum Sadr / Bengali is 9 short. Either Oraon Males '40' (here) or European Females '40' (leaf 135) may be 49, since both glyphs allow 0/9; can't tell which.\n  Kalahandi Kandhi (Oriya line): still '?'. The row is 33,362 short. 18,740 + 14,622 would fit exactly, but the Males 2nd glyph looks like a broken 0 (9 or 8 only at a stretch) and the Females last glyph looks like 1/4, not 2. Left unreadable.\n  Bonai Oraon (Oriya line) Males: still '?'. The row is 6,415 short, which would need 6,415, but the printed '6,2?5' has a clear 2 in the hundreds place. So other cells in this row are also wrong.\n  Kharsawan Oraon Females 10: by entry sequence it sits on the Bengali line. Col 5 (Bengali -10, Hindustani +9) would prefer the Hindustani line, but the alignment evidence says Bengali, so it is kept there.\n  Gumla (-991) / Simdega (+9008) Hindustani: my Oraon cells read 68,679/51,821 and 10,889 (or 10,880)/20,852. No reading the glyphs allow closes these gaps; Simdega +9,000 would exceed the 15,944 male Oraon speakers. The fault is probably in another group."
+}

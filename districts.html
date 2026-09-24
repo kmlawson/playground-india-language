@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="Mother tongues by district in the 1931 Census of India, from the provincial and state volumes, drawn on present-day district boundaries through a district lineage from 1931 to 2024.">
+<title>District Languages, 1931</title>
+<link rel="canonical" href="https://kmlawson.github.io/playground-india-language/districts.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f4f1ea'/%3E%3Cpath d='M9 7h10l4 6-3 12-6 2-5-9z' fill='%23256abf'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header id="bar">
+  <div class="brand">
+    <h1><a href="./">Languages of India, 1931</a></h1>
+    <p class="sub">District map · Table XV of the provincial and state volumes</p>
+    <p class="scope">Districts grouped so that 1931 figures and present-day boundaries match without estimation</p>
+  </div>
+  <nav aria-label="Sections">
+    <a href="./">Province map</a>
+    <a href="districts.html" aria-current="page">District map</a>
+    <a href="#how">How it was made</a>
+    <a href="data.html">Province tables</a>
+    <a href="regional.html">District tables</a>
+    <button type="button" id="btn-theme" class="icon-btn" aria-label="Toggle dark mode" title="Light / dark">&#9681;</button>
+  </nav>
+</header>
+
+<main>
+<section id="explore" aria-label="Interactive district map">
+  <div id="app">
+    <div id="stage">
+      <svg id="map" role="img" aria-labelledby="map-title" preserveAspectRatio="xMidYMid meet">
+        <title id="map-title">Map of 1931 census districts grouped onto present-day districts</title>
+        <defs>
+          <pattern id="hatch" patternUnits="userSpaceOnUse" width="4" height="4" patternTransform="rotate(45)">
+            <rect width="4" height="4" class="hatch-bg"/>
+            <line x1="0" y1="0" x2="0" y2="4" class="hatch-line"/>
+          </pattern>
+        </defs>
+        <g id="viewport">
+          <rect id="sea" />
+          <g id="g-grat"></g>
+          <g id="g-neigh"></g>
+          <g id="g-base"></g>
+          <g id="g-extra"></g>
+          <g id="g-units"></g>
+          <g id="g-prov"></g>
+          <g id="g-modern"></g>
+          <g id="g-labels"></g>
+        </g>
+      </svg>
+      <div id="map-title-live" aria-live="polite"></div>
+      <div id="zoom">
+        <button type="button" data-z="in" aria-label="Zoom in">+</button>
+        <button type="button" data-z="out" aria-label="Zoom out">&minus;</button>
+        <button type="button" data-z="reset" aria-label="Reset view" title="Reset view">&#8634;</button>
+      </div>
+      <div id="map-toggles">
+        <label><input type="checkbox" id="opt-labels" checked> Labels</label>
+        <label title="Outlines of the 1931 provinces, states and agencies"><input type="checkbox" id="opt-prov" checked> 1931 provinces</label>
+        <label title="Present-day international borders"><input type="checkbox" id="opt-modern"> Modern borders</label>
+      </div>
+      <div id="tooltip" role="tooltip" hidden></div>
+    </div>
+
+    <aside id="side">
+      <div class="seg" role="tablist" aria-label="What the map shows" id="mode-seg">
+        <button type="button" role="tab" data-mode="lang" aria-selected="true">One language</button>
+        <button type="button" role="tab" data-mode="lead" aria-selected="false">Largest language</button>
+      </div>
+      <div id="lang-controls">
+        <div class="field">
+          <label for="lang-search">Language or group</label>
+          <div class="combo">
+            <input id="lang-search" type="search" autocomplete="off" spellcheck="false"
+                   placeholder="Search languages and groups…" role="combobox"
+                   aria-expanded="false" aria-controls="lang-list" aria-autocomplete="list">
+            <ul id="lang-list" role="listbox" hidden></ul>
+          </div>
+          <div id="quick" aria-label="Largest languages"></div>
+        </div>
+      </div>
+      <div id="legend" aria-label="Legend"></div>
+      <div id="summary"></div>
+      <div id="unit-panel" hidden></div>
+    </aside>
+  </div>
+
+  <details id="table-wrap">
+    <summary>Table for the map above</summary>
+    <div id="table-host"></div>
+  </details>
+</section>
+
+<article id="essay">
+<section id="read-first">
+  <h2>Read this first</h2>
+  <ol class="cautions">
+    <li><b>Hindi, Urdu and Hindustani cannot be compared across provinces here.</b> The United Provinces, Bihar and Orissa, and several other volumes printed one figure for “Hindustani” (or “Hindi”, “Urdu”) without dividing it into Western Hindi, Eastern Hindi and Bihari. The all-India volume made that division afterwards, at province level only. At district level the map therefore shows <b>Hindustani as printed</b> as its own entry, and offers a composite, <b>Hindustani + Western Hindi + Eastern Hindi + Bihari</b>, which is the only Hindi-area figure that means the same thing everywhere.</li>
+    <li><b>A map unit is often larger than one 1931 district.</b> Districts have been split and merged many times since 1931, and princely states were scattered in enclaves. Where the history of a present-day district runs back to more than one 1931 unit, all of them are joined into one map unit and their figures added. Nothing is apportioned by area or estimated. Click a unit to see which 1931 areas and which present-day districts it contains.</li>
+    <li><b>Outside present-day India the grouping was made by hand.</b> Pakistan, Bangladesh and Myanmar are not in the district lineage database. Each 1931 district there was matched to the present-day districts carved out of it. Burma is shown only by division.</li>
+    <li><b>Not every volume could be read in full.</b> Two volumes have damaged or illegible pages: Gwalior State and part of the Central India Agency. Their totals fall short of the all-India volume, and the units affected are flagged. Delhi and Coorg have no district tables, so their province figures from Vol. I are used.</li>
+    <li>All the cautions on the <a href="./#cautions">province map</a> apply here too: mother tongue was what the enumerator wrote down, and the language classification is the census’s own.</li>
+  </ol>
+</section>
+
+<section id="how">
+  <h2>How it was made</h2>
+  <p>The figures come from Table XV (“Language”), Part I, in 24 provincial and state volumes of the 1931 Census of India. People read them from the page scans by eye, without OCR, and checked the arithmetic of each page. The full method, with every rule and exception, is in <a href="https://github.com/kmlawson/playground-india-language/blob/main/docs/regional.md">docs/regional.md</a>. In outline:</p>
+  <h3>1. Making the volumes comparable</h3>
+  <ul>
+    <li><b>One figure per language per area.</b> Each volume prints its own mix of language rows, group totals and sub-totals. Only the finest rows (“leaves”) are kept, so nothing is counted twice. Group totals are used only as a check.</li>
+    <li><b>Residuals.</b> When a printed group total is larger than the languages listed under it, the difference is kept as a separate entry for that group and marked <b>Σ</b>. This happens where a volume prints a group total but names only some of its members, or where a member is illegible.</li>
+    <li><b>Names matched to the all-India classification.</b> Each leaf is matched to an entry of Vol. I’s classification by its printed name. If that fails, it is matched through the groups printed above it, and then through a list of spelling variants (for example Punjabi to Panjabi, Khandeshi to Khandesi). The alias list is part of the code. About 4.3 million people could not be placed, almost all of them returned in Burma under the single heading “Indian languages”. They are counted as “Not matched”.</li>
+    <li><b>Checks.</b> For 547 of the 613 areas that print a population, the leaves add up to it exactly. Most of the rest are a few persons out. The large gaps have known causes: illegible cells, damaged pages, and two misprints (Hazara, Nalgonda). Each volume’s total matches Vol. I to within 0.01%, except the Central India Agency (0.5% short, illegible cells) and Gwalior (53% short, pages missing from the only scan).</li>
+  </ul>
+  <h3>2. From 1931 districts to present-day districts</h3>
+  <ul>
+    <li><b>District lineage.</b> The <i>India State and District Evolution Database, 1872–2025</i> (Jolad, Kalra and Singh, <a href="https://doi.org/10.7910/DVN/D1AGUR">doi:10.7910/DVN/D1AGUR</a>, CC BY 4.0) records how each district was split, merged or renamed between censuses. Its links from 1931 to 1941, 1951 and each later census through to 2024 were joined into one graph. A handful of names shared by different districts (Bilaspur, Raigarh, Bijapur, Partabgarh, Patna, and others) are told apart by state. One link missing from the source was added: Udaipur (Dharamjaigarh) State, which merged into Raigarh district.</li>
+    <li><b>Matching the tables.</b> Each area printed in a provincial table (a district, a state, an agency) was linked to its 1931 node in the lineage, by name within its province, or through a hand-made crosswalk for states grouped differently in the tables.</li>
+    <li><b>Present-day shapes.</b> Each present-day district polygon from <a href="https://www.geoboundaries.org/">geoBoundaries</a> India ADM2 was linked to its latest node in the lineage.</li>
+    <li><b>Map units.</b> Any 1931 area and present-day district connected through the lineage end up in one group. Each group is drawn as the union of its present-day districts, and its figures are the sum of its 1931 areas. Because units are built this way, a unit’s figures always describe the whole of the area drawn, and nothing has to be divided.</li>
+    <li><b>Pakistan, Bangladesh, Jammu and Kashmir, Burma.</b> These were assigned by hand: each 1931 district to the present-day districts made from it (geoBoundaries Pakistan and Bangladesh ADM2), and Burma’s divisions to present-day states and regions (Natural Earth). Nadia, Malda, Dinajpur and Sylhet, divided in 1947, include both their Indian and Bangladeshi parts. The Jammu and Kashmir grouping follows the 1931 districts and wazarats. It does not use the lineage, which treats the whole state as one unit.</li>
+    <li><b>Not drawn.</b> Aden has no shape on this map. The tribal areas of the North-West Frontier were not enumerated, and neither were the frontier tracts of Assam and Burma: these show hatched. The Portuguese and French possessions were outside the census. The Laccadives were counted with Malabar and South Kanara and cannot be separated from them.</li>
+  </ul>
+  <p>Every printed figure, in both parts of the table and with its scan, can be searched in the <a href="regional.html">District tables</a>. Downloads: <a href="data/regional_table15.csv">regional_table15.csv</a> (every figure used, with its classification match and map unit), <a href="data/districts.js">data/districts.js</a>, and the rule tables in <a href="https://github.com/kmlawson/playground-india-language/tree/main/docs">docs/</a>. Code: the scripts in <a href="https://github.com/kmlawson/playground-india-language/tree/main/tools/regional">tools/regional/</a>.</p>
+</section>
+<footer>
+  <p>Figures: Census of India 1931 (public domain). District lineage: Jolad, Kalra and Singh, ISDED (CC BY 4.0). Boundaries: geoBoundaries (India ODbL 1.0; Pakistan public domain; Bangladesh CC BY 3.0 IGO), Natural Earth (public domain), plague_india (LGPL-3.0). See <a href="https://github.com/kmlawson/playground-india-language/blob/main/LICENSE">LICENSE</a>.</p>
+  <p class="version"></p>
+</footer>
+</article>
+</main>
+
+<script src="data/geo.js"></script>
+<script src="data/census.js"></script>
+<script src="data/districts.js"></script>
+<script src="version.js"></script>
+<script src="districts-app.js"></script>
+</body>
+</html>

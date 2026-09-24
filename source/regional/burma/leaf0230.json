@@ -1,0 +1,507 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 230,
+ "printed_page": 224,
+ "table": "XV Part I",
+ "part": "I-B Provincial Totals of Speakers of each Language",
+ "orientation": "upright",
+ "layout": "rows = languages (serial code, e.g. A1, in the margin; group total rows A, B, ...), columns = 1 Language, 2 Males, 3 Females, 4 Remarks (alternative names and district distribution). Area is the whole province; no Persons column (persons = null).",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Palaung-Wa Group",
+   "serial": "L",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 88384,
+   "females": 87640,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Wa",
+   "serial": "L1",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 5193,
+   "females": 5097,
+   "remarks": "La, Lawa, Lava, Sawn, Son, Hsen, Khalam, Hsensum. Southern Shan States : M. 4,300, F. 4,185 ; Northern Shan States : M. 893, F. 912."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danaw",
+   "serial": "L2",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 582,
+   "females": 577,
+   "remarks": "Ganaw. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Khamuk",
+   "serial": "L4",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 190,
+   "females": 1,
+   "remarks": "Khamu, Khamok, Lamet. Southern Shan States : M. 115, F. 1 ; the rest in Salween, Amherst and Karenni."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tai-Loi",
+   "serial": "L6",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 6208,
+   "females": 5644,
+   "remarks": "Wekut Southern Shan States : M. 5,959, F 5,406 ; Northern Shan States : M. 249, F 238."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yang (unspecified)",
+   "serial": "L7",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 41,
+   "females": 430,
+   "remarks": "Yin, Riang. Southern Shan States : M. 41, F. 427 ; Northern Shan States : F. 3."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yanglam",
+   "serial": "L8",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 5485,
+   "females": 5240,
+   "remarks": "Karennet, Black Karen, Yang-wan-kun, Yang-kaw-leng. Southern Shan States : M 5,208, F. 4,837 ; Northern Shan States : M. 275, F. 403 ; Karenni : M. 1."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yangsek",
+   "serial": "L9",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1369,
+   "females": 1311,
+   "remarks": "Riangleng, Yingya. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Palaung",
+   "serial": "L10",
+   "lang_path": [
+    "L Palaung-Wa Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 69316,
+   "females": 69340,
+   "remarks": "Katurr, Kunloi, Kwanhai, Manloi, Ngawnhawt, Rumai, Sawpana, Tawngma, Ta-ang. Northern Shan States : M. 59,462, F. 60,495 ; Southern Shan States : M. 7,252, F. 6,236 ; Katha : M. 2,376, F. 2,382 ; Bhamo : M. 153, F. 153 ; Meiktila : M. 66, F. 49. Remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Karen Group",
+   "serial": "N",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 669081,
+   "females": 671985,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Karen (unspecified)",
+   "serial": "N1",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 22466,
+   "females": 24560,
+   "remarks": "Distribution is shown in Part IE of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sgaw",
+   "serial": "N2",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 251106,
+   "females": 248683,
+   "remarks": "Bama-Kayin, Pahti. Distribution is shown in Part IE of this Table"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Paku",
+   "serial": "N3",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4377,
+   "females": 4243,
+   "remarks": "Bagu. Toungoo : M. 4,368, F. 4,237 ; Southern Shan States : M. 7, F. 6 ; Salween : M. 2."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Monnepwa",
+   "serial": "N5",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1080,
+   "females": 1046,
+   "remarks": "Toungoo only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bwè",
+   "serial": "N6",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3136,
+   "females": 3091,
+   "remarks": "Brè, Bge, Manö. Toungoo : M. 3,059. F. 3,046 ; remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Brek",
+   "serial": "N7",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3234,
+   "females": 3461,
+   "remarks": "Prè. Karenni : M. 2,712, F. 2,870 ; Southern Shan States : M. 522, F. 591."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Karenbyu",
+   "serial": "N8",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 7797,
+   "females": 7502,
+   "remarks": "Geba, Kuni, Konni, Tabara, Tayang, Thitpya, Bannungè, Bannugyi, Kodit. Toungoo : M. 5,304, F. 5,335 ; Karenni : M 1,387, F. 1,167 ; Yamèthin : M 948, F. 887 ; Southern Shan States : M. 146, F. 113 ; Northern Shan States : M. 12."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pwo",
+   "serial": "N9",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 236103,
+   "females": 237617,
+   "remarks": "Talaing-Kayin, Mohti, Mohteik, Shu, Blaimaw. Distribution is shown in Part IE of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mopwa",
+   "serial": "N10",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "remarks": "Mandalay : M. 2. Spoken in Toungoo but probably recorded as Karen (unspecified)."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Taungthu",
+   "serial": "N11",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 111107,
+   "females": 111607,
+   "remarks": "Pa-o, Titauk, Kunlong, Balah, Nakrai, Tawthu Southern Shan States : M 76,923, F. 77,152 ; Thatôn : M 26,229, F. 26,930 ; Toungoo : M. 3,093, F. 3,039 ; Amherst : M. 2,002, F. 1,923 ; Pegu : M. 1,357, F. 1,217 ; Karenni : M. 1,184, F. 1,113. Remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Padaung",
+   "serial": "N12",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 8409,
+   "females": 8076,
+   "remarks": "Padaw. Southern Shan States : M. 7,094, F. 6,840 ; Karenni : M. 1,294, F. 1,235."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yinbaw",
+   "serial": "N13",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1472,
+   "females": 1450,
+   "remarks": "Yeinbaw, Gunga, Kekawngdu, Lawi. Karenni : M. 1,333, F 1,331 ; Southern Shan States : M. 139, F. 11[?]."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gheko",
+   "serial": "N14",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1997,
+   "females": 2078,
+   "remarks": "Gaku. Toungoo : M. 1,373, F. 1,386 ; Southern Shan States : M. 624, F. 692."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Karenni",
+   "serial": "N15",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 14742,
+   "females": 16814,
+   "remarks": "Kaya, Lakan, Mite, Manu-Manaw, Taru, Yang-leng, Yintalai, Yangtalai. Karenni : M. 11,748, F. 14,260 ; Southern Shan States : M. 1,199, F. 1,188 ; Toungoo : M. 983, F. 861 ; Amherst : M. 454, F. 295 ; Thatôn : M. 135, F. 105: remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Zayein",
+   "serial": "N16",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2008,
+   "females": 1729,
+   "remarks": "Banpa, Banyaung, Banyin, Banyok, Gaunglo, Kalasi, Kawng-Sawng, Loilong, Hohta, Lahta, Tabaing, Zarein. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Talaing-Kalasi",
+   "serial": "N17",
+   "lang_path": [
+    "N Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 45,
+   "females": 28,
+   "remarks": "Htalaing. Yamèthin only."
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "N13 Yinbaw remarks, Southern Shan States F. '11?' - last digit blurred (looks like 9; 119 would make the remarks add to the total 1,450)."
+ ],
+ "notes": "M Khasi Group printed nil ('Not recorded'). N10 Mopwa Females printed as a single '.' (nil); record keeps Males 2, Females null. L6 Tai-Loi Males 6,208: the 0 is partly broken but legible; remarks (5,959 + 249) agree. Rows printed nil in both Males and Females (omitted as records): L3 En; L5 Lem; L11 Palè; N4 Wewaw."
+}

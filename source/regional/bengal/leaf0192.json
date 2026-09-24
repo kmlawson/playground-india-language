@@ -1,0 +1,4218 @@
+{
+ "key": "bengal",
+ "identifier": "in.ernet.dli.2015.56024",
+ "leaf": 192,
+ "printed_page": 186,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages (serial 1-91, groups A-G), columns = all districts/states total and districts x Both sexes/Males/Females (cols 2-10)",
+ "records": [
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "ALL LANGUAGES",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 51087338,
+   "males": 26557860,
+   "females": 24529478
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "A.—Languages of Bengal, Nepal and Sikkim",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 49520225,
+   "males": 25697631,
+   "females": 23822594
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 3,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 47133888,
+   "males": 24175353,
+   "females": 22958535
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Chakma",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bengali"
+   ],
+   "lang_is_total": false,
+   "serial": 4,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 88688,
+   "males": 46757,
+   "females": 41931
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Mal Paharia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bengali"
+   ],
+   "lang_is_total": false,
+   "serial": 5,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7686,
+   "males": 4060,
+   "females": 3626
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Sylhettia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bengali"
+   ],
+   "lang_is_total": false,
+   "serial": 6,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 7,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1891337,
+   "males": 1263610,
+   "females": 627727
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Hindi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 8,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1634115,
+   "males": 1098061,
+   "females": 536054
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Urdu",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 255255,
+   "males": 164549,
+   "females": 90706
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Chhattisgarhi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 10,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1283,
+   "males": 657,
+   "females": 626
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Pasi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 11,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Tharu",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 12,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 679,
+   "males": 338,
+   "females": 341
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 13,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14437,
+   "males": 7688,
+   "females": 6749
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Bhutan (Lho-ke)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 14,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1521,
+   "males": 778,
+   "females": 743
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Nepal (Shar-pa)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 15,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8167,
+   "males": 4528,
+   "females": 3639
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Sikkim (Da-njong-ka)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 16,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 151,
+   "males": 95,
+   "females": 56
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Tibet (Tibetan)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 17,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2823,
+   "males": 1552,
+   "females": 1271
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia, other and unspecified",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 18,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1775,
+   "males": 735,
+   "females": 1040
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Gurung",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 19,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2753,
+   "males": 1333,
+   "females": 1420
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Koch",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 20,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8159,
+   "males": 4196,
+   "females": 3963
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Limbu",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 21,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 15016,
+   "males": 7839,
+   "females": 7177
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Magari",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 22,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 12217,
+   "males": 5557,
+   "females": 6660
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Mro",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 23,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3793,
+   "males": 3740,
+   "females": 53
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Murmi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 24,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 35660,
+   "males": 18344,
+   "females": 17316
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Naipali (Khas-kura)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 25,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 134147,
+   "males": 72107,
+   "females": 62040
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Newari",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 26,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7197,
+   "males": 3927,
+   "females": 3270
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Tipura",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 27,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 191725,
+   "males": 100232,
+   "females": 91493
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 28,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 69896,
+   "males": 33705,
+   "females": 36191
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "B.—Languages of Assam",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 29,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 76473,
+   "males": 39107,
+   "females": 37366
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Assamese",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 30,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2750,
+   "males": 2037,
+   "females": 713
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bara (Bodo, Kachari, Mech)",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 31,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8794,
+   "males": 4736,
+   "females": 4058
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Garo",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 32,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 38192,
+   "males": 20136,
+   "females": 18056
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Khasi",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 33,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 501,
+   "males": 428,
+   "females": 73
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kuki",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 34,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3778,
+   "males": 1869,
+   "females": 1909
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Lushei",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 35,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2578,
+   "males": 1316,
+   "females": 1262
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Meithei (Manipuri)",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 36,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 19880,
+   "males": 8585,
+   "females": 11295
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "C.—Languages of Bihar and Orissa",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 37,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1243687,
+   "males": 680424,
+   "females": 563263
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kherwari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 38,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 879829,
+   "males": 443841,
+   "females": 435988
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Agaria",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 39,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Asuri",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 40,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1073,
+   "males": 635,
+   "females": 438
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhumij",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 41,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9758,
+   "males": 4810,
+   "females": 4948
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Birhar",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 42,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Brijia",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 43,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 79,
+   "males": 32,
+   "females": 47
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Ho",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 44,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 203,
+   "males": 106,
+   "females": 97
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Koda (Kora)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 45,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 20439,
+   "males": 10473,
+   "females": 9966
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Korwa",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 46,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 255,
+   "males": 125,
+   "females": 130
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Mundari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 79051,
+   "males": 40042,
+   "females": 39009
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Santali",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 764729,
+   "males": 385312,
+   "females": 379417
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Turi",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 49,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2578,
+   "males": 1137,
+   "females": 1441
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kherwari unspecified",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 50,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1660,
+   "males": 1169,
+   "females": 491
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kurukh (Oraon)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 51,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 185797,
+   "males": 100876,
+   "females": 84921
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Oriya",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 52,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 159854,
+   "males": 125056,
+   "females": 34798
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kharia",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 53,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14903,
+   "males": 9018,
+   "females": 5885
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 54,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3304,
+   "males": 1633,
+   "females": 1671
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "D.—Languages of Burma",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 55,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 99260,
+   "males": 49638,
+   "females": 49622
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Arakanese",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 56,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 86554,
+   "males": 42741,
+   "females": 43813
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 57,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8506,
+   "males": 4892,
+   "females": 3614
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Khyang (Sho)",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 58,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1265,
+   "males": 479,
+   "females": 786
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 59,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2935,
+   "males": 1526,
+   "females": 1409
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "E.—Languages of other parts of India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 60,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 87970,
+   "males": 55600,
+   "females": 32370
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 61,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 24,
+   "males": 12,
+   "females": 12
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Gujrati",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 62,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6594,
+   "males": 4533,
+   "females": 2061
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 63,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 109,
+   "males": 76,
+   "females": 33
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 64,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 63,
+   "males": 52,
+   "females": 11
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kota",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 65,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13,
+   "males": null,
+   "females": 13
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 66,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 305,
+   "males": 245,
+   "females": 60
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 67,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3161,
+   "males": 1941,
+   "females": 1220
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "serial": 68,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 77,
+   "males": 47,
+   "females": 30
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Goanese",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "serial": 69,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 78,
+   "males": 51,
+   "females": 27
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14545,
+   "males": 11143,
+   "females": 3402
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 71,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 4084,
+   "males": 3843,
+   "females": 241
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Rajsthani",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 72,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 19574,
+   "males": 12925,
+   "females": 6649
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Marwari",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Rajsthani"
+   ],
+   "lang_is_total": false,
+   "serial": 73,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 19508,
+   "males": 12873,
+   "females": 6635
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 74,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 504,
+   "males": 380,
+   "females": 124
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "serial": 75,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 218,
+   "males": 161,
+   "females": 57
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Bhatia",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "serial": 76,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6,
+   "males": 1,
+   "females": 5
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 77,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5855,
+   "males": 3228,
+   "females": 2627
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Telegu",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 78,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 33125,
+   "males": 17211,
+   "females": 15914
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 79,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14,
+   "males": 11,
+   "females": 3
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "F.—Languages of Asiatic countries outside India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 80,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9786,
+   "males": 7066,
+   "females": 2720
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 81,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1542,
+   "males": 1155,
+   "females": 387
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Armenian",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 82,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 700,
+   "males": 328,
+   "females": 372
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 83,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 4643,
+   "males": 3723,
+   "females": 920
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 84,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1116,
+   "males": 817,
+   "females": 299
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 85,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1785,
+   "males": 1043,
+   "females": 742
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "G.—European languages",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 86,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 49937,
+   "males": 28394,
+   "females": 21543
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 87,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 48932,
+   "males": 27783,
+   "females": 21149
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 88,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 229,
+   "males": 103,
+   "females": 126
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 89,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 286,
+   "males": 236,
+   "females": 50
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 90,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 138,
+   "males": 62,
+   "females": 76
+  },
+  {
+   "area": "All Districts and States",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 91,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 352,
+   "males": 210,
+   "females": 142
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "ALL LANGUAGES",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1575699,
+   "males": 814891,
+   "females": 760808
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "A.—Languages of Bengal, Nepal and Sikkim",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1467093,
+   "males": 758210,
+   "females": 708883
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 3,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1373532,
+   "males": 696706,
+   "females": 676826
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Mal Paharia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bengali"
+   ],
+   "lang_is_total": false,
+   "serial": 5,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 78,
+   "males": 46,
+   "females": 32
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 7,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 92599,
+   "males": 60811,
+   "females": 31788
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 8,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 81259,
+   "males": 53673,
+   "females": 27586
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 10625,
+   "males": 6700,
+   "females": 3925
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Chhattisgarhi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 10,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 715,
+   "males": 438,
+   "females": 277
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 13,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28,
+   "males": 11,
+   "females": 17
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia, other and unspecified",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 18,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28,
+   "males": 11,
+   "females": 17
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Khas-kura)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 25,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 934,
+   "males": 682,
+   "females": 252
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "B.—Languages of Assam",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 29,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 19,
+   "males": 10,
+   "females": 9
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Assamese",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 30,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Khasi",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 33,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6,
+   "males": null,
+   "females": 6
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Meithei (Manipuri)",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 36,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "C.—Languages of Bihar and Orissa",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 37,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 101945,
+   "males": 52312,
+   "females": 49633
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kherwari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 38,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 100010,
+   "males": 50911,
+   "females": 49099
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bhumij",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 41,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 783,
+   "males": 332,
+   "females": 451
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Koda (Kora)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 45,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7306,
+   "males": 3722,
+   "females": 3584
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Mundari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 376,
+   "males": 230,
+   "females": 146
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Santali",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 91535,
+   "males": 46624,
+   "females": 44911
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 49,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 10,
+   "males": 3,
+   "females": 7
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kurukh (Oraon)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 51,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 649,
+   "males": 331,
+   "females": 318
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Oriya",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 52,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1282,
+   "males": 1066,
+   "females": 216
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kharia",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 53,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "D.—Languages of Burma",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 55,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 57,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "E.—Languages of other parts of India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 60,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3497,
+   "males": 2536,
+   "females": 961
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 62,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 303,
+   "males": 238,
+   "females": 65
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 63,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 66,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 67,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 65,
+   "males": 21,
+   "females": 44
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Goanese",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "serial": 69,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 956,
+   "males": 762,
+   "females": 194
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 71,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 280,
+   "males": 269,
+   "females": 11
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Rajsthani",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 72,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1641,
+   "males": 1083,
+   "females": 558
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Marwari",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Rajsthani"
+   ],
+   "lang_is_total": false,
+   "serial": 73,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1641,
+   "males": 1083,
+   "females": 558
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 74,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28,
+   "males": 21,
+   "females": 7
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "serial": 75,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 16,
+   "males": 11,
+   "females": 5
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 77,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 114,
+   "males": 77,
+   "females": 37
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Telegu",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 78,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 106,
+   "males": 62,
+   "females": 44
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "F.—Languages of Asiatic countries outside India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 80,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 283,
+   "males": 163,
+   "females": 120
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 81,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 119,
+   "males": 51,
+   "females": 68
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Armenian",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 82,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 82,
+   "males": 51,
+   "females": 31
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 83,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 74,
+   "males": 56,
+   "females": 18
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 84,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 85,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "G.—European languages",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 86,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2861,
+   "males": 1660,
+   "females": 1201
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 87,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2830,
+   "males": 1642,
+   "females": 1188
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 88,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 89,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 90,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 18,
+   "males": 12,
+   "females": 6
+  },
+  {
+   "area": "Burdwan District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 91,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "ALL LANGUAGES",
+   "lang_path": [],
+   "lang_is_total": true,
+   "serial": 1,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 947554,
+   "males": 472687,
+   "females": 474867
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "A.—Languages of Bengal, Nepal and Sikkim",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 2,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 874953,
+   "males": 436105,
+   "females": 438848
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 3,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 851740,
+   "males": 423123,
+   "females": 428617
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 7,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 23195,
+   "males": 12966,
+   "females": 10229
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Hindi",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 8,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 13616,
+   "males": 8164,
+   "females": 5452
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Urdu",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Hindustani"
+   ],
+   "lang_is_total": false,
+   "serial": 9,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 9579,
+   "males": 4802,
+   "females": 4777
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 13,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet (Tibetan)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "serial": 17,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Naipali (Khas-kura)",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 25,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 11,
+   "males": 10,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Newari",
+   "lang_path": [
+    "A.—Languages of Bengal, Nepal and Sikkim"
+   ],
+   "lang_is_total": false,
+   "serial": 26,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "B.—Languages of Assam",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 29,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Assamese",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 30,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Meithei (Manipuri)",
+   "lang_path": [
+    "B.—Languages of Assam"
+   ],
+   "lang_is_total": false,
+   "serial": 36,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "C.—Languages of Bihar and Orissa",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 37,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 71663,
+   "males": 35942,
+   "females": 35721
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kherwari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 38,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 71438,
+   "males": 35802,
+   "females": 35636
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Koda (Kora)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 45,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 6930,
+   "males": 3350,
+   "females": 3580
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Mundari",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 47,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 679,
+   "males": 357,
+   "females": 322
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Santali",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 48,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 63797,
+   "males": 32095,
+   "females": 31702
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kherwari unspecified",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa",
+    "Kherwari"
+   ],
+   "lang_is_total": false,
+   "serial": 50,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 32,
+   "males": null,
+   "females": 32
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kurukh (Oraon)",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 51,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 77,
+   "males": 42,
+   "females": 35
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Oriya",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 52,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 112,
+   "males": 84,
+   "females": 28
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kharia",
+   "lang_path": [
+    "C.—Languages of Bihar and Orissa"
+   ],
+   "lang_is_total": false,
+   "serial": 53,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 36,
+   "males": 14,
+   "females": 22
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "D.—Languages of Burma",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 55,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "D.—Languages of Burma"
+   ],
+   "lang_is_total": false,
+   "serial": 57,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "E.—Languages of other parts of India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 60,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 767,
+   "males": 542,
+   "females": 225
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 62,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 40,
+   "males": 31,
+   "females": 9
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 63,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kota",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 65,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 13,
+   "males": null,
+   "females": 13
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 66,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 67,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 27,
+   "males": 24,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 70,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 16,
+   "males": 13,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 71,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 128,
+   "males": 128,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Rajsthani",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 72,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 520,
+   "males": 329,
+   "females": 191
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Marwari",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Rajsthani"
+   ],
+   "lang_is_total": false,
+   "serial": 73,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 520,
+   "males": 329,
+   "females": 191
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 74,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "E.—Languages of other parts of India",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "serial": 75,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 77,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 11,
+   "males": 8,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Telegu",
+   "lang_path": [
+    "E.—Languages of other parts of India"
+   ],
+   "lang_is_total": false,
+   "serial": 78,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "F.—Languages of Asiatic countries outside India",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 80,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 15,
+   "males": 7,
+   "females": 8
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 81,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "F.—Languages of Asiatic countries outside India"
+   ],
+   "lang_is_total": false,
+   "serial": 85,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 9,
+   "males": 4,
+   "females": 5
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "G.—European languages",
+   "lang_path": [
+    "ALL LANGUAGES"
+   ],
+   "lang_is_total": true,
+   "serial": 86,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 149,
+   "males": 85,
+   "females": 64
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 87,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 140,
+   "males": 81,
+   "females": 59
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 88,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Birbhum District",
+   "area_path": [
+    "Bengal",
+    "Part A.—Population of Bengal Districts and States"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "G.—European languages"
+   ],
+   "lang_is_total": false,
+   "serial": 91,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 186 (left-hand page; serial numbers at left). Part A continues across leaves 192-200 (leaf 201 begins Part B, cities). This leaf covers All Districts and States (total), Burdwan and Birbhum Districts. All checks pass. Cross-check: for every serial and sex, the All Districts and States column equals the sum of the 30 district/state columns on leaves 192-200, except two cells explained by damaged/blank print (Santali both sexes: Chittagong Hill Tracts, leaf 200; Arabic males: Nadia, leaf 194)."
+}

@@ -1,0 +1,2140 @@
+{
+ "key": "bombay",
+ "identifier": "in.ernet.dli.2015.56029",
+ "leaf": 365,
+ "printed_page": 361,
+ "table": "XV Part I",
+ "orientation": "upright (deskewed working copy)",
+ "layout": "rows = 73 serial areas (Presidency, British Districts, Bombay City, divisions, districts, Bombay States and Agencies, agencies, states); columns = languages x Persons/Males/Females. No printed column numbers. Row labels printed only on left (even) pages; right pages share rows of the facing page.",
+ "records": [
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 79561,
+   "males": 45253,
+   "females": 34308
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 23351,
+   "males": 18311,
+   "females": 5040
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 293822,
+   "males": 160715,
+   "females": 133107
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 212,
+   "males": 142,
+   "females": 70
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 79502,
+   "males": 45219,
+   "females": 34283
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 22850,
+   "males": 17923,
+   "females": 4927
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 287785,
+   "males": 157388,
+   "females": 130397
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 212,
+   "males": 142,
+   "females": 70
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3540,
+   "males": 3296,
+   "females": 244
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 27,
+   "males": 27,
+   "females": null
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 127,
+   "males": 82,
+   "females": 45
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1135,
+   "males": 723,
+   "females": 412
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 164,
+   "males": 114,
+   "females": 50
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 732,
+   "males": 369,
+   "females": 363
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 34,
+   "males": 23,
+   "females": 11
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 66,
+   "males": 59,
+   "females": 7
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 25,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 45,
+   "males": 40,
+   "females": 5
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 15,
+   "males": 13,
+   "females": 2
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 29,
+   "males": 27,
+   "females": 2
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 12,
+   "males": 6,
+   "females": 6
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 83,
+   "males": 71,
+   "females": 12
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 180,
+   "males": 157,
+   "females": 23
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 75,
+   "males": 44,
+   "females": 31
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 30,
+   "males": 28,
+   "females": 2
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1221,
+   "males": 907,
+   "females": 314
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 506,
+   "males": 284,
+   "females": 222
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 82,
+   "males": 57,
+   "females": 25
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 167,
+   "males": 89,
+   "females": 78
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 271,
+   "males": 189,
+   "females": 82
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 10,
+   "males": 6,
+   "females": 4
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 73,
+   "males": 48,
+   "females": 25
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 55,
+   "males": 48,
+   "females": 7
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 350,
+   "males": 187,
+   "females": 163
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 115,
+   "males": 100,
+   "females": 15
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6,
+   "males": 2,
+   "females": 4
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 30,
+   "males": 28,
+   "females": 2
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 67,
+   "males": 18,
+   "females": 49
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 15,
+   "males": 15,
+   "females": null
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 56,
+   "males": 55,
+   "females": 1
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 52,
+   "males": 27,
+   "females": 25
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 121,
+   "males": 100,
+   "females": 21
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 369,
+   "males": 308,
+   "females": 61
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 67,
+   "males": 41,
+   "females": 26
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 199,
+   "males": 190,
+   "females": 9
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 105,
+   "males": 102,
+   "females": 3
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 28,
+   "males": 26,
+   "females": 2
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 55,
+   "males": 51,
+   "females": 4
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "language": "Lahnda",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 79468,
+   "males": 45190,
+   "females": 34278
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 16755,
+   "males": 12807,
+   "females": 3948
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 287084,
+   "males": 156959,
+   "females": 130125
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 496,
+   "males": 291,
+   "females": 205
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 804,
+   "males": 594,
+   "females": 210
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 21741,
+   "males": 12198,
+   "females": 9543
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 18015,
+   "males": 10164,
+   "females": 7851
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6422,
+   "males": 4215,
+   "females": 2207
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 55936,
+   "males": 30075,
+   "females": 25861
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 27488,
+   "males": 15751,
+   "females": 11737
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2211,
+   "males": 2003,
+   "females": 208
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 52647,
+   "males": 28685,
+   "females": 23962
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4818,
+   "males": 2621,
+   "females": 2197
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 644,
+   "males": 548,
+   "females": 96
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 27528,
+   "males": 14491,
+   "females": 13037
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4285,
+   "males": 2465,
+   "females": 1820
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4532,
+   "males": 3890,
+   "females": 642
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 21271,
+   "males": 12398,
+   "females": 8873
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3750,
+   "males": 2053,
+   "females": 1697
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 360,
+   "males": 286,
+   "females": 74
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 22087,
+   "males": 12137,
+   "females": 9950
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 20616,
+   "males": 11845,
+   "females": 8771
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1782,
+   "males": 1271,
+   "females": 511
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 85874,
+   "males": 46975,
+   "females": 38899
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 59,
+   "males": 34,
+   "females": 25
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 501,
+   "males": 388,
+   "females": 113
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6037,
+   "males": 3327,
+   "females": 2710
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 120,
+   "males": 73,
+   "females": 47
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 105,
+   "males": 56,
+   "females": 49
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 112,
+   "males": 69,
+   "females": 43
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 95,
+   "males": 49,
+   "females": 46
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 24,
+   "males": 18,
+   "females": 6
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 28,
+   "males": 25,
+   "females": 3
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 11,
+   "males": 9,
+   "females": 2
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 18,
+   "males": 15,
+   "females": 3
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "language": "Brahui",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 59,
+   "males": 34,
+   "females": 25
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 350,
+   "males": 292,
+   "females": 58
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "language": "Balochi",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 5903,
+   "males": 3245,
+   "females": 2658
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "language": "Pashto",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 361. Row 10 Thana, Brahui: persons printed 2, males '..', females cell blank (no figure, no dots). Northern Division shows 2/../2 and the Group A cross-total for Thana females falls short by exactly 2, so females should be 2; recorded females=null as printed."
+}

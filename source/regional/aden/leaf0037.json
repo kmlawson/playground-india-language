@@ -1,0 +1,953 @@
+{
+ "key": "aden",
+ "identifier": "in.gov.ignca.31111",
+ "leaf": 37,
+ "printed_page": 33,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages, columns = religions x Persons/Males/Females (Aden only, no area breakdown)",
+ "records": [
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Zoroastrian",
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 345,
+   "males": 248,
+   "females": 97
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2245,
+   "males": 1762,
+   "females": 483
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Sikh",
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 4151,
+   "males": 2135,
+   "females": 2016
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 103,
+   "males": 97,
+   "females": 6
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Zoroastrian",
+   "language": "Group A. (Indian Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 345,
+   "males": 248,
+   "females": 97
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Group A. (Indian Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 119,
+   "males": 98,
+   "females": 21
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Sikh",
+   "language": "Group A. (Indian Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Group A. (Indian Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 38,
+   "males": 21,
+   "females": 17
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Group A. (Indian Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 12,
+   "males": 12,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Marathi",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 38,
+   "males": 21,
+   "females": 17
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Konkani",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 68,
+   "males": 49,
+   "females": 19
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Western Hindi",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 23,
+   "males": 22,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Sikh",
+   "language": "Western Hindi",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Sikh",
+   "language": "Punjabi",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 9,
+   "males": 4,
+   "females": 5
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Zoroastrian",
+   "language": "Gujarati",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 345,
+   "males": 248,
+   "females": 97
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Gujarati",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Tamil",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Bengali",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 11,
+   "males": 11,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Burmese",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Sanskrit",
+   "lang_path": [
+    "Group A. (Indian Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Group B. (Asiatic Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 10,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Group B. (Asiatic Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 4067,
+   "males": 2092,
+   "females": 1975
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Group B. (Asiatic Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 102,
+   "males": 96,
+   "females": 6
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Arabic",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Arabic",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1400,
+   "males": 698,
+   "females": 702
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Hebrew",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 2667,
+   "males": 1394,
+   "females": 1273
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Armenian",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Singhalese",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Turkish",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Japanese",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 72,
+   "males": 71,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Chinese",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Buddhist",
+   "language": "Chinese",
+   "lang_path": [
+    "Group B. (Asiatic Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    26,
+    27,
+    28
+   ],
+   "persons": 24,
+   "males": 19,
+   "females": 5
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Group C. (European Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2060,
+   "males": 1636,
+   "females": 424
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Group C. (European Languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 46,
+   "males": 22,
+   "females": 24
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "English",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1486,
+   "males": 1182,
+   "females": 304
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "English",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Greek (Romaic)",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 83,
+   "males": 55,
+   "females": 28
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Italian",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 186,
+   "males": 175,
+   "females": 11
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Italian",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "French",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 14,
+   "males": 5,
+   "females": 9
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Spanish",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 39,
+   "males": 19,
+   "females": 20
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Portuguese",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 228,
+   "males": 168,
+   "females": 60
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Dutch",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Danish",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Swedish",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "German",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 47,
+   "males": 43,
+   "females": 4
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Russian",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Jew",
+   "language": "Russian",
+   "lang_path": [
+    "Group C. (European Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Aden",
+   "area_path": [],
+   "area_is_total": true,
+   "religion": "Christian",
+   "language": "Somali",
+   "lang_path": [
+    "Group D. (African Languages)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 56,
+   "males": 18,
+   "females": 38
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 33 (continuation of leaf 36 opening; 'Table XV. Language. All Religions.' heading). Columns 14-28: Zoroastrian, Christian, Sikh, Jew, Buddhist. All figures reconcile with All Religions on leaf 36 except the Tamil row (see leaf 36 note)."
+}

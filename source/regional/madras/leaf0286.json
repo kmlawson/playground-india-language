@@ -1,0 +1,4329 @@
+{
+ "key": "madras",
+ "identifier": "in.ernet.dli.2015.56039",
+ "leaf": 286,
+ "printed_page": 280,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts and states, columns = languages",
+ "records": [
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 47193602,
+   "males": 23301145,
+   "females": 23892457
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 46740107,
+   "males": 23082999,
+   "females": 23657108
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2411619,
+   "males": 1117828,
+   "females": 1293791
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 358238,
+   "males": 176641,
+   "females": 181597
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2053381,
+   "males": 941187,
+   "females": 1112194
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3607948,
+   "males": 1773085,
+   "females": 1834863
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1164998,
+   "males": 581867,
+   "females": 583131
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2442950,
+   "males": 1191218,
+   "females": 1251732
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1920582,
+   "males": 949284,
+   "females": 971298
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 240529,
+   "males": 120795,
+   "females": 119734
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1680053,
+   "males": 828489,
+   "females": 851564
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1223056,
+   "males": 602327,
+   "females": 620729
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1254208,
+   "males": 635704,
+   "females": 618504
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2035660,
+   "males": 1028993,
+   "females": 1006667
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1486222,
+   "males": 744322,
+   "females": 741900
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 949397,
+   "males": 483914,
+   "females": 465483
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1024961,
+   "males": 520238,
+   "females": 504723
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 969774,
+   "males": 493018,
+   "females": 476756
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1050411,
+   "males": 539534,
+   "females": 510877
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 647230,
+   "males": 341223,
+   "females": 306007
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1655115,
+   "males": 837161,
+   "females": 817954
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1447103,
+   "males": 738325,
+   "females": 708778
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2266989,
+   "males": 1131610,
+   "females": 1135379
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2433972,
+   "males": 1211743,
+   "females": 1222229
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2445064,
+   "males": 1218224,
+   "females": 1226840
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2454507,
+   "males": 1225072,
+   "females": 1229435
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2385920,
+   "males": 1143738,
+   "females": 1242182
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1913245,
+   "males": 934867,
+   "females": 978378
+  },
+  {
+   "area": "Madura",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2195747,
+   "males": 1081437,
+   "females": 1114310
+  },
+  {
+   "area": "Ramnad",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1838955,
+   "males": 872177,
+   "females": 966778
+  },
+  {
+   "area": "Tinnevelly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2046907,
+   "males": 987159,
+   "females": 1059748
+  },
+  {
+   "area": "Nilgiris",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 169330,
+   "males": 91928,
+   "females": 77402
+  },
+  {
+   "area": "Malabar",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3533944,
+   "males": 1716138,
+   "females": 1817806
+  },
+  {
+   "area": "South Kanara",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1372241,
+   "males": 663950,
+   "females": 708291
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 453495,
+   "males": 218146,
+   "females": 235349
+  },
+  {
+   "area": "Pudukkottai",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 400694,
+   "males": 191134,
+   "females": 209560
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 39218,
+   "males": 19985,
+   "females": 19233
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13583,
+   "males": 7027,
+   "females": 6556
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 47107284,
+   "males": 23252463,
+   "females": 23854821
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 46654100,
+   "males": 23034492,
+   "females": 23619608
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2410773,
+   "males": 1117300,
+   "females": 1293473
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 358206,
+   "males": 176623,
+   "females": 181583
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2052567,
+   "males": 940677,
+   "females": 1111890
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3600371,
+   "males": 1768878,
+   "females": 1831493
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1160219,
+   "males": 579359,
+   "females": 580860
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2440152,
+   "males": 1189519,
+   "females": 1250633
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1918184,
+   "males": 947978,
+   "females": 970206
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 240491,
+   "males": 120767,
+   "females": 119724
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1677693,
+   "males": 827211,
+   "females": 850482
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1221742,
+   "males": 601683,
+   "females": 620059
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1251472,
+   "males": 634386,
+   "females": 617086
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2034394,
+   "males": 1028222,
+   "females": 1006172
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1484992,
+   "males": 743604,
+   "females": 741388
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 948970,
+   "males": 483666,
+   "females": 465304
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1024443,
+   "males": 519930,
+   "females": 504513
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 967610,
+   "males": 491752,
+   "females": 475858
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1049381,
+   "males": 538919,
+   "females": 510462
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 624480,
+   "males": 328349,
+   "females": 296131
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1649189,
+   "males": 833435,
+   "females": 815754
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1446399,
+   "males": 737920,
+   "females": 708479
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2265150,
+   "males": 1130679,
+   "females": 1134471
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2432427,
+   "males": 1210925,
+   "females": 1221502
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2441230,
+   "males": 1216198,
+   "females": 1225032
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2452248,
+   "males": 1223799,
+   "females": 1228449
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2383339,
+   "males": 1142434,
+   "females": 1240905
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1909791,
+   "males": 932861,
+   "females": 976930
+  },
+  {
+   "area": "Madura",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2193566,
+   "males": 1080234,
+   "females": 1113332
+  },
+  {
+   "area": "Ramnad",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1837475,
+   "males": 871294,
+   "females": 966181
+  },
+  {
+   "area": "Tinnevelly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2045148,
+   "males": 986326,
+   "females": 1058822
+  },
+  {
+   "area": "Nilgiris",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 163383,
+   "males": 88621,
+   "females": 74762
+  },
+  {
+   "area": "Malabar",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3527181,
+   "males": 1712116,
+   "females": 1815065
+  },
+  {
+   "area": "South Kanara",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1370762,
+   "males": 662983,
+   "females": 707779
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 453184,
+   "males": 217971,
+   "females": 235213
+  },
+  {
+   "area": "Pudukkottai",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 400456,
+   "males": 191002,
+   "females": 209454
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 39217,
+   "males": 19985,
+   "females": 19232
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Total A-(i) Languages of the Presidency",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 13511,
+   "males": 6984,
+   "females": 6527
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1230313,
+   "males": 631136,
+   "females": 599177
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1217992,
+   "males": 624951,
+   "females": 593041
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5530,
+   "males": 2965,
+   "females": 2565
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 86,
+   "males": 49,
+   "females": 37
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5444,
+   "males": 2916,
+   "females": 2528
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 15266,
+   "males": 7670,
+   "females": 7596
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2463,
+   "males": 1307,
+   "females": 1156
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 12803,
+   "males": 6363,
+   "females": 6440
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 21061,
+   "males": 10356,
+   "females": 10705
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2609,
+   "males": 1341,
+   "females": 1268
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 18452,
+   "males": 9015,
+   "females": 9437
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 19652,
+   "males": 9534,
+   "females": 10118
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 53636,
+   "males": 28224,
+   "females": 25412
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 135402,
+   "males": 67992,
+   "females": 67410
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 89794,
+   "males": 45003,
+   "females": 44791
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 100532,
+   "males": 51909,
+   "females": 48623
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 126002,
+   "males": 64625,
+   "females": 61377
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 87344,
+   "males": 44889,
+   "females": 42455
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 83411,
+   "males": 42911,
+   "females": 40500
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 62651,
+   "males": 33525,
+   "females": 29126
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 26624,
+   "males": 14057,
+   "females": 12567
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 74553,
+   "males": 38629,
+   "females": 35924
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 96105,
+   "males": 48292,
+   "females": 47813
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 54662,
+   "males": 28299,
+   "females": 26363
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 25182,
+   "males": 14175,
+   "females": 11007
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 45814,
+   "males": 23578,
+   "females": 22236
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 14082,
+   "males": 7091,
+   "females": 6991
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 22545,
+   "males": 11820,
+   "females": 10725
+  },
+  {
+   "area": "Madura",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 17904,
+   "males": 8969,
+   "females": 8935
+  },
+  {
+   "area": "Ramnad",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3455,
+   "males": 1690,
+   "females": 1765
+  },
+  {
+   "area": "Tinnevelly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7377,
+   "males": 3834,
+   "females": 3543
+  },
+  {
+   "area": "Nilgiris",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 4995,
+   "males": 2680,
+   "females": 2315
+  },
+  {
+   "area": "Malabar",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3172,
+   "males": 1871,
+   "females": 1301
+  },
+  {
+   "area": "South Kanara",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 21241,
+   "males": 10363,
+   "females": 10878
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 12321,
+   "males": 6185,
+   "females": 6136
+  },
+  {
+   "area": "Pudukkottai",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1993,
+   "males": 1010,
+   "females": 983
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 8029,
+   "males": 4011,
+   "females": 4018
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2299,
+   "males": 1164,
+   "females": 1135
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1685543,
+   "males": 834821,
+   "females": 850722
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1672665,
+   "males": 828333,
+   "females": 844332
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 75,
+   "males": 44,
+   "females": 31
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 74,
+   "males": 43,
+   "females": 31
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 284,
+   "males": 157,
+   "females": 127
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 56,
+   "males": 23,
+   "females": 33
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 228,
+   "males": 134,
+   "females": 94
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 402,
+   "males": 203,
+   "females": 199
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 17,
+   "males": 7,
+   "females": 10
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 385,
+   "males": 196,
+   "females": 189
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 173,
+   "males": 112,
+   "females": 61
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 388,
+   "males": 254,
+   "females": 134
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 173,
+   "males": 74,
+   "females": 99
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1042,
+   "males": 586,
+   "females": 456
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 2009,
+   "males": 946,
+   "females": 1063
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 8321,
+   "males": 4368,
+   "females": 3953
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 533538,
+   "males": 270014,
+   "females": 263524
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 100110,
+   "males": 50747,
+   "females": 49363
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 4539,
+   "males": 2618,
+   "females": 1921
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 5470,
+   "males": 2777,
+   "females": 2693
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 20194,
+   "males": 9766,
+   "females": 10428
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 21268,
+   "males": 10554,
+   "females": 10714
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 165254,
+   "males": 83732,
+   "females": 81522
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 296585,
+   "males": 146946,
+   "females": 149639
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 7796,
+   "males": 4129,
+   "females": 3667
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 5003,
+   "males": 2416,
+   "females": 2587
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 39967,
+   "males": 19473,
+   "females": 20494
+  },
+  {
+   "area": "Madura",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 137646,
+   "males": 63302,
+   "females": 74344
+  },
+  {
+   "area": "Ramnad",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 22178,
+   "males": 9467,
+   "females": 12711
+  },
+  {
+   "area": "Tinnevelly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 9960,
+   "males": 5457,
+   "females": 4503
+  },
+  {
+   "area": "Nilgiris",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 29967,
+   "males": 16426,
+   "females": 13541
+  },
+  {
+   "area": "Malabar",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 15771,
+   "males": 8614,
+   "females": 7157
+  },
+  {
+   "area": "South Kanara",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 244552,
+   "males": 115151,
+   "females": 129401
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 12878,
+   "males": 6488,
+   "females": 6390
+  },
+  {
+   "area": "Pudukkottai",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 5118,
+   "males": 2499,
+   "females": 2619
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 249,
+   "males": 181,
+   "females": 68
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 7511,
+   "males": 3808,
+   "females": 3703
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 40845,
+   "males": 21142,
+   "females": 19703
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 40598,
+   "males": 20999,
+   "females": 19599
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 276,
+   "males": 141,
+   "females": 135
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 276,
+   "males": 141,
+   "females": 135
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 1168,
+   "males": 595,
+   "females": 573
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 1168,
+   "males": 595,
+   "females": 573
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 317,
+   "males": 173,
+   "females": 144
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 89,
+   "males": 42,
+   "females": 47
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 228,
+   "males": 131,
+   "females": 97
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 918,
+   "males": 514,
+   "females": 404
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 4023,
+   "males": 1993,
+   "females": 2030
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 12696,
+   "males": 7098,
+   "females": 5598
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 3379,
+   "males": 1720,
+   "females": 1659
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 3214,
+   "males": 1679,
+   "females": 1535
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 4841,
+   "males": 2486,
+   "females": 2355
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 2683,
+   "males": 1350,
+   "females": 1333
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 4083,
+   "males": 1795,
+   "females": 2288
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 95,
+   "males": 46,
+   "females": 49
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 57,
+   "males": 21,
+   "females": 36
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 1635,
+   "males": 814,
+   "females": 821
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 685,
+   "males": 309,
+   "females": 376
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 431,
+   "males": 212,
+   "females": 219
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 21,
+   "males": 11,
+   "females": 10
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 52,
+   "males": 24,
+   "females": 28
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 18,
+   "males": 12,
+   "females": 6
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 247,
+   "males": 143,
+   "females": 104
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 233,
+   "males": 135,
+   "females": 98
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Korava or Yerukala",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 14,
+   "males": 8,
+   "females": 6
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 49416,
+   "males": 25482,
+   "females": 23934
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 48791,
+   "males": 25179,
+   "females": 23612
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 34,
+   "males": 14,
+   "females": 20
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 34,
+   "males": 14,
+   "females": 20
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 729,
+   "males": 562,
+   "females": 167
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 728,
+   "males": 561,
+   "females": 167
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 740,
+   "males": 424,
+   "females": 316
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 3981,
+   "males": 2071,
+   "females": 1910
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 4248,
+   "males": 2232,
+   "females": 2016
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 15,
+   "males": 11,
+   "females": 4
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2292,
+   "males": 1125,
+   "females": 1167
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 3319,
+   "males": 1726,
+   "females": 1593
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 14762,
+   "males": 7213,
+   "females": 7549
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 13829,
+   "males": 7285,
+   "females": 6544
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 3139,
+   "males": 1580,
+   "females": 1559
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 211,
+   "males": 118,
+   "females": 93
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 595,
+   "males": 319,
+   "females": 276
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 897,
+   "males": 499,
+   "females": 398
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 625,
+   "males": 303,
+   "females": 322
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 144,
+   "males": 44,
+   "females": 100
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "A-(i) Languages of the Presidency"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 481,
+   "males": 259,
+   "females": 222
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "First page of Table XV Part I (Mother-tongue), cols 1-19: Population; Total A-(i) Languages of the Presidency; Hindustani; Kanarese; Korava or Yerukala; Lambadi. Table continues on leaves 287-289 (printed pp. 281-283). Row serial numbers (1.-29.) dropped from area names; row 12 'Madras' is the city district. Nil cells ('..') omitted; where only females are nil (Kanarese Ganjam Agency, Korava Coimbatore, Lambadi Godavari East Plains) females is null. All P=M+F and all area totals (Madras = British Territory + States; British Territory = 26 districts; district = Agency + Plains; States = 3 states) reconcile for every column on this leaf."
+}

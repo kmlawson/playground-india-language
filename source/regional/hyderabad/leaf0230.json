@@ -1,0 +1,2779 @@
+{
+ "key": "hyderabad",
+ "identifier": "in.ernet.dli.2015.105678",
+ "leaf": 230,
+ "printed_page": 224,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = languages, columns = districts",
+ "records": [
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14436148,
+   "males": 7370010,
+   "females": 7066138
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14418595,
+   "males": 7357576,
+   "females": 7061019
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Vernaculars of the State",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14225694,
+   "males": 7252729,
+   "females": 6972965
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8700689,
+   "males": 4432890,
+   "females": 4267799
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Andhra group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6972534,
+   "males": 3544413,
+   "females": 3428121
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Andhra group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6972534,
+   "males": 3544413,
+   "females": 3428121
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravida group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1652068,
+   "males": 849522,
+   "females": 802546
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Erakala (Kaikadi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 31974,
+   "males": 17333,
+   "females": 14641
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1620094,
+   "males": 832189,
+   "females": 787905
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Intermediate group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 76087,
+   "males": 38955,
+   "females": 37132
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Intermediate group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 76087,
+   "males": 38955,
+   "females": 37132
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5525005,
+   "males": 2819839,
+   "females": 2705166
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5525005,
+   "males": 2819839,
+   "females": 2705166
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhili",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9619,
+   "males": 5072,
+   "females": 4547
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lambadi (Banjari)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 214617,
+   "males": 110570,
+   "females": 104047
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3786838,
+   "males": 1916549,
+   "females": 1870289
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pardhi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6659,
+   "males": 3848,
+   "females": 2811
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Urdu (Western Hindi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1507272,
+   "males": 783800,
+   "females": 723472
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Other Vernaculars of India",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 190134,
+   "males": 103099,
+   "females": 87035
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 29050,
+   "males": 15598,
+   "females": 13452
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 29050,
+   "males": 15598,
+   "females": 13452
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 161081,
+   "males": 87501,
+   "females": 73583
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 161084,
+   "males": 87501,
+   "females": 73583
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujarati",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 33915,
+   "males": 18069,
+   "females": 15846
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1560,
+   "males": 3630,
+   "females": 930
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 56251,
+   "males": 30464,
+   "females": 25787
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 66358,
+   "males": 35338,
+   "females": 31020
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2764,
+   "males": 1745,
+   "females": 1019
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "B Vernaculars of Asiatic Countries and Africa",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3486,
+   "males": 2110,
+   "females": 1376
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3172,
+   "males": 1932,
+   "females": 1240
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3172,
+   "males": 1932,
+   "females": 1240
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 314,
+   "males": 178,
+   "females": 136
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14070,
+   "males": 10327,
+   "females": 3743
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Teutonic group",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13819,
+   "males": 10162,
+   "females": 3657
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C European Languages",
+    "Teutonic group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 13819,
+   "males": 10162,
+   "females": 3657
+  },
+  {
+   "area": "Hyderabad State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 251,
+   "males": 165,
+   "females": 86
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 466894,
+   "males": 247623,
+   "females": 219271
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "A Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 455035,
+   "males": 239293,
+   "females": 215742
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Vernaculars of the State",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 412942,
+   "males": 214192,
+   "females": 198750
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 177167,
+   "males": 92724,
+   "females": 84443
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Andhra group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 173357,
+   "males": 90565,
+   "females": 82792
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Andhra group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 173357,
+   "males": 90565,
+   "females": 82792
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravida group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3810,
+   "males": 2159,
+   "females": 1651
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Erakala (Kaikadi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 289,
+   "males": 188,
+   "females": 101
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3521,
+   "males": 1971,
+   "females": 1550
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 235775,
+   "males": 121468,
+   "females": 114307
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 235775,
+   "males": 121468,
+   "females": 114307
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi (Banjari)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 387,
+   "males": 207,
+   "females": 180
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 16344,
+   "males": 8440,
+   "females": 7904
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Pardhi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 838,
+   "males": 440,
+   "females": 398
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Urdu (Western Hindi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 218206,
+   "males": 112381,
+   "females": 105825
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Other Vernaculars of India",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 41290,
+   "males": 24535,
+   "females": 16755
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 18063,
+   "males": 9937,
+   "females": 8126
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 18063,
+   "males": 9937,
+   "females": 8126
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 23227,
+   "males": 14598,
+   "females": 8629
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 23227,
+   "males": 14598,
+   "females": 8629
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 5626,
+   "males": 3113,
+   "females": 2513
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2928,
+   "males": 2627,
+   "females": 301
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 8439,
+   "males": 4979,
+   "females": 3460
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6234,
+   "males": 3879,
+   "females": 2355
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 800,
+   "males": 563,
+   "females": 237
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "B Vernaculars of Asiatic Countries and Africa",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2132,
+   "males": 1214,
+   "females": 918
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1855,
+   "males": 1065,
+   "females": 790
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1855,
+   "males": 1065,
+   "females": 790
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 277,
+   "males": 149,
+   "females": 128
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "C European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 9730,
+   "males": 7119,
+   "females": 2611
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Teutonic group",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 9517,
+   "males": 6985,
+   "females": 2532
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C European Languages",
+    "Teutonic group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 9517,
+   "males": 6985,
+   "females": 2532
+  },
+  {
+   "area": "Hyderabad City",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 213,
+   "males": 134,
+   "females": 79
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 499661,
+   "males": 253975,
+   "females": 245686
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "A Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 499424,
+   "males": 253851,
+   "females": 245573
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Vernaculars of the State",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 497795,
+   "males": 253020,
+   "females": 244775
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 418142,
+   "males": 213721,
+   "females": 204421
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Andhra group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 397612,
+   "males": 203471,
+   "females": 194141
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Andhra group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 397612,
+   "males": 203471,
+   "females": 194141
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravida group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 20530,
+   "males": 10250,
+   "females": 10280
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Erakala (Kaikadi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 665,
+   "males": 369,
+   "females": 296
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 19865,
+   "males": 9881,
+   "females": 9984
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 79653,
+   "males": 39299,
+   "females": 40354
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 79653,
+   "males": 39299,
+   "females": 40354
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi (Banjari)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5896,
+   "males": 3077,
+   "females": 2819
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 17903,
+   "males": 7858,
+   "females": 10045
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Pardhi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 99,
+   "males": 59,
+   "females": 40
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Urdu (Western Hindi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 55755,
+   "males": 28305,
+   "females": 27450
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Other Vernaculars of India",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1629,
+   "males": 831,
+   "females": 798
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 648,
+   "males": 307,
+   "females": 341
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 648,
+   "males": 307,
+   "females": 341
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 981,
+   "males": 524,
+   "females": 457
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 981,
+   "males": 524,
+   "females": 457
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 283,
+   "males": 159,
+   "females": 124
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 589,
+   "males": 308,
+   "females": 281
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 107,
+   "males": 55,
+   "females": 52
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "B Vernaculars of Asiatic Countries and Africa",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 25,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 25,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 25,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "C European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 212,
+   "males": 110,
+   "females": 102
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Teutonic group",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 212,
+   "males": 110,
+   "females": 102
+  },
+  {
+   "area": "Atraf-i-Balda",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C European Languages",
+    "Teutonic group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 212,
+   "males": 110,
+   "females": 102
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1117693,
+   "males": 575819,
+   "females": 541874
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "A Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1116765,
+   "males": 575243,
+   "females": 541522
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Vernaculars of the State",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1109543,
+   "males": 571525,
+   "females": 538018
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 980634,
+   "males": 503668,
+   "females": 476966
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Andhra group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 949488,
+   "males": 487746,
+   "females": 461742
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Andhra group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 949488,
+   "males": 487746,
+   "females": 461742
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravida group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 6291,
+   "males": 3307,
+   "females": 2984
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Erakala (Kaikadi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 5931,
+   "males": 3120,
+   "females": 2811
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 360,
+   "males": 187,
+   "females": 173
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Intermediate group",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 24855,
+   "males": 12615,
+   "females": 12240
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Dravidian Family",
+    "Intermediate group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 24855,
+   "males": 12615,
+   "females": 12240
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 128909,
+   "males": 67857,
+   "females": 61052
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 128909,
+   "males": 67857,
+   "females": 61052
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Lambadi (Banjari)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 54136,
+   "males": 27420,
+   "females": 26716
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 13689,
+   "males": 7021,
+   "females": 6668
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Pardhi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 386,
+   "males": 229,
+   "females": 157
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Urdu (Western Hindi)",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Vernaculars of the State",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 60698,
+   "males": 33187,
+   "females": 27511
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Other Vernaculars of India",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 7131,
+   "males": 3653,
+   "females": 3478
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 4110,
+   "males": 2027,
+   "females": 2083
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 4110,
+   "males": 2027,
+   "females": 2083
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 3021,
+   "males": 1626,
+   "females": 1395
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 3021,
+   "males": 1626,
+   "females": 1395
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Gujarati",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 367,
+   "males": 187,
+   "females": 180
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 66,
+   "males": 40,
+   "females": 26
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1016,
+   "males": 530,
+   "females": 486
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A Vernaculars of India",
+    "Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1572,
+   "males": 869,
+   "females": 703
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "A Vernaculars of India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 91,
+   "males": 65,
+   "females": 26
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "B Vernaculars of Asiatic Countries and Africa",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 61,
+   "males": 33,
+   "females": 28
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 61,
+   "males": 33,
+   "females": 28
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B Vernaculars of Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 61,
+   "males": 33,
+   "females": 28
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "C European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 867,
+   "males": 543,
+   "females": 324
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Teutonic group",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 865,
+   "males": 541,
+   "females": 324
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C European Languages",
+    "Teutonic group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 865,
+   "males": 541,
+   "females": 324
+  },
+  {
+   "area": "Warangal",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "C European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Columns on this leaf: 2-4 Population (whole state, recorded as area 'Hyderabad State'), 5-7 Hyderabad City, 8-10 Atraf-i-Balda, 11-13 Warangal; table continues on leaves 231-233 (other districts). Hierarchy as printed: 'Intermediate group' (Gondi) is included in the Dravidian Family total under (a) Vernaculars of the State (State: 6,972,534 + 1,652,068 + 76,087 = 8,700,689; Warangal likewise), so its lang_path is [A, (a), Dravidian Family]. Print inconsistencies (figures kept as printed, re-read at high zoom): (1) Hyderabad State, (b) Indo-European Family persons printed 161,081 but M+F = 161,084 and the Indo-Aryan Branch row prints 161,084 (and (b) 190,134 = 29,050 + 161,084). (2) Hyderabad State, Panjabi persons printed 1,560 but M+F = 3,630 + 930 = 4,560; Indo-Aryan Branch 161,084 also requires 4,560. (3) 'A' Vernaculars of India persons and males exceed (a)+(b)+(c) by 3 in both Hyderabad State (14,418,595 / 7,357,576 vs 14,418,592 / 7,357,573) and Hyderabad City (455,035 / 239,293 vs 455,032 / 239,290); consequently TOTAL persons/males are 3 less than A+B+C in both columns (State 14,436,148 vs 14,436,151; City 466,894 vs 466,897). P=M+F holds for the printed A rows. A stray '1' mark appears in the gutter to the left of the first three rows of the Population column; not a figure, ignored."
+}

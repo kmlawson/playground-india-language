@@ -1,0 +1,5043 @@
+{
+ "key": "baluchistan",
+ "identifier": "in.ernet.dli.2015.56021",
+ "leaf": 383,
+ "printed_page": 86,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages (classified), columns = areas; Baluchistan P/M/F (cols 2-4) then Districts M/F only (cols 5-18: Quetta-Pishin, Loralai, Zhob, Bolan, Chagai, Sibi Administered area, Sibi Mari Bugti Country)",
+ "records": [
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 868617,
+   "males": 488414,
+   "females": 380203
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 90302,
+   "females": 57239
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 47936,
+   "females": 38151
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 34596,
+   "females": 23367
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 3466,
+   "females": 1222
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 13721,
+   "females": 10503
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 49447,
+   "females": 38334
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "TOTAL",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30536,
+   "females": 24688
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 858035,
+   "males": 480871,
+   "females": 377164
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 83861,
+   "females": 54586
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 47707,
+   "females": 38077
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 34237,
+   "females": 23328
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 3379,
+   "females": 1178
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 13646,
+   "females": 10456
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 49166,
+   "females": 38201
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30536,
+   "females": 24688
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 779260,
+   "males": 423745,
+   "females": 355515
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 47059,
+   "females": 40216
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 43932,
+   "females": 36931
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 28685,
+   "females": 22401
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 1481,
+   "females": 529
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 12130,
+   "females": 9851
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 42910,
+   "females": 35011
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "I. Of Baluchistan",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30384,
+   "females": 24551
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 479371,
+   "males": 260573,
+   "females": 218798
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 42391,
+   "females": 36783
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 33438,
+   "females": 27508
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 28537,
+   "females": 22391
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 648,
+   "females": 281
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 7476,
+   "females": 6109
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 23335,
+   "females": 20152
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Eranian Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30114,
+   "females": 24330
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 479371,
+   "males": 260573,
+   "females": 218798
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 42391,
+   "females": 36783
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 33438,
+   "females": 27508
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 28537,
+   "females": 22391
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 648,
+   "females": 281
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 7476,
+   "females": 6109
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 23335,
+   "females": 20152
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Eastern Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30114,
+   "females": 24330
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 266957,
+   "males": 144436,
+   "females": 122521
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 1046,
+   "females": 849
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 2565,
+   "females": 1997
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 38,
+   "females": 26
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 461,
+   "females": 252
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 6061,
+   "females": 5153
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 12815,
+   "females": 11390
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 30111,
+   "females": 24330
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dehwari (Local Persian)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5233,
+   "males": 2842,
+   "females": 2391
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dehwari (Local Persian)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 51
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dehwari (Local Persian)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Dehwari (Local Persian)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 207181,
+   "males": 113295,
+   "females": 93886
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 41294,
+   "females": 35883
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 30873,
+   "females": 25511
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 28499,
+   "females": 22365
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 186,
+   "females": 29
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1415,
+   "females": 956
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 10518,
+   "females": 8761
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Eranian Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 172293,
+   "males": 93360,
+   "females": 78933
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 12
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 10202,
+   "females": 9233
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 1
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 69,
+   "females": 50
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 15633,
+   "females": 11862
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 270,
+   "females": 221
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(i) Lahnda or Western Punjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 27283,
+   "males": 14359,
+   "females": 12924
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Lahnda or Western Punjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Lahnda or Western Punjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 10142,
+   "females": 9206
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Lahnda or Western Punjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(i) Lahnda or Western Punjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1598,
+   "females": 1287
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Jafiri (Jafarki)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1670,
+   "males": 880,
+   "females": 790
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jafiri (Jafarki)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jafiri (Jafarki)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 874,
+   "females": 783
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jafiri (Jafarki)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 5
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Jafiri (Jafarki)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Khetrani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 18232,
+   "males": 9550,
+   "females": 8682
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Khetrani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 9268,
+   "females": 8423
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Khetrani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Khetrani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 278,
+   "females": 259
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Siraiki",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7381,
+   "males": 3929,
+   "females": 3452
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Siraiki",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(i) Lahnda or Western Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1317,
+   "females": 1027
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 143210,
+   "males": 77960,
+   "females": 65250
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 4
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(ii) Sindhi-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 13947,
+   "females": 10540
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 97412,
+   "males": 53745,
+   "females": 43667
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 4
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Jattki Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 13947,
+   "females": 10540
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lasi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(ii) Sindhi-Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 45798,
+   "males": 24215,
+   "females": 21583
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1800,
+   "males": 1041,
+   "females": 759
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 7
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 60,
+   "females": 27
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 33,
+   "females": null
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 64,
+   "females": 48
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 88,
+   "females": 35
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(iii) Unspecified",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 270,
+   "females": 221
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 775,
+   "males": 470,
+   "females": 305
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 7
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 23,
+   "females": 8
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 33,
+   "females": null
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 64,
+   "females": 48
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 72,
+   "females": 21
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Jattki or Jagdali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 270,
+   "females": 221
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Jatki",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1025,
+   "males": 571,
+   "females": 454
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Jatki",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 37,
+   "females": 19
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Jatki",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "(iii) Unspecified"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 14
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 127479,
+   "males": 69746,
+   "females": 57733
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 4646,
+   "females": 3417
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 292,
+   "females": 190
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 141,
+   "females": 5
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 797,
+   "females": 247
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4585,
+   "females": 3692
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3911,
+   "females": 2976
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 127479,
+   "males": 69746,
+   "females": 57733
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 4646,
+   "females": 3417
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 292,
+   "females": 190
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 141,
+   "females": 5
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 797,
+   "females": 247
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4585,
+   "females": 3692
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Brahui",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Dravidian Family",
+    "North-Western Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3911,
+   "females": 2976
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Unclassed Language",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 117,
+   "males": 66,
+   "females": 51
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Unclassed Language",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 4
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Unclassed Language",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 31,
+   "females": 21
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lorichini",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Unclassed Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 117,
+   "males": 66,
+   "females": 51
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lorichini",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Unclassed Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 4
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Lorichini",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "I. Of Baluchistan",
+    "Unclassed Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 31,
+   "females": 21
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 78775,
+   "males": 57126,
+   "females": 21649
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 36802,
+   "females": 14370
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 3775,
+   "females": 1146
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5552,
+   "females": 927
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 1898,
+   "females": 649
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1516,
+   "females": 605
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 6256,
+   "females": 3190
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "II. Of other Parts of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 152,
+   "females": 137
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibeto-Himalayan Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 597,
+   "males": 595,
+   "females": 2
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibeto-Himalayan Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 2
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibeto-Himalayan Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibeto-Himalayan Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 572,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibetan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 29,
+   "males": 29,
+   "females": null
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 16,
+   "females": null
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 21,
+   "males": 21,
+   "females": null
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 14,
+   "females": null
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sharpa Bhotia",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Sharpa Bhotia",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sikkim Bhotia",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Sikkim Bhotia",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pronominalized Himalayan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 488,
+   "males": 488,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pronominalized Himalayan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 488,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kiranti",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 488,
+   "males": 488,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kiranti",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 488,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(a) Limbu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group",
+    "Kiranti"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 262,
+   "males": 262,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(a) Limbu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group",
+    "Kiranti"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 262,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(b) Rai or Jimdar",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group",
+    "Kiranti"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 226,
+   "males": 226,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(b) Rai or Jimdar",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Pronominalized Himalayan Group",
+    "Kiranti"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 226,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Non-Pronominalized Himalayan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 80,
+   "males": 78,
+   "females": 2
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Non-Pronominalized Himalayan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Non-Pronominalized Himalayan Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 78,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gurang",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 16,
+   "males": 16,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Gurang",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 16,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sanwar",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 38,
+   "males": 38,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Sanwar",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 38,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Magari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 24,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Magari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rong or Lepcha",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Rong or Lepcha",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Tibeto-Himalayan Branch",
+    "Non-Pronominalized Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 214,
+   "males": 134,
+   "females": 80
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 122,
+   "females": 72
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 172,
+   "males": 103,
+   "females": 69
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 96,
+   "females": 63
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 150,
+   "males": 89,
+   "females": 61
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 83,
+   "females": 55
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 12,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 10,
+   "males": 6,
+   "females": 4
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Andhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 42,
+   "males": 31,
+   "females": 11
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Andhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 9
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Andhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Andhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Dravidian Family",
+    "Andhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 201,
+   "males": 183,
+   "females": 68
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 102,
+   "females": 58
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 1
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Dard Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 7
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 201,
+   "males": 133,
+   "females": 68
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 102,
+   "females": 58
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 1
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "Dard Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 7
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 32068,
+   "males": 22742,
+   "females": 9326
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 12909,
+   "females": 5015
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 1732,
+   "females": 595
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2103,
+   "females": 466
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 938,
+   "females": 423
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 734,
+   "females": 305
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3396,
+   "females": 1980
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "(i) Outer Sub-Branch",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 48
+  },
+  {
+   "area": "Baluchistan",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 31093,
+   "males": 21909,
+   "females": 9184
+  },
+  {
+   "area": "Quetta-Pishin",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6
+   ],
+   "persons": null,
+   "males": 12131,
+   "females": 4894
+  },
+  {
+   "area": "Loralai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    7,
+    8
+   ],
+   "persons": null,
+   "males": 1708,
+   "females": 582
+  },
+  {
+   "area": "Zhob",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2093,
+   "females": 460
+  },
+  {
+   "area": "Bolan",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 935,
+   "females": 423
+  },
+  {
+   "area": "Chagai",
+   "area_path": [
+    "Baluchistan",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 731,
+   "females": 305
+  },
+  {
+   "area": "Administered area",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3382,
+   "females": 1978
+  },
+  {
+   "area": "Mari Bugti Country",
+   "area_path": [
+    "Baluchistan",
+    "Districts",
+    "Sibi"
+   ],
+   "area_is_total": false,
+   "language": "North-Western Group",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "II. Of other Parts of India",
+    "Aryan Sub-Family",
+    "(i) Outer Sub-Branch"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 48
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table continues on leaf 385 (rows continue: Lahnda/Sindhi of North-Western Group etc.); facing page leaf 384 holds the States columns for the same rows. Persons printed only for Baluchistan (cols 2-4); districts/states have Males and Females only, so persons=null there. Misprint kept as printed: Dard Group, Baluchistan Males printed 183 (bold); Kashmiri (sole member) Males 133 and 201-68=133, so 183 is a misprint for 133 - P!=M+F on that record for this reason."
+}

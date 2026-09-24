@@ -1,0 +1,452 @@
+{
+ "key": "rajputana",
+ "identifier": "in.ernet.dli.2015.105322",
+ "leaf": 336,
+ "printed_page": 148,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = 9 bilingual tracts; for each mother tongue a column 'Number of persons speaking mother tongue' (persons only; recorded with subsidiary=null) then subsidiary languages x Males/Females (persons not printed, so null).",
+ "records": [
+  {
+   "area": "North-West Bikaner (Ganganagar and Suratgarh Nizamats)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 111749,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "North-West Bikaner (Ganganagar and Suratgarh Nizamats)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Panjabi",
+   "persons": null,
+   "males": 69,
+   "females": 56,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "West and South-West Marwar (Mallani and Sanchore Parganas)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 262412,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "West and South-West Marwar (Mallani and Sanchore Parganas)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": 64,
+   "females": 443,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "West and South-West Marwar (Mallani and Sanchore Parganas)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Sindhi",
+   "persons": null,
+   "males": 5119,
+   "females": 4738,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 177721,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": 102,
+   "females": 35,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Bhili",
+   "persons": null,
+   "males": 45,
+   "females": 8,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "South-West Mewar (Kherwara District)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 10562,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "South-West Mewar (Kherwara District)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": 10,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "South-West Mewar (Kherwara District)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Bhili",
+   "persons": null,
+   "males": 1200,
+   "females": 1117,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Banswara",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 2837,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "Banswara",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Bhili",
+   "persons": null,
+   "males": 14,
+   "females": 84,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kushalgarh (Chiefship)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 2489,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "Kushalgarh (Chiefship)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kushalgarh (Chiefship)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Bhili",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": null,
+   "persons": 45860,
+   "males": null,
+   "females": null,
+   "cols": [
+    2
+   ]
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Rajasthani",
+   "subsidiary": "Bhili",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": null,
+   "persons": 30397,
+   "males": null,
+   "females": null,
+   "cols": [
+    11
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1112,
+   "females": 1108,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Sirohi",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": 164,
+   "females": 112,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "South-West Mewar (Kherwara District)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": null,
+   "persons": 61546,
+   "males": null,
+   "females": null,
+   "cols": [
+    11
+   ]
+  },
+  {
+   "area": "South-West Mewar (Kherwara District)",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 59,
+   "females": 225,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Banswara",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": null,
+   "persons": 220821,
+   "males": null,
+   "females": null,
+   "cols": [
+    11
+   ]
+  },
+  {
+   "area": "Banswara",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 3,
+   "females": 2,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Banswara",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": null,
+   "females": 5,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Dungarpur",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": null,
+   "persons": 219444,
+   "males": null,
+   "females": null,
+   "cols": [
+    11
+   ]
+  },
+  {
+   "area": "Dungarpur",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Gujarati",
+   "persons": null,
+   "males": 1344,
+   "females": 1050,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": null,
+   "persons": 26814,
+   "males": null,
+   "females": null,
+   "cols": [
+    11
+   ]
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "Rajputana Agency"
+   ],
+   "mother_tongue": "Bhili",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 65,
+   "females": 64,
+   "cols": [
+    12,
+    13
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed p.148. Mother tongue Rajasthani (cols 2-10; subsidiary Gujarati, Bhili, Sindhi, Panjabi) and Bhili (cols 11-15; subsidiary Rajasthani, Gujarati). Continues on leaf 337. The row 'West Jaisalmer (Shahgarh Ghotru Pargana)' is entirely nil, and so is Dungarpur for Rajasthani. Kushalgarh prints '...' for the number of Bhili speakers although Part I gives 31,085; it is transcribed as printed. Mother-tongue counts are for the tract only (they are not the state totals of Part I, except Bhili Banswara 220,821, Dungarpur 219,444 and Partabgarh 26,814, and Panjabi NW Bikaner 111,491, which equal the Part I state figures). There are no totals to check against."
+}

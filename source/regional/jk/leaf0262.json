@@ -1,0 +1,627 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 262,
+ "printed_page": 252,
+ "table": "XV Part II",
+ "subtable": "A. Bilingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri, Punjabi, Kashmiri (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 13,
+   "males": 9,
+   "females": 4,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 204392,
+   "males": 108632,
+   "females": 95769,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 708,
+   "males": 487,
+   "females": 221,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 21566,
+   "males": 11937,
+   "females": 9629,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 195,
+   "males": 126,
+   "females": 69,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 536,
+   "males": 407,
+   "females": 129,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 9008,
+   "males": 4741,
+   "females": 4267,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 128,
+   "males": 72,
+   "females": 56,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 665,
+   "males": 406,
+   "females": 259,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 4897,
+   "males": 2285,
+   "females": 2612,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1491,
+   "males": 842,
+   "females": 649,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 38,
+   "males": 21,
+   "females": 17,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 1,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Uttarmachipura Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir North"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 28,
+   "males": 22,
+   "females": 6,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 1,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 13255,
+   "males": 7242,
+   "females": 6013,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 58,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 18026,
+   "males": 9612,
+   "females": 8414,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 21,
+   "males": 11,
+   "females": 10,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 39086,
+   "males": 20717,
+   "females": 18369,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 66,
+   "males": 50,
+   "females": 16,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 621,
+   "males": 379,
+   "females": 242,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 986,
+   "males": 542,
+   "females": 444,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 26,
+   "males": 15,
+   "females": 11,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 14,
+   "males": 14,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Uri Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Muzaffarabad Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 100,
+   "males": 58,
+   "females": 42,
+   "remarks": ""
+  },
+  {
+   "area": "Muzaffarabad Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": null,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Muzaffarabad Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 2747,
+   "males": 1632,
+   "females": 1115,
+   "remarks": ""
+  },
+  {
+   "area": "Muzaffarabad Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Muzaffarabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 21,
+   "males": 19,
+   "females": 2,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Header page of Table XV Part II(A) (continued). Uttarmachipura Tehsil (Kashmir North) block complete on this page. Uri Tehsil block under the 'Muzaffarabad District' brace (Part I district name 'Muzaffarabad' used in area_path). The last two rows (Dogri, Kashmiri) open a new tehsil block with no label on this page; the block continues on leaf 263 where its brace is labelled 'Muzaffarabad Tehsil', so they are recorded as Muzaffarabad Tehsil. PRINT INCONSISTENCY: Uttarmachipura Tehsil, Kashmiri mother tongue printed 204,392 persons / 108,632 males / 95,769 females; males+females = 204,401 (difference 9). All three figures are sharp and were checked at high zoom; kept as printed. The Kashmir Province total (leaf 259, Kashmiri females 572,963) is 9 less than the sum of the Kashmir Province tehsils as transcribed (572,972), so the Uttarmachipura females figure is the likely misprint (95,760 would reconcile both). Uttarmachipura Tehsil subsidiary figures are all within their mother-tongue totals. Remarks column blank. [Coordinator: Part II(B) leaf 271 prints Uttarmachhipura Kashmiri females as 95,760, which confirms the misprint here.]"
+}

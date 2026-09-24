@@ -1,0 +1,250 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 250,
+ "printed_page": 240,
+ "table": "XV Part I",
+ "subtable": "Unclassified Languages",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas; columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Moyani",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Moyani",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Moyani",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Normal",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Normal",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Normal",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rooski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Rooski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Rooski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bazigari",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 96,
+   "males": 50,
+   "females": 46
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bazigari",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 96,
+   "males": 50,
+   "females": 46
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bazigari",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 96,
+   "males": 50,
+   "females": 46
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Perne",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Perne",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Perne",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Last page of Table XV Part I. Area 4 printed 'Riasi' on this page (stub kept as 'Reasi District' for consistency). Perne 7/7 placed in the Kathua row by counting rows down the column (row slightly skewed relative to stub; Jammu District row is nil). 'Moyani' and 'Bazigari' headers slightly faint. Ditto marks in the area stub expanded (e.g. 'Kathua \"' -> 'Kathua District', 'Chenani \"' -> 'Chenani Jagir'). No printed column numbers."
+}

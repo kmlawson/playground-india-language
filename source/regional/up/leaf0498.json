@@ -1,0 +1,3195 @@
+{
+ "key": "up",
+ "identifier": "in.ernet.dli.2015.56044",
+ "leaf": 498,
+ "printed_page": 484,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = province, British Territory, Agra/Oudh, divisions, districts and states; columns = languages x Persons/Males/Females",
+ "records": [
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 49614833,
+   "males": 26063177,
+   "females": 23551656
+  },
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 49456327,
+   "males": 25958612,
+   "females": 23497715
+  },
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 399,
+   "males": 253,
+   "females": 146
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 48408763,
+   "males": 25445006,
+   "females": 22963757
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 48251226,
+   "males": 25341138,
+   "females": 22910088
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 399,
+   "males": 253,
+   "females": 146
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 35613784,
+   "males": 18805132,
+   "females": 16808652
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 35480396,
+   "males": 18718668,
+   "females": 16761728
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 351,
+   "males": 206,
+   "females": 145
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4907632,
+   "males": 2675930,
+   "females": 2231702
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4876746,
+   "males": 2653970,
+   "females": 2222776
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 230247,
+   "males": 137569,
+   "females": 92678
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 215774,
+   "males": 127093,
+   "females": 88681
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1043920,
+   "males": 573810,
+   "females": 470110
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1036727,
+   "males": 568614,
+   "females": 468113
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 894662,
+   "males": 489306,
+   "females": 405356
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 894027,
+   "males": 488871,
+   "females": 405156
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1601918,
+   "males": 871267,
+   "females": 730651
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1593767,
+   "males": 865678,
+   "females": 728089
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1136885,
+   "males": 603978,
+   "females": 532907
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1136451,
+   "males": 603714,
+   "females": 532737
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4498246,
+   "males": 2452301,
+   "females": 2045945
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4479340,
+   "males": 2441444,
+   "females": 2037896
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 102,
+   "males": 57,
+   "females": 45
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1171745,
+   "males": 636037,
+   "females": 535708
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1170032,
+   "males": 634870,
+   "females": 535162
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 66,
+   "males": 40,
+   "females": 26
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 668074,
+   "males": 364292,
+   "females": 303782
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 662668,
+   "males": 361555,
+   "females": 301113
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 29,
+   "males": 13,
+   "females": 16
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1048316,
+   "males": 572958,
+   "females": 475358
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1037437,
+   "males": 566540,
+   "females": 470897
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 749633,
+   "males": 412600,
+   "females": 337033
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 749240,
+   "males": 412347,
+   "females": 336893
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 860478,
+   "males": 466414,
+   "females": 394064
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 859963,
+   "males": 466132,
+   "females": 393831
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 5556105,
+   "males": 2991787,
+   "females": 2564318
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 5548520,
+   "males": 2986496,
+   "females": 2562024
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1072379,
+   "males": 579860,
+   "females": 492519
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1069661,
+   "males": 577830,
+   "females": 491831
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 835469,
+   "males": 443667,
+   "females": 391802
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 835336,
+   "males": 443597,
+   "females": 391739
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1010180,
+   "males": 546519,
+   "females": 463661
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1008902,
+   "males": 545817,
+   "females": 463085
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1284108,
+   "males": 687850,
+   "females": 596258
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1282116,
+   "males": 686461,
+   "females": 595655
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 905131,
+   "males": 493101,
+   "females": 412030
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 904420,
+   "males": 492647,
+   "females": 411773
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 448838,
+   "males": 240790,
+   "females": 208048
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 448085,
+   "males": 240144,
+   "females": 207941
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 5016352,
+   "males": 2691877,
+   "females": 2324475
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4991772,
+   "males": 2676796,
+   "females": 2314976
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 249,
+   "males": 149,
+   "females": 100
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 877392,
+   "males": 480178,
+   "females": 397214
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 876201,
+   "males": 479362,
+   "females": 396839
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 746005,
+   "males": 413071,
+   "females": 332934
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 740418,
+   "males": 409333,
+   "females": 331085
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 249,
+   "males": 149,
+   "females": 100
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1212253,
+   "males": 669817,
+   "females": 542436
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1206013,
+   "males": 665592,
+   "females": 540421
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 688789,
+   "males": 361406,
+   "females": 327383
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 688692,
+   "males": 361347,
+   "females": 327345
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1491913,
+   "males": 767405,
+   "females": 724508
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1480448,
+   "males": 761162,
+   "females": 719286
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 2244895,
+   "males": 1160832,
+   "females": 1084063
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 2237018,
+   "males": 1155403,
+   "females": 1081615
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 690413,
+   "males": 357551,
+   "females": 332862
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 683329,
+   "males": 352577,
+   "females": 330752
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 426022,
+   "males": 223326,
+   "females": 202696
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 425777,
+   "males": 223183,
+   "females": 202594
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 502689,
+   "males": 257028,
+   "females": 245661
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 502466,
+   "males": 256868,
+   "females": 245598
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 625771,
+   "males": 322927,
+   "females": 302844
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 625446,
+   "males": 322775,
+   "females": 302671
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4778919,
+   "males": 2424328,
+   "females": 2354591
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4761727,
+   "males": 2414956,
+   "females": 2346771
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1016378,
+   "males": 525030,
+   "females": 491348
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1001199,
+   "males": 516797,
+   "females": 484402
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 788409,
+   "males": 394465,
+   "females": 393944
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 787514,
+   "males": 393962,
+   "females": 393552
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1236071,
+   "males": 612908,
+   "females": 623163
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1235820,
+   "males": 612759,
+   "females": 623061
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 824971,
+   "males": 422857,
+   "females": 402114
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 824258,
+   "males": 422488,
+   "females": 401770
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 913090,
+   "males": 469068,
+   "females": 444022
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 912936,
+   "males": 468950,
+   "females": 443986
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 7217162,
+   "males": 3695749,
+   "females": 3521413
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 7209877,
+   "males": 3691054,
+   "females": 3518823
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 3567561,
+   "males": 1830288,
+   "females": 1737273
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 3561116,
+   "males": 1826137,
+   "females": 1734979
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 2078024,
+   "males": 1067501,
+   "females": 1010523
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 2077394,
+   "males": 1067078,
+   "females": 1010316
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1571577,
+   "males": 797960,
+   "females": 773617
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1571367,
+   "males": 797839,
+   "females": 773528
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1394473,
+   "males": 712328,
+   "females": 682145
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1375396,
+   "males": 698549,
+   "females": 676847
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 277286,
+   "males": 162337,
+   "females": 114949
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 266937,
+   "males": 154177,
+   "females": 112760
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 583302,
+   "males": 292004,
+   "females": 291298
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 578441,
+   "males": 289506,
+   "females": 288935
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 533885,
+   "males": 257987,
+   "females": 275898
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 530018,
+   "males": 254866,
+   "females": 275152
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 12794979,
+   "males": 6639874,
+   "females": 6155105
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 12770830,
+   "males": 6622470,
+   "females": 6148360
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 48,
+   "males": 47,
+   "females": 1
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 5856543,
+   "males": 3114469,
+   "females": 2742074
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 5838228,
+   "males": 3100961,
+   "females": 2737267
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 48,
+   "males": 47,
+   "females": 1
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 787472,
+   "males": 432865,
+   "females": 354607
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 775154,
+   "males": 424209,
+   "females": 350945
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 855700,
+   "males": 452825,
+   "females": 402875
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 855505,
+   "males": 452698,
+   "females": 402807
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 974127,
+   "males": 493730,
+   "females": 480397
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 973899,
+   "males": 493615,
+   "females": 480284
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1167139,
+   "males": 621993,
+   "females": 545146
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1166053,
+   "males": 621278,
+   "females": 544775
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1127626,
+   "males": 608391,
+   "females": 519235
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1127454,
+   "males": 608268,
+   "females": 519186
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 48,
+   "males": 47,
+   "females": 1
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 944479,
+   "males": 504665,
+   "females": 439814
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 940163,
+   "males": 500893,
+   "females": 439270
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 6938436,
+   "males": 3525405,
+   "females": 3413031
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 6932602,
+   "males": 3521509,
+   "females": 3411093
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1204789,
+   "males": 610051,
+   "females": 594738
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1202838,
+   "males": 608476,
+   "females": 594362
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1576003,
+   "males": 806532,
+   "females": 769471
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1574869,
+   "males": 805831,
+   "females": 769038
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1136348,
+   "males": 592716,
+   "females": 543632
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1134368,
+   "males": 591529,
+   "females": 542839
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1051284,
+   "males": 519311,
+   "females": 531973
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1051087,
+   "males": 519198,
+   "females": 531889
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 906233,
+   "males": 441992,
+   "females": 464241
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 905929,
+   "males": 441829,
+   "females": 464100
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1063779,
+   "males": 554803,
+   "females": 508976
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1063511,
+   "males": 554646,
+   "females": 508865
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1206070,
+   "males": 618171,
+   "females": 587899
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1205101,
+   "males": 617474,
+   "females": 587627
+  },
+  {
+   "area": "Rampur",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 465225,
+   "males": 250618,
+   "females": 214607
+  },
+  {
+   "area": "Rampur",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 464509,
+   "males": 250065,
+   "females": 214444
+  },
+  {
+   "area": "Tehri-Garhwal",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 349573,
+   "males": 173317,
+   "females": 176256
+  },
+  {
+   "area": "Tehri-Garhwal",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 349514,
+   "males": 173282,
+   "females": 176232
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 391272,
+   "males": 194236,
+   "females": 197036
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(1) Vernaculars of the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 391078,
+   "males": 194127,
+   "females": 196951
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "First page of Table XV Part I (continues on leaves 499-503 with the same 66 rows). Figures on this page are set slightly lower than the row labels in the lower half (Lucknow/Fyzabad/States blocks); rows assigned by count within each block. Muzaffarnagar Population persons and Kheri Population persons: one digit (the '4' in 894,662 and the second '4' in 944,479) is printed damaged (crossbar visible, diagonal missing) and could be taken for a '1'; read as 4, which agrees with males+females and with the Meerut/Lucknow Division totals. British Territory Hindustani females 22,910,088: the '0' before '88' is broken (looks like 'C'); read as 0, agreeing with persons-males. Serial numbers 1-51 printed against districts/states are not recorded. Area label 'Garhwal' is misprinted 'Garhwai'."
+}

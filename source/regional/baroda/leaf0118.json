@@ -1,0 +1,2153 @@
+{
+ "key": "baroda",
+ "identifier": "in.ernet.dli.2015.56048",
+ "leaf": 118,
+ "printed_page": 110,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "Printed as 'TABLE XV—LANGUAGE—PART B—BILINGUALISM' (this volume's Part B = bilingualism; recorded as XV Part II). Rows = five mother tongues (A. Gujarati (Standard), B. Bhil Dialects, C. Marathi, D. Western Hindi, E. Kachchhi) each 'with the following as subsidiary', followed by i-iii subsidiary languages. Columns: Baroda State Persons/Males/Females (cols 2-4), then Males/Females only for Baroda City (5-6), Amreli Division (7-8), Baroda Division (9-10), Mehsana Division (11-12), Navsari Division (13-14), Okhamandal (15-16).",
+ "records": [
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": 2119551,
+   "males": 1088238,
+   "females": 1031313,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 34922,
+   "females": 28920,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 84617,
+   "females": 81195,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 343212,
+   "females": 306364,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 497001,
+   "females": 483984,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 120130,
+   "females": 123017,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 8356,
+   "females": 7833,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 1255,
+   "males": 972,
+   "females": 283,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 427,
+   "females": 83,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 48,
+   "females": 7,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 114,
+   "females": 33,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 226,
+   "females": 69,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 129,
+   "females": 84,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 28,
+   "females": 7,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 10849,
+   "males": 7996,
+   "females": 2853,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1855,
+   "females": 420,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 370,
+   "females": "?",
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1593,
+   "females": 728,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": "?",
+   "females": 562,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1227,
+   "females": 779,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 146,
+   "females": 12,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 921,
+   "males": 505,
+   "females": 416,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 7,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 78,
+   "females": 19,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 19,
+   "females": 10,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 18,
+   "females": 8,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 381,
+   "females": 376,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": 180384,
+   "males": 91427,
+   "females": 88957,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 279,
+   "females": 251,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 22,
+   "females": 23,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 15644,
+   "females": 16505,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 3,
+   "females": 5,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 75479,
+   "females": 72173,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 71819,
+   "males": 38552,
+   "females": 33267,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 90,
+   "females": 89,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 14,
+   "females": 16,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 13271,
+   "females": 13583,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 3,
+   "females": 3,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 25174,
+   "females": 19576,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 88,
+   "males": 56,
+   "females": 32,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 52,
+   "females": 32,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 3,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bhil Dialects",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": 35532,
+   "males": 19086,
+   "females": 16446,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 13515,
+   "females": 11999,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 580,
+   "females": 455,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 1611,
+   "females": 1257,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 1021,
+   "females": 852,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 2044,
+   "females": 1742,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 315,
+   "females": 141,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 16234,
+   "males": 9959,
+   "females": 6275,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 6514,
+   "females": 3767,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 294,
+   "females": 238,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 925,
+   "females": 489,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 792,
+   "females": 629,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1311,
+   "females": 1106,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 123,
+   "females": 46,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 1030,
+   "males": 781,
+   "females": 299,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 489,
+   "females": 262,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 24,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 142,
+   "females": 10,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 43,
+   "females": 7,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 41,
+   "females": 13,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 42,
+   "females": 3,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 3,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": 78188,
+   "males": 42684,
+   "females": 35504,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 11856,
+   "females": 7896,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 1884,
+   "females": 1552,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 12059,
+   "females": 10971,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 11828,
+   "females": 10987,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 4633,
+   "females": 3912,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 424,
+   "females": 186,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 42432,
+   "males": 24451,
+   "females": 17981,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 4767,
+   "females": 2255,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1217,
+   "females": 875,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 9118,
+   "females": 6555,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 6405,
+   "females": 5712,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 2866,
+   "females": 2555,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 78,
+   "females": 29,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 265,
+   "males": 200,
+   "females": 65,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 141,
+   "females": 49,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 7,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 18,
+   "females": 3,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 12,
+   "females": 5,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 15,
+   "females": 7,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 7,
+   "females": null,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 62,
+   "males": 5,
+   "females": 57,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": null,
+   "females": 52,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kachchhi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 5,
+   "females": 5,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": 17679,
+   "males": 8907,
+   "females": 8772,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 143,
+   "females": 112,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 1590,
+   "females": 1827,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 283,
+   "females": 195,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 289,
+   "females": 235,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 241,
+   "females": 98,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": null,
+   "subsidiary_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "persons": null,
+   "males": 6361,
+   "females": 6305,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 8063,
+   "males": 4422,
+   "females": 3641,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 110,
+   "females": 56,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1072,
+   "females": 1263,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 229,
+   "females": 107,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 145,
+   "females": 101,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 127,
+   "females": 81,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Gujarati",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 2739,
+   "females": 2033,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 9,
+   "males": 8,
+   "females": 1,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    15,
+    16
+   ]
+  },
+  {
+   "area": "Baroda State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": 508,
+   "males": 313,
+   "females": 195,
+   "cols": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Baroda City",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 14,
+   "females": 8,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Amreli Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 181,
+   "females": 162,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Baroda Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 28,
+   "females": 13,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Mehsana Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 30,
+   "females": 7,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Navsari Division",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 11,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Okhamandal",
+   "area_path": [
+    "Baroda State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kachchhi",
+   "subsidiary": "Western Hindi",
+   "subsidiary_is_total": false,
+   "measure": "subsidiary",
+   "persons": null,
+   "males": 49,
+   "females": 5,
+   "cols": [
+    15,
+    16
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  {
+   "area": "Amreli Division",
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "field": "females",
+   "seen": "?52 (leading digit missing)",
+   "implied_by_sums": 352
+  },
+  {
+   "area": "Mehsana Division",
+   "mother_tongue": "Gujarati (Standard)",
+   "subsidiary": "Western Hindi",
+   "field": "males",
+   "seen": "2,?05 (second digit missing)",
+   "implied_by_sums": 2805
+  }
+ ],
+ "notes": "Mother-tongue header rows (measure='mother_tongue_speakers', subsidiary=null) give ALL speakers of that mother tongue, not the bilingual subtotal: they equal Part I (leaves 116-117) figures exactly and Part C col 2-4 totals (e.g. Gujarati (Standard) 2,119,551). 'Marathi' here = Part I 'Marathi (Standard)' (figures match it, not 'Marathi (Southern Group)'). Subsidiary names as printed ('Gujarati', 'Marathi', 'Western Hindi', 'Kachchhi'). Division columns print no Persons figure (persons=null). Printed nil '...' cells omitted; where only one of M/F is nil it is null. Checks: state M and F = sum of six areas for every row (after the resolutions below); P=M+F for all state rows except one. PRINT INCONSISTENCY: Marathi MT / sub. Western Hindi: state Persons printed 1,030 (clear) but Males 781 + Females 299 = 1,080; M and F both agree with the division sums, so persons is probably a misprint for 1,080 - kept as printed. Scan is faint and many light-face 4s print as a broken '1'; values resolved from partly legible glyphs + arithmetic: Baroda State / Gujarati (Standard) MT / sub. Marathi / Females: recorded 283 (faint '28?'); P=M+F confirms | Baroda State / Gujarati (Standard) MT / sub. Western Hindi / Males: recorded 7,996 (seen '7,9?6'); P=M+F confirms | Baroda State / Gujarati (Standard) MT / sub. Kachchhi / Males: recorded 505 (seen '50?'); P=M+F and division sum confirm | Mehsana Division / Gujarati (Standard) MT / sub. Marathi / Males: recorded 226 (seen '22' + broken glyph); implied by state total 972 | Navsari Division / Gujarati (Standard) MT / sub. Marathi / Females: recorded 84 (glyph looks like '81' - this scan renders 4 as a broken '1' throughout); state total 283 requires 84 | Baroda State / Bhil Dialects MT / sub. Gujarati / Males: recorded 38,552 (seen '38,55?'); P=M+F confirms | Navsari Division / Bhil Dialects MT / sub. Gujarati / Males: recorded 25,174 (seen '2?,17?', broken); implied by state males 38,552 | Baroda Division / Marathi MT / sub. Gujarati / Females: recorded 489 (glyph looks like '189', broken 4); state female total 6,275 requires 489 | Baroda State / Western Hindi MT / sub. Gujarati / Males: recorded 24,451 (glyph looks like '24,151', broken 4); P=M+F (42,432-17,981) and division sum both give 24,451 | Baroda State / Kachchhi MT / sub. Gujarati: recorded 8,063 / 4,422 / 3,641 (seen '?,063' / '4,1??' / '3,611', broken 4s); division sums give M 4,422, F 3,641, and P=M+F. Two cells with a wholly missing digit are left '?' (see unreadable); with them the Western Hindi M/F columns still reconcile to the state totals via the implied values."
+}

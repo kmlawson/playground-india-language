@@ -222,6 +222,7 @@
   /* ---------------------------------------------------------------- view (pan/zoom) */
   function applyView() {
     svg.setAttribute('viewBox', view.x + ' ' + view.y + ' ' + view.w + ' ' + view.h);
+    scaleHatch();
     var k = VB[2] / view.w;   // zoom factor: keep text a constant screen size
     var s = 1 / Math.sqrt(k);
     document.documentElement.style.setProperty('--lab-scale', s);
@@ -230,6 +231,15 @@
     });
     $('#g-labels').setAttribute('data-k', k.toFixed(2));
     scaleText(k);
+  }
+  // hatching keeps a constant screen size at any zoom
+  function scaleHatch() {
+    var k = view.w / VB[2], w = (4 * k).toFixed(3);
+    [].forEach.call(document.querySelectorAll('pattern'), function (pt) {
+      pt.setAttribute('width', w); pt.setAttribute('height', w);
+      [].forEach.call(pt.querySelectorAll('rect'), function (r) { r.setAttribute('width', w); r.setAttribute('height', w); });
+      [].forEach.call(pt.querySelectorAll('line'), function (l) { l.setAttribute('y2', w); l.style.strokeWidth = (0.6 * k).toFixed(3); });
+    });
   }
   function scaleText(k) {
     var f = 1 / k;

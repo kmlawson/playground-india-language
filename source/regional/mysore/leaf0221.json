@@ -1,0 +1,806 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 221,
+ "printed_page": 213,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State/districts/cities, columns = languages (Persons, Males, Females)",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Welsh",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    160,
+    161,
+    162
+   ],
+   "persons": 8,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Welsh",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    160,
+    161,
+    162
+   ],
+   "persons": 6,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Welsh",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    160,
+    161,
+    162
+   ],
+   "persons": 6,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Welsh",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    160,
+    161,
+    162
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    163,
+    164,
+    165
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Irish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    163,
+    164,
+    165
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Russian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Balto-Slavonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    166,
+    167,
+    168
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Russian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Balto-Slavonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    166,
+    167,
+    168
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 13825,
+   "males": 6987,
+   "females": 6838
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 4192,
+   "males": 2138,
+   "females": 2054
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 770,
+   "males": 351,
+   "females": 419
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 274,
+   "males": 115,
+   "females": 159
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 2074,
+   "males": 1124,
+   "females": 950
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 94,
+   "males": 45,
+   "females": 49
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 40,
+   "males": 18,
+   "females": 22
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 487,
+   "males": 210,
+   "females": 277
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 126,
+   "males": 82,
+   "females": 44
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 36,
+   "males": 22,
+   "females": 14
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 110,
+   "males": 64,
+   "females": 46
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 109,
+   "males": 72,
+   "females": 37
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 72,
+   "males": 35,
+   "females": 37
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    169,
+    170,
+    171
+   ],
+   "persons": 9633,
+   "males": 4849,
+   "females": 4784
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Danish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    172,
+    173,
+    174
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 30,
+   "males": 11,
+   "females": 19
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 16,
+   "males": 5,
+   "females": 11
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 5,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 5,
+   "males": 1,
+   "females": 4
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    175,
+    176,
+    177
+   ],
+   "persons": 14,
+   "males": 6,
+   "females": 8
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hungarian",
+   "lang_path": [
+    "C. European Languages",
+    "Mongolian Family",
+    "Ural-altic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    178,
+    179,
+    180
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Hungarian",
+   "lang_path": [
+    "C. European Languages",
+    "Mongolian Family",
+    "Ural-altic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    178,
+    179,
+    180
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table XV(i) Language, rows = State totals (including/excluding Civil and Military Station, Bangalore), 11 districts/cities, and C&M Station Bangalore; columns = languages x Persons/Males/Females. Table spans printed pp. 204-213 (leaves 212-221); only this leaf transcribed here. Nil cells ('...') omitted; blank cells also omitted. Checks passed: P=M+F for every record; State incl. = State excl. + C&M Station; State excl. = sum of the 11 districts/cities, for every column. Last page of Table XV(i). C. Total (cols 145-147, leaf 220) = Italian + French + Spanish + Portuguese + Welsh + Irish + Russian + English + Danish + German + Hungarian, checked across leaves 220-221."
+}

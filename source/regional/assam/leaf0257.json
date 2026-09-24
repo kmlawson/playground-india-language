@@ -1,0 +1,1278 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 257,
+ "printed_page": 251,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/divisions/states, columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 3852,
+   "males": 2617,
+   "females": 1235
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 3615,
+   "males": 2500,
+   "females": 1115
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 1155,
+   "males": 759,
+   "females": 396
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 331,
+   "males": 218,
+   "females": 113
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 525,
+   "males": 398,
+   "females": 127
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 229,
+   "males": 103,
+   "females": 126
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 33,
+   "males": 19,
+   "females": 14
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 37,
+   "males": 21,
+   "females": 16
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 2410,
+   "males": 1710,
+   "females": 700
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 28,
+   "males": 21,
+   "females": 7
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 281,
+   "males": 204,
+   "females": 77
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 354,
+   "males": 244,
+   "females": 110
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 170,
+   "males": 112,
+   "females": 58
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 567,
+   "males": 373,
+   "females": 194
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 1000,
+   "males": 753,
+   "females": 247
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 10,
+   "males": 3,
+   "females": 7
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 46,
+   "males": 27,
+   "females": 19
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 31,
+   "males": 16,
+   "females": 15
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    296,
+    297,
+    298
+   ],
+   "persons": 206,
+   "males": 101,
+   "females": 105
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 1844,
+   "males": 1210,
+   "females": 634
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 1629,
+   "males": 1041,
+   "females": 588
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 328,
+   "males": 242,
+   "females": 86
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 51,
+   "males": 42,
+   "females": 9
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 177,
+   "males": 130,
+   "females": 47
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 41,
+   "males": 32,
+   "females": 9
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 13,
+   "males": 10,
+   "females": 3
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 46,
+   "males": 28,
+   "females": 18
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 1189,
+   "males": 736,
+   "females": 453
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 198,
+   "males": 128,
+   "females": 70
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 52,
+   "males": 32,
+   "females": 20
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 227,
+   "males": 147,
+   "females": 80
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 55,
+   "males": 35,
+   "females": 20
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 350,
+   "males": 211,
+   "females": 139
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 294,
+   "males": 174,
+   "females": 120
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 13,
+   "males": 9,
+   "females": 4
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 85,
+   "males": 48,
+   "females": 37
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 27,
+   "males": 15,
+   "females": 12
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 60,
+   "males": 36,
+   "females": 24
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Others",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    299,
+    300,
+    301
+   ],
+   "persons": 155,
+   "males": 133,
+   "females": 22
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhili",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 269,
+   "females": 179
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 47,
+   "females": 23
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Garhwali",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 58,
+   "females": 18
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Goanese",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 4,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 82,
+   "females": 50
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 2,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Khambu",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 18,
+   "females": 24
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 86,
+   "females": 26
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 4,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Murmi",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 16,
+   "females": 12
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Newari",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 104,
+   "females": 72
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Palaung",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 32,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rai",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 147,
+   "females": 91
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": "?",
+   "females": 1
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tashon",
+   "lang_path": [
+    "Others",
+    "A.-Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 14,
+   "females": 12
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Others",
+    "B.-Vernaculars of Asia (beyond India)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 67,
+   "females": 15
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "lang_path": [
+    "Others",
+    "B.-Vernaculars of Asia (beyond India)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 7,
+   "females": 7
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Others",
+    "B.-Vernaculars of Asia (beyond India)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 215,
+   "females": 53
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Turkish",
+   "lang_path": [
+    "Others",
+    "B.-Vernaculars of Asia (beyond India)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 0,
+   "females": 1
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malay",
+   "lang_path": [
+    "Others",
+    "B.-Vernaculars of Asia (beyond India)"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 4,
+   "females": 7
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danish",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "German",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 84,
+   "females": 11
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Norwegian",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 0,
+   "females": 1
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Polish",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 2,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portugese",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Spanish",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 6,
+   "females": 0
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Swedish",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 5,
+   "females": 6
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Welsh",
+   "lang_path": [
+    "Others",
+    "C.-European languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 13,
+   "females": 18
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Details of others, Sindhi males: '1?' (second digit broken, 6 or 8)"
+ ],
+ "notes": "Last page of Table XV Part I (concld.). 'Others' (cols 299-301) has no group header; its 'Details of others' column gives Males+Females for the province (ASSAM) for each minor language, recorded here as ASSAM records with persons null, lang_path ['Others', <group as printed>], cols []. Others, ASSAM Males: italic figure reads 1,210 (italic 2; 1,844 - 634 = 1,210 and 1,041 + 36 + 133 = 1,210). Others, (1) British Territory Persons italic reads 1,629 (sum of divisions and tracts). DISCREPANCY: the Details of others males add to 1,310, not the printed 1,210 total (females add to 634, which matches); kept as printed. Details: Khambu females first digit and Persian females first digit are partly broken (read 24 and 53; female details then total exactly 634). Sindhi males second digit is broken and could be 6 or 8: recorded '?'."
+}

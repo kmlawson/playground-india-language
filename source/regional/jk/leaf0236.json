@@ -1,0 +1,1459 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 236,
+ "printed_page": 226,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kandiali",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 67,
+   "males": 44,
+   "females": 23
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kandiali",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kandiali",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kandiali",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 65,
+   "males": 42,
+   "females": 23
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kandiali",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Punjabi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 65,
+   "males": 42,
+   "females": 23
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 317762,
+   "males": 170528,
+   "females": 147234
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 208933,
+   "males": 111482,
+   "females": 97451
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 45380,
+   "males": 24046,
+   "females": 21334
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11286,
+   "males": 6679,
+   "females": 4607
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 22895,
+   "males": 11411,
+   "females": 11484
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 70686,
+   "males": 37512,
+   "females": 33174
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9747,
+   "males": 5175,
+   "females": 4572
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 48426,
+   "males": 26402,
+   "females": 22024
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 513,
+   "males": 257,
+   "females": 256
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 107849,
+   "males": 58448,
+   "females": 49401
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 31458,
+   "males": 16891,
+   "females": 14567
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 28445,
+   "males": 15861,
+   "females": 12584
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 47946,
+   "males": 25696,
+   "females": 22250
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 980,
+   "males": 598,
+   "females": 382
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 445,
+   "males": 247,
+   "females": 198
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Gojari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 535,
+   "males": 351,
+   "females": 184
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 633036,
+   "males": 326705,
+   "females": 306331
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 454616,
+   "males": 232166,
+   "females": 222450
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 391,
+   "males": 307,
+   "females": 84
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 10889,
+   "males": 5485,
+   "females": 5404
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 39689,
+   "males": 20180,
+   "females": 19509
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 72630,
+   "males": 38245,
+   "females": 34385
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 15244,
+   "males": 7922,
+   "females": 7322
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 313915,
+   "males": 159037,
+   "females": 154878
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1858,
+   "males": 990,
+   "females": 868
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 178292,
+   "males": 94411,
+   "females": 83881
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 4178,
+   "males": 2210,
+   "females": 1968
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 10266,
+   "males": 5442,
+   "females": 4824
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 163848,
+   "males": 86759,
+   "females": 77089
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 128,
+   "males": 128,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Western Pahari (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 127,
+   "males": 127,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 595754,
+   "males": 307989,
+   "females": 287765
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 417363,
+   "males": 213471,
+   "females": 203892
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 211,
+   "males": 151,
+   "females": 60
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7234,
+   "males": 3817,
+   "females": 3417
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 6520,
+   "males": 3481,
+   "females": 3039
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 72556,
+   "males": 38176,
+   "females": 34380
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15209,
+   "males": 7890,
+   "females": 7319
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 313912,
+   "males": 159037,
+   "females": 154875
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1721,
+   "males": 919,
+   "females": 802
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 178264,
+   "males": 94391,
+   "females": 83873
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4167,
+   "males": 2201,
+   "females": 1966
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10266,
+   "males": 5442,
+   "females": 4824
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 163831,
+   "males": 86748,
+   "females": 77083
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 127,
+   "males": 127,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pahari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 126,
+   "males": 126,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 20357,
+   "males": 10016,
+   "females": 10341
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 20328,
+   "males": 9995,
+   "females": 10333
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 161,
+   "males": 137,
+   "females": 24
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 147,
+   "males": 145,
+   "females": 2
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 19899,
+   "males": 9606,
+   "females": 10293
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 74,
+   "males": 69,
+   "females": 5
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 35,
+   "males": 32,
+   "females": 3
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 6,
+   "females": 3
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 28,
+   "males": 20,
+   "females": 8
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 9,
+   "females": 2
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 17,
+   "males": 11,
+   "females": 6
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Bhadarwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. 'Central Group' rule spans Punjabi (concluded: Kandiali) and Rajasthani (Gojari). Western Pahari 'Total' recorded as 'Western Pahari (Total)', lang_is_total=true; it covers Pahari and Bhadarwahi here plus Gaddi, Padari, Sarori on leaf 237 (Western Pahari concluded) - with those it reconciles in every row."
+}

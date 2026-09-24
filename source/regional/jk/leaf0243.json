@@ -1,0 +1,887 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 243,
+ "printed_page": 233,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pangwali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18,
+   "males": 7,
+   "females": 11
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pangwali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18,
+   "males": 7,
+   "females": 11
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pangwali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Pahari Group",
+    "Western Pahari"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18,
+   "males": 7,
+   "females": 11
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Balochi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Balochi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Balochi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Balochi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3354,
+   "males": 1967,
+   "females": 1387
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 406,
+   "males": 309,
+   "females": 97
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 198,
+   "males": 126,
+   "females": 72
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 19,
+   "males": 19,
+   "females": null
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 16,
+   "males": 10,
+   "females": 6
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 117,
+   "males": 109,
+   "females": 8
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 40,
+   "males": 33,
+   "females": 7
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2100,
+   "males": 1123,
+   "females": 977
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1306,
+   "males": 697,
+   "females": 609
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 580,
+   "males": 295,
+   "females": 285
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 214,
+   "males": 131,
+   "females": 83
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 848,
+   "males": 535,
+   "females": 313
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 205,
+   "males": 145,
+   "females": 60
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pashto",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 640,
+   "males": 388,
+   "females": 252
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yagisthani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 33,
+   "males": 32,
+   "females": 1
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Yagisthani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 33,
+   "males": 32,
+   "females": 1
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Yagisthani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 29,
+   "males": 29,
+   "females": null
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Yagisthani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pathani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pathani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pathani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Peshawari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Peshawari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Peshawari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 8,
+   "females": 7
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Afgani",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Eranian Branch",
+    "Eastern Group",
+    "Afghanistan—Balochistan Sub-Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. Pangwali is headed 'Indo-Aryan Branch / Inner Sub-Branch / Pahari Group / (Western Pahari)' — last Western Pahari column (Total on leaf 242). No Eranian-branch total column printed on this leaf. Afgani: Kashmir Province (7/3/4) = Kashmir South 3/2/1 + Muzaffarabad 4/1/3; Kashmir North nil."
+}

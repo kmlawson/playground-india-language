@@ -1,0 +1,2781 @@
+{
+ "key": "bihar_orissa",
+ "identifier": "in.ernet.dli.2015.56027",
+ "leaf": 123,
+ "printed_page": 117,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read (scan is landscape page turned sideways)",
+ "layout": "rows = province, British Territory, divisions and districts, Feudatory States (Orissa States, Chota Nagpur States); columns = mother tongues x Persons/Males/Females with printed column numbers. The table continues across leaves 120-124 (printed pages 114-118), with the same 31 rows on every page.",
+ "records": [
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 6270,
+   "males": 3058,
+   "females": 3212
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 1135,
+   "males": 551,
+   "females": 584
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 138,
+   "males": 68,
+   "females": 70
+  },
+  {
+   "area": "Angul",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 138,
+   "males": 68,
+   "females": 70
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 997,
+   "males": 483,
+   "females": 514
+  },
+  {
+   "area": "Hazaribagh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Palamau",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 995,
+   "males": 481,
+   "females": 514
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 5135,
+   "males": 2507,
+   "females": 2628
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    62,
+    63,
+    64
+   ],
+   "persons": 5135,
+   "males": 2507,
+   "females": 2628
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 133682,
+   "males": 64850,
+   "females": 68832
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 49163,
+   "males": 23753,
+   "females": 25410
+  },
+  {
+   "area": "Patna Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Gaya",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Shahabad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 49153,
+   "males": 23748,
+   "females": 25405
+  },
+  {
+   "area": "Cuttack",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 30,
+   "males": 30,
+   "females": null
+  },
+  {
+   "area": "Angul",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 49114,
+   "males": 23711,
+   "females": 25403
+  },
+  {
+   "area": "Sambalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 9,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 84519,
+   "males": 41097,
+   "females": 43422
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Kandhi (Kui)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    65,
+    66,
+    67
+   ],
+   "persons": 84519,
+   "males": 41097,
+   "females": 43422
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 67451,
+   "males": 33505,
+   "females": 33946
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 67403,
+   "males": 33484,
+   "females": 33919
+  },
+  {
+   "area": "Bhagalpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 67403,
+   "males": 33484,
+   "females": 33919
+  },
+  {
+   "area": "Bhagalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 187,
+   "males": 92,
+   "females": 95
+  },
+  {
+   "area": "Purnea",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 164,
+   "males": 73,
+   "females": 91
+  },
+  {
+   "area": "Santal Parganas",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 67052,
+   "males": 33319,
+   "females": 33733
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 48,
+   "males": 21,
+   "females": 27
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Malto",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    68,
+    69,
+    70
+   ],
+   "persons": 48,
+   "males": 21,
+   "females": 27
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 656188,
+   "males": 318478,
+   "females": 337710
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 517015,
+   "males": 250052,
+   "females": 266963
+  },
+  {
+   "area": "Patna Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 611,
+   "males": 343,
+   "females": 268
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 23,
+   "males": 15,
+   "females": 8
+  },
+  {
+   "area": "Shahabad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 588,
+   "males": 328,
+   "females": 260
+  },
+  {
+   "area": "Tirhut Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 5511,
+   "males": 2598,
+   "females": 2913
+  },
+  {
+   "area": "Champaran",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 5511,
+   "males": 2598,
+   "females": 2913
+  },
+  {
+   "area": "Bhagalpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 20090,
+   "males": 9813,
+   "females": 10277
+  },
+  {
+   "area": "Bhagalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 345,
+   "males": 141,
+   "females": 204
+  },
+  {
+   "area": "Purnea",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 13983,
+   "males": 6834,
+   "females": 7149
+  },
+  {
+   "area": "Santal Parganas",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 5762,
+   "males": 2838,
+   "females": 2924
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 43372,
+   "males": 21054,
+   "females": 22318
+  },
+  {
+   "area": "Cuttack",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 114,
+   "males": 98,
+   "females": 16
+  },
+  {
+   "area": "Balasore",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 484,
+   "males": 255,
+   "females": 229
+  },
+  {
+   "area": "Angul",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 1402,
+   "males": 640,
+   "females": 762
+  },
+  {
+   "area": "Sambalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 41372,
+   "males": 20061,
+   "females": 21311
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 447431,
+   "males": 216244,
+   "females": 231187
+  },
+  {
+   "area": "Hazaribagh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 4108,
+   "males": 2092,
+   "females": 2016
+  },
+  {
+   "area": "Ranchi",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 375318,
+   "males": 179449,
+   "females": 195869
+  },
+  {
+   "area": "Palamau",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 56947,
+   "males": 29163,
+   "females": 27784
+  },
+  {
+   "area": "Manbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 946,
+   "males": 518,
+   "females": 428
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 10112,
+   "males": 5022,
+   "females": 5090
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 139173,
+   "males": 68426,
+   "females": 70747
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 138138,
+   "males": 67935,
+   "females": 70203
+  },
+  {
+   "area": "Chota Nagpur States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Oraon (Kurukh)",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    71,
+    72,
+    73
+   ],
+   "persons": 1035,
+   "males": 491,
+   "females": 544
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 3269,
+   "males": 1952,
+   "females": 1317
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 3219,
+   "males": 1930,
+   "females": 1289
+  },
+  {
+   "area": "Patna Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 50,
+   "males": 41,
+   "females": 9
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 38,
+   "males": 29,
+   "females": 9
+  },
+  {
+   "area": "Gaya",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 5,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Shahabad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Tirhut Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 23,
+   "males": 18,
+   "females": 5
+  },
+  {
+   "area": "Saran",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Champaran",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Muzaffarpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Darbhanga",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 11,
+   "males": 8,
+   "females": 3
+  },
+  {
+   "area": "Bhagalpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Monghyr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "Purnea",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Santal Parganas",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 140,
+   "males": 75,
+   "females": 65
+  },
+  {
+   "area": "Cuttack",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 39,
+   "males": 24,
+   "females": 15
+  },
+  {
+   "area": "Puri",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 63,
+   "males": 35,
+   "females": 28
+  },
+  {
+   "area": "Sambalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 38,
+   "males": 16,
+   "females": 22
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 2994,
+   "males": 1789,
+   "females": 1205
+  },
+  {
+   "area": "Hazaribagh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 329,
+   "males": 206,
+   "females": 123
+  },
+  {
+   "area": "Ranchi",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 29,
+   "males": 11,
+   "females": 18
+  },
+  {
+   "area": "Manbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 525,
+   "males": 319,
+   "females": 206
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 2111,
+   "males": 1253,
+   "females": 858
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 50,
+   "males": 22,
+   "females": 28
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 25,
+   "males": 8,
+   "females": 17
+  },
+  {
+   "area": "Chota Nagpur States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    74,
+    75,
+    76
+   ],
+   "persons": 25,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 29512,
+   "males": 15360,
+   "females": 14152
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 22107,
+   "males": 11721,
+   "females": 10386
+  },
+  {
+   "area": "Patna Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 32,
+   "males": 16,
+   "females": 16
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 16,
+   "males": 11,
+   "females": 5
+  },
+  {
+   "area": "Gaya",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 16,
+   "males": 5,
+   "females": 11
+  },
+  {
+   "area": "Tirhut Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Champaran",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Darbhanga",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Bhagalpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 25,
+   "males": 17,
+   "females": 8
+  },
+  {
+   "area": "Monghyr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 12,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Bhagalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 13,
+   "males": 9,
+   "females": 1
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 14855,
+   "males": 7688,
+   "females": 7167
+  },
+  {
+   "area": "Cuttack",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 4891,
+   "males": 2575,
+   "females": 2316
+  },
+  {
+   "area": "Balasore",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 1356,
+   "males": 727,
+   "females": 629
+  },
+  {
+   "area": "Angul",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 162,
+   "males": 63,
+   "females": 99
+  },
+  {
+   "area": "Puri",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 7806,
+   "males": 4014,
+   "females": 3792
+  },
+  {
+   "area": "Sambalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 640,
+   "males": 309,
+   "females": 331
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 7186,
+   "males": 3991,
+   "females": 3195
+  },
+  {
+   "area": "Hazaribagh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 39,
+   "males": 27,
+   "females": 12
+  },
+  {
+   "area": "Ranchi",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 44,
+   "males": 32,
+   "females": 12
+  },
+  {
+   "area": "Palamau",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Manbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 1332,
+   "males": 717,
+   "females": 615
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 5769,
+   "males": 3213,
+   "females": 2556
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 7405,
+   "males": 3639,
+   "females": 3766
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 7269,
+   "males": 3556,
+   "females": 3713
+  },
+  {
+   "area": "Chota Nagpur States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    77,
+    78,
+    79
+   ],
+   "persons": 136,
+   "males": 83,
+   "females": 53
+  },
+  {
+   "area": "Bihar and Orissa",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 765,
+   "males": 532,
+   "females": 233
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 450,
+   "males": 364,
+   "females": 86
+  },
+  {
+   "area": "Patna Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Gaya",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Patna Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Tirhut Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Darbhanga",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Tirhut Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Bhagalpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Purnea",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Bhagalpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Orissa Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 31,
+   "males": 29,
+   "females": 2
+  },
+  {
+   "area": "Cuttack",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 25,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Puri",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Sambalpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Chota Nagpur Division",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 407,
+   "males": 326,
+   "females": 81
+  },
+  {
+   "area": "Hazaribagh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 9,
+   "males": 4,
+   "females": 5
+  },
+  {
+   "area": "Ranchi",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Palamau",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Manbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Singhbhum",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 393,
+   "males": 319,
+   "females": 74
+  },
+  {
+   "area": "Feudatory States",
+   "area_path": [
+    "Bihar and Orissa"
+   ],
+   "area_is_total": true,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 315,
+   "males": 168,
+   "females": 147
+  },
+  {
+   "area": "Orissa States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 314,
+   "males": 167,
+   "females": 147
+  },
+  {
+   "area": "Chota Nagpur States",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "area_is_total": false,
+   "language": "Other Dravidian Languages",
+   "lang_path": [
+    "Dravidian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    80,
+    81,
+    82
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Light-face 2/3 and 0/9 ambiguity as on the other leaves; resolved by P=M+F and area totals:\nOraon (Kurukh) Hazaribagh: Males reads like '2,093', recorded 2,092 (P=M+F and Chota Nagpur Division M total 216,244 both need 2,092).\nOther Dravidian Languages, BIHAR AND ORISSA Females (italic): reads like '333', first digit italic 2/3 ambiguous; recorded 233 (P-M = 233; British 86 + Feudatory 147 = 233).\nPRINT/SCAN INCONSISTENCY Telugu Monghyr and Bhagalpur: Females clearly show '1' in both rows (12 / 8 / 1 and 13 / 9 / 1), but P-M = 4 in each and the Bhagalpur Division F total is 8 (= 4 + 4). Kept as seen (1); the digit may be a 4 whose bar/diagonal failed to print.\nSeveral nil cells have faint or missing dots; treated as nil.\nThe population cross-check backs up 4: the sum of all mother tongues for Monghyr and Bhagalpur is 3 short of the printed Females population in both rows, unless Telugu F = 4."
+}

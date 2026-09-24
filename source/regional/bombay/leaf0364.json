@@ -1,0 +1,3626 @@
+{
+ "key": "bombay",
+ "identifier": "in.ernet.dli.2015.56029",
+ "leaf": 364,
+ "printed_page": 360,
+ "table": "XV Part I",
+ "orientation": "upright (deskewed working copy)",
+ "layout": "rows = 73 serial areas (Presidency, British Districts, Bombay City, divisions, districts, Bombay States and Agencies, agencies, states); columns = languages x Persons/Males/Females. No printed column numbers. Row labels printed only on left (even) pages; right pages share rows of the facing page.",
+ "records": [
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 26271784,
+   "males": 13761507,
+   "females": 12510277
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 26172477,
+   "males": 13698860,
+   "females": 12473617
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3197417,
+   "males": 1636315,
+   "females": 1561102
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 21803388,
+   "males": 11472884,
+   "females": 10330504
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 21704930,
+   "males": 11410755,
+   "females": 10294175
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2598328,
+   "males": 1331209,
+   "females": 1267119
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1161383,
+   "males": 747381,
+   "females": 414002
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1119069,
+   "males": 720043,
+   "females": 399026
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 8300,
+   "males": 5577,
+   "females": 2723
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 3984617,
+   "males": 2082952,
+   "females": 1901665
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 3980293,
+   "males": 2080034,
+   "females": 1900259
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1267,
+   "males": 736,
+   "females": 531
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 924033,
+   "males": 497516,
+   "females": 426517
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 923135,
+   "males": 496926,
+   "females": 426209
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 212,
+   "males": 107,
+   "females": 105
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 334170,
+   "males": 174894,
+   "females": 159276
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 334100,
+   "males": 174845,
+   "females": 159255
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 741650,
+   "males": 395104,
+   "females": 346546
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 741457,
+   "males": 394999,
+   "females": 346458
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 11,
+   "males": 9,
+   "females": 2
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 454526,
+   "males": 236622,
+   "females": 217904
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 454211,
+   "males": 236397,
+   "females": 217814
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 46,
+   "males": 24,
+   "females": 22
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 693613,
+   "males": 348283,
+   "females": 345330
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 692121,
+   "males": 347112,
+   "females": 345009
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 330,
+   "males": 156,
+   "females": 174
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 836625,
+   "males": 430533,
+   "females": 406092
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 835269,
+   "males": 429755,
+   "females": 405514
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 668,
+   "males": 440,
+   "females": 228
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 7372637,
+   "males": 3764586,
+   "females": 3608051
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 7344791,
+   "males": 3748111,
+   "females": 3596680
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 86682,
+   "males": 45712,
+   "females": 40970
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 988206,
+   "males": 501186,
+   "females": 487020
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 986714,
+   "males": 499975,
+   "females": 486739
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1117,
+   "males": 605,
+   "females": 512
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1206035,
+   "males": 612693,
+   "females": 593342
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1204044,
+   "males": 611365,
+   "females": 592679
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 659,
+   "males": 320,
+   "females": 339
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 771794,
+   "males": 391800,
+   "females": 379994
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 767536,
+   "males": 389570,
+   "females": 377966
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 702,
+   "males": 406,
+   "females": 296
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1000048,
+   "males": 508865,
+   "females": 491183
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 997441,
+   "males": 507194,
+   "females": 490247
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 753,
+   "males": 445,
+   "females": 308
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1169798,
+   "males": 601013,
+   "females": 568785
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1160620,
+   "males": 595412,
+   "females": 565208
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4457,
+   "males": 2672,
+   "females": 1785
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1179712,
+   "males": 592303,
+   "females": 587409
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1179308,
+   "males": 592135,
+   "females": 587173
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 13652,
+   "males": 6944,
+   "females": 6708
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 877520,
+   "males": 453509,
+   "females": 424011
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 877073,
+   "males": 453217,
+   "females": 423856
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 63352,
+   "males": 33134,
+   "females": 30218
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 179524,
+   "males": 103217,
+   "females": 76307
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 172055,
+   "males": 99243,
+   "females": 72812
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1990,
+   "males": 1186,
+   "females": 804
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 5397681,
+   "males": 2697011,
+   "females": 2700670
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 5393036,
+   "males": 2694332,
+   "females": 2698704
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2502072,
+   "males": 1279180,
+   "females": 1222892
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1076701,
+   "males": 552380,
+   "females": 524321
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1075834,
+   "males": 551860,
+   "females": 523974
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 695600,
+   "males": 356130,
+   "females": 339470
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 869220,
+   "males": 440579,
+   "females": 428641
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 869181,
+   "males": 440552,
+   "females": 428629
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 712229,
+   "males": 360888,
+   "females": 351341
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1102677,
+   "males": 565641,
+   "females": 537036
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1101631,
+   "males": 565091,
+   "females": 536540
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 863924,
+   "males": 441963,
+   "females": 421961
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 417835,
+   "males": 214085,
+   "females": 203750
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 417685,
+   "males": 214049,
+   "females": 203636
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 229566,
+   "males": 119754,
+   "females": 109812
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 628721,
+   "males": 315017,
+   "females": 313704
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 627413,
+   "males": 314311,
+   "females": 313102
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 231,
+   "males": 125,
+   "females": 106
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1302527,
+   "males": 609309,
+   "females": 693218
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1301292,
+   "males": 608469,
+   "females": 692823
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 522,
+   "males": 320,
+   "females": 202
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 3887070,
+   "males": 2180954,
+   "females": 1706116
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 3867741,
+   "males": 2168235,
+   "females": 1699506
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 662924,
+   "males": 371788,
+   "females": 291136
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 662427,
+   "males": 371457,
+   "females": 290970
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 650240,
+   "males": 369873,
+   "females": 280367
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 633218,
+   "males": 358760,
+   "females": 274458
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 693735,
+   "males": 385705,
+   "females": 308030
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 693650,
+   "males": 385645,
+   "females": 308005
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 496612,
+   "males": 279032,
+   "females": 217580
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 496522,
+   "males": 278975,
+   "females": 217547
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 623779,
+   "males": 349312,
+   "females": 274467
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 622300,
+   "males": 348263,
+   "females": 274037
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 468040,
+   "males": 261945,
+   "females": 206095
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 467977,
+   "males": 261899,
+   "females": 206078
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 291740,
+   "males": 163299,
+   "females": 128441
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 291647,
+   "males": 163236,
+   "females": 128411
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 4468396,
+   "males": 2288623,
+   "females": 2179773
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 4467547,
+   "males": 2288105,
+   "females": 2179442
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 599089,
+   "males": 305106,
+   "females": 293983
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 87761,
+   "males": 46851,
+   "females": 40910
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 87754,
+   "males": 46848,
+   "females": 40906
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 518164,
+   "males": 263398,
+   "females": 254766
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 518142,
+   "males": 263385,
+   "females": 254757
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 37,
+   "males": 20,
+   "females": 17
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 262660,
+   "males": 131927,
+   "females": 130733
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 262654,
+   "males": 131924,
+   "females": 130730
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 255504,
+   "males": 131471,
+   "females": 124033
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 255488,
+   "males": 131461,
+   "females": 124027
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 3,
+   "males": 20,
+   "females": 17
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 888086,
+   "males": 459133,
+   "females": 428953
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 887892,
+   "males": 458999,
+   "females": 428893
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 206114,
+   "males": 106445,
+   "females": 99669
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 206054,
+   "males": 106405,
+   "females": 99649
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 144640,
+   "males": 75109,
+   "females": 69531
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 144591,
+   "males": 75075,
+   "females": 69516
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 159429,
+   "males": 81522,
+   "females": 77907
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 159380,
+   "males": 81490,
+   "females": 77890
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 95162,
+   "males": 49238,
+   "females": 45924
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 95145,
+   "males": 49226,
+   "females": 45919
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 52525,
+   "males": 27383,
+   "females": 25142
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 52523,
+   "males": 27381,
+   "females": 25142
+  },
+  {
+   "area": "(vi) Santh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 46,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 83531,
+   "males": 42822,
+   "females": 40709
+  },
+  {
+   "area": "(vi) Santh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 46,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 83517,
+   "males": 42811,
+   "females": 40706
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 59139,
+   "males": 30642,
+   "females": 28497
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 59137,
+   "males": 30640,
+   "females": 28497
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 87546,
+   "males": 45972,
+   "females": 41574
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 87545,
+   "males": 45971,
+   "females": 41574
+  },
+  {
+   "area": "Jawhar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 49,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 57261,
+   "males": 29502,
+   "females": 27759
+  },
+  {
+   "area": "Jawhar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 49,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 57261,
+   "males": 29502,
+   "females": 27759
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 98296,
+   "males": 46756,
+   "females": 51540
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 98201,
+   "males": 46711,
+   "females": 51490
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 23,
+   "males": 22,
+   "females": 1
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 141546,
+   "males": 70122,
+   "females": 71424
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 141451,
+   "males": 70073,
+   "females": 71378
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 16,
+   "males": 9,
+   "females": 7
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 76507,
+   "males": 39661,
+   "females": 36846
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 76505,
+   "males": 39659,
+   "females": 36846
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 6547,
+   "males": 3227,
+   "females": 3320
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 58761,
+   "males": 29492,
+   "females": 29269
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 58757,
+   "males": 29488,
+   "females": 29269
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 52,
+   "males": 30,
+   "females": 22
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 92605,
+   "males": 48095,
+   "females": 44510
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 92597,
+   "males": 48088,
+   "females": 44509
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 50003,
+   "males": 26107,
+   "females": 23896
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 230589,
+   "males": 110962,
+   "females": 119627
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 230581,
+   "males": 110957,
+   "females": 119624
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 188,
+   "males": 113,
+   "females": 75
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 957137,
+   "males": 490336,
+   "females": 466801
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 957064,
+   "males": 490292,
+   "females": 466772
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 147018,
+   "males": 74997,
+   "females": 72021
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 44204,
+   "males": 22342,
+   "females": 21862
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 44202,
+   "males": 22341,
+   "females": 21861
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 17732,
+   "males": 9032,
+   "females": 8700
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 39583,
+   "males": 19967,
+   "females": 19616
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 39540,
+   "males": 19939,
+   "females": 19601
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 15949,
+   "males": 8691,
+   "females": 7258
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 93938,
+   "males": 48180,
+   "females": 45758
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 93803,
+   "males": 48105,
+   "females": 45698
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 24442,
+   "males": 12512,
+   "females": 11930
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 40684,
+   "males": 20789,
+   "females": 19895
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 40684,
+   "males": 20789,
+   "females": 19895
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 16270,
+   "males": 8355,
+   "females": 7915
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 114270,
+   "males": 57984,
+   "females": 56286
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 114268,
+   "males": 57983,
+   "females": 56285
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 85716,
+   "males": 43427,
+   "females": 42289
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 62832,
+   "males": 31561,
+   "females": 31271
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 62832,
+   "males": 31561,
+   "females": 31271
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 55809,
+   "males": 27952,
+   "females": 27857
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 35454,
+   "males": 17857,
+   "females": 17597
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 35449,
+   "males": 17853,
+   "females": 17596
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 31515,
+   "males": 15764,
+   "females": 15751
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 258442,
+   "males": 131989,
+   "females": 126453
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 258433,
+   "males": 131981,
+   "females": 126452
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 98752,
+   "males": 49663,
+   "females": 49089
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1704,
+   "males": 851,
+   "females": 853
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 1704,
+   "males": 851,
+   "females": 853
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 1322,
+   "males": 661,
+   "females": 661
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 91099,
+   "males": 46735,
+   "females": 44364
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 91098,
+   "males": 46734,
+   "females": 44364
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 35494,
+   "males": 18247,
+   "females": 17247
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 48839,
+   "males": 25513,
+   "females": 23326
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 48794,
+   "males": 25483,
+   "females": 23311
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 112031,
+   "males": 57963,
+   "females": 54068
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 112019,
+   "males": 57954,
+   "females": 54065
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 22107,
+   "males": 10576,
+   "females": 11531
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 22060,
+   "males": 10546,
+   "females": 11514
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 10,
+   "males": 6,
+   "females": 4
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 33748,
+   "males": 18268,
+   "females": 15480
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 33741,
+   "males": 18262,
+   "females": 15479
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 227183,
+   "males": 125054,
+   "females": 102129
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 227152,
+   "males": 125036,
+   "females": 102116
+  },
+  {
+   "area": "Surgana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 72,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 15245,
+   "males": 8235,
+   "females": 7010
+  },
+  {
+   "area": "Surgana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 72,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 15245,
+   "males": 8235,
+   "females": 7010
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 20320,
+   "males": 10451,
+   "females": 9869
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "language": "Total Group A",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": 20318,
+   "males": 10450,
+   "females": 9868
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "language": "Kanarese",
+   "lang_path": [
+    "Group A. Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": 12176,
+   "males": 6259,
+   "females": 5917
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 360 (left page of opening 360-361). Row 40 is printed 'Revakantha Agency' on this page, 'Rewakantha Agency' on the others; normalised to Rewakantha. Row 39 (ii) Rest of the Agency, Mahikantha, Kanarese: printed persons '3' (zoomed, clearly a single digit) with males 20, females 17; Mahikantha total 37/20/17 and Idar nil, and the Group A total across all Indian-language columns for row 39 falls short by exactly 34, so the print has dropped a '7' (true persons 37). Kept as printed. Population and Total Group A columns recorded with lang_is_total=true. All other area and P=M+F checks pass; Population = Group A+B+C+D for every row and sex."
+}

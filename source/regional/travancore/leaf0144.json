@@ -1,0 +1,2984 @@
+{
+ "key": "travancore",
+ "identifier": "in.ernet.dli.2015.105681",
+ "leaf": 144,
+ "printed_page": 134,
+ "table": "XV Part I",
+ "heading": "TABLE XV—Part I—Language",
+ "orientation": "upright",
+ "layout": "rows = languages (A Vernaculars of India, B Asiatic, C European), columns = State / administrative divisions / natural divisions x Persons, Males, Females",
+ "records": [
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Total (all languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5095973,
+   "males": 2565073,
+   "females": 2530900
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "A.—Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5091006,
+   "males": 2562273,
+   "females": 2528733
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "(a) Vernaculars of the State",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5049315,
+   "males": 2540447,
+   "females": 2508868
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5049315,
+   "males": 2540447,
+   "females": 2508868
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5049315,
+   "males": 2540447,
+   "females": 2508868
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 4260860,
+   "males": 2139812,
+   "females": 2121048
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 788455,
+   "males": 400635,
+   "females": 387820
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "(b) Other Vernaculars of India",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 41691,
+   "males": 21826,
+   "females": 19865
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 15008,
+   "males": 8143,
+   "females": 6865
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5153,
+   "males": 3010,
+   "females": 2143
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1957,
+   "males": 1147,
+   "females": 810
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Tulu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3196,
+   "males": 1863,
+   "females": 1333
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Āndhra Language",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9855,
+   "males": 5133,
+   "females": 4722
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Āndhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 9855,
+   "males": 5133,
+   "females": 4722
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 26683,
+   "males": 13683,
+   "females": 13000
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 26683,
+   "males": 13683,
+   "females": 13000
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Sanskrit",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 23,
+   "males": 19,
+   "females": 4
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Sindhī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 247,
+   "males": 116,
+   "females": 131
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Marāthī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7054,
+   "males": 3520,
+   "females": 3534
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 12175,
+   "males": 6122,
+   "females": 6053
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 167,
+   "males": 163,
+   "females": 4
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Western Hindī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 4552,
+   "males": 2426,
+   "females": 2126
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Gujarātī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2275,
+   "males": 1175,
+   "females": 1100
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Punjābī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 76,
+   "males": 64,
+   "females": 12
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Naipālī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Language not returned",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 113,
+   "males": 77,
+   "females": 36
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "B.—Vernaculars of Asiatic Countries other than India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3596,
+   "males": 1993,
+   "females": 1603
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 94,
+   "males": 71,
+   "females": 23
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Singhalese",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 54,
+   "males": 31,
+   "females": 23
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Indo-European Family",
+    "Eranian Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 40,
+   "males": 40,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Tibeto-Chinese Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Tibeto-Chinese Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3499,
+   "males": 1919,
+   "females": 1580
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3458,
+   "males": 1891,
+   "females": 1567
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 39,
+   "males": 26,
+   "females": 13
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Syriac",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "C.—European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1371,
+   "males": 807,
+   "females": 564
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "C.—European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1371,
+   "males": 807,
+   "females": 564
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Romance Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 119,
+   "males": 85,
+   "females": 34
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Spanish",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 22,
+   "males": 22,
+   "females": null
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 88,
+   "males": 54,
+   "females": 34
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Celtic Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Gaelic (Scotch)",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Teutonic Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1249,
+   "males": 720,
+   "females": 529
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1199,
+   "males": 704,
+   "females": 495
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Flemish",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14,
+   "males": 12,
+   "females": 2
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "Norwegian",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "State",
+   "area_path": [
+    "Travancore State"
+   ],
+   "area_is_total": true,
+   "language": "German",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 34,
+   "males": 3,
+   "females": 31
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Total (all languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1433956,
+   "males": 717486,
+   "females": 716470
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "A.—Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1433037,
+   "males": 717025,
+   "females": 716012
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "(a) Vernaculars of the State",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1423941,
+   "males": 712259,
+   "females": 711682
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1423941,
+   "males": 712259,
+   "females": 711682
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1423941,
+   "males": 712259,
+   "females": 711682
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 844648,
+   "males": 421280,
+   "females": 423368
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 579293,
+   "males": 290979,
+   "females": 288314
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "(b) Other Vernaculars of India",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 9096,
+   "males": 4766,
+   "females": 4330
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4494,
+   "males": 2350,
+   "females": 2144
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1789,
+   "males": 1034,
+   "females": 755
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 521,
+   "males": 296,
+   "females": 225
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Tulu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1268,
+   "males": 738,
+   "females": 530
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Āndhra Language",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2705,
+   "males": 1316,
+   "females": 1389
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Āndhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2705,
+   "males": 1316,
+   "females": 1389
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4602,
+   "males": 2416,
+   "females": 2186
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4602,
+   "males": 2416,
+   "females": 2186
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Sanskrit",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Sindhī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28,
+   "males": 19,
+   "females": 9
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Marāthī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 364,
+   "males": 255,
+   "females": 109
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 275,
+   "males": 116,
+   "females": 159
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2446,
+   "males": 1264,
+   "females": 1182
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Gujarātī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1337,
+   "males": 651,
+   "females": 686
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Punjābī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 68,
+   "males": 59,
+   "females": 9
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Language not returned",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 73,
+   "males": 43,
+   "females": 30
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "B.—Vernaculars of Asiatic Countries other than India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 551,
+   "males": 293,
+   "females": 258
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 17,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 17,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 534,
+   "males": 287,
+   "females": 247
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 534,
+   "males": 287,
+   "females": 247
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "C.—European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 368,
+   "males": 168,
+   "females": 200
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "C.—European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 368,
+   "males": 168,
+   "females": 200
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Romance Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 16,
+   "males": 11,
+   "females": 5
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 14,
+   "males": 9,
+   "females": 5
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Teutonic Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 352,
+   "males": 157,
+   "females": 195
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 328,
+   "males": 147,
+   "females": 181
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Flemish",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 12,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Southern",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 12,
+   "males": null,
+   "females": 12
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Total (all languages)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1861472,
+   "males": 933169,
+   "females": 928303
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "A.—Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1859636,
+   "males": 932116,
+   "females": 927520
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "(a) Vernaculars of the State",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1847227,
+   "males": 925645,
+   "females": 921582
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1847227,
+   "males": 925645,
+   "females": 921582
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1847227,
+   "males": 925645,
+   "females": 921582
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Malayalam",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1748553,
+   "males": 875629,
+   "females": 872924
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Tamil",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(a) Vernaculars of the State",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 98674,
+   "males": 50016,
+   "females": 48658
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "(b) Other Vernaculars of India",
+   "lang_path": [
+    "A.—Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 12409,
+   "males": 6471,
+   "females": 5938
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravidian Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3530,
+   "males": 1851,
+   "females": 1679
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Dravida Group",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 923,
+   "males": 523,
+   "females": 400
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Kanarese",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 319,
+   "males": 176,
+   "females": 143
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Tulu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Dravida Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 604,
+   "males": 347,
+   "females": 257
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Āndhra Language",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2607,
+   "males": 1328,
+   "females": 1279
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Telugu",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Dravidian Family",
+    "Āndhra Language"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2607,
+   "males": 1328,
+   "females": 1279
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 8879,
+   "males": 4620,
+   "females": 4259
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-Aryan Branch",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 8879,
+   "males": 4620,
+   "females": 4259
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Sanskrit",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Sindhī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 217,
+   "males": 95,
+   "females": 122
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Marāthī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 342,
+   "males": 175,
+   "females": 167
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5657,
+   "males": 2801,
+   "females": 2856
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 163,
+   "males": 160,
+   "females": 3
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Western Hindī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1546,
+   "males": 843,
+   "females": 703
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Gujarātī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 922,
+   "males": 514,
+   "females": 408
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Naipālī",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Language not returned",
+   "lang_path": [
+    "A.—Vernaculars of India",
+    "(b) Other Vernaculars of India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 24,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "B.—Vernaculars of Asiatic Countries other than India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1224,
+   "males": 695,
+   "females": 529
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Singhalese",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Indo-European Family",
+    "Indo-Aryan Branch"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Tibeto-Chinese Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Tibeto-Chinese Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Semitic Family",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1214,
+   "males": 689,
+   "females": 525
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "B.—Vernaculars of Asiatic Countries other than India",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1214,
+   "males": 689,
+   "females": 525
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "C.—European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 612,
+   "males": 358,
+   "females": 254
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Indo-European Family",
+   "lang_path": [
+    "C.—European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 612,
+   "males": 358,
+   "females": 254
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Romance Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 40,
+   "males": 26,
+   "females": 14
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 34,
+   "males": 20,
+   "females": 14
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Celtic Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Gaelic (Scotch)",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Celtic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Teutonic Group",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 570,
+   "males": 330,
+   "females": 240
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 545,
+   "males": 325,
+   "females": 220
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Flemish",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "Norwegian",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Central",
+   "area_path": [
+    "Travancore State",
+    "Administrative Division"
+   ],
+   "area_is_total": false,
+   "language": "German",
+   "lang_path": [
+    "C.—European Languages",
+    "Indo-European Family",
+    "Teutonic Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 21,
+   "males": 2,
+   "females": 19
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Page 134, first of three pages (leaves 144-146; table complete on these leaves, continued on 145, concluded on 146). Columns: 1 language; 2-4 State; 5-7 Southern; 8-10 Central (Administrative Divisions). Hierarchy/total rows (STATE, A, (a), (b), families, groups, branches) recorded with lang_is_total=true; 'Indo-Aryan Branch' under B and 'Eranian Branch' are printed as sub-headings without figures. 'Language not returned' is printed under the Indo-Aryan Branch of (b) and is included in its total. Some light-inked digits (Central Portuguese males '20', Central English females '220' with damaged last glyph) read and confirmed by printed totals. All P=M+F and all hierarchy totals verified."
+}

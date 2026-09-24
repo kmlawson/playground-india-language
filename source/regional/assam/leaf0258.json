@@ -1,0 +1,1716 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 258,
+ "printed_page": 252,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/states (plus Total), columns = mother tongue (Assamese, Bengali) x [number speaking the mother tongue; subsidiary languages Bengali/Assamese, Tibeto-Burmese, Khasi-Synteng], Males/Females only",
+ "records": [
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1039207,
+   "females": 955357,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1340,
+   "females": 875,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 829,
+   "females": 648,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 175,
+   "females": 108,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 407,
+   "females": 318,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 74,
+   "females": 40,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 83165,
+   "females": 78014,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 331445,
+   "females": 318067,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 102293,
+   "females": 90796,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 121931,
+   "females": 115475,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 266168,
+   "females": 237435,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 122492,
+   "females": 105969,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2910,
+   "females": 2663,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 4551,
+   "females": 3868,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 439,
+   "females": 261,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 87,
+   "females": 38,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": null,
+   "persons": null,
+   "males": 811,
+   "females": 782,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 15084,
+   "females": 5015,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 519,
+   "females": 320,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 447,
+   "females": 303,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 60,
+   "females": 26,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 18,
+   "females": 6,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 15,
+   "females": 10,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 5804,
+   "females": 1875,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 2075,
+   "females": 505,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 669,
+   "females": 150,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 616,
+   "females": 125,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 1009,
+   "females": 243,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 2261,
+   "females": 634,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 1253,
+   "females": 744,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": "?",
+   "females": 17,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 7,
+   "females": 5,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Bengali",
+   "persons": null,
+   "males": 179,
+   "females": 52,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 982,
+   "females": 590,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 1,
+   "females": 9,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 18,
+   "females": 13,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 307,
+   "females": 82,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 267,
+   "females": 227,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 143,
+   "females": 87,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 36,
+   "females": 98,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 13,
+   "females": 1,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 8,
+   "females": 2,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 186,
+   "females": 80,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 42,
+   "females": 7,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 10,
+   "females": 6,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Assamese",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 31,
+   "females": 1,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2087060,
+   "females": 1879303,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 180956,
+   "females": 157816,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1295471,
+   "females": 1214211,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1432,
+   "females": 737,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 378,
+   "females": 149,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 796,
+   "females": 537,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 253726,
+   "females": 222707,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 96770,
+   "females": 73639,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 52552,
+   "females": 42563,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 105353,
+   "females": 87996,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 39296,
+   "females": 34055,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 44354,
+   "females": 33117,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 10996,
+   "females": 9457,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 769,
+   "females": 424,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 275,
+   "females": 180,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1329,
+   "females": 944,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2607,
+   "females": 771,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 25612,
+   "females": 13495,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 16,
+   "females": 5,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 184,
+   "females": 61,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 9,
+   "females": 1,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 74,
+   "females": 20,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 822,
+   "females": 339,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 2954,
+   "females": 927,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 4426,
+   "females": 2272,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 2938,
+   "females": 846,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 9719,
+   "females": 6872,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 4249,
+   "females": 2085,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 7,
+   "females": 3,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 151,
+   "females": 50,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 34,
+   "females": 9,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 3,
+   "females": 1,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Assamese",
+   "persons": null,
+   "males": 26,
+   "females": 5,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 160,
+   "females": 32,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 13,
+   "females": 12,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 17,
+   "females": 1,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 25,
+   "females": 4,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 35,
+   "females": 5,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 50,
+   "females": 4,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Tibeto-Burmese",
+   "persons": null,
+   "males": 16,
+   "females": 5,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Total",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 147,
+   "females": 26,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 53,
+   "females": 16,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 37,
+   "females": 5,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Bengali",
+   "subsidiary": "Khasi-Synteng",
+   "persons": null,
+   "males": 55,
+   "females": 5,
+   "cols": [
+    16,
+    17
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Assamese mother tongue, subsidiary Bengali, Sadiya Frontier Tract, Males (col 4): '5?' - second digit broken (0, 6 or 8)"
+ ],
+ "notes": "Table XV Part II (Bi-lingualism), first page; continues on leaf 259. Records with subsidiary=null are the columns 'Number of persons speaking mother tongue' (cols 2-3, 10-11). Only Males and Females are printed; persons is null. No division/British Territory subtotals are printed; 'Total' row = all areas. Checks: Assamese-speaking Naga Hills Males printed clearly 407 here but 497 in Part I (leaf 249) and the printed Total 1,039,207 (= Part I) requires 497: misprint, kept as printed. Assamese MT / Bengali subsidiary Males: printed Total 15,084 but the legible district figures sum to 14,938 excluding Sadiya ('5?'), implying Sadiya 146 - does not reconcile with the printed '5?' ; kept as printed. Khasi States Females read 52 (last digit faint; 52 makes the column add to 5,015). Assamese MT / Tibeto-Burmese Females: districts add to 599, printed Total 590 (italic, read clearly); kept as printed. Kamrup Males first digit smudged, reads 267 (column then adds to printed 982). Bengali MT / Assamese subsidiary Females: districts add to 13,496, printed Total 13,495 (Sadiya read 50, last digit thin); kept as printed. Bengali-speaking Manipur State Females printed with a damaged first digit ('044'), read 944 as in Part I."
+}

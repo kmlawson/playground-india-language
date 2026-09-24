@@ -1,0 +1,716 @@
+{
+ "key": "ajmer",
+ "identifier": "in.ernet.dli.2015.105680",
+ "leaf": 142,
+ "printed_page": 34,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = languages (Total Population; A (i)/(ii), B, C group totals), columns = Persons/Males/Females for the whole province (cols 2-4)",
+ "records": [
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 560292,
+   "males": 296081,
+   "females": 264211
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A. Vernaculars of India",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 557076,
+   "males": 293970,
+   "females": 263106
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(i) Vernaculars of Rajputana",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 550950,
+   "males": 290055,
+   "females": 260895
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marwari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 217070,
+   "males": 112130,
+   "females": 104940
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Central Eastern Rajasthani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 209741,
+   "males": 110042,
+   "females": 99699
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "North Eastern Rajasthani",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 649,
+   "males": 446,
+   "females": 203
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malvi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana",
+    "Rajasthani"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 231,
+   "males": 107,
+   "females": 124
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Hindi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 122848,
+   "males": 67097,
+   "females": 55751
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhili",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 20,
+   "males": 16,
+   "females": 4
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 85,
+   "males": 42,
+   "females": 43
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gipsy Languages",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 306,
+   "males": 175,
+   "females": 131
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "(ii) Vernaculars of India foreign to Rajputana",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6126,
+   "males": 3915,
+   "females": 2211
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujarati",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1626,
+   "males": 969,
+   "females": 657
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1256,
+   "males": 931,
+   "females": 325
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 949,
+   "males": 545,
+   "females": 404
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eastern Hindi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 855,
+   "males": 504,
+   "females": 351
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 435,
+   "males": 254,
+   "females": 181
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 315,
+   "males": 185,
+   "females": 130
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pashto",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 289,
+   "males": 245,
+   "females": 44
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 114,
+   "males": 66,
+   "females": 48
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Nepali",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 84,
+   "males": 51,
+   "females": 33
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pahari (Unspecified)",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 53,
+   "males": 46,
+   "females": 7
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Central Pahari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 48,
+   "males": 48,
+   "females": null
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Panjabi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 46,
+   "males": 38,
+   "females": 8
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmeri",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 27,
+   "males": 14,
+   "females": 13
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(ii) Vernaculars of India foreign to Rajputana"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 29,
+   "males": 19,
+   "females": 10
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "B. Vernaculars of Other Asiatic Countries and Africa",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 54,
+   "males": 36,
+   "females": 18
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 18,
+   "males": 15,
+   "females": 3
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 16,
+   "males": 8,
+   "females": 8
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Turkish",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 8,
+   "males": 6,
+   "females": 2
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "B. Vernaculars of Other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C. European Languages",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3162,
+   "males": 2075,
+   "females": 1087
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2972,
+   "males": 1962,
+   "females": 1010
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 138,
+   "males": 89,
+   "females": 49
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 45,
+   "males": 21,
+   "females": 24
+  },
+  {
+   "area": "Ajmer-Merwara",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Complete on this one page; no district split. Marwari, Central Eastern Rajasthani, North Eastern Rajasthani and Malvi are bracketed 'RAJASTHANI' (no Rajasthani total printed); 'Rajasthani' added to lang_path. Nil cells ('...') omitted (Central Pahari females, Turkish females). 'Others' occurs in A(ii), B and C - distinguished by lang_path."
+}

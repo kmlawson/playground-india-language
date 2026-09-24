@@ -1,0 +1,559 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 258,
+ "printed_page": 248,
+ "table": "XV Part II",
+ "subtable": "A. Bilingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri, Punjabi, Kashmiri (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Sadhnoti Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Sadhnoti Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 26,
+   "males": 26,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 748,
+   "males": 419,
+   "females": 329,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 118,
+   "males": 66,
+   "females": 52,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 14620,
+   "males": 7339,
+   "females": 7281,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 845,
+   "males": 140,
+   "females": 705,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 26395,
+   "males": 14088,
+   "females": 12307,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 35,
+   "males": 29,
+   "females": 6,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 43,
+   "males": 28,
+   "females": 15,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 56321,
+   "males": 29777,
+   "females": 26544,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 2,
+   "females": 7,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 486,
+   "males": 318,
+   "females": 168,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 241,
+   "males": 145,
+   "females": 96,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 2857,
+   "males": 1672,
+   "females": 1185,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 12,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 15,
+   "males": 9,
+   "females": 6,
+   "remarks": ""
+  },
+  {
+   "area": "Haveli Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 19,
+   "males": 19,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 100,
+   "males": 86,
+   "females": 14,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1929,
+   "males": 1027,
+   "females": 902,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 19452,
+   "males": 10641,
+   "females": 8811,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 416,
+   "males": 228,
+   "females": 188,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 66580,
+   "males": 34524,
+   "females": 32056,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 143,
+   "males": 89,
+   "females": 54,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 77,
+   "males": 56,
+   "females": 21,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 3729,
+   "males": 1902,
+   "females": 1827,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Mainder Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Poonch Jagir"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Continues Table XV Part II(A) from leaf 257. First three rows (Pothwari, Balti, Ladakhi) complete the Sadhnoti Tehsil block of Poonch Jagir begun on leaf 257 (tehsil label printed on leaf 257; district brace 'Poonch Jagir' spans both pages). Page ends with the Mainder Tehsil block complete. Remarks column blank throughout. No printed column numbers."
+}

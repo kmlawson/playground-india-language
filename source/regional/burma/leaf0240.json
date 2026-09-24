@@ -1,0 +1,1170 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 240,
+ "printed_page": 234,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = district x mother tongue (language group), columns = total speakers M/F then subsidiary-language groups M/F",
+ "records": [
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 10168,
+   "females": 7511,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 24398,
+   "total_females": 23575
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages. [printed \"Do.\"]",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 4843,
+   "females": 3499,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 9545,
+   "total_females": 8658
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages. [printed \"Do.\"]",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1837,
+   "females": 3464,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 4186,
+   "total_females": 4195
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages. [printed \"Do.\"]",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 114,
+   "females": 93,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 131,
+   "total_females": 98
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages. [printed \"Do.\"]",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 131,
+   "total_females": 98
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Other Tibeto-Burmese Groups",
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "total_males": 70004,
+   "total_females": 69822
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 23,
+   "females": 16,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 70004,
+   "total_females": 69822
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Tai (Shan) Group",
+   "persons": null,
+   "males": 8,
+   "females": 16,
+   "cols": [
+    11,
+    12
+   ],
+   "total_males": 70004,
+   "total_females": 69822
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 13,
+   "females": 22,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 70004,
+   "total_females": 69822
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1259,
+   "females": 1165,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 1531,
+   "total_females": 1489
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Tai (Shan) Group",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "total_males": 1531,
+   "total_females": 1489
+  },
+  {
+   "area": "Rangoon",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 186,
+   "females": 253,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 215,
+   "total_females": 284
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 611,
+   "females": 590,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 666,
+   "total_females": 643
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 666,
+   "total_females": 643
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 14509,
+   "females": 13900,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 18149,
+   "total_females": 18103
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 2173,
+   "females": 2154,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 2892,
+   "total_females": 2781
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 1,
+   "females": 3,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 2892,
+   "total_females": 2781
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 3529,
+   "females": 3293,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 3670,
+   "total_females": 3495
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 415,
+   "females": 337,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 613,
+   "total_females": 637
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 5386,
+   "females": 12506,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 12836,
+   "total_females": 13396
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1308,
+   "females": 1291,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 1446,
+   "total_females": 1494
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 11839,
+   "females": 12034,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 13151,
+   "total_females": 13521
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1165,
+   "females": 1223,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 1236,
+   "total_females": 1324
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 157,
+   "females": 133,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 183,
+   "total_females": 166
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 108,
+   "females": 120,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 160,
+   "total_females": 162
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 160,
+   "total_females": 162
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 16004,
+   "females": 16463,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 17996,
+   "total_females": 18806
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 2492,
+   "females": 2601,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 2751,
+   "total_females": 2815
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 175,
+   "females": 165,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 182,
+   "total_females": 175
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 182,
+   "total_females": 175
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 5828,
+   "females": 5899,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 6817,
+   "total_females": 7200
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1769,
+   "females": 1880,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 2246,
+   "total_females": 2356
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 310,
+   "females": 308,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 428,
+   "total_females": 410
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 492,
+   "females": 450,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 493,
+   "total_females": 469
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 56105,
+   "females": 58095,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 62601,
+   "total_females": 65459
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 283,
+   "females": 225,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 311,
+   "total_females": 272
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 311,
+   "total_females": 272
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 198,
+   "females": 245,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 199,
+   "total_females": 247
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Other Tibeto-Burmese languages.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 1960,
+   "females": 1981,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 2215,
+   "total_females": 2241
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 16964,
+   "females": 26166,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 28796,
+   "total_females": 30473
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 206,
+   "females": 251,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 225,
+   "total_females": 257
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 49239,
+   "females": 48243,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 59115,
+   "total_females": 58127
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 84,
+   "females": 65,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 119,
+   "total_females": 116
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 119,
+   "total_females": 116
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 50293,
+   "females": 52256,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 55846,
+   "total_females": 57630
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 49,
+   "females": 62,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 49,
+   "total_females": 62
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 9173,
+   "females": 9384,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 10156,
+   "total_females": 10624
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 69,
+   "females": 65,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 78,
+   "total_females": 75
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 107,
+   "females": 53,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 1286,
+   "total_females": 905
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 296,
+   "females": 143,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 2342,
+   "total_females": 1758
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 596,
+   "females": 740,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 82972,
+   "total_females": 80161
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 148,
+   "females": 132,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 82972,
+   "total_females": 80161
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 76143,
+   "females": 70457,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 132935,
+   "total_females": 132687
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 16,
+   "females": 1,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 132935,
+   "total_females": 132687
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 2855,
+   "females": 2816,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 3419,
+   "total_females": 3278
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 212,
+   "females": 131,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 3419,
+   "total_females": 3278
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 3419,
+   "total_females": 3278
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 19950,
+   "females": 23743,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 28151,
+   "total_females": 28624
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 5,
+   "females": 3,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 28151,
+   "total_females": 28624
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 386,
+   "females": 41,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 52057,
+   "total_females": 51894
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Burma Group",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 1401,
+   "females": 889,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 52057,
+   "total_females": 51894
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 28251,
+   "females": 18623,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 54265,
+   "total_females": 52279
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Karen Group",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 1817,
+   "females": 1722,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 54265,
+   "total_females": 52279
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 4884,
+   "females": 3858,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 8844,
+   "total_females": 7974
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 301,
+   "females": 60,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 8844,
+   "total_females": 7974
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Tai (Shan) Group.",
+   "subsidiary": "Mon-Khmer Groups",
+   "persons": null,
+   "males": 13,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ],
+   "total_males": 8844,
+   "total_females": 7974
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Burma Group",
+   "persons": null,
+   "males": 60519,
+   "females": 50980,
+   "cols": [
+    5,
+    6
+   ],
+   "total_males": 119076,
+   "total_females": 116538
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma"
+   ],
+   "mother_tongue": "Languages of the Mon-Khmer Groups.",
+   "subsidiary": "Karen Group",
+   "persons": null,
+   "males": 151,
+   "females": 21,
+   "cols": [
+    9,
+    10
+   ],
+   "total_males": 119076,
+   "total_females": 116538
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Rows for Kyaukpyu, Sandoway and Rangoon (first row) print the mother tongue as 'Do.' (= Other Tibeto-Burmese languages); expanded, with the printed form noted in mother_tongue. Hanthawaddy prints 'Languages of the Tai Group' (without '(Shan)'). Table continues on leaf 241. Part II Bilingualism (printed pages 234-235): rows = district x mother-tongue group; cols 3-4 total number of speakers of that mother tongue (M/F); cols 5-14 number speaking a subsidiary language in each group (M/F). No Persons column. Each row is emitted as one record per subsidiary group with non-nil figures (total_males/total_females repeat the col 3-4 totals); a row with no subsidiary figures at all is emitted once with subsidiary=null so the total is kept. Self-checks: subsidiary sums never exceed totals; totals for Burma, Karen and Tai mother tongues equal the I-D group figures for that district, and Mon-Khmer totals equal I-D Mon (K) + Palaung-Wa (L) (all pass)."
+}

@@ -1,0 +1,1120 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 251,
+ "printed_page": 241,
+ "table": "XV Part II",
+ "subtable": "A. Bilingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri, Punjabi, Kashmiri (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 549917,
+   "males": 293986,
+   "females": 255931,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7255,
+   "males": 4210,
+   "females": 3045,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 943,
+   "males": 636,
+   "females": 307,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1370763,
+   "males": 742016,
+   "females": 628747,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3573,
+   "males": 2426,
+   "females": 1147,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 5302,
+   "males": 3525,
+   "females": 1777,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 317762,
+   "males": 170528,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 17519,
+   "males": 10052,
+   "females": 7467,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4314,
+   "males": 3450,
+   "females": 864,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 8932,
+   "males": 5509,
+   "females": 3423,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 595783,
+   "males": 308010,
+   "females": 287773,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4213,
+   "males": 2709,
+   "females": 1504,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2015,
+   "males": 1114,
+   "females": 901,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 5941,
+   "males": 3342,
+   "females": 2599,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 329433,
+   "males": 174659,
+   "females": 154774,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3584,
+   "males": 2012,
+   "females": 1572,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 6943,
+   "males": 3976,
+   "females": 2967,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 44460,
+   "males": 23129,
+   "females": 21331,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 38,
+   "females": 22,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 36,
+   "males": 28,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 51062,
+   "males": 26869,
+   "females": 24193,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 12,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 665,
+   "males": 664,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 137914,
+   "males": 68467,
+   "females": 69447,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 40,
+   "males": 6,
+   "females": 34,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 91,
+   "males": 81,
+   "females": 10,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 142,
+   "males": 97,
+   "females": 45,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 41418,
+   "males": 20546,
+   "females": 20872,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 6,
+   "males": 6,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 7,
+   "females": 4,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 63918,
+   "males": 33379,
+   "females": 30539,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Shina",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Shina",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 381,
+   "males": 367,
+   "females": 14,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Shina",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 28,
+   "males": 20,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 547534,
+   "males": 292139,
+   "females": 255395,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7057,
+   "males": 4072,
+   "females": 2985,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 624,
+   "males": 408,
+   "females": 216,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 121431,
+   "males": 66290,
+   "females": 55141,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3554,
+   "males": 2408,
+   "females": 1146,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2765,
+   "males": 1559,
+   "females": 1206,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 208933,
+   "males": 111482,
+   "females": 97451,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 17519,
+   "males": 10052,
+   "females": 7467,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1882,
+   "males": 1102,
+   "females": 780,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 712,
+   "males": 550,
+   "females": 162,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 417363,
+   "males": 213471,
+   "females": 203892,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4180,
+   "males": 2676,
+   "females": 1504,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1033,
+   "males": 615,
+   "females": 418,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2630,
+   "males": 1504,
+   "females": 1126,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 306835,
+   "males": 162374,
+   "females": 144461,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3449,
+   "males": 1929,
+   "females": 1520,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 321,
+   "males": 280,
+   "females": 41,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 44460,
+   "males": 23129,
+   "females": 21331,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 38,
+   "females": 22,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 36,
+   "males": 28,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Chabhali)",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 51035,
+   "males": 26843,
+   "females": 24192,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 12,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 665,
+   "males": 664,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 185,
+   "males": 127,
+   "females": 58,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 39,
+   "males": 5,
+   "females": 34,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 1,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 472,
+   "males": 234,
+   "females": 238,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 88143,
+   "males": 49730,
+   "females": 38413,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2655,
+   "males": 1926,
+   "females": 729,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 177,
+   "males": 162,
+   "females": 15,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 2751,
+   "males": 2418,
+   "females": 333,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 115,
+   "males": 101,
+   "females": 14,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 701,
+   "males": 609,
+   "females": 92,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 17426,
+   "males": 9405,
+   "females": 8021,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 6335,
+   "males": 3444,
+   "females": 2891,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 563,
+   "males": 355,
+   "females": 208,
+   "remarks": ""
+  },
+  {
+   "area": "Jammu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Jammu District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 8,
+   "females": 5,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "State, Gojari, mother-tongue Females: printed '147,23' (a digit missing from the print); recorded null. 317,762 - 170,528 = 147,234, which is also the figure printed on leaf 266 (Part II B)."
+ ],
+ "notes": "First page of Table XV Part II (A) Bilingualism. Stub column headed 'Taluk.'; areas identified by side braces: 'Jammu and Kashmir State' (10 mother tongues), 'Jammu Province' (9 mother tongues; no Shina row), then an unlabelled inner brace at the foot of the page which continues on leaf 252 where it is labelled 'Jammu Tehsil' inside 'Jammu District' (the district brace spans onto leaf 252; there are no district-total rows). State Kashmiri printed '1,370.763' (period for comma) recorded as 1370763. Subsidiary header printed 'Punjabi' while the mother-tongue row is printed 'Panjabi'; both kept as printed. Remarks column empty. No printed column numbers."
+}

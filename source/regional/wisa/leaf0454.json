@@ -1,0 +1,1677 @@
+{
+ "key": "wisa",
+ "identifier": "in.ernet.dli.2015.56032",
+ "leaf": 454,
+ "printed_page": 252,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = Agency, sub-agencies and states/areas (48 rows); columns = languages x Persons/Males/Females",
+ "records": [
+  {
+   "area": "Western India States Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 412048,
+   "males": 203332,
+   "females": 208716
+  },
+  {
+   "area": "Western India States Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1850,
+   "males": 1093,
+   "females": 757
+  },
+  {
+   "area": "Western India States Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 301,
+   "males": 229,
+   "females": 72
+  },
+  {
+   "area": "A. Seventeen Salute States",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 388353,
+   "males": 192904,
+   "females": 195449
+  },
+  {
+   "area": "A. Seventeen Salute States",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1387,
+   "males": 839,
+   "females": 548
+  },
+  {
+   "area": "A. Seventeen Salute States",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 240,
+   "males": 173,
+   "females": 67
+  },
+  {
+   "area": "Cutch",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 295233,
+   "males": 149893,
+   "females": 145340
+  },
+  {
+   "area": "Cutch",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 127,
+   "males": 98,
+   "females": 29
+  },
+  {
+   "area": "Cutch",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 28,
+   "males": 28,
+   "females": null
+  },
+  {
+   "area": "Junagad",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 27552,
+   "males": 12592,
+   "females": 14960
+  },
+  {
+   "area": "Junagad",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 433,
+   "males": 232,
+   "females": 201
+  },
+  {
+   "area": "Junagad",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 34,
+   "males": 15,
+   "females": 19
+  },
+  {
+   "area": "Nawanagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 20714,
+   "males": 9891,
+   "females": 10823
+  },
+  {
+   "area": "Nawanagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 179,
+   "males": 116,
+   "females": 63
+  },
+  {
+   "area": "Nawanagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Bhavnagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1520,
+   "males": 748,
+   "females": 772
+  },
+  {
+   "area": "Bhavnagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 300,
+   "males": 196,
+   "females": 104
+  },
+  {
+   "area": "Bhavnagar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 81,
+   "males": 50,
+   "females": 31
+  },
+  {
+   "area": "Porbandar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3851,
+   "males": 1848,
+   "females": 2003
+  },
+  {
+   "area": "Porbandar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 24,
+   "males": 16,
+   "females": 8
+  },
+  {
+   "area": "Porbandar",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 62,
+   "males": 54,
+   "females": 8
+  },
+  {
+   "area": "Dhrangadhra",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 333,
+   "males": 209,
+   "females": 124
+  },
+  {
+   "area": "Dhrangadhra",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 40,
+   "males": 25,
+   "females": 15
+  },
+  {
+   "area": "Dhrangadhra",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Palanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 10,
+   "females": 5
+  },
+  {
+   "area": "Palanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 48,
+   "males": 24,
+   "females": 24
+  },
+  {
+   "area": "Palanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Radhanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Radhanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Radhanpur",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Morvi",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2916,
+   "males": 1391,
+   "females": 1525
+  },
+  {
+   "area": "Morvi",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Morvi",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Gondal",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 33673,
+   "males": 15106,
+   "females": 18567
+  },
+  {
+   "area": "Gondal",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 53,
+   "males": 34,
+   "females": 19
+  },
+  {
+   "area": "Jafrabad",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 199,
+   "males": 103,
+   "females": 96
+  },
+  {
+   "area": "Jafrabad",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 24,
+   "males": 18,
+   "females": 6
+  },
+  {
+   "area": "Wankaner",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 443,
+   "males": 225,
+   "females": 218
+  },
+  {
+   "area": "Wankaner",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Wankaner",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Palitana",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 141,
+   "males": 61,
+   "females": 80
+  },
+  {
+   "area": "Palitana",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 19,
+   "males": 7,
+   "females": 12
+  },
+  {
+   "area": "Palitana",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 8,
+   "females": 2
+  },
+  {
+   "area": "Dhrol",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 211,
+   "males": 109,
+   "females": 102
+  },
+  {
+   "area": "Dhrol",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Limbdi",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 3,
+   "females": 6
+  },
+  {
+   "area": "Limbdi",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 11,
+   "females": 4
+  },
+  {
+   "area": "Rajkot",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1490,
+   "males": 687,
+   "females": 803
+  },
+  {
+   "area": "Rajkot",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 71,
+   "males": 34,
+   "females": 37
+  },
+  {
+   "area": "Wadhwan",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 43,
+   "males": 23,
+   "females": 20
+  },
+  {
+   "area": "Wadhwan",
+   "area_path": [
+    "Western India States Agency",
+    "A. Seventeen Salute States"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 30,
+   "males": 14,
+   "females": 16
+  },
+  {
+   "area": "B. Eastern Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 552,
+   "males": 245,
+   "females": 307
+  },
+  {
+   "area": "B. Eastern Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 118,
+   "males": 60,
+   "females": 58
+  },
+  {
+   "area": "B. Eastern Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 12,
+   "females": null
+  },
+  {
+   "area": "Lakhtar",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Lakhtar",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 16,
+   "males": 9,
+   "females": 7
+  },
+  {
+   "area": "Sayla",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Chuda",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Vala",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Vala",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Lathi",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 27,
+   "males": 10,
+   "females": 17
+  },
+  {
+   "area": "Muli",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bajana",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Wadhwan Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 210,
+   "males": 89,
+   "females": 121
+  },
+  {
+   "area": "Wadhwan Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 73,
+   "males": 41,
+   "females": 32
+  },
+  {
+   "area": "Wadhwan Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 12,
+   "females": null
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 290,
+   "males": 128,
+   "females": 162
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "B. Eastern Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 21,
+   "males": 6,
+   "females": 15
+  },
+  {
+   "area": "C. Western Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 22950,
+   "males": 10083,
+   "females": 12867
+  },
+  {
+   "area": "C. Western Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 327,
+   "males": 183,
+   "females": 144
+  },
+  {
+   "area": "C. Western Kathiawar Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 49,
+   "males": 44,
+   "females": 5
+  },
+  {
+   "area": "Jasdan",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Jasdan",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Manavadar",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1609,
+   "males": 790,
+   "females": 819
+  },
+  {
+   "area": "Manavadar",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Manavadar",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Thana Devli",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Wadia",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Wadia",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Virpur",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 47,
+   "males": 40,
+   "females": 7
+  },
+  {
+   "area": "Virpur",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Malia",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 843,
+   "males": 440,
+   "females": 403
+  },
+  {
+   "area": "Kotda Sanghani",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 909,
+   "males": 370,
+   "females": 539
+  },
+  {
+   "area": "D. S. Vala Mulu Surang of Jetpur (Pithadia)",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 146,
+   "males": 73,
+   "females": 73
+  },
+  {
+   "area": "D. S. Vala Rawat Ram of Jetpur (Bilkho)",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Khairasra",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 6,
+   "females": 6
+  },
+  {
+   "area": "Rajkot Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 810,
+   "males": 440,
+   "females": 370
+  },
+  {
+   "area": "Rajkot Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 252,
+   "males": 143,
+   "females": 109
+  },
+  {
+   "area": "Rajkot Civil Station",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Konkani",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 47,
+   "males": 42,
+   "females": 5
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18555,
+   "males": 7911,
+   "females": 10644
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "C. Western Kathiawar Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 63,
+   "males": 34,
+   "females": 29
+  },
+  {
+   "area": "D. Banaskantha Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 193,
+   "males": 100,
+   "females": 93
+  },
+  {
+   "area": "D. Banaskantha Agency",
+   "area_path": [
+    "Western India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18,
+   "males": 11,
+   "females": 7
+  },
+  {
+   "area": "Tharad",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 38,
+   "males": 20,
+   "females": 18
+  },
+  {
+   "area": "Tharad",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Wao",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Wao",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Kachchhi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 148,
+   "males": 74,
+   "females": 74
+  },
+  {
+   "area": "Rest of the Agency",
+   "area_path": [
+    "Western India States Agency",
+    "D. Banaskantha Agency"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "Group A—Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 14,
+   "males": 8,
+   "females": 6
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Page 252: Kachchhi, Marathi, Konkani. All totals reconcile."
+}

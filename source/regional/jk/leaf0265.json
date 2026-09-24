@@ -1,0 +1,707 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 265,
+ "printed_page": 255,
+ "table": "XV Part II",
+ "subtable": "A. Bilingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri, Punjabi, Kashmiri (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Skardu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Ladakh District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 102351,
+   "males": 51159,
+   "females": 51192,
+   "remarks": ""
+  },
+  {
+   "area": "Skardu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Ladakh District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Skardu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Ladakh District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 6,
+   "males": 4,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Skardu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Ladakh District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 35,
+   "males": 35,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Skardu Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Ladakh District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 3267,
+   "males": 2239,
+   "females": 1028,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 196,
+   "males": 192,
+   "females": 4,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 54,
+   "males": 46,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 535,
+   "males": 351,
+   "females": 184,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1987,
+   "males": 1082,
+   "females": 905,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 25,
+   "males": null,
+   "females": 25,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 53,
+   "males": 31,
+   "females": 22,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 183,
+   "males": 80,
+   "females": 103,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 24961,
+   "males": 12511,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 6,
+   "males": 6,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 469,
+   "males": 431,
+   "females": 38,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 69,
+   "males": 62,
+   "females": 7,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 246,
+   "males": 207,
+   "females": 39,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 38,
+   "males": 33,
+   "females": 5,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 445,
+   "males": 247,
+   "females": 198,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 127,
+   "males": 127,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 33,
+   "males": 33,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 24,
+   "males": 24,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 393,
+   "males": 295,
+   "females": 98,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 8,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 215,
+   "males": 195,
+   "females": 20,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 55,
+   "males": 55,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 28111,
+   "males": 14699,
+   "females": 13412,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 374,
+   "males": 360,
+   "females": 14,
+   "remarks": ""
+  },
+  {
+   "area": "Gilgit Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts",
+    "Gilgit District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Shina",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 20,
+   "males": 16,
+   "females": 4,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  {
+   "area": "Frontier Ilaqas",
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "field": "females",
+   "printed": "12,?50",
+   "note": "hundreds digit broken; P-M gives 12,450 and Part I (leaf 234) gives 12,450; Frontier Districts total minus other units gives 12,470 but that total is itself misprinted"
+  }
+ ],
+ "notes": "Last page of Table XV Part II(A); lower part of the page is blank. First three rows (Balti, Ladakhi, Shina) complete the Skardu Tehsil block (Ladakh District) begun on leaf 264. 'Frontier Ilaqas.' is printed as a single unit with no district brace; recorded as area 'Frontier Ilaqas' under Frontier Districts. 'Gilgit District' brace with one tehsil, 'Gilgit Tehsil'. Rows in the Panjabi/Kashmiri subsidiary columns are skewed about half a row-space below their stub labels; rows were assigned by counting within each block (cross-checked against the Frontier Districts totals on leaf 263). UNREADABLE: Frontier Ilaqas, Shina, mother-tongue females printed '12,?50' - the hundreds digit is broken (only a small fragment printed); recorded null. Arithmetic does not settle it: persons minus males (24,961 - 12,511) gives 12,450, whereas the Frontier Districts total on leaf 263 (30,552 females) minus the other units' Shina females (Kargil 3,642, Skardu 1,028, Gilgit 13,412) gives 12,470 - but that total is itself misprinted (see leaf 263 notes; Part I gives 30,532, which would yield 12,450). Part I (leaf 234) gives Frontier Ilaqas Shina females 12,450. Left null as instructed; 12,450 is very probably the printed figure. Remarks column blank."
+}

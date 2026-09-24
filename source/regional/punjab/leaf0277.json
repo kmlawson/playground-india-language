@@ -1,0 +1,7206 @@
+{
+ "key": "punjab",
+ "identifier": "in.ernet.dli.2015.56042",
+ "leaf": 277,
+ "printed_page": 271,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "right-hand page of facing pair (area labels on leaf 276/p.270); rows = Punjab, British Territory, divisions/districts, Punjab States (serial nos. at right edge), columns = languages x Persons/Males/Females, cols 84-110",
+ "records": [
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 4875,
+   "males": 2714,
+   "females": 2161
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 4661,
+   "males": 2538,
+   "females": 2123
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 87,
+   "males": 49,
+   "females": 38
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 7,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 15,
+   "males": 10,
+   "females": 5
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 24,
+   "males": 15,
+   "females": 9
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 33,
+   "males": 15,
+   "females": 18
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 875,
+   "males": 430,
+   "females": 445
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 32,
+   "males": 21,
+   "females": 11
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 21,
+   "males": 13,
+   "females": 8
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 744,
+   "males": 328,
+   "females": 416
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 74,
+   "males": 64,
+   "females": 10
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 3122,
+   "males": 1689,
+   "females": 1433
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 1730,
+   "males": 1036,
+   "females": 694
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 1184,
+   "males": 511,
+   "females": 673
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 87,
+   "males": 64,
+   "females": 23
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 32,
+   "males": 27,
+   "females": 5
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 20,
+   "males": 16,
+   "females": 4
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 69,
+   "males": 35,
+   "females": 34
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 361,
+   "males": 237,
+   "females": 124
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 67,
+   "males": 36,
+   "females": 31
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 43,
+   "males": 25,
+   "females": 18
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 27,
+   "males": 24,
+   "females": 3
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 184,
+   "males": 129,
+   "females": 55
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 24,
+   "males": 12,
+   "females": 12
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 16,
+   "males": 11,
+   "females": 5
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 216,
+   "males": 133,
+   "females": 83
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 70,
+   "males": 37,
+   "females": 33
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 60,
+   "males": 27,
+   "females": 33
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 22,
+   "males": 19,
+   "females": 3
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 59,
+   "males": 46,
+   "females": 13
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 214,
+   "males": 176,
+   "females": 38
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 12,
+   "males": 3,
+   "females": 9
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 11,
+   "males": 3,
+   "females": 8
+  },
+  {
+   "area": "Bashahr",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 9,
+   "males": 2,
+   "females": 7
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 202,
+   "males": 173,
+   "females": 29
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 12,
+   "males": 2,
+   "females": 10
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 120,
+   "males": 117,
+   "females": 3
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 16,
+   "males": 10,
+   "females": 6
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 29,
+   "males": 23,
+   "females": 6
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    84,
+    85,
+    86
+   ],
+   "persons": 16,
+   "males": 13,
+   "females": 3
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 4000,
+   "males": 2158,
+   "females": 1842
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 3832,
+   "males": 2008,
+   "females": 1824
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 52,
+   "males": 32,
+   "females": 20
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 12,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 23,
+   "males": 14,
+   "females": 9
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 841,
+   "males": 412,
+   "females": 429
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 23,
+   "males": 16,
+   "females": 7
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 12,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 735,
+   "males": 323,
+   "females": 412
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 70,
+   "males": 62,
+   "females": 8
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 2502,
+   "males": 1289,
+   "females": 1213
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1215,
+   "males": 706,
+   "females": 509
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1168,
+   "males": 500,
+   "females": 668
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 32,
+   "males": 24,
+   "females": 8
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 20,
+   "males": 19,
+   "females": 1
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 10,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 57,
+   "males": 30,
+   "females": 27
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 275,
+   "males": 175,
+   "females": 100
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 51,
+   "males": 31,
+   "females": 20
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 35,
+   "males": 17,
+   "females": 18
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 12,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 147,
+   "males": 98,
+   "females": 49
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 17,
+   "males": 10,
+   "females": 7
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 13,
+   "males": 9,
+   "females": 4
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 162,
+   "males": 100,
+   "females": 62
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 52,
+   "males": 32,
+   "females": 20
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 52,
+   "males": 22,
+   "females": 30
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 50,
+   "males": 39,
+   "females": 11
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 168,
+   "males": 150,
+   "females": 18
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 11,
+   "males": 3,
+   "females": 8
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 10,
+   "males": 3,
+   "females": 7
+  },
+  {
+   "area": "Bashahr",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 9,
+   "males": 2,
+   "females": 7
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 157,
+   "males": 147,
+   "females": 10
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 120,
+   "males": 117,
+   "females": 3
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 22,
+   "males": 18,
+   "females": 4
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Persian",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    87,
+    88,
+    89
+   ],
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 675,
+   "males": 426,
+   "females": 249
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 667,
+   "males": 419,
+   "females": 248
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 29,
+   "males": 14,
+   "females": 15
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 17,
+   "males": 7,
+   "females": 10
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 542,
+   "males": 348,
+   "females": 194
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 456,
+   "males": 288,
+   "females": 168
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 10,
+   "males": 8,
+   "females": 2
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 53,
+   "males": 39,
+   "females": 14
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 9,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 36,
+   "males": 23,
+   "females": 13
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 15,
+   "males": 5,
+   "females": 10
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 8,
+   "males": 8,
+   "females": null
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 7,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 49,
+   "males": 28,
+   "females": 21
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 18,
+   "males": 5,
+   "females": 13
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 15,
+   "males": 12,
+   "females": 3
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 9,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 8,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Arabic",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    90,
+    91,
+    92
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 160,
+   "males": 105,
+   "females": 55
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 123,
+   "males": 87,
+   "females": 36
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 71,
+   "males": 48,
+   "females": 23
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 54,
+   "males": 40,
+   "females": 14
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 5,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 40,
+   "males": 30,
+   "females": 10
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 33,
+   "males": 28,
+   "females": 5
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 37,
+   "males": 18,
+   "females": 19
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 37,
+   "males": 18,
+   "females": 19
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 12,
+   "males": 2,
+   "females": 10
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 16,
+   "males": 10,
+   "females": 6
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Chinese",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    93,
+    94,
+    95
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 34,
+   "males": 22,
+   "females": 12
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 33,
+   "males": 21,
+   "females": 12
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 5,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 10,
+   "males": 6,
+   "females": 4
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 4,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 9,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 6,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Others",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    96,
+    97,
+    98
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 5,
+   "males": 1,
+   "females": 4
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 5,
+   "males": 1,
+   "females": 4
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "African",
+   "lang_path": [
+    "Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    99,
+    100,
+    101
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 26604,
+   "males": 18614,
+   "females": 7990
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 26080,
+   "males": 18322,
+   "females": 7758
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 4726,
+   "males": 2940,
+   "females": 1786
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 60,
+   "males": 39,
+   "females": 21
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 28,
+   "males": 16,
+   "females": 12
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 178,
+   "males": 86,
+   "females": 92
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 39,
+   "males": 26,
+   "females": 13
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 3405,
+   "males": 2282,
+   "females": 1123
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 1016,
+   "males": 491,
+   "females": 525
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 3404,
+   "males": 2566,
+   "females": 838
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 112,
+   "males": 67,
+   "females": 45
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 1284,
+   "males": 1050,
+   "females": 234
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 148,
+   "males": 49,
+   "females": 99
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 1855,
+   "males": 1396,
+   "females": 459
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 10514,
+   "males": 7486,
+   "females": 3028
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 7601,
+   "males": 5175,
+   "females": 2426
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 212,
+   "males": 178,
+   "females": 34
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 290,
+   "males": 120,
+   "females": 170
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 2279,
+   "males": 1946,
+   "females": 333
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 53,
+   "males": 28,
+   "females": 25
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 79,
+   "males": 39,
+   "females": 40
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 5835,
+   "males": 4076,
+   "females": 1759
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 144,
+   "males": 74,
+   "females": 70
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 62,
+   "males": 34,
+   "females": 28
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 209,
+   "males": 115,
+   "females": 94
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 4956,
+   "males": 3504,
+   "females": 1452
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 343,
+   "males": 272,
+   "females": 71
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 121,
+   "males": 77,
+   "females": 44
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 1601,
+   "males": 1254,
+   "females": 347
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 148,
+   "males": 97,
+   "females": 51
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 101,
+   "males": 41,
+   "females": 60
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 75,
+   "males": 41,
+   "females": 34
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 1251,
+   "males": 1059,
+   "females": 192
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 16,
+   "males": 9,
+   "females": 7
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 524,
+   "males": 292,
+   "females": 232
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 79,
+   "males": 27,
+   "females": 52
+  },
+  {
+   "area": "Dujana",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 73,
+   "males": 23,
+   "females": 50
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 43,
+   "males": 10,
+   "females": 33
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 30,
+   "males": 13,
+   "females": 17
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 445,
+   "males": 265,
+   "females": 180
+  },
+  {
+   "area": "Loharu",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 8,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 65,
+   "males": 40,
+   "females": 25
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 22,
+   "males": 14,
+   "females": 8
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 215,
+   "males": 122,
+   "females": 93
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 44,
+   "males": 30,
+   "females": 14
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    102,
+    103,
+    104
+   ],
+   "persons": 77,
+   "males": 49,
+   "females": 28
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 26204,
+   "males": 18356,
+   "females": 7848
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 25713,
+   "males": 18083,
+   "females": 7630
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 4613,
+   "males": 2897,
+   "females": 1716
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 60,
+   "males": 39,
+   "females": 21
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 27,
+   "males": 15,
+   "females": 12
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 178,
+   "males": 86,
+   "females": 92
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 37,
+   "males": 24,
+   "females": 13
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 3341,
+   "males": 2268,
+   "females": 1073
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 970,
+   "males": 465,
+   "females": 505
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 3387,
+   "males": 2555,
+   "females": 832
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 105,
+   "males": 63,
+   "females": 42
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 1284,
+   "males": 1050,
+   "females": 234
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 148,
+   "males": 49,
+   "females": 99
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 1845,
+   "males": 1389,
+   "females": 456
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 10483,
+   "males": 7464,
+   "females": 3019
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 7598,
+   "males": 5173,
+   "females": 2425
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 203,
+   "males": 170,
+   "females": 33
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 280,
+   "males": 117,
+   "females": 163
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 2275,
+   "males": 1942,
+   "females": 333
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 53,
+   "males": 28,
+   "females": 25
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 74,
+   "males": 34,
+   "females": 40
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 5661,
+   "males": 3931,
+   "females": 1730
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 144,
+   "males": 74,
+   "females": 70
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 62,
+   "males": 34,
+   "females": 28
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 204,
+   "males": 111,
+   "females": 93
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 4790,
+   "males": 3366,
+   "females": 1424
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 341,
+   "males": 270,
+   "females": 71
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 120,
+   "males": 76,
+   "females": 44
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 1569,
+   "males": 1236,
+   "females": 333
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 141,
+   "males": 90,
+   "females": 51
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 85,
+   "males": 35,
+   "females": 50
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 75,
+   "males": 41,
+   "females": 34
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 1242,
+   "males": 1054,
+   "females": 188
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 16,
+   "males": 9,
+   "females": 7
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 491,
+   "males": 273,
+   "females": 218
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 70,
+   "males": 26,
+   "females": 44
+  },
+  {
+   "area": "Dujana",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 65,
+   "males": 22,
+   "females": 43
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 36,
+   "males": 10,
+   "females": 26
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 29,
+   "males": 12,
+   "females": 17
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 421,
+   "males": 247,
+   "females": 174
+  },
+  {
+   "area": "Loharu",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 7,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 56,
+   "males": 31,
+   "females": 25
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 11,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 4,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 215,
+   "males": 122,
+   "females": 93
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 42,
+   "males": 28,
+   "females": 14
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "English",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    105,
+    106,
+    107
+   ],
+   "persons": 76,
+   "males": 49,
+   "females": 27
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 51,
+   "males": 44,
+   "females": 7
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 50,
+   "males": 43,
+   "females": 7
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 45,
+   "males": 40,
+   "females": 5
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 45,
+   "males": 40,
+   "females": 5
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Irish",
+   "lang_path": [
+    "European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    108,
+    109,
+    110
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table continues from leaf 276 and onto leaf 278 (European Languages concluded). African (cols 99-101) is printed under the heading 'Vernaculars of other Asiatic Countries and Africa'; 'Others' (96-98) is the Asiatic 'Others'. The European 'Total' (102-104) here includes languages continued on p.272 (leaf 278). Print inconsistency (kept as printed, re-read at high zoom): Amritsar Asiatic Total 1,184 / 511 / 673 but Persian 1,168/500/668 + Arabic 10/8/2 + Chinese 5/2/3 + Others 2/1/1 = 1,185/511/674 (persons and females 1 short). The same 1-unit shortfall carries into the printed Lahore Division (3,122/1,433), British Territory (4,661/2,123) and Punjab (4,875/2,161) Asiatic totals, which are otherwise consistent with the district totals. All area sums and P=M+F checks pass."
+}

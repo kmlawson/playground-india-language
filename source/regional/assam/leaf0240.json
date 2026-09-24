@@ -1,0 +1,552 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 240,
+ "printed_page": 234,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/divisions/states, columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 3627,
+   "males": 2011,
+   "females": 1616
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 3602,
+   "males": 1987,
+   "females": 1615
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 1765,
+   "males": 808,
+   "females": 957
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 1658,
+   "males": 747,
+   "females": 911
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 10,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 76,
+   "males": 49,
+   "females": 27
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 21,
+   "males": 5,
+   "females": 16
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 1837,
+   "males": 1179,
+   "females": 658
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 14,
+   "males": 8,
+   "females": 6
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 21,
+   "males": 16,
+   "females": 5
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 9,
+   "males": 4,
+   "females": 5
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 1789,
+   "males": 1147,
+   "females": 642
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Naga (unspecified)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    98,
+    99,
+    100
+   ],
+   "persons": 25,
+   "males": 24,
+   "females": 1
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Memi (Mao) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    101,
+    102,
+    103
+   ],
+   "persons": 16678,
+   "males": 8364,
+   "females": 8314
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Memi (Mao) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    101,
+    102,
+    103
+   ],
+   "persons": 1237,
+   "males": 665,
+   "females": 572
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Memi (Mao) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    101,
+    102,
+    103
+   ],
+   "persons": 1237,
+   "males": 665,
+   "females": 572
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Memi (Mao) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    101,
+    102,
+    103
+   ],
+   "persons": 1237,
+   "males": 665,
+   "females": 572
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Memi (Mao) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    101,
+    102,
+    103
+   ],
+   "persons": 15441,
+   "males": 7699,
+   "females": 7742
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Maram (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    104,
+    105,
+    106
+   ],
+   "persons": 2609,
+   "males": 1256,
+   "females": 1353
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Maram (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    104,
+    105,
+    106
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Maram (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    104,
+    105,
+    106
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Maram (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    104,
+    105,
+    106
+   ],
+   "persons": 13,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Maram (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    104,
+    105,
+    106
+   ],
+   "persons": 2596,
+   "males": 1249,
+   "females": 1347
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kwoireng (Quoireng) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    107,
+    108,
+    109
+   ],
+   "persons": 521,
+   "males": 258,
+   "females": 263
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Kwoireng (Quoireng) (Naga)",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    107,
+    108,
+    109
+   ],
+   "persons": 521,
+   "males": 258,
+   "females": 263
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Continuation of Table XV Part I. Print faint in places. Maram (Naga): the district figures 13/7/6 sit in the second row under Surma Valley and Hill Division, i.e. Sylhet by row sequence (they print slightly above the Khasi and Jaintia Hills label line); assigned to Sylhet."
+}

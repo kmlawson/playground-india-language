@@ -1,0 +1,1265 @@
+{
+ "key": "madras",
+ "identifier": "in.ernet.dli.2015.56039",
+ "leaf": 297,
+ "printed_page": 291,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts and states, columns = mother tongue blocks x (total returning the mother-tongue, subsidiary languages) x Males/Females",
+ "records": [
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 25482,
+   "females": 23934,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 25179,
+   "females": 23612,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 562,
+   "females": 167,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 561,
+   "females": 167,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 424,
+   "females": 316,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2071,
+   "females": 1910,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2232,
+   "females": 2016,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 11,
+   "females": 4,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1125,
+   "females": 1167,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1726,
+   "females": 1593,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 7213,
+   "females": 7549,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 7285,
+   "females": 6544,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1580,
+   "females": 1559,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 118,
+   "females": 93,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 319,
+   "females": 276,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 499,
+   "females": 398,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 303,
+   "females": 322,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 44,
+   "females": 100,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 259,
+   "females": 222,
+   "cols": [
+    90,
+    91
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 33,
+   "females": 30,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 31,
+   "females": 28,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 31,
+   "females": 28,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": 2,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    94,
+    95
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 570,
+   "females": 591,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 423,
+   "females": 452,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": null,
+   "females": 5,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 223,
+   "females": 210,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": null,
+   "females": 44,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 15,
+   "females": 5,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 183,
+   "females": 188,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 147,
+   "females": 139,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Banganapalle",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": null,
+   "females": 5,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 147,
+   "females": 134,
+   "cols": [
+    96,
+    97
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    100,
+    101
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    100,
+    101
+   ]
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    100,
+    101
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 14,
+   "females": 20,
+   "cols": [
+    100,
+    101
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 492,
+   "females": 315,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 492,
+   "females": 315,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 100,
+   "females": 83,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 177,
+   "females": 175,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 214,
+   "females": 57,
+   "cols": [
+    102,
+    103
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 14259,
+   "females": 12199,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 14218,
+   "females": 12110,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Godavari, East",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 406,
+   "females": 101,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 405,
+   "females": 101,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Godavari, East"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 304,
+   "females": 225,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 2046,
+   "females": 1661,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Guntur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 1873,
+   "females": 1529,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 5,
+   "females": 4,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Cuddapah",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 1030,
+   "females": 1068,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 1420,
+   "females": 1341,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 182,
+   "females": 103,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Anantapur",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 5951,
+   "females": 5247,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 985,
+   "females": 822,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 12,
+   "females": 9,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 41,
+   "females": 89,
+   "cols": [
+    104,
+    105
+   ]
+  },
+  {
+   "area": "Sandur",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lambadi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 41,
+   "females": 89,
+   "cols": [
+    104,
+    105
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed p. 291. Cols 90-105, mother tongue Lambadi (starts here; Koya ended on leaf 296). Subsidiary Hill and Aboriginal (92-93) and Malayalam (98-99) entirely nil. Only Males/Females printed; persons null; where one sex is nil the other field is null. ROW ALIGNMENT: from col 92 rightward the data columns are printed progressively lower than the row labels (by up to about one row in cols 96-105). Rows were assigned by counting entries (figures and '..') within each row block, confirmed by the fact that no subsidiary figure may fall in a row whose 'Total returning' is nil (e.g. Madras city, South Arcot) and figures must not exceed that row's total. Assignments that rest on this: Kanarese M 2 = Guntur; Kanarese F 5/44 = Kurnool/Anantapur, 223/210 = Bellary; Kanarese 15/5 = Salem, 183/188 = Coimbatore; Hindustani 31/28 = Anantapur; Tamil 1 = Guntur, 100/83 = North Arcot, 177/175 = Salem, 214/57 = Coimbatore; Telugu 304/225 = Godavari West ... 1,030/1,068 = Cuddapah, 1,420/1,341 = Kurnool, 182/103 = Bellary, 5,951/5,247 = Anantapur, 985/822 = Chittoor, 12/9 = Salem, 4 = Coimbatore. All area totals check with these assignments."
+}

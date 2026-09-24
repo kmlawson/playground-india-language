@@ -1,0 +1,6158 @@
+{
+ "key": "up",
+ "identifier": "in.ernet.dli.2015.56044",
+ "leaf": 499,
+ "printed_page": 485,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = province, British Territory, Agra/Oudh, divisions, districts and states; columns = languages x Persons/Males/Females",
+ "records": [
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 86854,
+   "males": 53634,
+   "females": 33220
+  },
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 27105,
+   "males": 18855,
+   "females": 8250
+  },
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 27230,
+   "males": 14361,
+   "females": 12869
+  },
+  {
+   "area": "United Provinces",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 11945,
+   "males": 7243,
+   "females": 4702
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 86003,
+   "males": 53009,
+   "females": 32994
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 26614,
+   "males": 18550,
+   "females": 8064
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 26933,
+   "males": 14096,
+   "females": 12837
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 11937,
+   "males": 7236,
+   "females": 4701
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 75764,
+   "males": 46386,
+   "females": 29378
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 22881,
+   "males": 15866,
+   "females": 7015
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 23497,
+   "males": 11983,
+   "females": 11514
+  },
+  {
+   "area": "Agra Province",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 10104,
+   "males": 6207,
+   "females": 3897
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 15994,
+   "males": 11017,
+   "females": 4977
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 11666,
+   "males": 8032,
+   "females": 3634
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 1934,
+   "males": 1190,
+   "females": 744
+  },
+  {
+   "area": "Meerut Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 748,
+   "males": 522,
+   "females": 226
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4111,
+   "males": 2817,
+   "females": 1294
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 2958,
+   "males": 2050,
+   "females": 908
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 351,
+   "males": 193,
+   "females": 158
+  },
+  {
+   "area": "Dehra Dun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 285,
+   "males": 188,
+   "females": 97
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 6171,
+   "males": 4578,
+   "females": 1593
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 4613,
+   "males": 3340,
+   "females": 1273
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 742,
+   "males": 544,
+   "females": 198
+  },
+  {
+   "area": "Saharanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 217,
+   "males": 179,
+   "females": 38
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 521,
+   "males": 336,
+   "females": 185
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 296,
+   "males": 183,
+   "females": 113
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 34,
+   "males": 23,
+   "females": 11
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 120,
+   "males": 79,
+   "females": 41
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4811,
+   "males": 3051,
+   "females": 1760
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 3701,
+   "males": 2394,
+   "females": 1307
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 714,
+   "males": 370,
+   "females": 344
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 38,
+   "males": 35,
+   "females": 3
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 380,
+   "males": 235,
+   "females": 145
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 98,
+   "males": 65,
+   "females": 33
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 93,
+   "males": 60,
+   "females": 33
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Meerut Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 88,
+   "males": 41,
+   "females": 47
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 14038,
+   "males": 7676,
+   "females": 6362
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 3111,
+   "males": 1767,
+   "females": 1344
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 3969,
+   "males": 1691,
+   "females": 2278
+  },
+  {
+   "area": "Agra Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 4583,
+   "males": 2841,
+   "females": 1742
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1532,
+   "males": 1061,
+   "females": 471
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 308,
+   "males": 250,
+   "females": 58
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 151,
+   "males": 106,
+   "females": 45
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 627,
+   "males": 388,
+   "females": 239
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4801,
+   "males": 2268,
+   "females": 2533
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 657,
+   "males": 522,
+   "females": 135
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 3161,
+   "males": 1217,
+   "females": 1944
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 117,
+   "males": 75,
+   "females": 42
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 6909,
+   "males": 3871,
+   "females": 3038
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 2078,
+   "males": 946,
+   "females": 1132
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 587,
+   "males": 331,
+   "females": 256
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 3272,
+   "males": 2071,
+   "females": 1201
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 362,
+   "males": 237,
+   "females": 125
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 46,
+   "males": 31,
+   "females": 15
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 52,
+   "males": 26,
+   "females": 26
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 204,
+   "males": 123,
+   "females": 81
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 434,
+   "males": 239,
+   "females": 195
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 22,
+   "males": 18,
+   "females": 4
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 18,
+   "males": 11,
+   "females": 7
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Agra Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 363,
+   "males": 184,
+   "females": 179
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4093,
+   "males": 2631,
+   "females": 1462
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1728,
+   "males": 1180,
+   "females": 548
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 710,
+   "males": 499,
+   "females": 211
+  },
+  {
+   "area": "Rohilkhand Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 758,
+   "males": 397,
+   "females": 361
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1180,
+   "males": 891,
+   "females": 289
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 710,
+   "males": 567,
+   "females": 143
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 314,
+   "males": 214,
+   "females": 100
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 25,
+   "males": 14,
+   "females": 11
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 77,
+   "males": 39,
+   "females": 38
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 62,
+   "males": 31,
+   "females": 31
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 11,
+   "males": 5,
+   "females": 6
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1213,
+   "males": 667,
+   "females": 546
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 172,
+   "males": 87,
+   "females": 85
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 28,
+   "males": 20,
+   "females": 8
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 508,
+   "males": 295,
+   "females": 213
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 944,
+   "males": 578,
+   "females": 366
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 426,
+   "males": 255,
+   "females": 171
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 232,
+   "males": 183,
+   "females": 49
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 198,
+   "males": 70,
+   "females": 128
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 486,
+   "males": 317,
+   "females": 169
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 250,
+   "males": 167,
+   "females": 83
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 102,
+   "males": 67,
+   "females": 35
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 17,
+   "males": 10,
+   "females": 7
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 193,
+   "males": 139,
+   "females": 54
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 108,
+   "males": 73,
+   "females": 35
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 23,
+   "males": 10,
+   "females": 13
+  },
+  {
+   "area": "Pilibhit",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Rohilkhand Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 10,
+   "males": 8,
+   "females": 2
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 16250,
+   "males": 9736,
+   "females": 6514
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1737,
+   "males": 1240,
+   "females": 497
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 6297,
+   "males": 3264,
+   "females": 3033
+  },
+  {
+   "area": "Allahabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 1118,
+   "males": 689,
+   "females": 429
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1003,
+   "males": 720,
+   "females": 283
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 445,
+   "males": 385,
+   "females": 60
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 47,
+   "males": 27,
+   "females": 20
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 182,
+   "males": 98,
+   "females": 84
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4751,
+   "males": 3023,
+   "females": 1728
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 184,
+   "males": 139,
+   "females": 45
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 118,
+   "males": 78,
+   "females": 40
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 329,
+   "males": 179,
+   "females": 150
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 3423,
+   "males": 2304,
+   "females": 1119
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 655,
+   "males": 407,
+   "females": 248
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 989,
+   "males": 655,
+   "females": 334
+  },
+  {
+   "area": "Cawnpore",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 523,
+   "males": 352,
+   "females": 171
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 75,
+   "males": 51,
+   "females": 24
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 17,
+   "males": 9,
+   "females": 8
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 34,
+   "males": 25,
+   "females": 9
+  },
+  {
+   "area": "Fatehpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 12,
+   "males": 6,
+   "females": 6
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 6998,
+   "males": 3638,
+   "females": 3360
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 436,
+   "males": 300,
+   "females": 136
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 5109,
+   "males": 2479,
+   "females": 2630
+  },
+  {
+   "area": "Allahabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Allahabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 72,
+   "males": 54,
+   "females": 18
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4964,
+   "males": 3360,
+   "females": 1604
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1674,
+   "males": 1336,
+   "females": 338
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 347,
+   "males": 172,
+   "females": 175
+  },
+  {
+   "area": "Jhansi Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 979,
+   "males": 676,
+   "females": 303
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 4292,
+   "males": 2970,
+   "females": 1322
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1540,
+   "males": 1292,
+   "females": 248
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 295,
+   "males": 141,
+   "females": 154
+  },
+  {
+   "area": "Jhansi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 863,
+   "males": 589,
+   "females": 274
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 223,
+   "males": 131,
+   "females": 92
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 36,
+   "males": 19,
+   "females": 17
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 13,
+   "males": 8,
+   "females": 5
+  },
+  {
+   "area": "Jalaun",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 49,
+   "males": 37,
+   "females": 12
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 171,
+   "males": 132,
+   "females": 39
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 36,
+   "males": 21,
+   "females": 15
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 20,
+   "males": 11,
+   "females": 9
+  },
+  {
+   "area": "Hamirpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 47,
+   "males": 41,
+   "females": 6
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 278,
+   "males": 127,
+   "females": 151
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 62,
+   "males": 4,
+   "females": 58
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 19,
+   "males": 12,
+   "females": 7
+  },
+  {
+   "area": "Banda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Jhansi Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 20,
+   "males": 9,
+   "females": 11
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 14566,
+   "males": 7951,
+   "females": 6615
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 742,
+   "males": 539,
+   "females": 203
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 9389,
+   "males": 4654,
+   "females": 4735
+  },
+  {
+   "area": "Benares Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 850,
+   "males": 453,
+   "females": 397
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 12945,
+   "males": 7023,
+   "females": 5922
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 630,
+   "males": 458,
+   "females": 172
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 8648,
+   "males": 4244,
+   "females": 4404
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 275,
+   "males": 155,
+   "females": 120
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 652,
+   "males": 370,
+   "females": 282
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 61,
+   "males": 46,
+   "females": 15
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 285,
+   "males": 149,
+   "females": 136
+  },
+  {
+   "area": "Mirzapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 239,
+   "males": 125,
+   "females": 114
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 216,
+   "males": 134,
+   "females": 82
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 33,
+   "males": 24,
+   "females": 9
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 116,
+   "males": 67,
+   "females": 49
+  },
+  {
+   "area": "Jaunpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 9,
+   "males": 6,
+   "females": 3
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 611,
+   "males": 314,
+   "females": 297
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 247,
+   "males": 124,
+   "females": 123
+  },
+  {
+   "area": "Ghazipur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 305,
+   "males": 151,
+   "females": 154
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 142,
+   "males": 110,
+   "females": 32
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 93,
+   "males": 70,
+   "females": 23
+  },
+  {
+   "area": "Ballia",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Benares Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 22,
+   "males": 16,
+   "females": 6
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 3207,
+   "males": 1886,
+   "females": 1321
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 306,
+   "males": 212,
+   "females": 94
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 754,
+   "males": 441,
+   "females": 313
+  },
+  {
+   "area": "Gorakhpur Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 745,
+   "males": 401,
+   "females": 344
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 2582,
+   "males": 1468,
+   "females": 1114
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 193,
+   "males": 136,
+   "females": 57
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 679,
+   "males": 403,
+   "females": 276
+  },
+  {
+   "area": "Gorakhpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 629,
+   "males": 324,
+   "females": 305
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 460,
+   "males": 318,
+   "females": 142
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 81,
+   "males": 59,
+   "females": 22
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 43,
+   "males": 22,
+   "females": 21
+  },
+  {
+   "area": "Basti",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 39,
+   "males": 26,
+   "females": 13
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 165,
+   "males": 100,
+   "females": 65
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 32,
+   "males": 17,
+   "females": 15
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 32,
+   "males": 16,
+   "females": 16
+  },
+  {
+   "area": "Azamgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Gorakhpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 77,
+   "males": 51,
+   "females": 26
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 2652,
+   "males": 2129,
+   "females": 523
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1917,
+   "males": 1560,
+   "females": 357
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 97,
+   "males": 72,
+   "females": 25
+  },
+  {
+   "area": "Kumaun Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 323,
+   "males": 228,
+   "females": 95
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1385,
+   "males": 1158,
+   "females": 227
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 1118,
+   "males": 932,
+   "females": 186
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 31,
+   "males": 21,
+   "females": 10
+  },
+  {
+   "area": "Naini Tal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 268,
+   "males": 215,
+   "females": 53
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 145,
+   "males": 129,
+   "females": 16
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 30,
+   "males": 25,
+   "females": 5
+  },
+  {
+   "area": "Almora",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 68,
+   "males": 46,
+   "females": 22
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 999,
+   "males": 756,
+   "females": 243
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 654,
+   "males": 499,
+   "females": 155
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 36,
+   "males": 26,
+   "females": 10
+  },
+  {
+   "area": "Garhwal",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Agra Province",
+    "Kumaun Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 252,
+   "males": 179,
+   "females": 73
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 10239,
+   "males": 6623,
+   "females": 3616
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 3733,
+   "males": 2684,
+   "females": 1049
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 3436,
+   "males": 2113,
+   "females": 1323
+  },
+  {
+   "area": "Oudh",
+   "area_path": [
+    "United Provinces",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 1833,
+   "males": 1029,
+   "females": 804
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 7538,
+   "males": 5041,
+   "females": 2497
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 2937,
+   "males": 2138,
+   "females": 799
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 3110,
+   "males": 1934,
+   "females": 1176
+  },
+  {
+   "area": "Lucknow Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 724,
+   "males": 455,
+   "females": 269
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 5783,
+   "males": 3887,
+   "females": 1896
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 2223,
+   "males": 1660,
+   "females": 563
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 2915,
+   "males": 1819,
+   "females": 1096
+  },
+  {
+   "area": "Lucknow",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 162,
+   "males": 97,
+   "females": 65
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 120,
+   "males": 76,
+   "females": 44
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 78,
+   "males": 46,
+   "females": 32
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "Unao",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 200,
+   "males": 101,
+   "females": 99
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 81,
+   "males": 45,
+   "females": 36
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 61,
+   "males": 27,
+   "females": 34
+  },
+  {
+   "area": "Rae Bareli",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 20,
+   "males": 10,
+   "females": 10
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 856,
+   "males": 589,
+   "females": 267
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 230,
+   "males": 175,
+   "females": 55
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 95,
+   "males": 70,
+   "females": 25
+  },
+  {
+   "area": "Sitapur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 362,
+   "males": 227,
+   "females": 135
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 98,
+   "males": 61,
+   "females": 37
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 54,
+   "males": 38,
+   "females": 16
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 20,
+   "males": 6,
+   "females": 14
+  },
+  {
+   "area": "Hardoi",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 15,
+   "males": 10,
+   "females": 5
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 481,
+   "males": 327,
+   "females": 154
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 271,
+   "males": 174,
+   "females": 97
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 11,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Kheri",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Lucknow Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 158,
+   "males": 106,
+   "females": 52
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 2701,
+   "males": 1582,
+   "females": 1119
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 796,
+   "males": 546,
+   "females": 250
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 326,
+   "males": 179,
+   "females": 147
+  },
+  {
+   "area": "Fyzabad Division",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 1109,
+   "males": 574,
+   "females": 535
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 514,
+   "males": 327,
+   "females": 187
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 275,
+   "males": 178,
+   "females": 97
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 88,
+   "males": 60,
+   "females": 28
+  },
+  {
+   "area": "Fyzabad",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 24,
+   "males": 14,
+   "females": 10
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 605,
+   "males": 385,
+   "females": 220
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 77,
+   "males": 53,
+   "females": 24
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 65,
+   "males": 27,
+   "females": 38
+  },
+  {
+   "area": "Gonda",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 409,
+   "males": 260,
+   "females": 149
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 1015,
+   "males": 560,
+   "females": 455
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 353,
+   "males": 251,
+   "females": 102
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 22,
+   "males": 13,
+   "females": 9
+  },
+  {
+   "area": "Bahraich",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 574,
+   "males": 248,
+   "females": 326
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 155,
+   "males": 89,
+   "females": 66
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 36,
+   "males": 27,
+   "females": 9
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 83,
+   "males": 41,
+   "females": 42
+  },
+  {
+   "area": "Sultanpur",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 30,
+   "males": 18,
+   "females": 12
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 236,
+   "males": 131,
+   "females": 105
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 19,
+   "males": 14,
+   "females": 5
+  },
+  {
+   "area": "Partabgarh",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 20,
+   "males": 10,
+   "females": 10
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 176,
+   "males": 90,
+   "females": 86
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 44,
+   "males": 31,
+   "females": 13
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 49,
+   "males": 24,
+   "females": 25
+  },
+  {
+   "area": "Bara Banki",
+   "area_path": [
+    "United Provinces",
+    "British Territory",
+    "Oudh",
+    "Fyzabad Division"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 52,
+   "males": 24,
+   "females": 28
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 851,
+   "males": 625,
+   "females": 226
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 491,
+   "males": 305,
+   "females": 186
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 297,
+   "males": 265,
+   "females": 32
+  },
+  {
+   "area": "States",
+   "area_path": [
+    "United Provinces"
+   ],
+   "area_is_total": true,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 8,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "Rampur",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 684,
+   "males": 529,
+   "females": 155
+  },
+  {
+   "area": "Rampur",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 422,
+   "males": 268,
+   "females": 154
+  },
+  {
+   "area": "Rampur",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 232,
+   "males": 231,
+   "females": 1
+  },
+  {
+   "area": "Tehri-Garhwal",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 29,
+   "males": 17,
+   "females": 12
+  },
+  {
+   "area": "Tehri-Garhwal",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 26,
+   "males": 15,
+   "females": 11
+  },
+  {
+   "area": "Tehri-Garhwal",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Total Vernaculars foreign to the Province",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    12,
+    13,
+    14
+   ],
+   "persons": 138,
+   "males": 79,
+   "females": 59
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Panjabi",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    15,
+    16,
+    17
+   ],
+   "persons": 43,
+   "males": 22,
+   "females": 21
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19,
+    20
+   ],
+   "persons": 64,
+   "males": 34,
+   "females": 30
+  },
+  {
+   "area": "Benares",
+   "area_path": [
+    "United Provinces",
+    "States"
+   ],
+   "area_is_total": false,
+   "language": "Rajasthani (Marwari)",
+   "lang_path": [
+    "Part A.—Vernaculars of India",
+    "(2) Vernaculars foreign to the Province"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    21,
+    22,
+    23
+   ],
+   "persons": 8,
+   "males": 7,
+   "females": 1
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Right-hand page of the opening begun on leaf 498 (same 66 rows; area labels are on leaf 498, serial numbers 1-51 repeated in the right margin here). Table continues on leaves 500-503. States row, foreign-total males 625 has an ink blot above it but is legible (851 = 625 + 226). All figures on this page reconcile."
+}

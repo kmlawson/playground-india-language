@@ -1,0 +1,2269 @@
+{
+ "key": "cochin",
+ "identifier": "in.ernet.dli.2015.105676",
+ "leaf": 438,
+ "printed_page": "lxvi",
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "Imperial Table XV Part II Bi-lingualism. Rows = mother tongues (COCHIN STATE total; A. Vernaculars of India: 1. Vernacular of the State (Malayalam), 2. Vernaculars foreign to the State; B. Vernaculars of Asiatic Countries beyond India; C. European Languages); columns = Number of persons speaking mother tongue M/F (2-3), then number of persons speaking subsidiary language Malayalam, Tamil, Konkani, English, each M/F (4-11). State level only.",
+ "records": [
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "COCHIN STATE",
+   "mother_tongue_path": [],
+   "mother_tongue_is_total": true,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 589813,
+   "females": 615203,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "COCHIN STATE",
+   "mother_tongue_path": [],
+   "mother_tongue_is_total": true,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 47708,
+   "females": 45543,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "COCHIN STATE",
+   "mother_tongue_path": [],
+   "mother_tongue_is_total": true,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 6693,
+   "females": 5600,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "COCHIN STATE",
+   "mother_tongue_path": [],
+   "mother_tongue_is_total": true,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 32,
+   "females": 30,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "COCHIN STATE",
+   "mother_tongue_path": [],
+   "mother_tongue_is_total": true,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 28153,
+   "females": 8048,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Malayalam",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernacular of the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 530737,
+   "females": 557344,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Malayalam",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernacular of the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 3388,
+   "females": 1023,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Malayalam",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernacular of the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 20,
+   "females": 8,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Malayalam",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernacular of the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 21783,
+   "females": 7559,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Bengali",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Goanese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 11,
+   "females": 1,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Goanese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 9,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Goanese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Goanese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 689,
+   "females": 564,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 405,
+   "females": 265,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1,
+   "females": 3,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gujarati",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 93,
+   "females": 1,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1295,
+   "females": 1191,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1239,
+   "females": 930,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 445,
+   "females": 349,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 182,
+   "females": 4,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 386,
+   "females": 328,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 307,
+   "females": 273,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kachchhi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 56,
+   "females": 2,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kanarese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2387,
+   "females": 2106,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kanarese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 2025,
+   "females": 1713,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kanarese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1080,
+   "females": 989,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kanarese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 5,
+   "females": 4,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Kanarese",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 74,
+   "females": 6,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Konkani",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 11311,
+   "females": 11027,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Konkani",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 9709,
+   "females": 9092,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Konkani",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 84,
+   "females": 31,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Konkani",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 958,
+   "females": 72,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2612,
+   "females": 2598,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 2248,
+   "females": 2142,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 36,
+   "females": 21,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marathi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 250,
+   "females": 21,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Marwari",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Parsi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 4,
+   "females": 4,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Parsi",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": 2,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pashto",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Pashto",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tamil",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 33247,
+   "females": 32917,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tamil",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 25798,
+   "females": 24528,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tamil",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tamil",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 4476,
+   "females": 320,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Telugu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 6016,
+   "females": 6126,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Telugu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 5064,
+   "females": 5815,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Telugu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1593,
+   "females": 3153,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Telugu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 167,
+   "females": 21,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tulu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 442,
+   "females": 289,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tulu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 371,
+   "females": 209,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tulu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 18,
+   "females": 2,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Tulu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 28,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Urdu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 45,
+   "females": 34,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Urdu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 41,
+   "females": 29,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Urdu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Urdu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Urdu",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 7,
+   "females": 2,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Indian unspecified",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 11,
+   "females": 2,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Indian unspecified",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 10,
+   "females": 2,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Indian unspecified",
+   "mother_tongue_path": [
+    "A. Vernaculars of India",
+    "Vernaculars foreign to the State"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Arabic",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 129,
+   "females": 107,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Arabic",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 112,
+   "females": 99,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Arabic",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Arabic",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Chinese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Chinese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hebrew",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 136,
+   "females": 130,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hebrew",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 112,
+   "females": 117,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hebrew",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 13,
+   "females": 5,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Japanese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Japanese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Persian",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Persian",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Persian",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Singhalese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 2,
+   "females": 5,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Singhalese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 2,
+   "females": 3,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Singhalese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Singhalese",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Syriac",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Syriac",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Syriac",
+   "mother_tongue_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Basque",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Basque",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Basque",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "English",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 263,
+   "females": 367,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "English",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 188,
+   "females": 280,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "English",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 30,
+   "females": 23,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "English",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 1,
+   "females": 14,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Flemish",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": null,
+   "females": 2,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Flemish",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "French",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gaelic",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Gaelic",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "German",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": null,
+   "females": 2,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "German",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "German",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "German",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": null,
+   "females": 2,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Italian",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": null,
+   "females": 9,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Italian",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": null,
+   "females": 9,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Portuguese",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 65,
+   "females": 49,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Portuguese",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 55,
+   "females": 43,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Portuguese",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "persons": null,
+   "males": 6,
+   "females": 2,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Portuguese",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Konkani",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Portuguese",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 41,
+   "females": 23,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Spanish",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Spanish",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Spanish",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Welsh",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Welsh",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Cochin State",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Welsh",
+   "mother_tongue_path": [
+    "C. European Languages"
+   ],
+   "mother_tongue_is_total": false,
+   "measure": "subsidiary",
+   "subsidiary": "English",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Area is Cochin State for every record (no district breakdown); mother-tongue names and hierarchy follow leaf0436 (Part I). The COCHIN STATE row is the all-mother-tongue total (mother_tongue_is_total true). Title page leaf 437 note: figures are duplicated for persons using more than one subsidiary language (each counted under each head); the supplement on leaf 439 details them. Checks: every subsidiary column (cols 4-11) sums exactly to the COCHIN STATE row; the mother-tongue columns match Part I (leaf 436) for every language, including Urdu F 34, which Part I left as '?' (Part I persons 79 - males 45 = 34). Faint cells read on zoom and confirmed by the column totals: Hindi-Tamil F 349, Kanarese-Malayalam F 1,713, Kanarese-Tamil M 1,080, Marathi-English M 250. Printed names kept: Basque is printed 'Basque' (faint 'Pasque' in scan)."
+}

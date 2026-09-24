@@ -1,0 +1,4167 @@
+{
+ "key": "punjab",
+ "identifier": "in.ernet.dli.2015.56042",
+ "leaf": 272,
+ "printed_page": 266,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "Left page of a facing pair; rows = Punjab, British Territory, 5 divisions with 29 serial-numbered districts, Punjab States (A: Dujana, Pataudi, Kalsia, Simla Hill States with 6 sub-rows; B: 13 states, Patiala/Jind/Nabha bracketed 'Phulkian States'); columns 3-11 = Population, TOTAL, Vernaculars of the Punjab Total, each Persons/Males/Females.",
+ "records": [
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 28490857,
+   "males": 15561194,
+   "females": 12929663
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 23580852,
+   "males": 12880510,
+   "females": 10700342
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4077565,
+   "males": 2226856,
+   "females": 1850709
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 899479,
+   "males": 485690,
+   "females": 413789
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 805621,
+   "males": 432855,
+   "females": 372766
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 740163,
+   "males": 398513,
+   "females": 341650
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 852614,
+   "males": 469870,
+   "females": 382744
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 742902,
+   "males": 416411,
+   "females": 326491
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 36786,
+   "males": 23517,
+   "females": 13269
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4606446,
+   "males": 2491638,
+   "females": 2114808
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 801312,
+   "males": 415288,
+   "females": 386024
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1032187,
+   "males": 551867,
+   "females": 480320
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 943721,
+   "males": 512667,
+   "females": 431054
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 672494,
+   "males": 375560,
+   "females": 296934
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1156732,
+   "males": 636256,
+   "females": 520476
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 5879075,
+   "males": 3277661,
+   "females": 2601414
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1378570,
+   "males": 794389,
+   "females": 584181
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1117120,
+   "males": 621040,
+   "females": 496080
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 970898,
+   "males": 531935,
+   "females": 438963
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 979617,
+   "males": 537301,
+   "females": 442316
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 736138,
+   "males": 408606,
+   "females": 327532
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 696732,
+   "males": 384390,
+   "females": 312342
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 3914849,
+   "males": 2092622,
+   "females": 1822227
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 922427,
+   "males": 498336,
+   "females": 424091
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 821490,
+   "males": 445836,
+   "females": 375654
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 541076,
+   "males": 282714,
+   "females": 258362
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 634357,
+   "males": 342771,
+   "females": 291586
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 583960,
+   "males": 306949,
+   "females": 277011
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 411539,
+   "males": 216016,
+   "females": 195523
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 5102917,
+   "males": 2791733,
+   "females": 2311184
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 999772,
+   "males": 552456,
+   "females": 447316
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1151351,
+   "males": 630749,
+   "females": 520602
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 664833,
+   "males": 355671,
+   "females": 309162
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1174900,
+   "males": 646025,
+   "females": 528875
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 591375,
+   "males": 320674,
+   "females": 270701
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 520686,
+   "males": 286158,
+   "females": 234528
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4910005,
+   "males": 2680684,
+   "females": 2229321
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 437787,
+   "males": 229290,
+   "females": 208497
+  },
+  {
+   "area": "Dujana",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 28216,
+   "males": 14537,
+   "females": 13679
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 18873,
+   "males": 9922,
+   "females": 8951
+  },
+  {
+   "area": "Kalsia",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 59848,
+   "males": 33306,
+   "females": 26542
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 330850,
+   "males": 171525,
+   "females": 159325
+  },
+  {
+   "area": "Bashahr",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 104389,
+   "males": 51593,
+   "females": 52796
+  },
+  {
+   "area": "Nalagarh",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 50015,
+   "males": 26635,
+   "females": 23380
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 48093,
+   "males": 25734,
+   "females": 22359
+  },
+  {
+   "area": "Baghal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 26352,
+   "males": 13457,
+   "females": 12895
+  },
+  {
+   "area": "Jubbal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 27172,
+   "males": 14507,
+   "females": 12665
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 74829,
+   "males": 39599,
+   "females": 35230
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 4472218,
+   "males": 2451394,
+   "females": 2020824
+  },
+  {
+   "area": "Loharu",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 23338,
+   "males": 12326,
+   "females": 11012
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 148568,
+   "males": 82384,
+   "females": 66184
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 100994,
+   "males": 53154,
+   "females": 47840
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 207465,
+   "males": 107876,
+   "females": 99589
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 58408,
+   "males": 30851,
+   "females": 27557
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 316757,
+   "males": 171529,
+   "females": 145228
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 83072,
+   "males": 45883,
+   "females": 37189
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 164364,
+   "males": 91163,
+   "females": 73201
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 146870,
+   "males": 76059,
+   "females": 70811
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 1625520,
+   "males": 900597,
+   "females": 724923
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 324676,
+   "males": 176383,
+   "females": 148293
+  },
+  {
+   "area": "Nabha",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 287574,
+   "males": 158086,
+   "females": 129488
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    3,
+    4,
+    5
+   ],
+   "persons": 984612,
+   "males": 545103,
+   "females": 439509
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 28459378,
+   "males": 15539866,
+   "females": 12919512
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 23550111,
+   "males": 12859650,
+   "females": 10690461
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4072752,
+   "males": 2223867,
+   "females": 1848885
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 899415,
+   "males": 485647,
+   "females": 413768
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 805586,
+   "males": 432835,
+   "females": 372751
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 739970,
+   "males": 398417,
+   "females": 341553
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 852551,
+   "males": 469829,
+   "females": 382722
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 739464,
+   "males": 414114,
+   "females": 325350
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 35766,
+   "males": 23025,
+   "females": 12741
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4602167,
+   "males": 2488642,
+   "females": 2113525
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 801196,
+   "males": 415217,
+   "females": 385979
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1032150,
+   "males": 551842,
+   "females": 480308
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 942416,
+   "males": 511604,
+   "females": 430812
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 671602,
+   "males": 375183,
+   "females": 296419
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1154803,
+   "males": 634796,
+   "females": 520007
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 5865439,
+   "males": 3268486,
+   "females": 2596953
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1369239,
+   "males": 788178,
+   "females": 581061
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1115724,
+   "males": 620351,
+   "females": 495373
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 970521,
+   "males": 531751,
+   "females": 438770
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 977306,
+   "males": 535328,
+   "females": 441978
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 736065,
+   "males": 408562,
+   "females": 327503
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 696584,
+   "males": 384316,
+   "females": 312268
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 3908653,
+   "males": 2088309,
+   "females": 1820344
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 922216,
+   "males": 498226,
+   "females": 423990
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 821385,
+   "males": 445777,
+   "females": 375608
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 540840,
+   "males": 282575,
+   "females": 258265
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 629217,
+   "males": 339138,
+   "females": 290079
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 583593,
+   "males": 306665,
+   "females": 276928
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 411402,
+   "males": 215928,
+   "females": 195474
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 5101100,
+   "males": 2790346,
+   "females": 2310754
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 999554,
+   "males": 552322,
+   "females": 447232
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1151190,
+   "males": 630681,
+   "females": 520509
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 664736,
+   "males": 355611,
+   "females": 309125
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1173590,
+   "males": 644920,
+   "females": 528670
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 591354,
+   "males": 320661,
+   "females": 270693
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 520676,
+   "males": 286151,
+   "females": 234525
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4909267,
+   "males": 2680216,
+   "females": 2229051
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 437696,
+   "males": 229260,
+   "females": 208436
+  },
+  {
+   "area": "Dujana",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 28212,
+   "males": 14535,
+   "females": 13677
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 18870,
+   "males": 9920,
+   "females": 8950
+  },
+  {
+   "area": "Kalsia",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 59848,
+   "males": 33306,
+   "females": 26542
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 330766,
+   "males": 171499,
+   "females": 159267
+  },
+  {
+   "area": "Bashahr",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 104388,
+   "males": 51592,
+   "females": 52796
+  },
+  {
+   "area": "Nalagarh",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 50015,
+   "males": 26635,
+   "females": 23380
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 48049,
+   "males": 25724,
+   "females": 22325
+  },
+  {
+   "area": "Baghal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 26352,
+   "males": 13457,
+   "females": 12895
+  },
+  {
+   "area": "Jubbal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 27172,
+   "males": 14507,
+   "females": 12665
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 74790,
+   "males": 39584,
+   "females": 35206
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 4471571,
+   "males": 2450956,
+   "females": 2020615
+  },
+  {
+   "area": "Loharu",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 23336,
+   "males": 12325,
+   "females": 11011
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 148548,
+   "males": 82379,
+   "females": 66169
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 100994,
+   "males": 53154,
+   "females": 47840
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 207280,
+   "males": 107719,
+   "females": 99561
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 58392,
+   "males": 30841,
+   "females": 27551
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 316732,
+   "males": 171512,
+   "females": 145220
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 83065,
+   "males": 45878,
+   "females": 37187
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 164361,
+   "males": 91162,
+   "females": 73199
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 146864,
+   "males": 76055,
+   "females": 70809
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 1625276,
+   "males": 900452,
+   "females": 724824
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 324630,
+   "males": 176352,
+   "females": 148278
+  },
+  {
+   "area": "Nabha",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 287574,
+   "males": 158086,
+   "females": 129488
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    6,
+    7,
+    8
+   ],
+   "persons": 984519,
+   "males": 545041,
+   "females": 439478
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 28398058,
+   "males": 15499686,
+   "females": 12898372
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 23506247,
+   "males": 12830208,
+   "females": 10676039
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 4070038,
+   "males": 2221780,
+   "females": 1848258
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 899284,
+   "males": 485564,
+   "females": 413720
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 805491,
+   "males": 432771,
+   "females": 372720
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 739856,
+   "males": 398346,
+   "females": 341510
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 852456,
+   "males": 469759,
+   "females": 382697
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 738867,
+   "males": 413709,
+   "females": 325158
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 34084,
+   "males": 21631,
+   "females": 12453
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 4592696,
+   "males": 2482799,
+   "females": 2109897
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 794384,
+   "males": 411142,
+   "females": 383242
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1032093,
+   "males": 551803,
+   "females": 480290
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 942239,
+   "males": 511508,
+   "females": 430731
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 670254,
+   "males": 374381,
+   "females": 295873
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1153726,
+   "males": 633965,
+   "females": 519761
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 5844056,
+   "males": 3253172,
+   "females": 2590884
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1360265,
+   "males": 781267,
+   "females": 578998
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1108583,
+   "males": 616218,
+   "females": 492365
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 967142,
+   "males": 529081,
+   "females": 438061
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 976754,
+   "males": 534866,
+   "females": 441888
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 735276,
+   "males": 407854,
+   "females": 327422
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 696036,
+   "males": 383886,
+   "females": 312150
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 3905479,
+   "males": 2086171,
+   "females": 1819308
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 921677,
+   "males": 497814,
+   "females": 423863
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 821272,
+   "males": 445714,
+   "females": 375558
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 540563,
+   "males": 282400,
+   "females": 258163
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 627241,
+   "males": 337860,
+   "females": 289381
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 583404,
+   "males": 306516,
+   "females": 276888
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 411322,
+   "males": 215867,
+   "females": 195455
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 5093978,
+   "males": 2786286,
+   "females": 2307692
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 999354,
+   "males": 552187,
+   "females": 447167
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1149940,
+   "males": 629926,
+   "females": 520014
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 664613,
+   "males": 355493,
+   "females": 309120
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1170178,
+   "males": 642969,
+   "females": 527209
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 590985,
+   "males": 320488,
+   "females": 270497
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 518908,
+   "males": 285223,
+   "females": 233685
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 4891811,
+   "males": 2669478,
+   "females": 2222333
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 437299,
+   "males": 228958,
+   "females": 208341
+  },
+  {
+   "area": "Dujana",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 28211,
+   "males": 14534,
+   "females": 13677
+  },
+  {
+   "area": "Pataudi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 18870,
+   "males": 9920,
+   "females": 8950
+  },
+  {
+   "area": "Kalsia",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 59784,
+   "males": 33251,
+   "females": 26533
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 330434,
+   "males": 171253,
+   "females": 159181
+  },
+  {
+   "area": "Bashahr",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 104385,
+   "males": 51589,
+   "females": 52796
+  },
+  {
+   "area": "Nalagarh",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 50006,
+   "males": 26628,
+   "females": 23378
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 47929,
+   "males": 25637,
+   "females": 22292
+  },
+  {
+   "area": "Baghal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 26335,
+   "males": 13443,
+   "females": 12892
+  },
+  {
+   "area": "Jubbal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 27164,
+   "males": 14500,
+   "females": 12664
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 74615,
+   "males": 39456,
+   "females": 35159
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 4454512,
+   "males": 2440520,
+   "females": 2013992
+  },
+  {
+   "area": "Loharu",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 23336,
+   "males": 12325,
+   "females": 11011
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 148086,
+   "males": 82001,
+   "females": 66085
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 100991,
+   "males": 53151,
+   "females": 47840
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 205358,
+   "males": 106024,
+   "females": 99334
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 58319,
+   "males": 30813,
+   "females": 27506
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 316716,
+   "males": 171501,
+   "females": 145215
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 83063,
+   "males": 45877,
+   "females": 37186
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 161406,
+   "males": 89501,
+   "females": 71905
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 144783,
+   "males": 74936,
+   "females": 69847
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 1625101,
+   "males": 900352,
+   "females": 724749
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 324601,
+   "males": 176329,
+   "females": 148272
+  },
+  {
+   "area": "Nabha",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 287561,
+   "males": 158079,
+   "females": 129482
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "language": "Total",
+   "lang_path": [
+    "Indian Vernaculars",
+    "Vernaculars of the Punjab"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10,
+    11
+   ],
+   "persons": 975191,
+   "males": 539631,
+   "females": 435560
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Bashahr / Population / persons: doubtful, read as 104389",
+  "Chamba / Population / persons: doubtful, read as 146870"
+ ],
+ "notes": "Cols 3-5 'POPULATION' (all languages). Cols 6-8 headed simply 'TOTAL.' outside the 'INDIAN VERNACULARS' banner; it is the total of Indian vernaculars (Population minus Asiatic/African and European languages) and is recorded with lang_path ['Indian Vernaculars']. Cols 9-11 'Total' of Vernaculars of the Punjab. Population persons figures are printed in italics; Bashahr (104,389) and Chamba (146,870) italic second/third digit '4' is faint and resembles '1', read as 4 (agrees with Males+Females). Table continues on leaves 273-278 (Part I ends p.272 = leaf 278); manifest is off by one: Part II begins on leaf 279 (p.273)."
+}

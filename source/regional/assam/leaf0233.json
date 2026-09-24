@@ -1,0 +1,986 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 233,
+ "printed_page": 227,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/divisions/states, columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 80831,
+   "males": 41560,
+   "females": 39271
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 80831,
+   "males": 41560,
+   "females": 39271
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 9,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 75073,
+   "males": 38603,
+   "females": 36470
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 4,
+   "males": 3,
+   "females": 1
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 5,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 5734,
+   "males": 2876,
+   "females": 2858
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 33068,
+   "males": 16819,
+   "females": 16249
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 36254,
+   "males": 18899,
+   "females": 17355
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 5281,
+   "males": 2701,
+   "females": 2580
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Miri",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15,
+    16
+   ],
+   "persons": 468,
+   "males": 247,
+   "females": 221
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1644,
+   "males": 931,
+   "females": 713
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1644,
+   "males": 931,
+   "females": 713
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 943,
+   "males": 565,
+   "females": 378
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 358,
+   "males": 217,
+   "females": 141
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 582,
+   "males": 346,
+   "females": 236
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Dafla",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    17,
+    18,
+    19
+   ],
+   "persons": 701,
+   "males": 366,
+   "females": 335
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 2285,
+   "males": 1286,
+   "females": 999
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 2285,
+   "males": 1286,
+   "females": 999
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 335,
+   "males": 230,
+   "females": 105
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 98,
+   "males": 58,
+   "females": 40
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 237,
+   "males": 172,
+   "females": 65
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Mishmi",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21,
+    22
+   ],
+   "persons": 1950,
+   "males": 1056,
+   "females": 894
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 192480,
+   "males": 97077,
+   "females": 95403
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 187266,
+   "males": 94514,
+   "females": 92752
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 4346,
+   "males": 2208,
+   "females": 2138
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 2026,
+   "males": 1047,
+   "females": 979
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 2220,
+   "males": 1102,
+   "females": 1118
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 99,
+   "males": 58,
+   "females": 41
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 182663,
+   "males": 92175,
+   "females": 90488
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 20906,
+   "males": 10684,
+   "females": 10222
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 7918,
+   "males": 4091,
+   "females": 3827
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 437,
+   "males": 235,
+   "females": 202
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 395,
+   "males": 197,
+   "females": 198
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 659,
+   "males": 347,
+   "females": 312
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 49,
+   "males": 41,
+   "females": 8
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 152299,
+   "males": 76580,
+   "females": 75719
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 25,
+   "males": 16,
+   "females": 9
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 232,
+   "males": 115,
+   "females": 117
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 14,
+   "males": 8,
+   "females": 6
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Garo",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    23,
+    24,
+    25
+   ],
+   "persons": 5200,
+   "males": 2555,
+   "females": 2645
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Continuation of Table XV Part I (A.-Vernaculars of India (Vernaculars of Assam)-contd.)."
+}

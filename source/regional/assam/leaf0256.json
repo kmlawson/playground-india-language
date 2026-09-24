@@ -1,0 +1,889 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 256,
+ "printed_page": 250,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/divisions/states, columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 7440,
+   "males": 3634,
+   "females": 3806
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 7440,
+   "males": 3634,
+   "females": 3806
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 837,
+   "males": 264,
+   "females": 573
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 676,
+   "males": 182,
+   "females": 494
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 161,
+   "males": 82,
+   "females": 79
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": 3233
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 39,
+   "males": 18,
+   "females": 21
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 14,
+   "males": 2,
+   "females": 12
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 1263,
+   "males": 652,
+   "females": 611
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 190,
+   "males": 94,
+   "females": 96
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 4103,
+   "males": 2095,
+   "females": 2008
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 993,
+   "males": 508,
+   "females": 485
+  },
+  {
+   "area": "Balipara Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Turi",
+   "lang_path": [
+    "A. Vernaculars of India (outside Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    287,
+    288,
+    289
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 790,
+   "males": 544,
+   "females": 246
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 782,
+   "males": 539,
+   "females": 243
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 70,
+   "males": 43,
+   "females": 27
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 27,
+   "males": 21,
+   "females": 6
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 43,
+   "males": 22,
+   "females": 21
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 476,
+   "males": 353,
+   "females": 123
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 125,
+   "males": 122,
+   "females": 3
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 92,
+   "males": 53,
+   "females": 39
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 82,
+   "males": 65,
+   "females": 17
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 160,
+   "males": 102,
+   "females": 58
+  },
+  {
+   "area": "Garo Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 16,
+   "males": 10,
+   "females": 6
+  },
+  {
+   "area": "Sadiya Frontier Tract",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 236,
+   "males": 143,
+   "females": 93
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia of Tibet",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    290,
+    291,
+    292
+   ],
+   "persons": 8,
+   "males": 5,
+   "females": 3
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 532,
+   "males": 429,
+   "females": 103
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 507,
+   "males": 408,
+   "females": 99
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 52,
+   "males": 42,
+   "females": 10
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 9,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 23,
+   "males": 21,
+   "females": 2
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 19,
+   "males": 13,
+   "females": 6
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 455,
+   "males": 366,
+   "females": 89
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 132,
+   "males": 111,
+   "females": 21
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 25,
+   "males": 21,
+   "females": 4
+  },
+  {
+   "area": "Sibsagar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 72,
+   "males": 60,
+   "females": 12
+  },
+  {
+   "area": "Lakhimpur",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 220,
+   "males": 170,
+   "females": 50
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Chinese",
+   "lang_path": [
+    "B. Vernaculars of Asiatic Countries beyond India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    293,
+    294,
+    295
+   ],
+   "persons": 25,
+   "males": 21,
+   "females": 4
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Turi (cols 287-288), Assam Valley Division: Persons third digit ink-blotted (6,6?2; parts sum to 6,602)",
+  "Turi, Assam Valley Division: Males last digit ink-blotted (3,36?; parts sum to 3,369)"
+ ],
+ "notes": "Turi closes 'A. Vernaculars of India (outside Assam)' (concld.); Bhotia of Tibet and Chinese open 'B.-Vernaculars of Asiatic countries beyond India'. Turi, Assam Valley Division: Persons third digit and Males last digit are ink-blotted and cannot be read (Persons prints '6,6?2', Males '3,36?'). The printed district figures add up to 6,602 persons and 3,369 males, and British Territory (7,440 = 837 + AV + 1) also implies 6,602; left as '?' because the digits themselves are illegible."
+}

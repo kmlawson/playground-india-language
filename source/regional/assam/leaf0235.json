@@ -1,0 +1,596 @@
+{
+ "key": "assam",
+ "identifier": "in.ernet.dli.2015.56020",
+ "leaf": 235,
+ "printed_page": 229,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts/divisions/states, columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 14680,
+   "males": 7439,
+   "females": 7241
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 14680,
+   "males": 7439,
+   "females": 7241
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 14088,
+   "males": 7144,
+   "females": 6944
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 13547,
+   "males": 6873,
+   "females": 6674
+  },
+  {
+   "area": "Naga Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 541,
+   "males": 271,
+   "females": 270
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 592,
+   "males": 295,
+   "females": 297
+  },
+  {
+   "area": "Goalpara",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 6,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Dimasa or Hills Kachari",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    38,
+    39,
+    40
+   ],
+   "persons": 586,
+   "males": 292,
+   "females": 294
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 9017,
+   "males": 4280,
+   "females": 4737
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 8673,
+   "males": 4089,
+   "females": 4584
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 3105,
+   "males": 1354,
+   "females": 1751
+  },
+  {
+   "area": "Khasi and Jaintia Hills (British)",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 3105,
+   "males": 1354,
+   "females": 1751
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 5568,
+   "males": 2735,
+   "females": 2833
+  },
+  {
+   "area": "Kamrup",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 744,
+   "males": 368,
+   "females": 376
+  },
+  {
+   "area": "Darrang",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 4822,
+   "males": 2367,
+   "females": 2455
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Lalung",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    41,
+    42,
+    43
+   ],
+   "persons": 344,
+   "males": 101,
+   "females": 153
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 6404,
+   "males": 3536,
+   "females": 2868
+  },
+  {
+   "area": "(1) British Territory",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": true,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 6083,
+   "males": 3368,
+   "females": 2715
+  },
+  {
+   "area": "Surma Valley and Hill Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 6082,
+   "males": 3367,
+   "females": 2715
+  },
+  {
+   "area": "Cachar",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 852,
+   "males": 396,
+   "females": 456
+  },
+  {
+   "area": "Sylhet",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 4867,
+   "males": 2864,
+   "females": 2003
+  },
+  {
+   "area": "Lushai Hills",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Surma Valley and Hill Division"
+   ],
+   "area_is_total": false,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 363,
+   "males": 107,
+   "females": 256
+  },
+  {
+   "area": "Assam Valley Division",
+   "area_path": [
+    "Assam",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Nowgong",
+   "area_path": [
+    "Assam",
+    "British Territory",
+    "Assam Valley Division"
+   ],
+   "area_is_total": false,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "(3) Khasi States",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Tipura",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    44,
+    45,
+    46
+   ],
+   "persons": 321,
+   "males": 168,
+   "females": 153
+  },
+  {
+   "area": "ASSAM",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kachha Naga",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    47,
+    48,
+    49
+   ],
+   "persons": 7282,
+   "males": 3536,
+   "females": 3746
+  },
+  {
+   "area": "(2) Manipur State",
+   "area_path": [
+    "Assam"
+   ],
+   "area_is_total": false,
+   "language": "Kachha Naga",
+   "lang_path": [
+    "A.-Vernaculars of India (Vernaculars of Assam)"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    47,
+    48,
+    49
+   ],
+   "persons": 7282,
+   "males": 3536,
+   "females": 3746
+  }
+ ],
+ "footnotes": "* [Tipura] This is a Kuki language and corresponds to the Hallam of the Linguistic Survey. Some examples are given in the appendix to chapter X.",
+ "unreadable": [],
+ "notes": "Continuation of Table XV Part I. The right half of the page (Tipura, Kachha Naga) is printed skewed: figures sit up to about half a row above their labels; rows were assigned by sequence counting within each column (e.g. Tipura 363/107/256 is the 5th district row = Lushai Hills; Tipura 1/1 is on the Nowgong line, with Lalung 4,822; Kachha Naga 7,282 = Manipur State; Tipura 321 = Khasi States). Lalung, Khasi States males: italic figure reads 101 at zoom (middle glyph an oval without tail), but British Territory 4,089 + 101 = 4,190 vs ASSAM 4,280, and 344 - 153 = 191, so 191 is intended; kept as read (101). Header of Dimasa printed \"Dimasa or Hills Kachari\"."
+}

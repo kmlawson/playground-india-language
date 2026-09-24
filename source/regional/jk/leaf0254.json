@@ -1,0 +1,593 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 254,
+ "printed_page": 244,
+ "table": "XV Part II",
+ "subtable": "A. Bilingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri, Punjabi, Kashmiri (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Jasmergarh Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Kathua District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1300,
+   "males": 675,
+   "females": 625,
+   "remarks": ""
+  },
+  {
+   "area": "Jasmergarh Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Kathua District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 84,
+   "males": 71,
+   "females": 13,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 37674,
+   "males": 19594,
+   "females": 18080,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 45,
+   "males": 36,
+   "females": 9,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 6,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 2590,
+   "males": 1684,
+   "females": 906,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 468,
+   "males": 266,
+   "females": 202,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 50,
+   "males": 46,
+   "females": 4,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 2533,
+   "males": 1452,
+   "females": 1081,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1367,
+   "males": 669,
+   "females": 698,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 3913,
+   "males": 2073,
+   "females": 1840,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 753,
+   "males": 396,
+   "females": 357,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 17,
+   "males": 15,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 593,
+   "males": 344,
+   "females": 249,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 175,
+   "males": 98,
+   "females": 77,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 16,
+   "males": 10,
+   "females": 6,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 17,
+   "males": 17,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 117,
+   "males": 67,
+   "females": 50,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 36,
+   "males": 4,
+   "females": 32,
+   "remarks": ""
+  },
+  {
+   "area": "Udhampur Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 46181,
+   "males": 23144,
+   "females": 23037,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 411,
+   "males": 99,
+   "females": 312,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 146,
+   "males": 94,
+   "females": 52,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1752,
+   "males": 1340,
+   "females": 412,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 73,
+   "males": 63,
+   "females": 10,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 44,
+   "females": 16,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1762,
+   "males": 254,
+   "females": 1508,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 165,
+   "males": 160,
+   "females": 5,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pahari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1845,
+   "males": 1785,
+   "females": 60,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 235,
+   "males": 200,
+   "females": 35,
+   "remarks": ""
+  },
+  {
+   "area": "Ramnagar Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province",
+    "Udhampur District"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 117,
+   "males": 117,
+   "females": null,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Header page. Top block labelled 'Jasmergarh Tehsil' (continues from leaf 253; Kathua District). Then 'Udhampur Tehsil' and 'Ramnagar Tehsil' inside an outer brace whose label is not on this page; assigned to Udhampur District (Part I name) - confirmed by the brace/labels on leaf 255. All-nil rows omitted: Jasmergarh Chabhali/Pothwari/Balti/Ladakhi; Udhampur Chabhali/Ladakhi; Ramnagar Chabhali/Pothwari/Balti. Ramnagar block continues on leaf 255 (Ladakhi). Remarks column empty."
+}

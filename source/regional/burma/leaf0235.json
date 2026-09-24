@@ -1,0 +1,2170 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 235,
+ "printed_page": 229,
+ "table": "XV Part I",
+ "part": "I-D Distribution of Language-groups by Districts",
+ "orientation": "upright",
+ "layout": "rows = districts and states (with division and province totals), columns = language groups (Males/Females); leaf 234 also has Total Population Persons/Males/Females. Each record's language is a whole language group, so lang_is_total = true.",
+ "records": [
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 170005,
+   "females": 173849
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 2145,
+   "females": 2056
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 74051,
+   "females": 79846
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 17030,
+   "females": 18207
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 7253,
+   "females": 6841
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 169981,
+   "females": 173841
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 2144,
+   "females": 2056
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 43507,
+   "females": 46017
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 16761,
+   "females": 18118
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 7253,
+   "females": 6841
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 36810,
+   "females": 35441
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 28,
+   "females": null
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3461,
+   "females": 3389
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 7252,
+   "females": 6841
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 14866,
+   "females": 14534
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 28,
+   "females": null
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 3461,
+   "females": 3389
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 6043,
+   "females": 5652
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 8213,
+   "females": 8054
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 1209,
+   "females": 1189
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 9545,
+   "females": 8658
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 4186,
+   "females": 4195
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 8280,
+   "females": 8649
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 112,
+   "females": 91
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 123,
+   "females": 97
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "H.-Mro Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    17,
+    18
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 660,
+   "females": 642
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 612,
+   "females": 637
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 125,
+   "females": 124
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 35,
+   "females": 38
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 6754,
+   "females": 7149
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 63,
+   "females": 51
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2730,
+   "females": 2716
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 3
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 493,
+   "females": 466
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2215,
+   "females": 2241
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 9
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 17,
+   "females": null
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 305,
+   "females": 332
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 17,
+   "females": null
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 13
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 290,
+   "females": 318
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 114543,
+   "females": 120236
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 11092,
+   "females": 11282
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 9566,
+   "females": 9791
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1073,
+   "females": 1211
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 10607,
+   "females": 10914
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chin Hills",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 82205,
+   "females": 87038
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 2245,
+   "females": 2036
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 799,
+   "females": 190
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 1299,
+   "females": 1183
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 788,
+   "females": 185
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 911,
+   "females": 851
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5068,
+   "females": 4431
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 2116,
+   "females": 2056
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 42576,
+   "females": 45733
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 13298,
+   "females": 14729
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 8
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 21667,
+   "females": 25118
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 77,
+   "females": 59
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 183,
+   "females": 96
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 20061,
+   "females": 19955
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1788,
+   "females": 1511
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 218,
+   "females": 284
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 80,
+   "females": 8
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 807,
+   "females": 642
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 10669,
+   "females": 12386
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 33,
+   "females": 1
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 13,
+   "females": null
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 4517,
+   "females": 4034
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 2103,
+   "females": 2056
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 32,
+   "females": 18
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 764,
+   "females": 772
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 8
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 30544,
+   "females": 33829
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 269,
+   "females": 89
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 30205,
+   "females": 33480
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 268,
+   "females": 89
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 7
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "D.-Naga Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    11,
+    12
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 318,
+   "females": 349
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "F.-Sak (Lui) Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    15,
+    16
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C.-Kuki-Chin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    9,
+    10
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "E.-Kachin Group",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    13,
+    14
+   ],
+   "persons": null,
+   "males": 21,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Sagaing Division Naga (D) Males printed '2,11?' in italic with the top of the final digit broken; read as 2,116 (Katha 13 + Upper Chindwin 2,103 = 2,116; Divisional Burma 2,144 = Arakan 28 + 2,116). Figures in the right-hand columns sit slightly lower than their serial numbers; assigned by counting entries. No row labels on this page (area names from leaf 234 by serial number / row order). Group G (Mishmi) and M (Khasi) are not shown in Part I-D (nil in Part I-B). Part I-D Distribution of Language-groups by Districts; table runs across leaves 234-237 (printed pages 228-231), rows = Provincial Total, Divisional Burma, 7 divisions with 38 districts (serial 1-38), Eastern States with serial 39-41. Self-check: for every row Total Males/Females = sum of all group Males/Females, and every division/total row = sum of its parts (all pass except the illegible Irrawaddy Persons digit)."
+}

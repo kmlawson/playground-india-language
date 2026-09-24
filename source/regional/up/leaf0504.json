@@ -1,0 +1,2377 @@
+{
+ "key": "up",
+ "identifier": "in.ernet.dli.2015.56044",
+ "leaf": 504,
+ "printed_page": 490,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = tahsils within districts/states; columns = mother tongue x subsidiary language, Males/Females",
+ "records": [
+  {
+   "area": "Dehra",
+   "area_path": [
+    "United Provinces",
+    "Dehra Dun"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": null,
+   "persons": null,
+   "males": 154,
+   "females": 82,
+   "cols": [
+    3,
+    4
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dehra",
+   "area_path": [
+    "United Provinces",
+    "Dehra Dun"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 128,
+   "females": 16,
+   "cols": [
+    5,
+    6
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dehra",
+   "area_path": [
+    "United Provinces",
+    "Dehra Dun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 95506,
+   "females": 63875,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dehra",
+   "area_path": [
+    "United Provinces",
+    "Dehra Dun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 7,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Jansath",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 113186,
+   "females": 94908,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Jansath",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Kairana",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 124058,
+   "females": 101642,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Kairana",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 144510,
+   "females": 119356,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Muzaffarnagar",
+   "area_path": [
+    "United Provinces",
+    "Muzaffarnagar"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 2,
+   "females": 6,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Baghpat",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 168470,
+   "females": 143262,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Baghpat",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Baghpat",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": 6,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Ghaziabad",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 150643,
+   "females": 128271,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Ghaziabad",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 124,
+   "females": 220,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Hapur",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 141142,
+   "females": 121914,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Hapur",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 238,
+   "females": 165,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Mawana",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 106637,
+   "females": 91804,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Mawana",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Mawana",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 251,
+   "females": 202,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 175030,
+   "females": 138887,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 12,
+   "females": 2,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Meerut",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 112,
+   "females": 361,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Sardhana",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 123680,
+   "females": 103907,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Sardhana",
+   "area_path": [
+    "United Provinces",
+    "Meerut"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 7,
+   "females": 3,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Anupshahr",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 152186,
+   "females": 135993,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Anupshahr",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Anupshahr",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 9,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Bulandshahr",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 181614,
+   "females": 160500,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Khurja",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 137462,
+   "females": 120841,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Khurja",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 4,
+   "females": 5,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Sikandrabad",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 132452,
+   "females": 115403,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Sikandrabad",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": null,
+   "females": 3,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Sikandrabad",
+   "area_path": [
+    "United Provinces",
+    "Bulandshahr"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 152000,
+   "females": 125000,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Marathi",
+   "persons": null,
+   "males": 3,
+   "females": 7,
+   "cols": [
+    11,
+    12
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    13,
+    14
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 20,
+   "females": 11,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Haburi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    19,
+    20
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aligarh",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 16,
+   "females": 16,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Hathras",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 113691,
+   "females": 94570,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Hathras",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 4,
+   "females": 3,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Khair",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 96100,
+   "females": 84100,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Khair",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": null,
+   "persons": null,
+   "males": 40,
+   "females": 26,
+   "cols": [
+    25,
+    26
+   ],
+   "starred": true
+  },
+  {
+   "area": "Khair",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 40,
+   "females": 26,
+   "cols": [
+    27,
+    28
+   ],
+   "starred": true
+  },
+  {
+   "area": "Sikandra Rao",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 101591,
+   "females": 84537,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Sikandra Rao",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Sikandra Rao",
+   "area_path": [
+    "United Provinces",
+    "Aligarh"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Haburi",
+   "persons": null,
+   "males": 21,
+   "females": 27,
+   "cols": [
+    19,
+    20
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mat",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 81687,
+   "females": 68237,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mat",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Haburi",
+   "persons": null,
+   "males": 13,
+   "females": 16,
+   "cols": [
+    19,
+    20
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mat",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": null,
+   "persons": null,
+   "males": 13,
+   "females": 16,
+   "cols": [
+    25,
+    26
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mat",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 13,
+   "females": 16,
+   "cols": [
+    27,
+    28
+   ],
+   "starred": true
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 115234,
+   "females": 94771,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 5,
+   "females": 2,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Muttra",
+   "area_path": [
+    "United Provinces",
+    "Muttra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 11,
+   "females": 15,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 181353,
+   "females": 147623,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 15,
+   "females": 4,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Agra",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 51,
+   "females": 11,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bah",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 62400,
+   "females": 52400,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bah",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bah",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etmadpur",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 80278,
+   "females": 66977,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etmadpur",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etmadpur",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Firozabad",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 64611,
+   "females": 53782,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Firozabad",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 17,
+   "females": 20,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Firozabad",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kheragarh",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 61917,
+   "females": 51100,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kheragarh",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 6,
+   "females": 2,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kiraoli",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 58800,
+   "females": 48700,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kiraoli",
+   "area_path": [
+    "United Provinces",
+    "Agra"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "Mainpuri"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 88400,
+   "females": 70800,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "Mainpuri"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 5,
+   "females": 4,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mainpuri",
+   "area_path": [
+    "United Provinces",
+    "Mainpuri"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 5,
+   "females": 1,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mustafabad (Jasrana)",
+   "area_path": [
+    "United Provinces",
+    "Mainpuri"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 73400,
+   "females": 60700,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Mustafabad (Jasrana)",
+   "area_path": [
+    "United Provinces",
+    "Mainpuri"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1,
+   "females": 2,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aliganj",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 122700,
+   "females": 102400,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aliganj",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 58,
+   "females": 28,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 128272,
+   "females": 108563,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 57,
+   "females": 27,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": null,
+   "persons": null,
+   "males": 4,
+   "females": 3,
+   "cols": [
+    25,
+    26
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etah",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Haburi",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 4,
+   "females": 3,
+   "cols": [
+    27,
+    28
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kasganj",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 150079,
+   "females": 129000,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Kasganj",
+   "area_path": [
+    "United Provinces",
+    "Etah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aonla",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 109000,
+   "females": 95500,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Aonla",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Baheri",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 103200,
+   "females": 88400,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Baheri",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 227216,
+   "females": 190666,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Marathi",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    11,
+    12
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bareilly",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 11,
+   "females": 18,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Faridpur",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 68300,
+   "females": 58000,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Faridpur",
+   "area_path": [
+    "United Provinces",
+    "Bareilly"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 117714,
+   "females": 103322,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Bijnor",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 84,
+   "females": 64,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dhampur",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 147076,
+   "females": 132658,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dhampur",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Marathi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "starred": false
+  },
+  {
+   "area": "Dhampur",
+   "area_path": [
+    "United Provinces",
+    "Bijnor"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 10,
+   "females": 6,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "Budaun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 139562,
+   "females": 119197,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Budaun",
+   "area_path": [
+    "United Provinces",
+    "Budaun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Sahaswan",
+   "area_path": [
+    "United Provinces",
+    "Budaun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 102036,
+   "females": 87132,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Sahaswan",
+   "area_path": [
+    "United Provinces",
+    "Budaun"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 21,
+   "females": 38,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Amroha",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 120113,
+   "females": 108806,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Amroha",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Amroha",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Bilari",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 122901,
+   "females": 104000,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Bilari",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 3,
+   "females": 1,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Hasanpur",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 95715,
+   "females": 82360,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Hasanpur",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 152072,
+   "females": 130251,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": false
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 3,
+   "females": 3,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": false
+  },
+  {
+   "area": "Moradabad",
+   "area_path": [
+    "United Provinces",
+    "Moradabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 14,
+   "females": 8,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": false
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "Shahjahanpur"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "starred": true
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "Shahjahanpur"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "starred": true
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "Shahjahanpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 144874,
+   "females": 122134,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Shahjahanpur",
+   "area_path": [
+    "United Provinces",
+    "Shahjahanpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 8,
+   "females": 6,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Bhotia",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 166807,
+   "females": 137515,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Marathi",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "persons": null,
+   "males": 25,
+   "females": 22,
+   "cols": [
+    17,
+    18
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "persons": null,
+   "males": 26,
+   "females": 10,
+   "cols": [
+    21,
+    22
+   ],
+   "starred": true
+  },
+  {
+   "area": "Farrukhabad",
+   "area_path": [
+    "United Provinces",
+    "Farrukhabad"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Nepali",
+   "persons": null,
+   "males": 1,
+   "females": 5,
+   "cols": [
+    23,
+    24
+   ],
+   "starred": true
+  },
+  {
+   "area": "Auraiya",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 98994,
+   "females": 80700,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Auraiya",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Nati",
+   "subsidiary": null,
+   "persons": null,
+   "males": 22,
+   "females": null,
+   "cols": [
+    37,
+    38
+   ],
+   "starred": true
+  },
+  {
+   "area": "Auraiya",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Nati",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 22,
+   "females": null,
+   "cols": [
+    39,
+    40
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bharthana",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 97363,
+   "females": 78859,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bharthana",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanphari",
+   "subsidiary": null,
+   "persons": null,
+   "males": 51,
+   "females": 22,
+   "cols": [
+    33,
+    34
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bharthana",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanphari",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 51,
+   "females": 22,
+   "cols": [
+    35,
+    36
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bharthana",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Nati",
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    37,
+    38
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bharthana",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Nati",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    39,
+    40
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bidhuna",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 94013,
+   "females": 72838,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bidhuna",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanjari",
+   "subsidiary": null,
+   "persons": null,
+   "males": null,
+   "females": 19,
+   "cols": [
+    29,
+    30
+   ],
+   "starred": true
+  },
+  {
+   "area": "Bidhuna",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanjari",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": null,
+   "females": 19,
+   "cols": [
+    31,
+    32
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Hindustani",
+   "subsidiary": null,
+   "persons": null,
+   "males": 118948,
+   "females": 98689,
+   "cols": [
+    7,
+    8
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanjari",
+   "subsidiary": null,
+   "persons": null,
+   "males": 75,
+   "females": 59,
+   "cols": [
+    29,
+    30
+   ],
+   "starred": true
+  },
+  {
+   "area": "Etawah",
+   "area_path": [
+    "United Provinces",
+    "Etawah"
+   ],
+   "mother_tongue": "Kanjari",
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 75,
+   "females": 59,
+   "cols": [
+    31,
+    32
+   ],
+   "starred": true
+  }
+ ],
+ "footnotes": "Asterisked tahsils: see footnote printed on p. 491 (leaf 505): figures in columns 7 and 8 approximate.",
+ "unreadable": [],
+ "notes": "Table XV Part II 'Bi-lingualism', one opening pp. 490-491 (continued from leaf 504 to 505; header printed only on p. 490). Only Males and Females are printed (no Persons column): persons is null throughout. Rows = tahsils grouped under district (area_path = [United Provinces, district]); only tahsils where bilingualism was recorded are listed. Columns: 3-4 total returning mother tongue Bhotia, 5-6 of whom subsidiary Hindustani; 7-8 total returning mother tongue Hindustani; 9-24 of whom subsidiary Bhotia, Marathi, Oriya, Bihari, Rajasthani, Haburi, Punjabi, Nepali; 25-28 Haburi total / subsidiary Hindustani; 29-32 Kanjari; 33-36 Kanphari; 37-40 Nati. Records with subsidiary null are the 'total who returned mother-tongue X' columns (not a subsidiary language). null in males/females = printed '..' (nil); a record is emitted when at least one of the pair is printed. Page is printed sideways (rotated 90 deg clockwise to read) and slightly skewed: small figures in the right-hand columns sit up to ~20 px (about 2/3 of a row) lower than the row's figures in cols 7-8, so row placement was fixed by measuring baselines and counting row-dot clusters (work/blobs.py) rather than by eye alone. No totals are printed in this table (no district/province total rows), so the only arithmetic checks are subsidiary <= total for each mother tongue (all pass). 49 tahsil rows, Dehra Dun to Etawah; continues on leaf 505. Printed district name 'Moerut' read as Meerut (broken type; tahsil 'Meerut' same). Tahsil 'Mustafabad * (Jasrana).' printed over two lines."
+}

@@ -1,0 +1,2351 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 229,
+ "printed_page": 221,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "Bilingualism, Mother-tongue Banajari: rows = State (incl./excl. C&M Station), cities and districts; columns = Mother-tongue M/F (2-3), Total of subsidiary languages (4-5), subsidiary languages Kannada, Telugu, Hindustani, Tamil, Marathi, Tulu, Konkani (6-19), Two/Three/Four/Five subsidiary languages (20-27), each Males/Females. Most cells print an upright figure over an italic figure: upright = all speaking that subsidiary language (incl. multilinguals), italic = speaking only that one subsidiary language (italic flag in records). Cols 20-27 print italic figures only.",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 29194,
+   "females": 28221,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 26429,
+   "females": 22778,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 24458,
+   "females": 21398,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 22889,
+   "females": 19977,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 20872,
+   "females": 18537,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1729,
+   "females": 1458,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1390,
+   "females": 1254,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1729,
+   "females": 1236,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 198,
+   "females": 165,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": 41,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": null,
+   "females": 19,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 80,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 79,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1865,
+   "females": 1334,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 53,
+   "females": 23,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 29192,
+   "females": 28221,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 26429,
+   "females": 22778,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 24458,
+   "females": 21398,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 22889,
+   "females": 19977,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 20872,
+   "females": 18537,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1729,
+   "females": 1458,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1390,
+   "females": 1254,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1729,
+   "females": 1236,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 198,
+   "females": 165,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": 41,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": null,
+   "females": 19,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 80,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 79,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1865,
+   "females": 1334,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 53,
+   "females": 23,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2,
+   "females": 8,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2511,
+   "females": 2373,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 2376,
+   "females": 2073,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 2233,
+   "females": 1947,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2133,
+   "females": 1850,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1994,
+   "females": 1726,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 58,
+   "females": 54,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 22,
+   "females": 21,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 185,
+   "females": 165,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 78,
+   "females": 76,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": null,
+   "females": 4,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 135,
+   "females": 122,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 4,
+   "females": 2,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 753,
+   "females": 600,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 670,
+   "females": 509,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 665,
+   "females": 506,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 15,
+   "females": 15,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 10,
+   "females": 12,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 655,
+   "females": 494,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 650,
+   "females": 491,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 5,
+   "females": 3,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2558,
+   "females": 2593,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 2317,
+   "females": 2256,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 2175,
+   "females": 2157,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1649,
+   "females": 1601,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1526,
+   "females": 1522,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 568,
+   "females": 556,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 502,
+   "females": 522,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 100,
+   "females": 81,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 23,
+   "females": 34,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": null,
+   "females": 18,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 106,
+   "females": 59,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 18,
+   "females": 20,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 15,
+   "females": 13,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 225,
+   "females": 211,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 196,
+   "females": 168,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 195,
+   "females": 168,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 195,
+   "females": 167,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 194,
+   "females": 167,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 6375,
+   "females": 6231,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 5801,
+   "females": 5212,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 5268,
+   "females": 4938,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 5077,
+   "females": 4717,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 4473,
+   "females": 4361,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 434,
+   "females": 354,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 209,
+   "females": 220,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 209,
+   "females": 57,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": null,
+   "females": 18,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tamil",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": null,
+   "females": 18,
+   "cols": [
+    12,
+    13
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 80,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Marathi",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 79,
+   "females": 66,
+   "cols": [
+    14,
+    15
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Tulu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 475,
+   "females": 272,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 29,
+   "females": 1,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2234,
+   "females": 2239,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 1887,
+   "females": 1950,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1830,
+   "females": 1901,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1823,
+   "females": 1901,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 1766,
+   "females": 1852,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 7,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 56,
+   "females": 49,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 57,
+   "females": 49,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 3823,
+   "females": 3667,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 3411,
+   "females": 3569,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 2945,
+   "females": 3217,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2925,
+   "females": 3197,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 2460,
+   "females": 2845,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 485,
+   "females": 372,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 20,
+   "females": 20,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 464,
+   "females": 352,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 10696,
+   "females": 10286,
+   "cols": [
+    2,
+    3
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": false,
+   "persons": null,
+   "males": 9771,
+   "females": 7041,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary_total",
+   "subsidiary": "Total of Subsidiary Languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 9147,
+   "females": 6564,
+   "cols": [
+    4,
+    5
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 9072,
+   "females": 6529,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Kannada",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 8449,
+   "females": 6052,
+   "cols": [
+    6,
+    7
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Telugu",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    8,
+    9
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 694,
+   "females": 512,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "subsidiary",
+   "subsidiary": "Hindustani",
+   "subsidiary_is_total": false,
+   "italic": true,
+   "persons": null,
+   "males": 75,
+   "females": 35,
+   "cols": [
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Two subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 622,
+   "females": 477,
+   "cols": [
+    20,
+    21
+   ]
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "n_subsidiary",
+   "subsidiary": "Three subsidiary languages",
+   "subsidiary_is_total": true,
+   "italic": true,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    22,
+    23
+   ]
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banajari",
+   "measure": "mother_tongue_speakers",
+   "subsidiary": null,
+   "subsidiary_is_total": false,
+   "italic": false,
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    2,
+    3
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Mother-tongue printed as 'Banajari (Rajasthani)'; Part I spelling 'Banajari' used. Kolar Gold Fields (City) row entirely nil (no records). In this scan the upright digit 4 often prints as a broken glyph resembling 1; Kolar District Telugu upright F read 494 (looks 491) by row and column totals. Tumkur District Kannada italic M read 1,526 (third digit indistinct) - fits row total 2,175. All checks reconcile. Part I comparison: mother-tongue figures (cols 2-3) agree with Table XV Part I for every area."
+}

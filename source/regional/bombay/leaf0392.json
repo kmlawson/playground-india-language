@@ -1,0 +1,6390 @@
+{
+ "key": "bombay",
+ "identifier": "in.ernet.dli.2015.56029",
+ "leaf": 392,
+ "printed_page": 388,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = 73 serial areas of bilingualism (as Part I); columns = Number of persons speaking mother tongue, Total subsidiary languages, then subsidiary languages, each Males/Females. Printed column numbers.",
+ "records": [
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 887601,
+   "females": 673805,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 348257,
+   "females": 310682,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 141678,
+   "females": 131831,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 62625,
+   "females": 48229,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 135555,
+   "females": 122905,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 802056,
+   "females": 592275,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 307948,
+   "females": 274358,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 124322,
+   "females": 115638,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 56874,
+   "females": 43622,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 118656,
+   "females": 108113,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 149514,
+   "females": 47515,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 8820,
+   "females": 2793,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3002,
+   "females": 1272,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3992,
+   "females": 1186,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 82,
+   "females": 22,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 128634,
+   "females": 92119,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 56468,
+   "females": 44790,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3859,
+   "females": 2727,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 52211,
+   "females": 41861,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 2,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 47737,
+   "females": 24712,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 16306,
+   "females": 7516,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 44,
+   "females": 38,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 16231,
+   "females": 7462,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 2,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 20689,
+   "females": 18373,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 11698,
+   "females": 11956,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 11680,
+   "females": 11955,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 18751,
+   "females": 17129,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 10711,
+   "females": 10212,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 2,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10670,
+   "females": 10210,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 8009,
+   "females": 6136,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2498,
+   "females": 2400,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2427,
+   "females": 2397,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 17107,
+   "females": 14860,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 11041,
+   "females": 9688,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 19,
+   "females": 41,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10960,
+   "females": 9646,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 16341,
+   "females": 10909,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 4214,
+   "females": 3018,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3778,
+   "females": 2644,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 243,
+   "females": 191,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 269777,
+   "females": 226128,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 97363,
+   "females": 85036,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 93252,
+   "females": 81537,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 306,
+   "females": 390,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2378,
+   "females": 2304,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 28088,
+   "females": 25256,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 19547,
+   "females": 17821,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 19489,
+   "females": 17807,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 8,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 5,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 71688,
+   "females": 60495,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 15431,
+   "females": 11607,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 15227,
+   "females": 11464,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 52,
+   "females": 67,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 12,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 22041,
+   "females": 20424,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1945,
+   "females": 1499,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1303,
+   "females": 915,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 117,
+   "females": 99,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 34045,
+   "females": 30593,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 10241,
+   "females": 8130,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10142,
+   "females": 8128,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 42464,
+   "females": 26521,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 11403,
+   "females": 10109,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 11219,
+   "females": 10103,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 21108,
+   "females": 19834,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 13315,
+   "females": 13677,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 13293,
+   "females": 13659,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 14,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 4,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 38807,
+   "females": 36296,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 24430,
+   "females": 21542,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 22048,
+   "females": 19082,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 154,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2333,
+   "females": 2295,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 11536,
+   "females": 6709,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1051,
+   "females": 651,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 531,
+   "females": 379,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 82,
+   "females": 48,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 205665,
+   "females": 202087,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 141678,
+   "females": 140283,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 24208,
+   "females": 30102,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 17,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 116188,
+   "females": 105785,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 44646,
+   "females": 42367,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 25675,
+   "females": 23808,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3414,
+   "females": 3225,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 22261,
+   "females": 20583,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 46276,
+   "females": 44478,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 39905,
+   "females": 38152,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 150,
+   "females": 44,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 39755,
+   "females": 38108,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 70109,
+   "females": 65659,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 49782,
+   "females": 45396,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 110,
+   "females": 1457,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 49672,
+   "females": 43939,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 12374,
+   "females": 12346,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 5259,
+   "females": 6758,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 223,
+   "females": 200,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 4492,
+   "females": 3152,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 9926,
+   "females": 9901,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 5885,
+   "females": 4911,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5868,
+   "females": 4911,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 11,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 22334,
+   "females": 27336,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 15172,
+   "females": 21258,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 14443,
+   "females": 20265,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 48466,
+   "females": 24426,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 3619,
+   "females": 1456,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 348,
+   "females": 184,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6426,
+   "females": 2170,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 668,
+   "females": 203,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 25909,
+   "females": 15433,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1056,
+   "females": 446,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 340,
+   "females": 183,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1800,
+   "females": 722,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 293,
+   "females": 144,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 4517,
+   "females": 1933,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 448,
+   "females": 185,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6152,
+   "females": 2472,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 615,
+   "females": 181,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2340,
+   "females": 1045,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 308,
+   "females": 148,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1322,
+   "females": 651,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Upper Sind Frontier",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 34,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 231,
+   "females": 149,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 85545,
+   "females": 81530,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 40309,
+   "females": 36324,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 17356,
+   "females": 16193,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5751,
+   "females": 4607,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 16899,
+   "females": 14792,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3316,
+   "females": 2925,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1742,
+   "females": 1428,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1739,
+   "females": 1428,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2363,
+   "females": 1689,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1106,
+   "females": 905,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1097,
+   "females": 905,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1300,
+   "females": 924,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 526,
+   "females": 467,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 525,
+   "females": 467,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1063,
+   "females": 765,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 580,
+   "females": 438,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 572,
+   "females": 438,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 4199,
+   "females": 3529,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2028,
+   "females": 1593,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2011,
+   "females": 1592,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1403,
+   "females": 1586,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 577,
+   "females": 415,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 566,
+   "females": 415,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1296,
+   "females": 938,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 735,
+   "females": 413,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "(ii) Chota-Udepur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 42,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 730,
+   "females": 412,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 261,
+   "females": 187,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 80,
+   "females": 44,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iii) Devgad-Baria",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 43,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 79,
+   "females": 44,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 339,
+   "females": 185,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 108,
+   "females": 129,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(iv) Lunawada",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 44,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 108,
+   "females": 129,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 107,
+   "females": 84,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 84,
+   "females": 72,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(v) Balasinor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 45,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 84,
+   "females": 72,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(vi) Santh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 46,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 20,
+   "females": 16,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(vi) Santh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 46,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(vi) Santh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 46,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 521,
+   "females": 366,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 337,
+   "females": 353,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(vii) Sankhed-Mewas",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 47,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 337,
+   "females": 353,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 252,
+   "females": 167,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 105,
+   "females": 167,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(viii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 48,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 105,
+   "females": 167,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jawhar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 49,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 263,
+   "females": 177,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jawhar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 49,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 86,
+   "females": 98,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jawhar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 49,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 86,
+   "females": 98,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 5225,
+   "females": 6898,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1175,
+   "females": 1774,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 948,
+   "females": 1096,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 35,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 331,
+   "females": 303,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 232,
+   "females": 248,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 232,
+   "females": 248,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1630,
+   "females": 1614,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1062,
+   "females": 1009,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 811,
+   "females": 680,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Aundh",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 52,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 249,
+   "females": 329,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 806,
+   "females": 804,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 734,
+   "females": 728,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Phaltan",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 53,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 734,
+   "females": 728,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6945,
+   "females": 6483,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2297,
+   "females": 1989,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 560,
+   "females": 416,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1735,
+   "females": 1570,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2056,
+   "females": 2604,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 130,
+   "females": 177,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 130,
+   "females": 177,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 19447,
+   "females": 18403,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 8834,
+   "females": 8655,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6720,
+   "females": 6645,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 117,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1996,
+   "females": 2010,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1793,
+   "females": 2208,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 681,
+   "females": 762,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 581,
+   "females": 635,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 57,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 100,
+   "females": 127,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2302,
+   "females": 2235,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1153,
+   "females": 853,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 249,
+   "females": 63,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kurundwad (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 58,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 904,
+   "females": 790,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 5653,
+   "females": 5440,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2985,
+   "females": 2736,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1246,
+   "females": 1280,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1739,
+   "females": 1456,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1135,
+   "females": 1297,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1083,
+   "females": 918,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 473,
+   "females": 444,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Junior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 60,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 610,
+   "females": 474,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6220,
+   "females": 5833,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2237,
+   "females": 1642,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 328,
+   "females": 227,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1909,
+   "females": 1415,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1731,
+   "females": 1686,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1543,
+   "females": 1601,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 97,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Mudhol",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 62,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1542,
+   "females": 1504,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1027,
+   "females": 1003,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1000,
+   "females": 969,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 992,
+   "females": 969,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 10602,
+   "females": 8824,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 5161,
+   "females": 4993,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3134,
+   "females": 2646,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2027,
+   "females": 2347,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 23,
+   "females": 20,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 22,
+   "females": 15,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 8,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Wadi-Jhagir",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 65,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 7,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3016,
+   "females": 2867,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2260,
+   "females": 1784,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1069,
+   "females": 679,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1191,
+   "females": 1105,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 399,
+   "females": 342,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 51,
+   "females": 139,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Bansda",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 67,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 46,
+   "females": 139,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 768,
+   "females": 571,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 616,
+   "females": 461,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 616,
+   "females": 461,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 490,
+   "females": 329,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 87,
+   "females": 76,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 83,
+   "females": 75,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 30,
+   "females": 11,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 7,
+   "females": 4,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dangs",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 70,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Gujarati",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 4,
+   "cols": [
+    9,
+    10
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 257,
+   "females": 130,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 75,
+   "females": 53,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surgana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 72,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 25,
+   "females": 25,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surgana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 72,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 25,
+   "females": 25,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surgana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 72,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 25,
+   "females": 25,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3493,
+   "females": 3280,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1897,
+   "females": 689,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Western Hindi",
+   "subsidiary": "Kanarese",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1895,
+   "females": 689,
+   "cols": [
+    11,
+    12
+   ],
+   "nil": []
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 388, left page of opening 388-389 (mother tongue Western Hindi, named on facing page 389). Table continues on leaf 393. Row 43 printed \"(iii) Deogad Baria\" (no hyphen), normalised to area list. All area sums and total-subsidiary sums (with leaf 393) check."
+}

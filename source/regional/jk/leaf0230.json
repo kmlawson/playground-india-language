@@ -1,0 +1,1379 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 230,
+ "printed_page": 220,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 3646243,
+   "males": 1938338,
+   "females": 1707905
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1788441,
+   "males": 942815,
+   "females": 845626
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 375240,
+   "males": 205719,
+   "females": 169521
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 161232,
+   "males": 85993,
+   "females": 75239
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 273668,
+   "males": 143514,
+   "females": 130154
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 235245,
+   "males": 124210,
+   "females": 111035
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 344747,
+   "males": 178831,
+   "females": 165916
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 387384,
+   "males": 198618,
+   "females": 188766
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 10925,
+   "males": 5930,
+   "females": 4995
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1569218,
+   "males": 847022,
+   "females": 722196
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 771943,
+   "males": 419190,
+   "females": 352753
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 559828,
+   "males": 301397,
+   "females": 258431
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 237447,
+   "males": 126435,
+   "females": 111012
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 288584,
+   "males": 148501,
+   "females": 140083
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 192138,
+   "males": 96259,
+   "females": 95879
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 31902,
+   "males": 17752,
+   "females": 14150
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 64544,
+   "males": 34490,
+   "females": 30054
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 179480,
+   "males": 89100,
+   "females": 90380
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 682,
+   "males": 386,
+   "females": 296
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 47,
+   "males": 37,
+   "females": 10
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 554,
+   "males": 280,
+   "females": 274
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 34,
+   "males": 22,
+   "females": 12
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 45,
+   "males": 45,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 682,
+   "males": 424,
+   "females": 258
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 621,
+   "males": 387,
+   "females": 234
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 55,
+   "males": 32,
+   "females": 23
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 6,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 178116,
+   "males": 88290,
+   "females": 89826
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 177641,
+   "males": 87962,
+   "females": 89679
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 237,
+   "males": 215,
+   "females": 22
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 238,
+   "males": 113,
+   "females": 125
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 42,
+   "males": 40,
+   "females": 2
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 25,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 25,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 13,
+   "females": 2
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Bhotia",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 13,
+   "females": 2
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 137914,
+   "males": 68467,
+   "females": 69447
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 185,
+   "males": 127,
+   "females": 58
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 18,
+   "males": 12,
+   "females": 6
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 120,
+   "males": 68,
+   "females": 52
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 45,
+   "males": 45,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 623,
+   "males": 379,
+   "females": 244
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 566,
+   "males": 346,
+   "females": 220
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 52,
+   "males": 29,
+   "females": 23
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 137106,
+   "males": 67961,
+   "females": 69145
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 136838,
+   "males": 67735,
+   "females": 69103
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 215,
+   "males": 195,
+   "females": 20
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Balti",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 53,
+   "males": 31,
+   "females": 22
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 41418,
+   "males": 20546,
+   "females": 20872
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 472,
+   "males": 234,
+   "females": 238
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 434,
+   "males": 212,
+   "females": 222
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 34,
+   "males": 22,
+   "females": 12
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 45,
+   "males": 36,
+   "females": 9
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 41,
+   "males": 32,
+   "females": 9
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 40901,
+   "males": 20276,
+   "females": 20625
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 40711,
+   "males": 20189,
+   "females": 20522
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Ladakhi",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 183,
+   "males": 80,
+   "females": 103
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibetan",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Tibetan",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan",
+   "lang_path": [
+    "Languages of the State",
+    "Tibeto Chinese Family",
+    "Tibeto-Burman Sub-Family",
+    "Tibeto Himalayan Branch",
+    "Tibetan Group",
+    "Bhotia"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. First page of Table XV Part I, headed '(a) Languages of the State'. The printed 'Population' columns (Persons/Males/Females) are recorded as language 'Population', lang_path [], lang_is_total=true. Bhotia 'Total' column recorded as 'Bhotia (Total)', lang_is_total=true; it covers Bhotia, Balti, Ladakhi, Tibetan here plus Brukshas, Kashgari, Khapli on leaf 231 (Bhotia concluded) - with those it reconciles in every row. Row label printed 'Roasi' (misprint for Reasi) recorded as Reasi District. Population columns: districts sum to province and provinces to State."
+}

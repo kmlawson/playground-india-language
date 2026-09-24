@@ -1,0 +1,2932 @@
+{
+ "key": "bombay",
+ "identifier": "in.ernet.dli.2015.56029",
+ "leaf": 390,
+ "printed_page": 386,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = 73 serial areas of bilingualism (as Part I); columns = Number of persons speaking mother tongue, Total subsidiary languages, then subsidiary languages, each Males/Females. Printed column numbers.",
+ "records": [
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 114034,
+   "females": 100159,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 45487,
+   "females": 35138,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Presidency including Bombay States and Agencies",
+   "area_path": [],
+   "area_is_total": true,
+   "row": 1,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 6877,
+   "females": 6565,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 110191,
+   "females": 95283,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 44112,
+   "females": 33812,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "British Districts",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 2,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 5559,
+   "females": 5264,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 28373,
+   "females": 12628,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 8674,
+   "females": 5532,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay City",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": false,
+   "row": 3,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1263,
+   "females": 845,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2166,
+   "females": 1830,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1182,
+   "females": 1156,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Northern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 4,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 70,
+   "females": 51,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 160,
+   "females": 89,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 39,
+   "females": 47,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmedabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 5,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "males"
+   ]
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Broach",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 6,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": 2,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kaira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 7,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 5,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Panch-Mahals",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 8,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "males"
+   ]
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 123,
+   "females": 101,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 46,
+   "females": 61,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Surat",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 9,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1872,
+   "females": 1635,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1093,
+   "females": 1045,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Northern Division"
+   ],
+   "area_is_total": false,
+   "row": 10,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 67,
+   "females": 46,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 4128,
+   "females": 3290,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1438,
+   "females": 1141,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Central Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 11,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 621,
+   "females": 821,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 144,
+   "females": 60,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 88,
+   "females": 18,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ahmednagar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 12,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 43,
+   "females": 5,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 87,
+   "females": 59,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 26,
+   "females": 22,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-East",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 13,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": 43,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": 26,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Khandesh-West",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 14,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 12,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 312,
+   "females": 225,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 140,
+   "females": 73,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nasik",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 15,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 48,
+   "females": 42,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 907,
+   "females": 914,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 222,
+   "females": 136,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Poona",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 16,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 113,
+   "females": 43,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 130,
+   "females": 56,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 35,
+   "females": 18,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Satara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 17,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 11,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 127,
+   "females": 103,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 101,
+   "females": 27,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sholapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 18,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 56,
+   "females": 12,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2419,
+   "females": 1830,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 825,
+   "females": 821,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay Suburban District",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Central Division"
+   ],
+   "area_is_total": false,
+   "row": 19,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 335,
+   "females": 692,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 72929,
+   "females": 75776,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 31982,
+   "females": 25737,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Southern Division",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 20,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 3604,
+   "females": 3547,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2461,
+   "females": 2414,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 852,
+   "females": 879,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Belgaum",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 21,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 699,
+   "females": 752,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 309,
+   "females": 334,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 122,
+   "females": 271,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bijapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 22,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 37,
+   "females": 19,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2497,
+   "females": 1582,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1329,
+   "females": 1099,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharwar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 23,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 78,
+   "females": 34,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 64196,
+   "females": 66222,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 27833,
+   "females": 21672,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kanara",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 24,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 960,
+   "females": 930,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 352,
+   "females": 294,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 214,
+   "females": 171,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolaba",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 25,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 207,
+   "females": 168,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3114,
+   "females": 4930,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1632,
+   "females": 1645,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Ratnagiri",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Southern Division"
+   ],
+   "area_is_total": false,
+   "row": 26,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1623,
+   "females": 1644,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2595,
+   "females": 1759,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 836,
+   "females": 246,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sind",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts"
+   ],
+   "area_is_total": true,
+   "row": 27,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Hyderabad",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 28,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 28,
+   "females": 23,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2513,
+   "females": 1703,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 825,
+   "females": 242,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Karachi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 29,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Larkana",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 30,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6,
+   "females": 10,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Nawabshah",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 31,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 7,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 28,
+   "females": 13,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sukkur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 32,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 7,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 13,
+   "females": 7,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Thar and Parkar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "British Districts",
+    "Sind"
+   ],
+   "area_is_total": false,
+   "row": 33,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 4,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3843,
+   "females": 4876,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1375,
+   "females": 1326,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bombay States and Agencies",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 35,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 1318,
+   "females": 1301,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Cambay",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 36,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Mahikantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 37,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(i) Idar",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 38,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "(ii) Rest of the Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Mahikantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 39,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 9,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Rewakantha Agency",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": true,
+   "row": 40,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 9,
+   "females": 3,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "(i) Rajpipla",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies",
+    "Rewakantha Agency"
+   ],
+   "area_is_total": false,
+   "row": 41,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 876,
+   "females": 1481,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 238,
+   "females": 171,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Janjira",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 50,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 217,
+   "females": 157,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": 4,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": 4,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Bhor",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 51,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Akalkot",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 54,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2354,
+   "females": 2888,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 875,
+   "females": 983,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sawantwadi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 55,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 873,
+   "females": 982,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 304,
+   "females": 338,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 224,
+   "females": 158,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  },
+  {
+   "area": "Kolhapur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 56,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Marathi",
+   "kind": "subsidiary",
+   "sub_path": [
+    "Subsidiary languages"
+   ],
+   "persons": null,
+   "males": 224,
+   "females": 155,
+   "cols": [
+    7,
+    8
+   ],
+   "nil": []
+  },
+  {
+   "area": "Miraj (Senior)",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 59,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 24,
+   "females": 20,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 6,
+   "females": 17,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jamkhandi",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 61,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Ramdurg",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 63,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Sangli",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 64,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 50,
+   "females": 39,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Jath",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 66,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 187,
+   "females": 77,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Dharampur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 68,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Sachin",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 69,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Khairpur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 71,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": [
+    "females"
+   ]
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Number of persons speaking mother tongue",
+   "kind": "mother_tongue_speakers",
+   "sub_path": [],
+   "persons": null,
+   "males": 18,
+   "females": 8,
+   "cols": [
+    3,
+    4
+   ],
+   "nil": []
+  },
+  {
+   "area": "Savanur",
+   "area_path": [
+    "Bombay Presidency including Bombay States and Agencies",
+    "Bombay States and Agencies"
+   ],
+   "area_is_total": false,
+   "row": 73,
+   "mother_tongue": "Konkani",
+   "subsidiary": "Total subsidiary languages",
+   "kind": "total_subsidiary",
+   "sub_path": [],
+   "persons": null,
+   "males": 15,
+   "females": 7,
+   "cols": [
+    5,
+    6
+   ],
+   "nil": []
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed page 386, left page of opening 386-387 (mother tongue Konkani, named on facing page 387; header here \"MOTHER TONGUE--\"). Table continues on leaf 391. Rows 40-73 printed with figures drifting below their labels; alignment fixed by counting entries per column and confirmed by area sums. All area sums and total-subsidiary sums (with leaf 391) check."
+}

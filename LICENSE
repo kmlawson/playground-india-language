@@ -1,0 +1,64 @@
+LICENCE
+
+1. This project's own work: no rights claimed
+---------------------------------------------
+
+The following are dedicated to the public domain under the Creative Commons CC0 1.0 Universal
+Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/):
+
+- the code (HTML, CSS, JavaScript and Python);
+- the hand transcriptions of the census tables;
+- the checks, crosswalks, alias tables and documentation;
+- the text of the site.
+
+To the extent possible under law, all copyright and related or neighbouring rights in them are
+waived. They may be copied, modified and used for any purpose without permission or attribution.
+
+This waiver does not cover the third-party material listed in section 2. That material stays under
+its own terms, and so does any file derived from it.
+
+
+2. Third-party data and its licences
+------------------------------------
+
+Census of India, 1931 (the figures and the page scans)
+  Government of India publications, 1932-1934: public domain.
+  The scans used are on the Internet Archive; item identifiers are listed in README.md and docs/regional.md.
+
+plague_india, 1931 province boundaries (W. Tennant), https://github.com/wtennant/plague_india
+  GNU Lesser General Public License v3.0 (LGPL-3.0). The licence text is in source/geo/plague_india/LICENSE.
+  Applies to: source/geo/plague_india/*, and the 1931 unit geometry derived from it in data/geo.js
+  and data/units1931.geojson.
+
+geoBoundaries (William & Mary geoLab), https://www.geoboundaries.org/
+  India ADM1/ADM2: Open Database License 1.0 (ODbL).
+  Pakistan ADM2: public domain.
+  Bangladesh ADM2: Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO).
+  Citation: Runfola, D. et al. (2020) geoBoundaries: A global database of political administrative
+  boundaries. PLoS ONE 15(4): e0231866.
+  Applies to: data/geo.js (boundary refinement), data/units1931.geojson, and data/districts.js
+  (present-day district geometry). The geometry in these files that derives from geoBoundaries India
+  is made available under the ODbL 1.0.
+
+OpenStreetMap, outline of the Rann of Kutch
+  (c) OpenStreetMap contributors, Open Database License 1.0 (ODbL), https://www.openstreetmap.org/copyright
+  Applies to: source/geo/rann_of_kutch_osm.geojson, and the Rann outline in data/geo.js.
+
+Natural Earth, https://www.naturalearthdata.com/
+  Public domain.
+  Applies to: coastlines, neighbouring countries and graticule in data/geo.js, and the Myanmar
+  states/regions in data/districts.js.
+
+India State and District Evolution Database, 1872-2025 (ISDED)
+  Jolad, Shivakumar; Kalra, Ayushi; Singh, Mahendra. Harvard Dataverse, doi:10.7910/DVN/D1AGUR.
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+  Applies to: the district lineage used to group units in data/districts.js, data/regional_table15.csv
+  and docs/regional_area_crosswalk.csv. The database itself is not redistributed here.
+
+Census of India 2011, Table A-2 (decadal variation in population since 1901), district level
+  Office of the Registrar General and Census Commissioner, India. Government of India published data.
+  Applies to: the 1901-2011 population series in data/districts.js. The spreadsheet itself is not
+  redistributed here.
+
+Source Serif 4 (Adobe), loaded from Google Fonts at page view
+  SIL Open Font License 1.1. Not redistributed here.

@@ -1,0 +1,833 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 269,
+ "printed_page": 259,
+ "table": "XV Part II",
+ "subtable": "B. Tri and poly-lingualism",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State/province/tehsil x mother tongue; columns = persons speaking mother tongue, then subsidiary languages Dogri (B), Panjabi (C), Kashmiri (D) (Persons/Males/Females), remarks",
+ "records": [
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 513,
+   "males": 257,
+   "females": 256,
+   "remarks": "5 males and 3 females speaking three languages."
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 5,
+   "females": 3,
+   "remarks": "5 males and 3 females speaking three languages."
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 5,
+   "females": 3,
+   "remarks": "5 males and 3 females speaking three languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1662,
+   "males": 1168,
+   "females": 494,
+   "remarks": "37 males and 5 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 42,
+   "males": 37,
+   "females": 5,
+   "remarks": "37 males and 5 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 42,
+   "males": 37,
+   "females": 5,
+   "remarks": "37 males and 5 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1247497,
+   "males": 674534,
+   "females": 572963,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 107849,
+   "males": 58448,
+   "females": 49401,
+   "remarks": "2,194 males (1 B+D, 2,193 C+D) and 4 females (C+D) speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "2,194 males (1 B+D, 2,193 C+D) and 4 females (C+D) speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2197,
+   "males": 2193,
+   "females": 4,
+   "remarks": "2,194 males (1 B+D, 2,193 C+D) and 4 females (C+D) speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2198,
+   "males": 2194,
+   "females": 4,
+   "remarks": "2,194 males (1 B+D, 2,193 C+D) and 4 females (C+D) speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 178292,
+   "males": 94411,
+   "females": 83881,
+   "remarks": "251 males and 412 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 663,
+   "males": 251,
+   "females": 412,
+   "remarks": "251 males and 412 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 663,
+   "males": 251,
+   "females": 412,
+   "remarks": "251 males and 412 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 20056,
+   "males": 10796,
+   "females": 9260,
+   "remarks": "62 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 62,
+   "males": 62,
+   "females": null,
+   "remarks": "62 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 62,
+   "males": 62,
+   "females": null,
+   "remarks": "62 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Pothwari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 26,
+   "males": 25,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 623,
+   "males": 379,
+   "females": 244,
+   "remarks": "3 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 3,
+   "females": 4,
+   "remarks": "3 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Balti",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 3,
+   "females": 4,
+   "remarks": "3 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 45,
+   "males": 36,
+   "females": 9,
+   "remarks": "4 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null,
+   "remarks": "4 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null,
+   "remarks": "4 males speak 3 languages."
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Shina",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 33,
+   "males": 26,
+   "females": 7,
+   "remarks": ""
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": null,
+   "males": 371,
+   "females": 222,
+   "remarks": "26 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 30,
+   "males": 26,
+   "females": 4,
+   "remarks": "26 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 30,
+   "males": 26,
+   "females": 4,
+   "remarks": "26 males and 4 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 141967,
+   "males": 75163,
+   "females": 66804,
+   "remarks": ""
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 3099,
+   "males": 1604,
+   "females": 1495,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 348,
+   "males": 187,
+   "females": 161,
+   "remarks": "2 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2,
+   "remarks": "2 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2,
+   "remarks": "2 females speak 3 languages."
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 132,
+   "males": 77,
+   "females": 55,
+   "remarks": ""
+  },
+  {
+   "area": "Kulgam Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Balti",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 3,
+   "males": 2,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Dogri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 38,
+   "males": 28,
+   "females": 10,
+   "remarks": ""
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 173355,
+   "males": 94731,
+   "females": 78624,
+   "remarks": ""
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 14885,
+   "males": 7868,
+   "females": 7017,
+   "remarks": "1 female speaks three languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1,
+   "remarks": "1 female speaks three languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gojari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1,
+   "remarks": "1 female speaks three languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1783,
+   "males": 991,
+   "females": 792,
+   "remarks": "3 females speak 3 languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Panjabi",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3,
+   "remarks": "3 females speak 3 languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Western Pahari",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3,
+   "remarks": "3 females speak 3 languages."
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1691,
+   "males": 875,
+   "females": 816,
+   "remarks": "1 male speaks 3 languages,"
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Dogri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages,"
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Panjabi",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": "1 male speaks 3 languages,"
+  },
+  {
+   "area": "Anantnag Tehsil",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province",
+    "Kashmir South (including Municipality)"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Ladakhi",
+   "subsidiary": "No. of persons speaking mother-tongue",
+   "subsidiary_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Kulgam Tehsil, Dogri, mother-tongue Persons: printed '5?3', middle digit damaged/broken type; recorded null. Males+females = 371+222 = 593, and the Part II(A) page (leaf 259) prints 593 clearly for Kulgam Dogri."
+ ],
+ "notes": "Continuation page (printed page 259), no header; same 12 figure columns + Remarks. From top: 'CHENANI JAGIR— Chenani' (Gojari only), recorded as area 'Chenani Jagir' to match Part I and Part II(A). Then the 'KASHMIR PROVINCE' brace (10 mother tongues; Chabhali all nil, omitted). Then the outer 'KASHMIR SOUTH' brace (= Part I 'Kashmir South (including Municipality)'), containing 'Kulgam Tehsil' (10 rows: Chabhali, Pothwari, Ladakhi, Shina all nil) and 'Anantnag Tehsil.' (10 rows: Chabhali, Pothwari, Balti, Shina all nil). The inner mother-tongue braces are printed in broken pieces: the Kulgam brace appears to end at Ladakhi and a new one to begin at Shina. The 10-rows-per-block rule puts Shina in Kulgam; that row is all nil, so it does not matter. Kashmir South continues on leaf 270 (Awantipura Tehsil etc.). Mother tongue printed 'Western Pahari' in the Kashmir blocks (not 'Pahari'); kept as printed. Remarks checked against the figures: all agree. Kashmir Province Gojari: the pairs 1 B+D and 2,193 C+D males, 4 C+D females give Dogri 1 male, Panjabi 2,193 M/4 F and Kashmiri 2,194 M/4 F, which match the columns. Anantnag Panjabi remark ends with a comma in the print ('languages,'); kept. Cross-check with Part II(A): leaf0259.json has Kulgam Dogri subsidiary Punjabi 15/3/12, but Part B prints Panjabi 30/26/4 (re-checked under zoom; it matches the Kashmiri column and the remark). Part B exceeds Part A here. Either Part A counts only people with exactly one subsidiary language, or the two parts are inconsistent; left as printed."
+}

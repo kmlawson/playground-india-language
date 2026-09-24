@@ -1,0 +1,790 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 212,
+ "printed_page": 204,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State/districts/cities, columns = languages (Persons, Males, Females)",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 6557302,
+   "males": 3353963,
+   "females": 3203339
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 6423189,
+   "males": 3284554,
+   "females": 3138635
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 172357,
+   "males": 91680,
+   "females": 80677
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 908056,
+   "males": 461905,
+   "females": 446151
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 85103,
+   "males": 45051,
+   "females": 40052
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 763934,
+   "males": 389262,
+   "females": 374672
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 861405,
+   "males": 439144,
+   "females": 422261
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 107142,
+   "males": 56772,
+   "females": 50370
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 1403984,
+   "males": 703838,
+   "females": 700146
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 656569,
+   "males": 336786,
+   "females": 319783
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 596937,
+   "males": 300746,
+   "females": 296191
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 347715,
+   "males": 184389,
+   "females": 163326
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 519987,
+   "males": 274981,
+   "females": 245006
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    1,
+    2,
+    3
+   ],
+   "persons": 134113,
+   "males": 69409,
+   "females": 64704
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 6541837,
+   "males": 3345943,
+   "females": 3195894
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 6417873,
+   "males": 3281615,
+   "females": 3136258
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 171469,
+   "males": 91275,
+   "females": 80194
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 907742,
+   "males": 461768,
+   "females": 445974
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 82967,
+   "males": 43878,
+   "females": 39089
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 763824,
+   "males": 389209,
+   "females": 374615
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 861342,
+   "males": 439112,
+   "females": 422230
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 106606,
+   "males": 56543,
+   "females": 50063
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 1403768,
+   "males": 703705,
+   "females": 700063
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 656523,
+   "males": 336754,
+   "females": 319769
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 596645,
+   "males": 300538,
+   "females": 296107
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 347275,
+   "males": 184037,
+   "females": 163238
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 519712,
+   "males": 274796,
+   "females": 244916
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    4,
+    5,
+    6
+   ],
+   "persons": 123964,
+   "males": 64328,
+   "females": 59636
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8,
+    9
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8,
+    9
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Tibetan",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Tibetan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    7,
+    8,
+    9
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Newari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Non-pronominalised Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11,
+    12
+   ],
+   "persons": 35,
+   "males": 32,
+   "females": 3
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Newari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Non-pronominalised Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11,
+    12
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Newari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Non-pronominalised Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11,
+    12
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Newari",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Non-pronominalised Himalayan Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11,
+    12
+   ],
+   "persons": 33,
+   "males": 30,
+   "females": 3
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14,
+    15
+   ],
+   "persons": 3,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14,
+    15
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14,
+    15
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14,
+    15
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "Tibeto-Chinese Family",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    13,
+    14,
+    15
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table XV(i) Language, rows = State totals (including/excluding Civil and Military Station, Bangalore), 11 districts/cities, and C&M Station Bangalore; columns = languages x Persons/Males/Females. Table spans printed pp. 204-213 (leaves 212-221); only this leaf transcribed here. Nil cells ('...') omitted; blank cells also omitted. Checks passed: P=M+F for every record; State incl. = State excl. + C&M Station; State excl. = sum of the 11 districts/cities, for every column. Throughout this scan the digit 4 in light-face figures often prints as a thin vertical stroke that resembles 1; each such digit was resolved under magnification and confirmed by the P=M+F and district-sum checks. Bangalore City Total (col 4) read 171,469 (the 4 is weak). Whole-table check: for every row and sex, Population (cols 1-3) = A Total (col 4-6) + B Total (col 121-123, leaf 219) + C Total (col 145-147, leaf 220), and A Total = sum of all 35 A-language columns across leaves 212-219; all reconcile exactly."
+}

@@ -1,0 +1,4972 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 239,
+ "printed_page": 233,
+ "table": "XV Part I",
+ "part": "I-E Distribution of Selected Languages by Districts",
+ "orientation": "upright",
+ "layout": "rows = districts and states (with division and province totals), columns = selected languages / residual 'other dialects' of a group (Males/Females only; no Persons).",
+ "records": [
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 459089,
+   "females": 455290
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 54764,
+   "females": 52774
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 22466,
+   "females": 24560
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 251106,
+   "females": 248683
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 236103,
+   "females": 237617
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 159406,
+   "females": 161125
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 143873,
+   "females": 144213
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 12494,
+   "females": 12115
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 22260,
+   "females": 24430
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 249990,
+   "females": 247695
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 236056,
+   "females": 237545
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 50887,
+   "females": 50647
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 6
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 7
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 8949,
+   "females": 9098
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 19,
+   "females": 10
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 8822,
+   "females": 9561
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 45784,
+   "females": 47329
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 9937,
+   "females": 9558
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1366,
+   "females": 1223
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 200,
+   "females": 275
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 9
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 37
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1253,
+   "females": 1152
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 255,
+   "females": 299
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2892,
+   "females": 2781
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 4570,
+   "females": 4402
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 11688,
+   "females": 11902
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 534,
+   "females": 582
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1357,
+   "females": 1217
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 1446,
+   "females": 1494
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1135,
+   "females": 1102
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 11660,
+   "females": 12230
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 41,
+   "females": 64
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 1236,
+   "females": 1324
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 787
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4913,
+   "females": 5015
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 8167,
+   "females": 7715
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 4
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2747,
+   "females": 2815
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 2876,
+   "females": 3055
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 14243,
+   "females": 14921
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 875,
+   "females": 829
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 428,
+   "females": 409
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 154,
+   "females": 178
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2027,
+   "females": 2109
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 69
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 782,
+   "females": 782
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1351,
+   "females": 2665
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 68805,
+   "females": 70578
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 146315,
+   "females": 149052
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 43,
+   "females": 18
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 311,
+   "females": 272
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 7
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 19315,
+   "females": 19624
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 43281,
+   "females": 45828
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 225,
+   "females": 257
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 49,
+   "females": 152
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 20280,
+   "females": 21543
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 8467,
+   "females": 8778
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 119,
+   "females": 116
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 311,
+   "females": 1439
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 8251,
+   "females": 7855
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 50553,
+   "females": 48833
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 49,
+   "females": 62
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 13970,
+   "females": 14435
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 41875,
+   "females": 43194
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 78,
+   "females": 75
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 986,
+   "females": 1067
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 6989,
+   "females": 7121
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 2139,
+   "females": 2419
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 42,
+   "females": 17
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 24035,
+   "females": 21602
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 5281,
+   "females": 5411
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 11494,
+   "females": 11948
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 133680,
+   "females": 128608
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 79638,
+   "females": 78887
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 48338,
+   "females": 48393
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 1928,
+   "females": 1579
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 414,
+   "females": 179
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 23123,
+   "females": 22049
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 93,
+   "females": 66
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 225,
+   "females": 181
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 3414,
+   "females": 3278
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1756,
+   "females": 2065
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 57777,
+   "females": 55837
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 47038,
+   "females": 47750
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 26364,
+   "females": 27035
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 7478,
+   "females": 6086
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1366,
+   "females": 1888
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 209,
+   "females": 572
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 24044,
+   "females": 23018
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 27548,
+   "females": 26467
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 2464,
+   "females": 2222
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 20
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 1
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4244,
+   "females": 4304
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 2534,
+   "females": 2337
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 3
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2861,
+   "females": 2732
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 3483,
+   "females": 3344
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 348,
+   "females": 326
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 8383,
+   "females": 8086
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 2370,
+   "females": 2219
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 8318,
+   "females": 7907
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 9166,
+   "females": 8984
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 16109,
+   "females": 15314
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 55,
+   "females": 48
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 19264,
+   "females": 18951
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 56,
+   "females": 30
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 130,
+   "females": 37
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 54
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 10
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 27,
+   "females": 4
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 13
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 9,
+   "females": 3
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 14
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 53,
+   "females": null
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 50
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": null,
+   "females": 8
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 9
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 19,
+   "females": 19
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Chin Hills",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 4
+  },
+  {
+   "area": "Chin Hills",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2688,
+   "females": 2442
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 290,
+   "females": 149
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1450,
+   "females": 1058
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 119,
+   "females": 22
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1119,
+   "females": 992
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 2336,
+   "females": 2137
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 183,
+   "females": 99
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 324,
+   "females": 52
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 83,
+   "females": 9
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 29,
+   "females": 1
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 73,
+   "females": 86
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 9,
+   "females": 8
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": null,
+   "females": 8
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 14
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 40
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 73,
+   "females": 10
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 3
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 21,
+   "females": 7
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 191,
+   "females": 195
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 96,
+   "females": 47
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1045,
+   "females": 951
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 3
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1089,
+   "females": 991
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 107349,
+   "females": 110253
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 7186,
+   "females": 6687
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 162,
+   "females": 63
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 243,
+   "females": 65
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 35,
+   "females": 16
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 18,
+   "females": 21
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 16904,
+   "females": 17616
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 23,
+   "females": 7
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 97,
+   "females": 32
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 17,
+   "females": 21
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 24520,
+   "females": 24087
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 6949,
+   "females": 6570
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 5
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 10
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 10
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 10
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 12
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 23308,
+   "females": 24410
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 214,
+   "females": 105
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 101,
+   "females": 31
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 123,
+   "females": 12
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 2
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 12
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": null,
+   "females": 5
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 3
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 4
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 42566,
+   "females": 44106
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 23,
+   "females": 8
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 10
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 315216,
+   "females": 311077
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 42270,
+   "females": 40659
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 206,
+   "females": 130
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1116,
+   "females": 988
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 47,
+   "females": 72
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 108519,
+   "females": 110478
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 140680,
+   "females": 138621
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 5402,
+   "females": 4429
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 103,
+   "females": 53
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 84,
+   "females": 42
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 2
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 188,
+   "females": 61
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 168817,
+   "females": 167127
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 36655,
+   "females": 36107
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 102,
+   "females": 77
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 281,
+   "females": 261
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-9.-Pwo",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    22,
+    23
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 70
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 88667,
+   "females": 88441
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I-1.-Shan",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 5719,
+   "females": 5329
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "I.-Other dialects of Tai (Shan) Group",
+   "lang_path": [
+    "I.-Tai (Shan) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 213,
+   "females": 123
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-1-Karen (unspecified)",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N-2.-Sgaw",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 751,
+   "females": 685
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "N.-Other Karen dialects",
+   "lang_path": [
+    "N.-Karen Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    24,
+    25
+   ],
+   "persons": null,
+   "males": 19664,
+   "females": 21976
+  }
+ ],
+ "footnotes": "* Part 1B gives the distribution for Yanbye alone; other figures in this column are for Arakanese. (Footnote begins at foot of leaf 238 and concludes at foot of leaf 239.)",
+ "unreadable": [],
+ "notes": "No row labels on this page (area names by serial number / row order as on leaf 238). Printed signature '30' at foot of page is not a table figure. Part I-E Distribution of Selected Languages by Districts, leaves 238-239 (printed pages 232-233); same 51 rows as Part I-D. Self-checks: every division/total row = sum of its parts (all pass); and A-1 + A-2/3 + other Burma = I-D Burma Group, C-1 + C-45 + other Chin = I-D Kuki-Chin Group, I-1 + other Tai = I-D Tai (Shan) Group, N-1 + N-2 + N-9 + other Karen = I-D Karen Group, for every row (all pass)."
+}

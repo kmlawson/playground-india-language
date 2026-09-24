@@ -1,0 +1,571 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 229,
+ "printed_page": 223,
+ "table": "XV Part I",
+ "part": "I-B Provincial Totals of Speakers of each Language",
+ "orientation": "upright",
+ "layout": "rows = languages (serial code, e.g. A1, in the margin; group total rows A, B, ...), columns = 1 Language, 2 Males, 3 Females, 4 Remarks (alternative names and district distribution). Area is the whole province; no Persons column (persons = null).",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Naga Group",
+   "serial": "D",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2145,
+   "females": 2056,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Naga (unspecified)",
+   "serial": "D1",
+   "lang_path": [
+    "D Naga Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2117,
+   "females": 2042,
+   "remarks": "Upper Chindwin : M. 2,103, F. 2,042 ; Lower Chindwin : M. 13."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tanghkul",
+   "serial": "D2",
+   "lang_path": [
+    "D Naga Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 14,
+   "remarks": "Akyab : M. 28 ; Upper Chindwin : F. 14."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kachin Group",
+   "serial": "E",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 74051,
+   "females": 79846,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kachin †",
+   "serial": "E1",
+   "lang_path": [
+    "E Kachin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 74051,
+   "females": 79846,
+   "remarks": "Theinbaw, Chingpaw, Singpho, Shingpraw, Kahang, Hkahku, Kauri, Gauri, Duleng Distribution is shown in Part ID of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sak (Lui) Group",
+   "serial": "F",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 17030,
+   "females": 18207,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kadu",
+   "serial": "F1",
+   "lang_path": [
+    "F Sak (Lui) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9962,
+   "females": 10343,
+   "remarks": "Gadu, A-sak, Katha : M. 7,773, F 8,615 ; Myitkyina : M. 1,785, F. 1,510. Remainder in Bhamo, Upper Chindwin and Northern Shan States"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Ganan",
+   "serial": "F2",
+   "lang_path": [
+    "F Sak (Lui) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3168,
+   "females": 3976,
+   "remarks": "Katha : M. 2,896, F. 3,771 ; Upper Chindwin : M 232, F. 197. Remainder in Myitkyina and Northern Shan States."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sak",
+   "serial": "F3",
+   "lang_path": [
+    "F Sak (Lui) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 350,
+   "females": 341,
+   "remarks": "Thet. Akyab only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Daingnet",
+   "serial": "F4",
+   "lang_path": [
+    "F Sak (Lui) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3111,
+   "females": 3048,
+   "remarks": "Akyab only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Taman",
+   "serial": "F5",
+   "lang_path": [
+    "F Sak (Lui) Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 439,
+   "females": 499,
+   "remarks": "Upper Chindwin only. At the 1921 Census Taman was included in the Kuki-Chin Group."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mro Group",
+   "serial": "H",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 7253,
+   "females": 6841,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mro",
+   "serial": "H1",
+   "lang_path": [
+    "H Mro Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 7253,
+   "females": 6841,
+   "remarks": "Distribution is shown in Part ID of this Table"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tai Group",
+   "serial": "I",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 513853,
+   "females": 508064,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Shan",
+   "serial": "I1",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 459089,
+   "females": 455290,
+   "remarks": "Tai-awn, Mongleng, Taichaung, Shweli Shan, Namkham Shan, Tailong, Shangale, Shangyi. Distribution is shown in Part IE of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Shan-Tayok",
+   "serial": "I2",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9827,
+   "females": 8443,
+   "remarks": "Shan Chinese, Tai-khe, Tai-Nö, Tai-khawng. Northern Shan States : M. 5,384, F. 4,426 ; Myitkyina : M 2,391, F. 2,290 ; Southern Shan States : M. 1,769, F. 1,615 ; Katha : M. 212, F. 105."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dayè",
+   "serial": "I3",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 361,
+   "females": 337,
+   "remarks": "Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Siamese",
+   "serial": "I4",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4544,
+   "females": 4104,
+   "remarks": "Yodaya Shan, Htai. Mergui : M. 3,458, F. 3,344 ; Amherst : M. 1,008, F. 722 ; remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hkun",
+   "serial": "I5",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 15593,
+   "females": 15641,
+   "remarks": "Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lu",
+   "serial": "I6",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 14971,
+   "females": 15060,
+   "remarks": "Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lao",
+   "serial": "I7",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3524,
+   "females": 3639,
+   "remarks": "Yun. Southern Shan States : M. 2,555, F 2,171 , Salween : M. 406, F. 177 ; Amherst : M. 358, F. 1,166 ; Karenni : M. 166, F. 123 ; the rest in Northern Shan States and Mergui."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Shan-Bama",
+   "serial": "I8",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4047,
+   "females": 3688,
+   "remarks": "Tai-man. Myitkyina only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hkamti",
+   "serial": "I9",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 511,
+   "females": 592,
+   "remarks": "Myitkyina only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Annamese",
+   "serial": "I10",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 5,
+   "remarks": "Kiao. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tai-Lem",
+   "serial": "I11",
+   "lang_path": [
+    "I Tai Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1383,
+   "females": 1265,
+   "remarks": "Southern Shan States only. Probably recorded as Lem in 1921."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malay Group",
+   "serial": "J",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3232,
+   "females": 3136,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malay",
+   "serial": "J1",
+   "lang_path": [
+    "J Malay Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2322,
+   "females": 2138,
+   "remarks": "Pashu. Mergui : M. 2,259, F. 2,124 ; also a few scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Salon",
+   "serial": "J2",
+   "lang_path": [
+    "J Malay Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 910,
+   "females": 998,
+   "remarks": "Mawken. Mergui only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mon Group",
+   "serial": "K",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 154058,
+   "females": 151236,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Talaing",
+   "serial": "K1",
+   "lang_path": [
+    "K Mon Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 154058,
+   "females": 151236,
+   "remarks": "Mon, Peguan, Martabanese. Distribution is shown in Part ID of this Table."
+  }
+ ],
+ "footnotes": "† See Note 1 on page 219.",
+ "unreadable": [],
+ "notes": "Group G (Mishmi Group) total printed nil. Lao remarks 'Amherst : M. 358' is faint but legible as printed. Serial codes printed with a space in the I group ('I 1' ... 'I 11'); normalised to I1..I11. Rows printed nil in both Males and Females (omitted as records): E2 Nogmung; E3 Ntit; E4 Pangsu; E5 Kang; E6 Nawngkhai; E7 Nokkyo; E8 Yoya; E9 Tawhawng; F6 Malin; G1 Khaman-Mishmi."
+}

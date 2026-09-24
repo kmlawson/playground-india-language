@@ -1,0 +1,421 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 226,
+ "printed_page": 220,
+ "table": "XV Part I",
+ "part": "I-A Classification System for Languages",
+ "orientation": "upright",
+ "layout": "Classification tree (Family > Sub-Family > Branch > Group) with Males/Females speakers for Burma province as a whole. Family/sub-family/branch totals printed as 'M. n / F. n' beside the name; only Males and Females printed, no Persons (persons = null). No printed column numbers.",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibeto-Chinese",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 5782182,
+   "females": "?"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tibeto-Burmese",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 5149825,
+   "females": 5357204
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Assam-Burmese",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 5142572,
+   "females": 5350363
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A. Burma",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 4831382,
+   "females": 5031312
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "B. Lolo-Muhso",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 47959,
+   "females": 45093
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C. Kuki Chin",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 170005,
+   "females": 173849
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "D. Naga",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 2145,
+   "females": 2056
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "E. Kachin",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 74051,
+   "females": 79846
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "F. Sak (Lui)",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Assam-Burmese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 17030,
+   "females": 18207
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "H. Mro",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tibeto-Burmese",
+    "Unclassed"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 7253,
+   "females": 6841
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tai-Chinese",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 632357,
+   "females": 567876
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "I. Tai",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tai-Chinese",
+    "Tai"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 513853,
+   "females": 508064
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "R. Chinese",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Tibeto-Chinese",
+    "Tai-Chinese",
+    "Chinese"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 118504,
+   "females": 59812
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Austric",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 245674,
+   "females": 242012
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "J. Malay",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Austric",
+    "Austro-Nesian",
+    "Indo-Nesian"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 3232,
+   "females": 3136
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Austro-Asiatic",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Austric"
+   ],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 242442,
+   "females": 238876
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "K. Mon",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Austric",
+    "Austro-Asiatic",
+    "Mon-Khmer"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 154058,
+   "females": 151236
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "L. Palaung-Wa",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Austric",
+    "Austro-Asiatic",
+    "Mon-Khmer"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 88384,
+   "females": 87640
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "N. Karen",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Karen"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 669081,
+   "females": 671985
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "O. Man",
+   "lang_path": [
+    "Indigenous (or Indo-Chinese) Languages, Groups A to O and R",
+    "Man"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 502,
+   "females": 445
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "X. Indian Languages",
+   "lang_path": [
+    "Non-Indigenous Languages",
+    "Artificial Groups formed for the purposes of this Table"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 765418,
+   "females": 314402
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Y. European Languages",
+   "lang_path": [
+    "Non-Indigenous Languages",
+    "Artificial Groups formed for the purposes of this Table"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 16069,
+   "females": 11826
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Z. Other Languages",
+   "lang_path": [
+    "Non-Indigenous Languages",
+    "Artificial Groups formed for the purposes of this Table"
+   ],
+   "lang_is_total": false,
+   "cols": [],
+   "persons": null,
+   "males": 1750,
+   "females": 1071
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total speakers of Indigenous Languages (Groups A to O and R)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 6697439,
+   "females": 6839522
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total speakers of Non-Indigenous Languages (Groups X, Y, Z)",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 783237,
+   "females": 327299
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Provincial Total",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [],
+   "persons": null,
+   "males": 7480676,
+   "females": 7166821
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Tibeto-Chinese family, Females: printed '5,?25,080' - the second digit is broken/faint in the scan. The sum of its sub-families (Tibeto-Burmese 5,357,204 + Tai-Chinese 567,876) would be 5,925,080 and the faint trace looks like the top of a 9, but the digit is recorded as unread."
+ ],
+ "notes": "Groups printed nil: G. Mishmi (North-Assam branch, '..'/'...') and M. Khasi (Mon-Khmer, '...'/'..'); omitted. The Karen and Man families have no sub-family/branch entries. Area is the whole province of Burma (the census area)."
+}

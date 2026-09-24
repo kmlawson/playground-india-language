@@ -1,0 +1,1663 @@
+{
+ "key": "nwfp",
+ "identifier": "in.ernet.dli.2015.56040",
+ "leaf": 364,
+ "printed_page": "cxxii",
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = area of bilingualism (Hazara concld., Peshawar) x mother tongue (with group totals); columns 3-4 = number of persons speaking the mother tongue (Males, Females; subsidiary null), columns 5-14 = subsidiary languages Pashto, Lahnda, Kashmiri, Kohistani, Gujuri x Males/Females. Opening continues on leaf 365 (cols 15-36).",
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Continues from leaf 363 (Hazara, rows before B-group on earlier leaf). Persons not printed (null). Peshawar Hindustani col 3 printed with a broken second digit, read 2,966 (confirmed: A(2) group total 38,122 requires 2,966 given Others 566); Peshawar A(2) Others col 3 '566' faint, likewise confirmed by the total. Group mother tongues recorded with mt_is_total true; area 'Hazara' rows here are only the B and C groups (concld.).",
+ "records": [
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 23,
+   "females": 11,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 18,
+   "females": 6,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 5,
+   "females": 5,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 145,
+   "females": 113,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 144,
+   "females": 113,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Hazara",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 538146,
+   "females": 436175,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 25547,
+   "females": 11314,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 11003,
+   "females": 6905,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": 2,
+   "females": 216,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Gujuri",
+   "persons": null,
+   "males": null,
+   "females": 137,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 530674,
+   "females": 433727,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 24557,
+   "females": 10876,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 10769,
+   "females": 6642,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": 2,
+   "females": 216,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Gujuri",
+   "persons": null,
+   "males": null,
+   "females": 137,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 492552,
+   "females": 418489,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 19779,
+   "females": 9521,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8651,
+   "females": 5201,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Gujuri",
+   "persons": null,
+   "males": null,
+   "females": 137,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 414339,
+   "females": 367434,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8448,
+   "females": 5143,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Gujuri",
+   "persons": null,
+   "males": null,
+   "females": 137,
+   "cols": [
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 76862,
+   "females": 50327,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 19683,
+   "females": 9442,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1188,
+   "females": 389,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 38,
+   "females": 7,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 195,
+   "females": 24,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kohistani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 57,
+   "females": 238,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kohistani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 28,
+   "females": 34,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kohistani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": null,
+   "females": 34,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujuri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 106,
+   "females": 101,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujuri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 30,
+   "females": 38,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujuri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 38122,
+   "females": 15238,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 4778,
+   "females": 1355,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2118,
+   "females": 1441,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": null,
+   "females": 216,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 29408,
+   "females": 11397,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 3720,
+   "females": 997,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1601,
+   "females": 714,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": null,
+   "females": 215,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2966,
+   "females": 1705,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 596,
+   "females": 119,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 15,
+   "females": 275,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 3776,
+   "females": 1377,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 353,
+   "females": 170,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 497,
+   "females": 452,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1380,
+   "females": 594,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 105,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 26,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 566,
+   "females": 165,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 4,
+   "females": 67,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Kohistani",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    11,
+    12
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2538,
+   "females": 1493,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 782,
+   "females": 400,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 234,
+   "females": 262,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2496,
+   "females": 1456,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 775,
+   "females": 400,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 230,
+   "females": 262,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 42,
+   "females": 37,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 7,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 4934,
+   "females": 955,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 208,
+   "females": 38,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 4916,
+   "females": 948,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 208,
+   "females": 38,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Peshawar",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 18,
+   "females": 7,
+   "cols": [
+    3,
+    4
+   ]
+  }
+ ]
+}

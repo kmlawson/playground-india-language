@@ -1,0 +1,7676 @@
+{
+ "key": "bihar_orissa",
+ "identifier": "in.ernet.dli.2015.56027",
+ "leaf": 127,
+ "printed_page": 121,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read (scan is landscape page turned sideways)",
+ "layout": "Part II Bi-lingualism. Rows = districts / subdivisions (col 1) x subsidiary language (col 3); for each mother tongue: Males/Females 'persons speaking above language as mother-tongue' (printed once per area) and Males/Females 'persons using subsidiary language in column 3' (one per subsidiary row). Leaves 126,128,130,132,134 carry Patna..Puri, leaves 127,129,131,133,135 carry Sambalpur..All other states, same columns as the preceding even leaf. Cols 2 (total population), 4 (total persons speaking col-3 language as mother tongue) and 5 (total persons using col-3 language as subsidiary to some other mother tongue) are printed only on leaves 126/127. Record 'measure' distinguishes these; persons are not printed for the per-language cells (persons=null). Table spans leaves 126-135 (printed pages 120-129).",
+ "records": [
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 343539,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 403,
+   "females": 342
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 7977,
+   "females": 7602
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 132529,
+   "females": 139988
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 891,
+   "females": 647
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 15579,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 2198,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 99,
+   "females": 49
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1044,
+   "females": 63
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 467,
+   "females": 252
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 272517,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 48742,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 91,
+   "females": 64
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 1668,
+   "females": 1558
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 323,
+   "females": 209
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 537406,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 77,
+   "females": 49
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 11967,
+   "females": 11555
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 247723,
+   "females": 257846
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 778,
+   "females": 635
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 505569,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 11181,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 37,
+   "females": 31
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 2030,
+   "females": 2477
+  },
+  {
+   "area": "Bargarh",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Orissa Division",
+    "Sambalpur"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 455,
+   "females": 448
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 720196,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 4230,
+   "females": 4070
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 317706,
+   "females": 327141
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 156,
+   "females": 129
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1263,
+   "females": 811
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 644847,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 20805,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1222,
+   "females": 925
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 59,
+   "females": 38
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 435,
+   "females": 259
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 238874,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 50,
+   "females": 41
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 118012,
+   "females": 119933
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 21,
+   "females": 11
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 237945,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 433,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 30,
+   "females": 17
+  },
+  {
+   "area": "Chatra",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 558287,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1508,
+   "females": 1372
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 242589,
+   "females": 247260
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 12
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 577,
+   "females": 428
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 489849,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 30362,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 383,
+   "females": 314
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 10
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 252,
+   "females": 244
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Santali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 63776,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Santali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 600,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Giridih",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Hazaribagh"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 204,
+   "females": 331
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 581639,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 4099,
+   "females": 3472
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 171387,
+   "females": 169101
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 241,
+   "females": 90
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 803,
+   "females": 568
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 7571,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 890,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 456,
+   "females": 368
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 340488,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 149994,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 2054,
+   "females": 1372
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 172,
+   "females": 48
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 643,
+   "females": 391
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Mundari",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 68866,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Mundari",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 5931,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 790,
+   "females": 705
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 4
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oraon",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 161638,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oraon",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 3925,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oraon",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 974,
+   "females": 2215
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 373800,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 3086,
+   "females": 3279
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 65692,
+   "females": 65852
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 1533,
+   "females": 1269
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 38,
+   "females": 21
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 131544,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 64930,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1063,
+   "females": 1002
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1363,
+   "females": 1112
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 29,
+   "females": 11
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Mundari",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 220242,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Mundari",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 7264,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 111,
+   "females": 103
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3864,
+   "females": 2853
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 14
+  },
+  {
+   "area": "Khunti",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 8,
+   "females": null
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 375476,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 118,
+   "females": 98
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 75537,
+   "females": 71170
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 594,
+   "females": 624
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 16
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 146707,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 182317,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 117,
+   "females": 91
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 583,
+   "females": 599
+  },
+  {
+   "area": "Gumla",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 16
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 236234,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 4
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 49142,
+   "females": 46139
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 1806,
+   "females": 1740
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 47
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 95281,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 132138,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 4
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1569,
+   "females": 1721
+  },
+  {
+   "area": "Simdega",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Ranchi"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 47
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 641122,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 318,
+   "females": 197
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 306817,
+   "females": 306981
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 9
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 201,
+   "females": 135
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 613798,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 25841,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 261,
+   "females": 145
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 9
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 201,
+   "females": 135
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 177614,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 42,
+   "females": 29
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 66295,
+   "females": 67156
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 6
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 69,
+   "females": 23
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 133451,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 42450,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 35,
+   "females": 19
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Latehar",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Palamau"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 60,
+   "females": 17
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 1289798,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 521403,
+   "females": 525250
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 32384,
+   "females": 29885
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 726,
+   "females": 610
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 698,
+   "females": 487
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 1046653,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 75306,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 4168,
+   "females": 3822
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 220,
+   "females": 188
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 80,
+   "females": 36
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 62269,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 7040,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3338,
+   "females": 2194
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 159,
+   "females": 165
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 149,
+   "females": 76
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Santali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 168714,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Santali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 1465,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 737,
+   "females": 525
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 8
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 521092,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 94262,
+   "females": 81774
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 150766,
+   "females": 108655
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 108,
+   "females": 119
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 2458,
+   "females": 1523
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 176036,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 8011,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3182,
+   "females": 1179
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 1
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 70,
+   "females": 38
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 259421,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 13157,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 4522,
+   "females": 1880
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 17,
+   "females": 7
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 714,
+   "females": 234
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Santali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 73377,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Santali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 1487,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 240,
+   "females": 272
+  },
+  {
+   "area": "Dhanbad",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Manbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Santali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 208,
+   "females": 741
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 535207,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 3383,
+   "females": 3029
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 16501,
+   "females": 14922
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 62413,
+   "females": 64834
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 653,
+   "females": 444
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 6412,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 1794,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 362,
+   "females": 144
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 376,
+   "females": 638
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 31423,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 21698,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 524,
+   "females": 102
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 4745,
+   "females": 3819
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 533,
+   "females": 231
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 127247,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 11428,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 314,
+   "females": 211
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 1662,
+   "females": 1531
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Ho",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 295790,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Ho",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 63205,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 231,
+   "females": 329
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 1638,
+   "females": 1433
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 23616,
+   "females": 29850
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Mundari",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 47151,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Mundari",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 2736,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 49,
+   "females": 71
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 683,
+   "females": 705
+  },
+  {
+   "area": "Sadr",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Mundari",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 508,
+   "females": 347
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 310857,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 61751,
+   "females": 61586
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 7728,
+   "females": 5174
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 17861,
+   "females": 17988
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1295,
+   "females": 374
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 123337,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 82797,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 992,
+   "females": 965
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 9024,
+   "females": 7103
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 3
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 12902,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 3900,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 699,
+   "females": 746
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 258,
+   "females": 367
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 802,
+   "females": 158
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 35849,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 10058,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1098,
+   "females": 1258
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 179,
+   "females": 124
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Ho",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 6851,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Ho",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 609,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 3
+  },
+  {
+   "area": "Dhalbhum (excluding Jamshedpur City)",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Ho",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 10
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 83738,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 10451,
+   "females": 7317
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 22342,
+   "females": 14380
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 5798,
+   "females": 2993
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 4926,
+   "females": 2144
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 17768,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 1797,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 270,
+   "females": 125
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 517,
+   "females": 334
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 23,
+   "females": 2
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 36722,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 18780,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 4383,
+   "females": 942
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 2872,
+   "females": 1061
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2609,
+   "females": 1023
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 8791,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 631,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 60,
+   "females": 46
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 194,
+   "females": 57
+  },
+  {
+   "area": "Jamshedpur City",
+   "area_path": [
+    "Bihar and Orissa",
+    "British Territory",
+    "Chota Nagpur Division",
+    "Singhbhum"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 889603,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 16638,
+   "females": 16605
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 19805,
+   "females": 19597
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 189202,
+   "females": 188504
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 93,
+   "females": 50
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 377706,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 333711,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 11558,
+   "females": 11029
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 13707,
+   "females": 11072
+  },
+  {
+   "area": "Mayurbhanj",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 15
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 460609,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1636,
+   "females": 1496
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 20511,
+   "females": 20190
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 159827,
+   "females": 166765
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 85,
+   "females": 61
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 326592,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 68971,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 984,
+   "females": 1039
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 5988,
+   "females": 6199
+  },
+  {
+   "area": "Keonjhar",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 25,
+   "females": 21
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 151047,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 66,
+   "females": 60
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 3624,
+   "females": 3403
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 54943,
+   "females": 58454
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 67,
+   "females": 53
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 113397,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 35006,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 21,
+   "females": 10
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3308,
+   "females": 3189
+  },
+  {
+   "area": "Bamra",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 27
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 566924,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 104,
+   "females": 83
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 11455,
+   "females": 10705
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 266409,
+   "females": 273594
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 486,
+   "females": 350
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 22160,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 957,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 32,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 363,
+   "females": 284
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 154,
+   "females": 35
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 540003,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 22721,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 47,
+   "females": 48
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 9887,
+   "females": 9237
+  },
+  {
+   "area": "Patna",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 225,
+   "females": 174
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 513716,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 46,
+   "females": 20
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 3718,
+   "females": 3794
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 210373,
+   "females": 217328
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 1742,
+   "females": 1944
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 427701,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 46029,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 23,
+   "females": 5
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3466,
+   "females": 2631
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1124,
+   "females": 1380
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Kandhi",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 69292,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Kandhi",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 1086,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kalahandi",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Kandhi",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 737,
+   "females": 349
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 356674,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 970,
+   "females": 903
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 25891,
+   "females": 25540
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 68959,
+   "females": 70031
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 213,
+   "females": 145
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 51431,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 29411,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 129,
+   "females": 82
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 1198,
+   "females": 1008
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 63,
+   "females": 36
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 138990,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 118588,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 329,
+   "females": 340
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 15528,
+   "females": 15097
+  },
+  {
+   "area": "Gangpur",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 53,
+   "females": 53
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 80186,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 580,
+   "females": 594
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1451,
+   "females": 1540
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 21224,
+   "females": 21537
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 9,
+   "females": 10
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 42761,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 24198,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 547,
+   "females": 535
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 860,
+   "females": 1085
+  },
+  {
+   "area": "Bonai",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 143525,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 21652,
+   "females": 21465
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2683,
+   "females": 2228
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 18257,
+   "females": 18111
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 143,
+   "females": 78
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 43117,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 4146,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 214,
+   "females": 125
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 560,
+   "females": 303
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 4911,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 672,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 133,
+   "females": 35
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 186,
+   "females": 31
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 60,
+   "females": 22
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 36368,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 9717,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1736,
+   "females": 1388
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 138,
+   "females": 113
+  },
+  {
+   "area": "Saraikela",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 43097,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1125,
+   "females": 1122
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2646,
+   "females": 2669
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 7164,
+   "females": 7674
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 63,
+   "females": 49
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 2247,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Bengali",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 571,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 27,
+   "females": 17
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Bengali",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 226,
+   "females": 23
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 5315,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Hindustani",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 554,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 1
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    16,
+    17
+   ],
+   "persons": null,
+   "males": 301,
+   "females": 26
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Hindustani",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 12
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 14838,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 9004,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 518,
+   "females": 403
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 862,
+   "females": 874
+  },
+  {
+   "area": "Kharsawan",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All mother tongues",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "total_population",
+   "cols": [
+    2
+   ],
+   "persons": 1446626,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 339,
+   "females": 286
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 4571,
+   "females": 3833
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    14,
+    15
+   ],
+   "persons": null,
+   "males": 671706,
+   "females": 709548
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": null,
+   "measure": "speaking_as_mother_tongue",
+   "cols": [
+    18,
+    19
+   ],
+   "persons": null,
+   "males": 244,
+   "females": 189
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Oriya",
+   "mt_path": [],
+   "subsidiary": null,
+   "measure": "col4_total_speaking_col3_language_as_mother_tongue",
+   "cols": [
+    4
+   ],
+   "persons": 1381254,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "All other mother tongues",
+   "mt_path": [],
+   "subsidiary": "Oriya",
+   "measure": "col5_total_using_col3_language_as_subsidiary",
+   "cols": [
+    5
+   ],
+   "persons": 53187,
+   "males": null,
+   "females": null
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Bengali",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 188,
+   "females": 95
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3004,
+   "females": 2740
+  },
+  {
+   "area": "All other states",
+   "area_path": [
+    "Bihar and Orissa",
+    "Feudatory States"
+   ],
+   "mother_tongue": "Other Indo-Aryan Languages",
+   "mt_path": [
+    "Indo-Aryan Languages"
+   ],
+   "subsidiary": "Oriya",
+   "measure": "using_subsidiary_language",
+   "cols": [
+    20,
+    21
+   ],
+   "persons": null,
+   "males": 115,
+   "females": 92
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Print on this leaf is much cleaner than leaf 126. All district-level mother-tongue sums were checked against Part I (leaves 120-121) and col 4; all agree except as noted:\nRanchi Sadr Hindustani MT Males reads like '171,887' -> 171,387 (col 4 340,488 = M+F; Part I Ranchi M 361,758).\nDhanbad Bengali MT Females reads '81,771' -> 81,774 (col 4 176,036; Part I Manbhum F 607,024).\nSaraikela Bengali MT Males reads like '21,653' (italic 2/3 ambiguous) -> 21,652 (col 4 43,117; Part I Chota Nagpur States 22,777).\nSinghbhum Sadr Other Indo-Aryan MT Females reads '44?1'-like -> 444 (Part I Singhbhum F 2,962).\nSubsidiary names as printed: 'Oraon' (Ranchi Sadr), 'Kandhi' (Kalahandi). Area 'Patna' under Feudatory States is the Patna State. Dhalbhum printed 'Dhalbhum (excluding Jamshedpur City)'."
+}

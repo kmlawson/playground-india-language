@@ -1,0 +1,1034 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 239,
+ "printed_page": 229,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Sindhi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "North Western Group",
+    "Sindhi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Koli",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 13,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Koli",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 13,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Koli",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 13,
+   "males": 13,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 7,
+   "females": 4
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 8,
+   "males": 4,
+   "females": 4
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Marathi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Southern Group",
+    "Marathi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 66,
+   "males": 41,
+   "females": 25
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 34,
+   "males": 25,
+   "females": 9
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26,
+   "males": 19,
+   "females": 7
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 32,
+   "males": 16,
+   "females": 16
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 27,
+   "males": 11,
+   "females": 16
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Bengali",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Outer Sub-Branch",
+    "Eastern Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 5,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Purbi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Mediate Sub-Branch",
+    "Mediate Group",
+    "Eastern Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Purbi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Mediate Sub-Branch",
+    "Mediate Group",
+    "Eastern Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Purbi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Mediate Sub-Branch",
+    "Mediate Group",
+    "Eastern Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Purbi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Mediate Sub-Branch",
+    "Mediate Group",
+    "Eastern Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 289,
+   "males": 235,
+   "females": 54
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 201,
+   "males": "?",
+   "females": 10
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": 5,
+   "females": 2
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 181,
+   "males": 181,
+   "females": null
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9,
+   "males": 3,
+   "females": 6
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 81,
+   "males": 44,
+   "females": 37
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 63,
+   "males": 27,
+   "females": 36
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 17,
+   "males": 16,
+   "females": 1
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": null,
+   "females": 7
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Gujrati",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Ayran Sub-Family",
+    "Indo Aryan Branch",
+    "Inner Sub-Branch",
+    "Central Group",
+    "Gujrati"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 7,
+   "males": null,
+   "females": 7
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Gujrati, Jammu Province, Males: printed '1?1', middle digit broken (8 or 9). Persons-Females = 191 and district males sum to 191; State males 235 = 191 + 44."
+ ],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. 'Ayran Sub-Family' is the printed spelling on this page. Group/sub-branch headers as printed. All other totals reconcile."
+}

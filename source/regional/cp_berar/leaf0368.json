@@ -1,0 +1,3045 @@
+{
+ "key": "cp_berar",
+ "identifier": "in.ernet.dli.2015.56037",
+ "leaf": 368,
+ "printed_page": 358,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "Bi-lingualism. Rows = area of bi-lingualism (district or state x tahsil or zamindari), serial-numbered 1-77, repeated on every page; columns = mother-tongue blocks, each = number of persons speaking the mother-tongue (M/F) followed by subsidiary languages (M/F). No Persons columns printed. Mother-tongue(s) on this page: Hindi and Rajasthani.",
+ "conventions": "subsidiary = null with mt_total = true is the 'Number of persons speaking mother-tongue' column. Pairs printed as '..' / '..' are omitted; where only one of a pair is nil ('..') it is recorded as 0. 'serial' is the printed serial number. area_path ends with the district (or 'Central Provinces States').",
+ "records": [
+  {
+   "serial": 1,
+   "area": "Saugor, Damoh, Jubbulpore and Narsinghpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 974667,
+   "females": 946884,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 1,
+   "area": "Saugor, Damoh, Jubbulpore and Narsinghpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 233,
+   "females": 114,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 2,
+   "area": "Mandla",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 54389,
+   "females": 55086,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 2,
+   "area": "Mandla",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5,
+   "females": 4,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 3,
+   "area": "Dindori",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 69066,
+   "females": 70388,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 3,
+   "area": "Dindori",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 0,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 4,
+   "area": "Niwas",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 46264,
+   "females": 45869,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 4,
+   "area": "Niwas",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Mandla"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 4,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 5,
+   "area": "Seoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Seoni"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 85452,
+   "females": 81424,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 5,
+   "area": "Seoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Seoni"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 124,
+   "females": 82,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 6,
+   "area": "Lakhnadon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Seoni"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 55893,
+   "females": 58394,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 6,
+   "area": "Lakhnadon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division",
+    "Seoni"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 7,
+   "area": "Hoshangabad (excluding Sohagpur)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 157855,
+   "females": 151526,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 7,
+   "area": "Hoshangabad (excluding Sohagpur)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 128,
+   "females": 73,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 8,
+   "area": "Sohagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Hoshangabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 68114,
+   "females": 65845,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 8,
+   "area": "Sohagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Hoshangabad"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 7,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 9,
+   "area": "Khandwa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 101765,
+   "females": 93813,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 9,
+   "area": "Khandwa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 79,
+   "females": 41,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 10,
+   "area": "Burhanpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 25576,
+   "females": 22225,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 10,
+   "area": "Burhanpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 562,
+   "females": 367,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 11,
+   "area": "Harsud",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 31453,
+   "females": 28103,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 11,
+   "area": "Harsud",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Nimar"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 17,
+   "females": 4,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 12,
+   "area": "Betul",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 26166,
+   "females": 25814,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 12,
+   "area": "Betul",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 231,
+   "females": 292,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 13,
+   "area": "Multai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 39275,
+   "females": 40178,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 13,
+   "area": "Multai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2246,
+   "females": 1524,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 14,
+   "area": "Bhainsdehi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 10200,
+   "females": 9849,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 14,
+   "area": "Bhainsdehi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Betul"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 224,
+   "females": 256,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 15,
+   "area": "Chhindwara Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 68764,
+   "females": 66891,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 15,
+   "area": "Chhindwara Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 220,
+   "females": 114,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 16,
+   "area": "Chhindwara Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 7987,
+   "females": 7660,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 16,
+   "area": "Chhindwara Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 8,
+   "females": 11,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 17,
+   "area": "Amarwara Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 44956,
+   "females": 46787,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 17,
+   "area": "Amarwara Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 17,
+   "females": 23,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 18,
+   "area": "Amarwara Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 11080,
+   "females": 11331,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 18,
+   "area": "Amarwara Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1,
+   "females": 0,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 19,
+   "area": "Sausar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 19572,
+   "females": 18564,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 19,
+   "area": "Sausar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division",
+    "Chhindwara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 8975,
+   "females": 7368,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 20,
+   "area": "Wardha and Hinganghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Wardha"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 15544,
+   "females": 11980,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 20,
+   "area": "Wardha and Hinganghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Wardha"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5688,
+   "females": 4278,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 21,
+   "area": "Arvi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Wardha"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 16540,
+   "females": 15008,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 21,
+   "area": "Arvi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Wardha"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 10637,
+   "females": 9423,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 22,
+   "area": "Nagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 51129,
+   "females": 39613,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 22,
+   "area": "Nagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 11459,
+   "females": 6552,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 23,
+   "area": "Ramtek",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 9860,
+   "females": 9510,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 23,
+   "area": "Ramtek",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5566,
+   "females": 5496,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 24,
+   "area": "Umrer",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3383,
+   "females": 3067,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 24,
+   "area": "Umrer",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1640,
+   "females": 1549,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 25,
+   "area": "Katol and Saoner",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 17231,
+   "females": 16002,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 25,
+   "area": "Katol and Saoner",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Nagpur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 10569,
+   "females": 9639,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 26,
+   "area": "Warora",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3847,
+   "females": 3246,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 26,
+   "area": "Warora",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2166,
+   "females": 1894,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 27,
+   "area": "Brahmapuri",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 1477,
+   "females": 1331,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 27,
+   "area": "Brahmapuri",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 955,
+   "females": 807,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 28,
+   "area": "Chanda",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 4349,
+   "females": 3337,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 28,
+   "area": "Chanda",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1657,
+   "females": 1475,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 29,
+   "area": "Garchiroli Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 1725,
+   "females": 1600,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 29,
+   "area": "Garchiroli Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1263,
+   "females": 1227,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 30,
+   "area": "Garchiroli Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3243,
+   "females": 2863,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 30,
+   "area": "Garchiroli Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 542,
+   "females": 521,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 31,
+   "area": "Sironcha Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 360,
+   "females": 311,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 31,
+   "area": "Sironcha Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 4,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 32,
+   "area": "Ahiri Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 765,
+   "females": 731,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 32,
+   "area": "Ahiri Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Chanda"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 110,
+   "females": 41,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 33,
+   "area": "Bhandara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 14483,
+   "females": 15363,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 33,
+   "area": "Bhandara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 6569,
+   "females": 7448,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 34,
+   "area": "Gondia",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 50616,
+   "females": 51420,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 34,
+   "area": "Gondia",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 16071,
+   "females": 14442,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 35,
+   "area": "Sakoli Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3811,
+   "females": 2416,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 35,
+   "area": "Sakoli Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1569,
+   "females": 925,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 36,
+   "area": "Sakoli Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 2646,
+   "females": 4229,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 36,
+   "area": "Sakoli Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Bhandara"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 846,
+   "females": 1513,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 37,
+   "area": "Balaghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 54386,
+   "females": 55459,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 37,
+   "area": "Balaghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 127,
+   "females": 116,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 38,
+   "area": "Baihar Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 31446,
+   "females": 30846,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 38,
+   "area": "Baihar Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 48,
+   "females": 34,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 39,
+   "area": "Baihar Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 5373,
+   "females": 5381,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 40,
+   "area": "Waraseoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 69326,
+   "females": 71938,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 40,
+   "area": "Waraseoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division",
+    "Balaghat"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2625,
+   "females": 2239,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 41,
+   "area": "Raipur (excluding 5 Zamindaris)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 503908,
+   "females": 544395,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 41,
+   "area": "Raipur (excluding 5 Zamindaris)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 204,
+   "females": 36,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 42,
+   "area": "Deori and Kauria Zamindaris",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 20360,
+   "females": 21107,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 43,
+   "area": "Khariar Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 19199,
+   "females": 20444,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 43,
+   "area": "Khariar Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2,
+   "females": 0,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 44,
+   "area": "Phuljhar Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 44725,
+   "females": 44589,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 45,
+   "area": "Bindra-Nawagarh Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 22377,
+   "females": 23215,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 45,
+   "area": "Bindra-Nawagarh Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Raipur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 3,
+   "females": 0,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 46,
+   "area": "Bilaspur (excluding Chandrapur-Padampur Estate)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 634762,
+   "females": 665790,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 46,
+   "area": "Bilaspur (excluding Chandrapur-Padampur Estate)",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 56,
+   "females": 51,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 47,
+   "area": "Chandrapur-Padampur Estate",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Bilaspur"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 31297,
+   "females": 32986,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 48,
+   "area": "Drug, Bemetara and Sanjari Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Drug"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 335317,
+   "females": 370403,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 48,
+   "area": "Drug, Bemetara and Sanjari Khalsa",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Drug"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 158,
+   "females": 143,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 49,
+   "area": "Sanjari Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Drug"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 38808,
+   "females": 40222,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 49,
+   "area": "Sanjari Zamindari",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division",
+    "Drug"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 8143,
+   "females": 5206,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 50,
+   "area": "Amraoti and Ellichpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 44965,
+   "females": 37892,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 50,
+   "area": "Amraoti and Ellichpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 8065,
+   "females": 5156,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 51,
+   "area": "Chandur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 10610,
+   "females": 9465,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 51,
+   "area": "Chandur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5210,
+   "females": 4060,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 52,
+   "area": "Morsi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 9822,
+   "females": 8451,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 52,
+   "area": "Morsi",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 3973,
+   "females": 2761,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 53,
+   "area": "Daryapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 10189,
+   "females": 8682,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 53,
+   "area": "Daryapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2203,
+   "females": 1880,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 54,
+   "area": "Melghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 4719,
+   "females": 4221,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 54,
+   "area": "Melghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Amraoti"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 135,
+   "females": 30,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 55,
+   "area": "Akola, Akot, Balapur and Murtizapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Akola"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 56595,
+   "females": 46804,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 55,
+   "area": "Akola, Akot, Balapur and Murtizapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Akola"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 12112,
+   "females": 6365,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 56,
+   "area": "Basim and Mangrulpir",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Akola"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 23091,
+   "females": 20644,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 56,
+   "area": "Basim and Mangrulpir",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Akola"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 10497,
+   "females": 7676,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 57,
+   "area": "Chikhli",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 11484,
+   "females": 11230,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 57,
+   "area": "Chikhli",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5031,
+   "females": 3330,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 58,
+   "area": "Jalgaon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 6558,
+   "females": 6015,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 58,
+   "area": "Jalgaon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 2753,
+   "females": 2035,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 59,
+   "area": "Khamgaon and Malkapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 25613,
+   "females": 23114,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 59,
+   "area": "Khamgaon and Malkapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5699,
+   "females": 4935,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 60,
+   "area": "Mehkar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 11432,
+   "females": 8868,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 60,
+   "area": "Mehkar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Buldana"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 7580,
+   "females": 4655,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 61,
+   "area": "Darwha and Pusad",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 47834,
+   "females": 42538,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 61,
+   "area": "Darwha and Pusad",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 27456,
+   "females": 24203,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 62,
+   "area": "Yeotmal",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 10362,
+   "females": 8700,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 62,
+   "area": "Yeotmal",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 6330,
+   "females": 4236,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 63,
+   "area": "Kelapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 9302,
+   "females": 8380,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 63,
+   "area": "Kelapur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 6624,
+   "females": 5942,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 64,
+   "area": "Wun",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3150,
+   "females": 3621,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 64,
+   "area": "Wun",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar",
+    "Yeotmal"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1367,
+   "females": 1387,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 65,
+   "area": "Makrai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 5769,
+   "females": 5805,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 66,
+   "area": "Bastar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 13744,
+   "females": 12030,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 66,
+   "area": "Bastar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 3226,
+   "females": 2611,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 67,
+   "area": "Kanker",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 40589,
+   "females": 44151,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 67,
+   "area": "Kanker",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 33,
+   "females": 67,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 68,
+   "area": "Kawardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 34970,
+   "females": 37588,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 69,
+   "area": "Sakti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 23311,
+   "females": 24692,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 69,
+   "area": "Sakti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 5,
+   "females": 5,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 70,
+   "area": "Raigarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 115129,
+   "females": 118549,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 71,
+   "area": "Sarangarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 48597,
+   "females": 52865,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 71,
+   "area": "Sarangarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 0,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 72,
+   "area": "Korea",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 46287,
+   "females": 43761,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 72,
+   "area": "Korea",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": "Marathi",
+   "mt_total": false,
+   "persons": null,
+   "males": 1,
+   "females": 0,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "serial": 73,
+   "area": "Surguja",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 225024,
+   "females": 219787,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 74,
+   "area": "Udaipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 39214,
+   "females": 38198,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 75,
+   "area": "Jashpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 51619,
+   "females": 51227,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 76,
+   "area": "Changbhakar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 3166,
+   "females": 3350,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "serial": 77,
+   "area": "Khairagarh, Nandgaon and Chhuikhadan",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi and Rajasthani",
+   "subsidiary": null,
+   "mt_total": true,
+   "persons": null,
+   "males": 172850,
+   "females": 186523,
+   "cols": [
+    3,
+    4
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Left-hand page of the spread 358-359: mother-tongue Hindi and Rajasthani (cols 3-4 number speaking; 5-6 subsidiary Marathi); block continues on leaf 369 (cols 7-18). The data columns are printed about half a row lower than the serial numbers / tahsil names, increasingly towards the foot; rows were assigned by counting entries within each column from a known row, and confirmed by the Part I cross-check. Spelling on this page: 'Khariyar Zamindari' (row 43; 'Khariar' on other pages), 'Bindra Nawagarh Zamindari' (row 45). Cross-check with Part I (Total Western Hindi + Total Rajasthani + Total Eastern Hindi, excluding Bihari): all 32 district/state groups agree for males and females except Buldana males: Part II rows 57-60 sum to 55,087 (11,484 + 6,558 + 25,613 + 11,432, all clearly printed) against Part I 55,487 (44,640 + 10,778 + 69); difference 400, kept as printed."
+}

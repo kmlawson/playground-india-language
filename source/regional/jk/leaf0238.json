@@ -1,0 +1,917 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 238,
+ "printed_page": 228,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Assam Burmese Branch",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Burmese",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Assam Burmese Branch",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Assam Burmese Branch",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Burmese",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Assam Burmese Branch",
+    "Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sanskrit",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Sanskrit Sub-Branch",
+    "Sanskrit Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Sanskrit",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Sanskrit Sub-Branch",
+    "Sanskrit Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Sanskrit",
+   "lang_path": [
+    "(b) Languages of India",
+    "Tibeto-Chinese Family",
+    "Tibeto Burma Sub-family",
+    "Sanskrit Sub-Branch",
+    "Sanskrit Group"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 51723,
+   "males": 27525,
+   "females": 24198
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 51035,
+   "males": 26843,
+   "females": 24192
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 67,
+   "males": 56,
+   "females": 11
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 12,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 26,
+   "males": 25,
+   "females": 1
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 10,
+   "males": 9,
+   "females": 1
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 50881,
+   "males": "?",
+   "females": 24162
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 39,
+   "males": 24,
+   "females": 15
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 686,
+   "males": 680,
+   "females": 6
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 649,
+   "males": 649,
+   "females": null
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 37,
+   "males": 31,
+   "females": 6
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Lahnda (Total)",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 51062,
+   "males": 26869,
+   "females": 24193
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 51035,
+   "males": 26843,
+   "females": 24192
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 67,
+   "males": 56,
+   "females": 11
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 10,
+   "females": 2
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26,
+   "males": 25,
+   "females": 1
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 10,
+   "males": 9,
+   "females": 1
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 50881,
+   "males": 26719,
+   "females": 24162
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 39,
+   "males": 24,
+   "females": 15
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26,
+   "males": 25,
+   "females": 1
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26,
+   "males": 25,
+   "females": 1
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Pothwari",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hazara",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 649,
+   "males": 649,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Hazara",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 649,
+   "males": "?",
+   "females": null
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Hazara",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 649,
+   "males": 649,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Punchi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12,
+   "males": 7,
+   "females": 5
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Punchi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Punchi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 11,
+   "males": 6,
+   "females": 5
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Punchi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Punchi",
+   "lang_path": [
+    "(b) Languages of India",
+    "Indo-European Family",
+    "Aryan Sub-family",
+    "Indo-Aryan Branch",
+    "Outer Sub-Branch",
+    "North-Western Group",
+    "Lahnda"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Lahnda Total, Mirpur District, Males: printed '2?,719', second digit broken (faint, looks like 3 or 6). Persons-Females = 26,719 and the Pothwari column prints 26,719.",
+  "Hazara, Kashmir Province, Males: printed '6?9', middle glyph damaged (looks like 1, could be a broken 4). Persons 649, Females nil, and Kashmir North prints 649/649."
+ ],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. The 'Tibeto-Chinese Family / Tibeto Burma Sub-family' header rules are printed across both the Burmese and the Sanskrit columns; lang_path follows the print, but Sanskrit is evidently not Tibeto-Burman (it has its own 'Sanskrit Sub-Branch / Sanskrit Group' headers). Lahnda 'Total' column recorded as language 'Lahnda (Total)', lang_is_total=true; it equals Pothwari+Hazara+Punchi in every row where readable. Two damaged glyphs recorded as '?': see unreadable."
+}

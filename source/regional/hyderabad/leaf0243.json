@@ -1,0 +1,1363 @@
+{
+ "key": "hyderabad",
+ "identifier": "in.ernet.dli.2015.105678",
+ "leaf": 243,
+ "printed_page": 237,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = district x mother tongue (row labels carried from facing left page); columns = subsidiary languages Marathi, Telugu, Urdu (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Marathi",
+   "persons": 12055,
+   "males": 7908,
+   "females": 4147,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Telugu",
+   "persons": 2466,
+   "males": 1980,
+   "females": 486,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Urdu",
+   "persons": 4632,
+   "males": 3552,
+   "females": 1080,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 724,
+   "males": 425,
+   "females": 299,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 680,
+   "males": 538,
+   "females": 142,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 308,
+   "males": 155,
+   "females": 153,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 1731,
+   "males": 1171,
+   "females": 560,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 8055,
+   "males": 4886,
+   "females": 3169,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 2077,
+   "males": 1774,
+   "females": 303,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 1428,
+   "males": 1214,
+   "females": 214,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 2899,
+   "males": 2292,
+   "females": 607,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 21,
+   "males": 19,
+   "females": 2,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 8,
+   "males": 4,
+   "females": 4,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 47,
+   "males": 23,
+   "females": 24,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 362,
+   "males": 284,
+   "females": 78,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Erakala",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Erakala",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 2,
+   "males": 2,
+   "females": null,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 259,
+   "males": 210,
+   "females": 49,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 4,
+   "males": 3,
+   "females": 1,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 133,
+   "males": 112,
+   "females": 21,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 91,
+   "males": 72,
+   "females": 19,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 7,
+   "males": 4,
+   "females": 3,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 282,
+   "males": 219,
+   "females": 63,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Arabic",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 4,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 17,
+   "males": 17,
+   "females": null,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Osmanabad",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 12,
+   "males": 12,
+   "females": null,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Marathi",
+   "persons": 4524,
+   "males": 2667,
+   "females": 1857,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Telugu",
+   "persons": 57144,
+   "males": 27013,
+   "females": 30131,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Urdu",
+   "persons": 46004,
+   "males": 39050,
+   "females": 6954,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 856,
+   "males": 525,
+   "females": 331,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 13925,
+   "males": 12364,
+   "females": 1561,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 1263,
+   "males": 694,
+   "females": 569,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 3392,
+   "males": 2394,
+   "females": 998,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 3234,
+   "males": 1826,
+   "females": 1408,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 51863,
+   "males": 23825,
+   "females": 28038,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 27283,
+   "males": 23172,
+   "females": 4111,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 211,
+   "males": 122,
+   "females": 89,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 3461,
+   "males": 2076,
+   "females": 1385,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 219,
+   "males": 191,
+   "females": 28,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Erakala",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 218,
+   "males": 142,
+   "females": 76,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 9,
+   "males": 7,
+   "females": 2,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarati",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 282,
+   "males": 228,
+   "females": 54,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 153,
+   "males": 140,
+   "females": 13,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 193,
+   "males": 152,
+   "females": 41,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 711,
+   "males": 547,
+   "females": 164,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Tamil",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 56,
+   "males": 44,
+   "females": 12,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Arabic",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 42,
+   "males": 28,
+   "females": 14,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 70,
+   "males": 54,
+   "females": 16,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 137,
+   "males": 117,
+   "females": 20,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Raichur",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 94,
+   "males": 82,
+   "females": 12,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Marathi",
+   "persons": 18884,
+   "males": 9982,
+   "females": 8902,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Telugu",
+   "persons": 1461,
+   "males": 758,
+   "females": 703,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Urdu",
+   "persons": 10184,
+   "males": 6580,
+   "females": 3604,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 12880,
+   "males": 5907,
+   "females": 6973,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Telugu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 1157,
+   "males": 894,
+   "females": 263,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Marathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 3802,
+   "males": 2461,
+   "females": 1341,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 3937,
+   "males": 2664,
+   "females": 1273,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 1177,
+   "males": 588,
+   "females": 589,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kanarese",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 4222,
+   "males": 2328,
+   "females": 1894,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 1344,
+   "males": 842,
+   "females": 502,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 156,
+   "males": 105,
+   "females": 51,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 96,
+   "males": 48,
+   "females": 48,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": 128,
+   "males": 65,
+   "females": 63,
+   "cols": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Banjari",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 315,
+   "males": 284,
+   "females": 31,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 10,
+   "males": 4,
+   "females": 6,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Gujarathi",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 240,
+   "males": 212,
+   "females": 28,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 466,
+   "males": 387,
+   "females": 79,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Rajasthani",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 358,
+   "males": 319,
+   "females": 39,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Arabic",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 4,
+   "males": 3,
+   "females": 1,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Marathi",
+   "persons": 147,
+   "males": 127,
+   "females": 20,
+   "cols": [
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "area": "Bidar",
+   "area_path": [
+    "Hyderabad State"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Urdu",
+   "persons": 90,
+   "males": 82,
+   "females": 8,
+   "cols": [
+    15,
+    16,
+    17
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Right-hand page of the opening 242-243 (printed p. 237); no row labels printed, rows carried across from leaf 242 (verified by column totals). Cols 9-11 subsidiary Marathi, 12-14 Telugu, 15-17 Urdu. Bidar Total Urdu females printed '3 604' (space for comma), read 3,604. All P=M+F and district-total checks pass."
+}

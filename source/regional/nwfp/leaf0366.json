@@ -1,0 +1,1306 @@
+{
+ "key": "nwfp",
+ "identifier": "in.ernet.dli.2015.56040",
+ "leaf": 366,
+ "printed_page": "cxxiv",
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = area of bilingualism (Kohat full block; Bannu first rows through A(1) Gujuri) x mother tongue; columns 3-4 = number of persons speaking the mother tongue (Males, Females; subsidiary null), columns 5-14 = subsidiary Pashto, Lahnda, Kashmiri, Kohistani, Gujuri x Males/Females. Opening continues on leaf 367 (cols 15-36).",
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Bannu block continues on leaf 368 (A(2), B, C groups), so Bannu Total/A rows cannot be reconciled on this leaf. Kohat A(1) row is printed 'A.—Vernaculars of the N.-W. F. P. Total.' (the '(1)' omitted); recorded as 'A (1)—Vernaculars of the N.-W. F. P.' to match Bannu and the group structure. Kohat Lahnda col 6 printed '60,32' (misplaced comma); recorded as 6032, which equals the A(1) total 6,032 printed above it. Kohat Total col 4 middle digit blurred, read 110,063 (= 109,783 + 129 + 151). Kohistani and Gujuri mother-tongue rows are nil throughout for Kohat and Bannu on this leaf. Persons not printed (null).",
+ "records": [
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 126210,
+   "females": 110063,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 6749,
+   "females": 6221,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4789,
+   "females": 1753,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 125271,
+   "females": 109783,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 6667,
+   "females": 6172,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4782,
+   "females": 1673,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 115249,
+   "females": 106844,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 5914,
+   "females": 6032,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2918,
+   "females": 1496,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 96344,
+   "females": 89955,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2910,
+   "females": 1496,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 18866,
+   "females": 16889,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 5914,
+   "females": 6032,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 39,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 10022,
+   "females": 2939,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 753,
+   "females": 140,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1864,
+   "females": 177,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 8594,
+   "females": 2483,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 591,
+   "females": 68,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1705,
+   "females": 171,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 11,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1159,
+   "females": 364,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 128,
+   "females": 34,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 150,
+   "females": 6,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 91,
+   "females": 85,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 34,
+   "females": 38,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 99,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 68,
+   "females": 7,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 234,
+   "females": 129,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 74,
+   "females": 44,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1,
+   "females": 80,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 234,
+   "females": 129,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 74,
+   "females": 44,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1,
+   "females": 80,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 705,
+   "females": 151,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 8,
+   "females": 5,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 6,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 696,
+   "females": 143,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 7,
+   "females": 4,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 9,
+   "females": 8,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Kohat",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 145163,
+   "females": 125138,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 8511,
+   "females": 3275,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1920,
+   "females": 408,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 144712,
+   "females": 125019,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 8504,
+   "females": 3274,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1917,
+   "females": 408,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 138568,
+   "females": 123429,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 8156,
+   "females": 3223,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of the N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1607,
+   "females": 332,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 121438,
+   "females": 106943,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 1599,
+   "females": 332,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 17076,
+   "females": 16471,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 8154,
+   "females": 3221,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 54,
+   "females": 15,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 2,
+   "females": 2,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Bannu",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of the N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  }
+ ]
+}

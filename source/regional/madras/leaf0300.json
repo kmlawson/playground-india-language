@@ -1,0 +1,1077 @@
+{
+ "key": "madras",
+ "identifier": "in.ernet.dli.2015.56039",
+ "leaf": 300,
+ "printed_page": 294,
+ "table": "XV Part II",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = districts and states, columns = mother tongue blocks x (total returning the mother-tongue, subsidiary languages) x Males/Females",
+ "records": [
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 18571,
+   "females": 15996,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 18571,
+   "females": 15996,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 12030,
+   "females": 11935,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 12025,
+   "females": 11935,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 6541,
+   "females": 4061,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 6225,
+   "females": 3814,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Telugu",
+   "persons": null,
+   "males": 316,
+   "females": 247,
+   "cols": [
+    140,
+    141
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hill and Aboriginal",
+   "persons": null,
+   "males": 349,
+   "females": 1183,
+   "cols": [
+    142,
+    143
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hill and Aboriginal",
+   "persons": null,
+   "males": 349,
+   "females": 1183,
+   "cols": [
+    142,
+    143
+   ]
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hill and Aboriginal",
+   "persons": null,
+   "males": 349,
+   "females": 1183,
+   "cols": [
+    142,
+    143
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saora",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hill and Aboriginal",
+   "persons": null,
+   "males": 349,
+   "females": 1183,
+   "cols": [
+    142,
+    143
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 50292,
+   "females": 53784,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 49725,
+   "females": 53179,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 26,
+   "females": 22,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 26,
+   "females": 22,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Vizagapatam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 5,
+   "females": 3,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Agency",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Vizagapatam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 3,
+   "females": 3,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Godavari, West",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Kistna",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 77,
+   "females": 90,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Nellore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Kurnool",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Bellary",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 7,
+   "females": 8,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1503,
+   "females": 1270,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Chingleput",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 937,
+   "females": 880,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Chittoor",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 286,
+   "females": 394,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1830,
+   "females": 1859,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 5319,
+   "females": 5157,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Coimbatore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 63,
+   "females": 37,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "South Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 188,
+   "females": 164,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Tanjore",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 8055,
+   "females": 8885,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2179,
+   "females": 2222,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Madura",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 22813,
+   "females": 24979,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Ramnad",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 4344,
+   "females": 4902,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Tinnevelly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2089,
+   "females": 2307,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Nilgiris",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Madras States",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 567,
+   "females": 605,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Pudukkottai",
+   "area_path": [
+    "Madras",
+    "Madras States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 567,
+   "females": 605,
+   "cols": [
+    144,
+    145
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 12,
+   "females": 3,
+   "cols": [
+    148,
+    149
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 12,
+   "females": 3,
+   "cols": [
+    148,
+    149
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 11,
+   "females": 1,
+   "cols": [
+    148,
+    149
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": null,
+   "females": 2,
+   "cols": [
+    148,
+    149
+   ]
+  },
+  {
+   "area": "Trichinopoly",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Hindustani",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    148,
+    149
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    150,
+    151
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    150,
+    151
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 2,
+   "females": null,
+   "cols": [
+    150,
+    151
+   ]
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "cols": [
+    150,
+    151
+   ]
+  },
+  {
+   "area": "Salem",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Kanarese",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    150,
+    151
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": 4,
+   "cols": [
+    152,
+    153
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": 4,
+   "cols": [
+    152,
+    153
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": null,
+   "females": 4,
+   "cols": [
+    152,
+    153
+   ]
+  },
+  {
+   "area": "North Arcot",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Malayalam",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    152,
+    153
+   ]
+  },
+  {
+   "area": "Madras",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    154,
+    155
+   ]
+  },
+  {
+   "area": "British Territory",
+   "area_path": [
+    "Madras"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    154,
+    155
+   ]
+  },
+  {
+   "area": "Ganjam",
+   "area_path": [
+    "Madras",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    154,
+    155
+   ]
+  },
+  {
+   "area": "Plains",
+   "area_path": [
+    "Madras",
+    "British Territory",
+    "Ganjam"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Saurashtri",
+   "mt_path": [],
+   "mt_is_total": false,
+   "subsidiary": "Oriya",
+   "persons": null,
+   "males": 3,
+   "females": null,
+   "cols": [
+    154,
+    155
+   ]
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Printed p. 294, cols 140-155. Mother tongue Saora concld. (cols 140-143: subsidiary Telugu, Hill and Aboriginal; total and Oriya on leaf 299); mother tongue Saurashtri begins (cols 144-155: total returning, Hill and Aboriginal, Hindustani, Kanarese, Malayalam, Oriya) and continues on leaf 301. Subsidiary Hill and Aboriginal of Saurashtri (cols 146-147) entirely nil. Only Males/Females printed; persons null; where one sex is nil the other field is null. In cols 152-155 the figures sit slightly below their row labels; assigned by slot count (Madras city Malayalam females 4; North Arcot Malayalam males 1). All area totals reconcile (Madras = British Territory + Madras States; British Territory = districts; district = Agency + Plains; States = Pudukkottai + Banganapalle + Sandur)."
+}

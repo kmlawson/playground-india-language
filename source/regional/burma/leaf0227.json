@@ -1,0 +1,542 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 227,
+ "printed_page": 221,
+ "table": "XV Part I",
+ "part": "I-B Provincial Totals of Speakers of each Language",
+ "orientation": "upright",
+ "layout": "rows = languages (serial code, e.g. A1, in the margin; group total rows A, B, ...), columns = 1 Language, 2 Males, 3 Females, 4 Remarks (alternative names and district distribution). Area is the whole province; no Persons column (persons = null).",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "PROVINCIAL TOTAL",
+   "serial": "",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 7480676,
+   "females": 7166821,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burma Group",
+   "serial": "A",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4831382,
+   "females": 5031312,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Burmese",
+   "serial": "A1",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4324033,
+   "females": 4517727,
+   "remarks": "Bama, Myanma, Mranma. Throughout the Province. Distribution is shown in Part IE of this Table"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arakanese",
+   "serial": "A2",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 113311,
+   "females": 108634,
+   "remarks": "Rakhaing, Yakhaing. Distribution is shown in Part IE of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yanbye",
+   "serial": "A3",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 158597,
+   "females": 168045,
+   "remarks": "Ramree Kyaukpyu : M. 93,175, F 101,023 ; Akyab : M. 48,778, F. 49,385 ; Sandoway : M. 16,571, F. 17,612 ; Arakan Hill Tracts : M. 72, F. 25 ; Prome : M. 1."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chaungtha",
+   "serial": "A4",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 17345,
+   "females": 17280,
+   "remarks": "Akyab : M 16,330, F. 16,369 ; Arakan Hill Tracts: M. 1,015, F. 911."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tavoyan",
+   "serial": "A5",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 78692,
+   "females": 80482,
+   "remarks": "Dawè. Tavoy : M. 75,910, F. 76,965 ; Mergui : M. 2,471, F. 3,274. Remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Merguese",
+   "serial": "A6",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": "51,?34",
+   "females": 50010,
+   "remarks": "Myeik, Beik. Mergui : M. 50,963, F. 49,954. Remainder scattered."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yaw",
+   "serial": "A8",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 484,
+   "females": 393,
+   "remarks": "Myitkyina : M. 462, F. 388."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danu",
+   "serial": "A9",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 31090,
+   "females": 29876,
+   "remarks": "Shan Danu. Southern Shan States : M. 28,853, F 28,900 ; Meiktila : M. 1,240, F. 165 ; Yamethin : M 439, F. 385 ; Northern Shan States : M. 434, F. 305."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Intha",
+   "serial": "A10",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 28001,
+   "females": 28828,
+   "remarks": "Angsa, Tai-Nawng, Man-Nawng. Southern Shan States ; M. 27,191, F. 27,958 ; Karenni : M. 810, F. 867."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Taungyo",
+   "serial": "A11",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 11046,
+   "females": 11215,
+   "remarks": "Töru. Southern Shan States : M. 11,012, F. 11,195."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hpon",
+   "serial": "A12",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 343,
+   "females": 336,
+   "remarks": "Hpun, Hpo, Hpyi, Megyaw, Samong. Bhamo : M. 182, F. 201 ; Myitkyina : M. 161, F. 135."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Atsi",
+   "serial": "A13",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2484,
+   "females": 2810,
+   "remarks": "Tsi, Szi. Myitkyina : M, 1,242, F. 1,432 ; Northern Shan States : M. 1,237, F. 1,373."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lashi",
+   "serial": "A14",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 6110,
+   "females": 6454,
+   "remarks": "Lachikwaw. Myitkyina : M. 4,739, F. 4,898 ; Northern Shan States : M. 1,365, F. 1,556."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Maru †",
+   "serial": "A15",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 8393,
+   "females": 9054,
+   "remarks": "Lawngwaw. Myitkyina : M. 5,360, F. 5,792 ; Northern Shan States : M. 2,842, F. 3,085 ; Bhamo : M. 191, F. 177."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Maingtha",
+   "serial": "A16",
+   "lang_path": [
+    "A Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 319,
+   "females": 168,
+   "remarks": "Achang, Ngachang, Mongsa, Lahsa, Hohsa, Khehsa. Northern Shan States : M. 119, F. 104 ; Bhamo : M. 84, F. 14 ; Katha : M. 64, F. 49 ; Myitkyina : M. 49, F. 1"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lolo-Muhso Group",
+   "serial": "B",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 47959,
+   "females": 45093,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lisaw †",
+   "serial": "B1",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9885,
+   "females": 9813,
+   "remarks": "Yawyin, Lisu, Black Lisu. Northern Shan States : M. 3,962, F. 3,926 ; Myitkyina : M. 2,872, F. 2,944 ; Southern Shan States : M. 1,622, F. 1,563 ; Katha : M [?]53, F. [?]17 ; Bhamo : M. 575, F. 663."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lahu",
+   "serial": "B3",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 13666,
+   "females": 13198,
+   "remarks": "Lahu-na, Muhso, Manghtam. Southern Shan States : M. 13,034, F. 12,518 ; Northern Shan States M. 632, F. 680."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Akö",
+   "serial": "B4",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 680,
+   "females": 663,
+   "remarks": "Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pyin",
+   "serial": "B5",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 440,
+   "females": 360,
+   "remarks": "Pyen, Hpin. Southern Shan States : M. 263, F. 192 ; Northern Shan States : M. 177, F. 168."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kwi",
+   "serial": "B6",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1962,
+   "females": 1877,
+   "remarks": "Lahu hsi. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kaw",
+   "serial": "B7",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 21261,
+   "females": 19146,
+   "remarks": "Akha, Ikaw, Kha-kaw, Kao. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Nung †",
+   "serial": "B8",
+   "lang_path": [
+    "B Lolo-Muhso Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 36,
+   "remarks": "Anung, Khanung, Naingvaw, Rawan. Myitkyina and Mandalay * only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kuki-Chin Group",
+   "serial": "C",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 170005,
+   "females": 173849,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kathè",
+   "serial": "C1",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1982,
+   "females": 1782,
+   "remarks": "Manipuri, Meithei, Ponna. Distribution is shown in Part IE of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kyaw",
+   "serial": "C2",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 141,
+   "females": 93,
+   "remarks": "Chaw. Arakan Hill Tracts only."
+  }
+ ],
+ "footnotes": "* Due to the presence of a detachment of the Burma Rifles. † See Note 1 on page 219.",
+ "unreadable": [
+  "A6 Merguese, Males (col 2): printed '51,?34' - the hundreds digit is broken in the scan. Burma Group total 4,831,382 minus the other A-rows implies 51,134 (see check), but the digit itself is not legible.",
+  "B1 Lisaw remarks, Katha: 'M ?53, F ?17' - first digit of each is blurred (look like 853 and 717; F. 717 would make the listed districts sum exactly to the total 9,813)."
+ ],
+ "notes": "Remarks column (col 4) transcribed into each record's 'remarks' field (italic alternative names not marked). Lahu Males printed with a full stop as '13.666'. A7 Yabein Females printed as a single '.'. Kuki-Chin Group (C) continues on leaf 228; its total cannot be checked on this leaf alone. Rows printed nil in both Males and Females (omitted as records): A7 Yabein; B2 Lolo; B9 Tangsir; B10 Hopa; B11 Watao-khum; B12 Khwinpang."
+}

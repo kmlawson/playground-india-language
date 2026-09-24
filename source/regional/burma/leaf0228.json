@@ -1,0 +1,777 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 228,
+ "printed_page": 222,
+ "table": "XV Part I",
+ "part": "I-B Provincial Totals of Speakers of each Language",
+ "orientation": "upright",
+ "layout": "rows = languages (serial code, e.g. A1, in the margin; group total rows A, B, ...), columns = 1 Language, 2 Males, 3 Females, 4 Remarks (alternative names and district distribution). Area is the whole province; no Persons column (persons = null).",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Thado",
+   "serial": "C3",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3073,
+   "females": 3247,
+   "remarks": "Lu-shuang, Thadoete. Chin Hills : M 777, F. 765 , Upper Chindwin : M. 2,011, F. 2,229 ; Kyaukpyu : M. 285, F. 253."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Siyin",
+   "serial": "C4",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1669,
+   "females": 1837,
+   "remarks": "Htaote, Dialtheng. Chin Hills : M. 1,563, F. 1,788 ; Upper Chindwin : M. 106, F. 49."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sokte",
+   "serial": "C5",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 8364,
+   "females": 8708,
+   "remarks": "Chin Hills : M 8,268, F. 8,662 ; Upper Chindwin : M. 96."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kamhow",
+   "serial": "C6",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9865,
+   "females": 9929,
+   "remarks": "Vute. Chin Hills : M 9,379, F. 9,434 , Upper Chindwin : M. 438, F. 486 ; Mandalay * : M. 48, F. 9"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yo",
+   "serial": "C7",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 674,
+   "females": 691,
+   "remarks": "Yote. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tashon",
+   "serial": "C8",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1539,
+   "females": 1525,
+   "remarks": "Falam Chin, Shunkla. Chin Hills : M. 1,245, F. 1,266 ; Pakôkku : M. 245, F. 253 ; Mandalay* : M 49, F. 3."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yahow",
+   "serial": "C9",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4365,
+   "females": 5230,
+   "remarks": "Zahow. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Laizao",
+   "serial": "C10",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2911,
+   "females": 3423,
+   "remarks": "Laizo, Hlunseo. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kwangli",
+   "serial": "C11",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1637,
+   "females": 1977,
+   "remarks": "Shim-rhim. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Ngorn",
+   "serial": "C12",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2727,
+   "females": 3081,
+   "remarks": "Tapong, Bwelka. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lushei",
+   "serial": "C13",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": "12?",
+   "females": 176,
+   "remarks": "Ngente. Upper Chindwin : M. 116, F. 173. The Lushei Chins in the Chin Hills have been returned as Whelngos."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Whelngo",
+   "serial": "C14",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1704,
+   "females": 1774,
+   "remarks": "Hualngo, Whenoh. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lyente",
+   "serial": "C15",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 727,
+   "females": 844,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Zahnyet",
+   "serial": "C16",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2786,
+   "females": 3400,
+   "remarks": "Yanyet. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lai",
+   "serial": "C17",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 11926,
+   "females": 12232,
+   "remarks": "Haka-Chin. Chin Hills : M. 9,295, F. 9,588 ; Pakôkku : M. 2,092, F. 2,182 ; Upper Chindwin : M. 479, F 432 ; Mandalay * : M. 35, F. 13."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lakher",
+   "serial": "C18",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 32,
+   "females": 32,
+   "remarks": "Shandu. Arakan Hill Tracts only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Lawhtu",
+   "serial": "C19",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4626,
+   "females": 5099,
+   "remarks": "Lohtaw. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kwelshim",
+   "serial": "C20",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1328,
+   "females": 1493,
+   "remarks": "Mi-err. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Zotung",
+   "serial": "C21",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4406,
+   "females": 4579,
+   "remarks": "Yotun. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sentang",
+   "serial": "C22",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 3615,
+   "females": 3709,
+   "remarks": "Shentang. Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamang",
+   "serial": "C23",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4175,
+   "females": 4115,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Miram",
+   "serial": "C24",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2663,
+   "females": 2609,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Zolamnai",
+   "serial": "C25",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1266,
+   "females": 1226,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Torr",
+   "serial": "C26",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 85,
+   "females": 108,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Ta-oo",
+   "serial": "C27",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 286,
+   "females": 230,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Mgan",
+   "serial": "C28",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1592,
+   "females": 1548,
+   "remarks": "Chin Hills only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinbok",
+   "serial": "C30",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9913,
+   "females": 10282,
+   "remarks": "Yawdwin, Twi-li-chaung. Chin Hills : M. 9,474, F. 9,800 ; Minbu : M. 412, F. 462 ; Pakôkku : M. 26, F. 20."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yindu",
+   "serial": "C31",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 3,
+   "remarks": "Ni-du, Hmyun, Ka-dhak, Ka-chak. Recorded only in Pakôkku ; it is also spoken in the Chin Hills and Arakan Hill Tracts."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinbon",
+   "serial": "C33",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 5089,
+   "females": 5179,
+   "remarks": "Ur-per, Twi-sheep, Num-lan Pakôkku : M. 2,511, F 2,671 ; Minbu : M. 1,780, F. 1,756; Chin Hills : M. 594, F. 570 ; Akyab : M. 204, F. 182."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Taungtha",
+   "serial": "C34",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 5482,
+   "females": 5671,
+   "remarks": "Rongtu. Pakôkku : M. 5,463, F. 5,659 ; Chin Hills : M. 12 F. 12."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sho",
+   "serial": "C35",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 797,
+   "females": 763,
+   "remarks": "Ashö, Taung Chin, Southern Chin. Thayetmyo : M. 171, F. 120 ; Minbu : M. 626, F. 643."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Khami",
+   "serial": "C36",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 15473,
+   "females": 15409,
+   "remarks": "Ayaing Khami, Awa Khami, Kwemi, Kwe-myi. Akyab : M. 9,088, F. 9,045 ; Arakan Hill Tracts : M. 6,384, F. 6,364."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kaungtso",
+   "serial": "C38",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 592,
+   "females": 556,
+   "remarks": "Arakan Hill Tracts only"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kaukadan",
+   "serial": "C39",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 137,
+   "females": 157,
+   "remarks": "Akyab only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Ledu",
+   "serial": "C40",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 863,
+   "females": 856,
+   "remarks": "Akyab : M. 82, F 69 ; Kyaukpyu : M 781, F. 787."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Matu",
+   "serial": "C41",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 82,
+   "females": 72,
+   "remarks": "Kyaukpyu only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sittu",
+   "serial": "C42",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2343,
+   "females": 1939,
+   "remarks": "Kyaukpyu only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chaunggyi Chin",
+   "serial": "C43",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 16,
+   "remarks": "Kyaukpyu only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Saingbaung",
+   "serial": "C44",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4273,
+   "females": 3758,
+   "remarks": "Kyaukpyu : M. 4,169, F. 3,624 ; Sandoway : M 104, F. 134."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chin (unspecified)",
+   "serial": "C45",
+   "lang_path": [
+    "C Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 44655,
+   "females": 44491,
+   "remarks": "Distribution is shown in Part IE of this Table."
+  }
+ ],
+ "footnotes": "* Due to the presence of a detachment of the Burma Rifles.",
+ "unreadable": [
+  "C13 Lushei, Males (col 2): printed '12?' - the units digit is broken in the scan. The Kuki-Chin Group total (leaf 227) minus all other C-rows implies 120 (see check), but the digit is not legible."
+ ],
+ "notes": "Continuation of the Kuki-Chin Group (C) from leaf 227 (group total row is on leaf 227); the group is complete on this leaf (C3-C45). Welaung (C29) Females printed as a single '.'. Thado remarks 'Kyaukpyu : M. 285' has a damaged 8; 285 makes the remarks add exactly to the Thado total 3,073. Rows printed nil in both Males and Females (omitted as records): C29 Welaung; C32 Chinmè; C37 Anu."
+}

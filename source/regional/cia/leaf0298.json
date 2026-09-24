@@ -1,0 +1,3285 @@
+{
+ "key": "cia",
+ "identifier": "in.gov.ignca.31130",
+ "leaf": 298,
+ "printed_page": 290,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = Central India Agency, agencies and states (43 lines incl. sub-rows 7a/7b, 19a/19b, 34a-c); columns = languages x Persons/Males/Females",
+ "records": [
+  {
+   "row": "CIA",
+   "area": "Central India Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6632790,
+   "males": 3405438,
+   "females": 3227352
+  },
+  {
+   "row": "CIA",
+   "area": "Central India Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6628790,
+   "males": 3402777,
+   "females": 3226013
+  },
+  {
+   "row": "CIA",
+   "area": "Central India Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 6302717,
+   "males": 3229719,
+   "females": 3072998
+  },
+  {
+   "row": "CIA",
+   "area": "Central India Agency",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 354098,
+   "males": 178698,
+   "females": 175400
+  },
+  {
+   "row": "1",
+   "area": "British Pargana of Manpur",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 6852,
+   "males": 3582,
+   "females": 3270
+  },
+  {
+   "row": "1",
+   "area": "British Pargana of Manpur",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 6843,
+   "males": 3579,
+   "females": 3264
+  },
+  {
+   "row": "1",
+   "area": "British Pargana of Manpur",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5931,
+   "males": 3084,
+   "females": 2847
+  },
+  {
+   "row": "2",
+   "area": "Indore",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1318237,
+   "males": 689655,
+   "females": 628582
+  },
+  {
+   "row": "2",
+   "area": "Indore",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1315256,
+   "males": 687563,
+   "females": 627693
+  },
+  {
+   "row": "2",
+   "area": "Indore",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1163844,
+   "males": 605361,
+   "females": 558483
+  },
+  {
+   "row": "2",
+   "area": "Indore",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 8272,
+   "males": 4099,
+   "females": 4173
+  },
+  {
+   "row": "3",
+   "area": "Bhopal",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 729955,
+   "males": 377961,
+   "females": 351994
+  },
+  {
+   "row": "3",
+   "area": "Bhopal",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "3",
+   "area": "Bhopal",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 725609,
+   "males": 375503,
+   "females": 350106
+  },
+  {
+   "row": "3",
+   "area": "Bhopal",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "4",
+   "area": "Khilchipur",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 45583,
+   "males": 24067,
+   "females": 21516
+  },
+  {
+   "row": "4",
+   "area": "Khilchipur",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 45583,
+   "males": 24067,
+   "females": 21516
+  },
+  {
+   "row": "4",
+   "area": "Khilchipur",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 44675,
+   "males": 23562,
+   "females": 21113
+  },
+  {
+   "row": "5",
+   "area": "Narsinghgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 113873,
+   "males": 59554,
+   "females": 54319
+  },
+  {
+   "row": "5",
+   "area": "Narsinghgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 113869,
+   "males": 59550,
+   "females": 54319
+  },
+  {
+   "row": "5",
+   "area": "Narsinghgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 104765,
+   "males": 54817,
+   "females": 49948
+  },
+  {
+   "row": "5",
+   "area": "Narsinghgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 146,
+   "males": 74,
+   "females": 72
+  },
+  {
+   "row": "6",
+   "area": "Rajgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 134891,
+   "males": 71176,
+   "females": 63715
+  },
+  {
+   "row": "6",
+   "area": "Rajgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 134884,
+   "males": 71170,
+   "females": 63714
+  },
+  {
+   "row": "6",
+   "area": "Rajgarh",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 127407,
+   "males": 67236,
+   "females": 60171
+  },
+  {
+   "row": "7",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 27674,
+   "males": 14464,
+   "females": 13210
+  },
+  {
+   "row": "7",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 27674,
+   "males": 14464,
+   "females": 13210
+  },
+  {
+   "row": "7",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 27517,
+   "males": 14407,
+   "females": 13110
+  },
+  {
+   "row": "7",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "row": "7a",
+   "area": "Kurwai",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 22076,
+   "males": 11530,
+   "females": 10546
+  },
+  {
+   "row": "7a",
+   "area": "Kurwai",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 22076,
+   "males": 11530,
+   "females": 10546
+  },
+  {
+   "row": "7a",
+   "area": "Kurwai",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 21959,
+   "males": 11476,
+   "females": 10483
+  },
+  {
+   "row": "7b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 5598,
+   "males": 2934,
+   "females": 2664
+  },
+  {
+   "row": "7b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 5598,
+   "males": 2934,
+   "females": 2664
+  },
+  {
+   "row": "7b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5558,
+   "males": 2931,
+   "females": 2627
+  },
+  {
+   "row": "7b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Bhopal Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "row": "8",
+   "area": "Dewas (Senior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 83321,
+   "males": 42532,
+   "females": 40789
+  },
+  {
+   "row": "8",
+   "area": "Dewas (Senior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 83321,
+   "males": 42532,
+   "females": 40789
+  },
+  {
+   "row": "8",
+   "area": "Dewas (Senior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 77579,
+   "males": 39549,
+   "females": 38030
+  },
+  {
+   "row": "8",
+   "area": "Dewas (Senior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "row": "9",
+   "area": "Dewas (Junior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 70513,
+   "males": 36183,
+   "females": 34330
+  },
+  {
+   "row": "9",
+   "area": "Dewas (Junior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 70509,
+   "males": 36180,
+   "females": 34329
+  },
+  {
+   "row": "9",
+   "area": "Dewas (Junior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 65648,
+   "males": 33641,
+   "females": 32007
+  },
+  {
+   "row": "9",
+   "area": "Dewas (Junior)",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 20,
+   "males": 9,
+   "females": 11
+  },
+  {
+   "row": "10",
+   "area": "Jaora",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 100166,
+   "males": 51582,
+   "females": 48584
+  },
+  {
+   "row": "10",
+   "area": "Jaora",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 100148,
+   "males": 51576,
+   "females": 48572
+  },
+  {
+   "row": "10",
+   "area": "Jaora",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 96500,
+   "males": 49700,
+   "females": 46800
+  },
+  {
+   "row": "11",
+   "area": "Ratlam",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 107321,
+   "males": 55066,
+   "females": 52255
+  },
+  {
+   "row": "11",
+   "area": "Ratlam",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 107050,
+   "males": 54935,
+   "females": 52115
+  },
+  {
+   "row": "11",
+   "area": "Ratlam",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": 48182
+  },
+  {
+   "row": "12",
+   "area": "Sailana",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 35223,
+   "males": 17950,
+   "females": 17273
+  },
+  {
+   "row": "12",
+   "area": "Sailana",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 35220,
+   "males": 17948,
+   "females": 17272
+  },
+  {
+   "row": "12",
+   "area": "Sailana",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 34271,
+   "males": 17422,
+   "females": 16849
+  },
+  {
+   "row": "13",
+   "area": "Sitamau",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 28422,
+   "males": 14715,
+   "females": 13707
+  },
+  {
+   "row": "13",
+   "area": "Sitamau",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28421,
+   "males": 14714,
+   "females": 13707
+  },
+  {
+   "row": "13",
+   "area": "Sitamau",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 27138,
+   "males": 14060,
+   "females": 13078
+  },
+  {
+   "row": "14",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 14172,
+   "males": 7178,
+   "females": 6994
+  },
+  {
+   "row": "14",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 14161,
+   "males": 7176,
+   "females": 6985
+  },
+  {
+   "row": "14",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Malwa Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 13843,
+   "males": 7006,
+   "females": 6837
+  },
+  {
+   "row": "15",
+   "area": "Ali-Rajpur",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 101963,
+   "males": 52342,
+   "females": 49621
+  },
+  {
+   "row": "15",
+   "area": "Ali-Rajpur",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "15",
+   "area": "Ali-Rajpur",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 90667,
+   "males": 46489,
+   "females": 44178
+  },
+  {
+   "row": "16",
+   "area": "Barwani",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 141110,
+   "males": 71476,
+   "females": 69634
+  },
+  {
+   "row": "16",
+   "area": "Barwani",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 141106,
+   "males": 71474,
+   "females": 69632
+  },
+  {
+   "row": "16",
+   "area": "Barwani",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 115117,
+   "males": 58259,
+   "females": 56858
+  },
+  {
+   "row": "17",
+   "area": "Dhar",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 243430,
+   "males": 123775,
+   "females": 119655
+  },
+  {
+   "row": "17",
+   "area": "Dhar",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 243414,
+   "males": 123766,
+   "females": 119648
+  },
+  {
+   "row": "17",
+   "area": "Dhar",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 215956,
+   "males": 109170,
+   "females": 106786
+  },
+  {
+   "row": "17",
+   "area": "Dhar",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 221,
+   "males": 120,
+   "females": 101
+  },
+  {
+   "row": "18",
+   "area": "Jhabua",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 145522,
+   "males": 74129,
+   "females": 71393
+  },
+  {
+   "row": "18",
+   "area": "Jhabua",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 145499,
+   "males": 74115,
+   "females": 71384
+  },
+  {
+   "row": "18",
+   "area": "Jhabua",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 143455,
+   "males": 72951,
+   "females": 70504
+  },
+  {
+   "row": "19",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 38631,
+   "males": 19833,
+   "females": 18798
+  },
+  {
+   "row": "19",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 38610,
+   "males": 19817,
+   "females": 18793
+  },
+  {
+   "row": "19",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 36342,
+   "males": 18632,
+   "females": 17710
+  },
+  {
+   "row": "19a",
+   "area": "Jobat",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 20152,
+   "males": 10286,
+   "females": 9866
+  },
+  {
+   "row": "19a",
+   "area": "Jobat",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 20143,
+   "males": 10262,
+   "females": 9881
+  },
+  {
+   "row": "19a",
+   "area": "Jobat",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 19527,
+   "males": 9930,
+   "females": 9597
+  },
+  {
+   "row": "19b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 18479,
+   "males": 9547,
+   "females": 8932
+  },
+  {
+   "row": "19b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 18467,
+   "males": 9555,
+   "females": 8912
+  },
+  {
+   "row": "19b",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Southern Central India States Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 16815,
+   "males": 8702,
+   "females": 8113
+  },
+  {
+   "row": "20",
+   "area": "Ajaigarh",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 85895,
+   "males": 44220,
+   "females": 41675
+  },
+  {
+   "row": "20",
+   "area": "Ajaigarh",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 85895,
+   "males": 44220,
+   "females": 41675
+  },
+  {
+   "row": "20",
+   "area": "Ajaigarh",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 85832,
+   "males": 44188,
+   "females": 41644
+  },
+  {
+   "row": "20",
+   "area": "Ajaigarh",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 2541,
+   "males": 570,
+   "females": 1971
+  },
+  {
+   "row": "21",
+   "area": "Baoni",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 19132,
+   "males": 9909,
+   "females": 9223
+  },
+  {
+   "row": "21",
+   "area": "Baoni",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 19132,
+   "males": 9909,
+   "females": 9223
+  },
+  {
+   "row": "21",
+   "area": "Baoni",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 19107,
+   "males": 9891,
+   "females": 9216
+  },
+  {
+   "row": "22",
+   "area": "Bijawar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 115852,
+   "males": 60333,
+   "females": 55519
+  },
+  {
+   "row": "22",
+   "area": "Bijawar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 115852,
+   "males": 60333,
+   "females": 55519
+  },
+  {
+   "row": "22",
+   "area": "Bijawar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 115807,
+   "males": 60303,
+   "females": 55504
+  },
+  {
+   "row": "23",
+   "area": "Charkhari",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 120351,
+   "males": 62086,
+   "females": 58265
+  },
+  {
+   "row": "23",
+   "area": "Charkhari",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 120351,
+   "males": 62086,
+   "females": 58265
+  },
+  {
+   "row": "23",
+   "area": "Charkhari",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 120289,
+   "males": 62048,
+   "females": 58241
+  },
+  {
+   "row": "24",
+   "area": "Chhatarpur",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 161267,
+   "males": 83822,
+   "females": 77445
+  },
+  {
+   "row": "24",
+   "area": "Chhatarpur",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 161215,
+   "males": 83804,
+   "females": 77411
+  },
+  {
+   "row": "24",
+   "area": "Chhatarpur",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 160207,
+   "males": 83143,
+   "females": 77064
+  },
+  {
+   "row": "24",
+   "area": "Chhatarpur",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "row": "25",
+   "area": "Datia",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 158834,
+   "males": 83508,
+   "females": 75326
+  },
+  {
+   "row": "25",
+   "area": "Datia",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 158825,
+   "males": 83504,
+   "females": 75321
+  },
+  {
+   "row": "25",
+   "area": "Datia",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "26",
+   "area": "Orchha",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 314661,
+   "males": 163272,
+   "females": 151389
+  },
+  {
+   "row": "26",
+   "area": "Orchha",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 314637,
+   "males": 163256,
+   "females": 151381
+  },
+  {
+   "row": "26",
+   "area": "Orchha",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 314364,
+   "males": 163065,
+   "females": 151299
+  },
+  {
+   "row": "26",
+   "area": "Orchha",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "row": "27",
+   "area": "Panna",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 212130,
+   "males": 108133,
+   "females": 103997
+  },
+  {
+   "row": "27",
+   "area": "Panna",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 212113,
+   "males": 108123,
+   "females": 103990
+  },
+  {
+   "row": "27",
+   "area": "Panna",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 211682,
+   "males": 107907,
+   "females": 103775
+  },
+  {
+   "row": "28",
+   "area": "Samthar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 33307,
+   "males": 17307,
+   "females": 16000
+  },
+  {
+   "row": "28",
+   "area": "Samthar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 33307,
+   "males": 17307,
+   "females": 16000
+  },
+  {
+   "row": "28",
+   "area": "Samthar",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 33246,
+   "males": 17261,
+   "females": 15985
+  },
+  {
+   "row": "29",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 67586,
+   "males": 34948,
+   "females": 32638
+  },
+  {
+   "row": "29",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 67584,
+   "males": 34948,
+   "females": 32636
+  },
+  {
+   "row": "29",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Bundelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 67450,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "30",
+   "area": "Baraundha",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 16071,
+   "males": 8443,
+   "females": 7628
+  },
+  {
+   "row": "30",
+   "area": "Baraundha",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 16071,
+   "males": 8443,
+   "females": 7628
+  },
+  {
+   "row": "30",
+   "area": "Baraundha",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 16050,
+   "males": 8428,
+   "females": 7622
+  },
+  {
+   "row": "30",
+   "area": "Baraundha",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 363,
+   "males": 190,
+   "females": 173
+  },
+  {
+   "row": "31",
+   "area": "Maihar",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 68991,
+   "males": 34161,
+   "females": 34830
+  },
+  {
+   "row": "31",
+   "area": "Maihar",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 68984,
+   "males": 34158,
+   "females": 34826
+  },
+  {
+   "row": "31",
+   "area": "Maihar",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 68849,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "31",
+   "area": "Maihar",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 41,
+   "males": 17,
+   "females": 24
+  },
+  {
+   "row": "32",
+   "area": "Nagod",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 74589,
+   "males": 37091,
+   "females": 37498
+  },
+  {
+   "row": "32",
+   "area": "Nagod",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 74589,
+   "males": 37091,
+   "females": 37498
+  },
+  {
+   "row": "32",
+   "area": "Nagod",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 74494,
+   "males": 37044,
+   "females": 37450
+  },
+  {
+   "row": "33",
+   "area": "Rewa",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1587445,
+   "males": 795381,
+   "females": 792064
+  },
+  {
+   "row": "33",
+   "area": "Rewa",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1587256,
+   "males": 795284,
+   "females": 791972
+  },
+  {
+   "row": "33",
+   "area": "Rewa",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "33",
+   "area": "Rewa",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 331084,
+   "males": 168070,
+   "females": 163014
+  },
+  {
+   "row": "34",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": true,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 92160,
+   "males": 45468,
+   "females": 46692
+  },
+  {
+   "row": "34",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 92158,
+   "males": 45466,
+   "females": 46692
+  },
+  {
+   "row": "34",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": true,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "34",
+   "area": "Rest of Agency",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency"
+   ],
+   "area_is_total": true,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 2746,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "34a",
+   "area": "Kothi",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 21424,
+   "males": 10766,
+   "females": 10658
+  },
+  {
+   "row": "34a",
+   "area": "Kothi",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 21424,
+   "males": 10766,
+   "females": 10658
+  },
+  {
+   "row": "34a",
+   "area": "Kothi",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 20865,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "34a",
+   "area": "Kothi",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1119,
+   "males": 572,
+   "females": 547
+  },
+  {
+   "row": "34b",
+   "area": "Sohawal",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 42192,
+   "males": 20938,
+   "females": 21254
+  },
+  {
+   "row": "34b",
+   "area": "Sohawal",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 42192,
+   "males": 20938,
+   "females": 21254
+  },
+  {
+   "row": "34b",
+   "area": "Sohawal",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 41978,
+   "males": 20833,
+   "females": 21145
+  },
+  {
+   "row": "34b",
+   "area": "Sohawal",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 585,
+   "males": 296,
+   "females": 289
+  },
+  {
+   "row": "34c",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 28544,
+   "males": 13764,
+   "females": 14780
+  },
+  {
+   "row": "34c",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 28542,
+   "males": 13762,
+   "females": 14780
+  },
+  {
+   "row": "34c",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": "?",
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "34c",
+   "area": "Other States",
+   "area_path": [
+    "Central India Agency",
+    "Baghelkhand Agency",
+    "Rest of Agency"
+   ],
+   "area_is_total": false,
+   "language": "Gondi",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    11,
+    12,
+    13
+   ],
+   "persons": 1042,
+   "males": "?",
+   "females": "?"
+  },
+  {
+   "row": "35",
+   "area": "Khaniadhana (Gwalior Residency)",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Population",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 17670,
+   "males": 9176,
+   "females": 8494
+  },
+  {
+   "row": "35",
+   "area": "Khaniadhana (Gwalior Residency)",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A.—Vernaculars of India",
+   "lang_path": [
+    "A. Vernaculars of India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 17670,
+   "males": 9176,
+   "females": 8494
+  },
+  {
+   "row": "35",
+   "area": "Khaniadhana (Gwalior Residency)",
+   "area_path": [
+    "Central India Agency"
+   ],
+   "area_is_total": false,
+   "language": "Total A(i).—Vernaculars of Central India",
+   "lang_path": [
+    "A. Vernaculars of India",
+    "(i) Vernaculars of Central India"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 17471,
+   "males": "?",
+   "females": "?"
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "row 3 Bhopal / Total A.—Vernaculars of India persons: not legible with certainty, tentative reading 729,658",
+  "row 3 Bhopal / Total A.—Vernaculars of India males: not legible with certainty, tentative reading 377,793",
+  "row 3 Bhopal / Total A.—Vernaculars of India females: not legible with certainty, tentative reading 351,865",
+  "row 3 Bhopal / Gondi persons: not legible with certainty, tentative reading 8,359",
+  "row 3 Bhopal / Gondi males: not legible with certainty, tentative reading 4,162",
+  "row 3 Bhopal / Gondi females: not legible with certainty, tentative reading 4,197",
+  "row 11 Ratlam / Total A(i).—Vernaculars of Central India persons: not legible with certainty, tentative reading 97,908",
+  "row 11 Ratlam / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 49,726",
+  "row 15 Ali-Rajpur / Total A.—Vernaculars of India persons: not legible with certainty, tentative reading 101,942",
+  "row 15 Ali-Rajpur / Total A.—Vernaculars of India males: not legible with certainty, tentative reading 52,330",
+  "row 15 Ali-Rajpur / Total A.—Vernaculars of India females: not legible with certainty, tentative reading 49,612",
+  "row 25 Datia / Total A(i).—Vernaculars of Central India persons: not legible with certainty, tentative reading 158,272",
+  "row 25 Datia / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 83,053",
+  "row 25 Datia / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 75,219",
+  "row 29 Rest of Agency / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 34,877",
+  "row 29 Rest of Agency / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 32,573",
+  "row 31 Maihar / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 34,017",
+  "row 31 Maihar / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 34,832",
+  "row 33 Rewa / Total A(i).—Vernaculars of Central India persons: not legible with certainty, tentative reading 1,534,341",
+  "row 33 Rewa / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 768,828",
+  "row 33 Rewa / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 765,513",
+  "row 34 Rest of Agency / Total A(i).—Vernaculars of Central India persons: not legible with certainty, tentative reading 91,123",
+  "row 34 Rest of Agency / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 45,985",
+  "row 34 Rest of Agency / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 45,138",
+  "row 34 Rest of Agency / Gondi males: not legible with certainty, tentative reading 1,383",
+  "row 34 Rest of Agency / Gondi females: not legible with certainty, tentative reading 1,363",
+  "row 34a Kothi / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 10,433",
+  "row 34a Kothi / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 10,432",
+  "row 34c Other States / Total A(i).—Vernaculars of Central India persons: not legible with certainty, tentative reading 28,280",
+  "row 34c Other States / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 14,599",
+  "row 34c Other States / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 13,681",
+  "row 34c Other States / Gondi males: not legible with certainty, tentative reading 515",
+  "row 34c Other States / Gondi females: not legible with certainty, tentative reading 527",
+  "row 35 Khaniadhana (Gwalior Residency) / Total A(i).—Vernaculars of Central India males: not legible with certainty, tentative reading 9,093",
+  "row 35 Khaniadhana (Gwalior Residency) / Total A(i).—Vernaculars of Central India females: not legible with certainty, tentative reading 8,378"
+ ],
+ "notes": "Scan is a blocky low-resolution colour image; the Males/Females columns of Total A and Total A(i) are printed very faintly. Where a digit shape was ambiguous (8/9, 3/5, 5/6), the reading was chosen only if it satisfied P=M+F and Total A = A(i) + A(ii) (leaf 302): TAi rows 1 (3,084/2,847), 8 (77,579/39,549), 10 (96,500/46,800), 28 (17,261/15,985). Printed CIA totals of Population, Total A and Total A(i) do not equal the sum of the 35 state rows as read (Population: persons -10, males +960, females -970); the offending row could not be identified on this scan. Row 31 (Maihar) Total A(i) females as read (34,832) exceed Total A females (34,826): one of these is misread. Rows 33-34c of Total A(i) are faint; tentative readings conflict with Total A minus Total A(ii) and are left as '?'. Row 20 Gondi 2,541 printed in bold. Nil cells printed as \"..\" or \"—\" omitted. Self-check failures on this leaf (group index = column group in page order; values as recorded, tentative readings included): 298 0 CIA P total 6632790 sum 6632800 diff -10; 298 0 CIA M total 3405438 sum 3404478 diff 960; 298 0 CIA F total 3227352 sum 3228322 diff -970; 298 1 CIA P total 6628790 sum 6628807 diff -17; 298 1 CIA M total 3402777 sum 3401857 diff 920; 298 1 CIA F total 3226013 sum 3226950 diff -937; 298 2 CIA P total 6302717 sum 6302756 diff -39; 298 2 34 M total 45985 sum 45865 diff 120; 298 2 CIA M total 3229719 sum 3229706 diff 13; 298 2 34 F total 45138 sum 45258 diff -120; 298 2 CIA F total 3072998 sum 3073050 diff -52; 298 3 CIA P total 354098 sum 353797 diff 301; 298 3 CIA M total 178698 sum 178696 diff 2; 298 3 CIA F total 175400 sum 175101 diff 299. Table continues across leaves 298-307; this file covers leaf 298 only. Cross-leaf check Population = Total A + Total B (leaf 307) + Total C (leaf 307) holds for all rows except: row 11 M/F (+-20), 19 (P,M 10), 19a M/F (+-20), 19b (P 10, M -10, F 20), 24 M/F (+-10), 25 P/M (1), 29 M/F (+-2), 33 P/M (-20), 34 and 34c P/M (+2) - differences given as Population minus sum."
+}

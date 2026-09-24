@@ -1,0 +1,270 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 247,
+ "printed_page": 237,
+ "table": "XV Part I",
+ "subtable": "Unclassified Languages",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas; columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26076,
+   "males": 14678,
+   "females": 11398
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 26075,
+   "males": 14677,
+   "females": 11398
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 512,
+   "males": 473,
+   "females": 39
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Buroshaski",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 25563,
+   "males": 14204,
+   "females": 11359
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Choldi",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 66,
+   "males": 31,
+   "females": 35
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Choldi",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 66,
+   "males": 31,
+   "females": 35
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Choldi",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 51,
+   "males": 23,
+   "females": 28
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Choldi",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 15,
+   "males": 8,
+   "females": 7
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Goun",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Goun",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Goun",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hespian",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Hespian",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Hespian",
+   "lang_path": [
+    "Unclassified Languages"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 3,
+   "males": 3,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Page title is 'TABLE XV. Unclassified Languages' (no 'Part I' in the heading; continues Part I). 'Choldi' is printed in italic with the 'l' faint; reading Choldi. Ditto marks in the area stub expanded (e.g. 'Kathua \"' -> 'Kathua District', 'Chenani \"' -> 'Chenani Jagir'). No printed column numbers."
+}

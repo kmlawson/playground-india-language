@@ -1,0 +1,1321 @@
+{
+ "key": "nwfp",
+ "identifier": "in.ernet.dli.2015.56040",
+ "table": "XV Part II",
+ "orientation": "upright",
+ "footnotes": "",
+ "leaf": 370,
+ "printed_page": "cxxviii",
+ "layout": "rows = area of bilingualism (Dera Ismail Khan concld.: B and C groups; Trans-Frontier Posts full block) x mother tongue (with group totals); columns 3-4 = number of persons speaking the mother tongue (Males, Females; subsidiary null), columns 5-14 = subsidiary languages Pashto, Lahnda, Kashmiri, Kohistani, Gujuri x Males/Females. Opening continues on leaf 371 (cols 15-36). End of Table XV Part II.",
+ "unreadable": [
+  {
+   "area": "Dera Ismail Khan",
+   "mother_tongue": "C—European Languages",
+   "field": "females",
+   "col": 4,
+   "note": "last digit broken type ('13?'); read 136 = English 135 + Others 1, also required by DIK Total 125,958"
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "mother_tongue": "Pashto",
+   "field": "males",
+   "col": 3,
+   "note": "last digit broken ('10,06c'); read 10,060, required by A(1) total 12,174"
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "mother_tongue": "Pashto",
+   "field": "females",
+   "col": 4,
+   "note": "last digit broken ('95?'); read 953, required by A(1) total 1,086"
+  }
+ ],
+ "notes": "Dera Ismail Khan continued from leaf 368 (rows here: B and C groups only). Trans-Frontier Posts area_path is ['N.-W. F. P.'] (not a district); its A(1) row is printed 'A-(1)—Vernaculars of the N. W. F. P. Total', recorded under the same group name as other leaves. Persons not printed (null). Last page of the table. All group totals, DIK Total (with leaf 368) and Trans-Frontier Posts Total reconcile.",
+ "records": [
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 857,
+   "females": 824,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 85,
+   "females": 8,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 23,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Kashmiri",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 855,
+   "females": 823,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 85,
+   "females": 7,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 23,
+   "females": 4,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Kashmiri",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    9,
+    10
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 2,
+   "females": 1,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": null,
+   "females": 1,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 205,
+   "females": 136,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 34,
+   "females": 7,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 6,
+   "females": 5,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 201,
+   "females": 135,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 34,
+   "females": 7,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 6,
+   "females": 5,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Dera Ismail Khan",
+   "area_path": [
+    "N.-W. F. P.",
+    "Districts"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 4,
+   "females": 1,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 44635,
+   "females": 1816,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 1054,
+   "females": 56,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Total",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 5915,
+   "females": 86,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 40624,
+   "females": 1663,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 897,
+   "females": 37,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A—Indian Vernaculars",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 5907,
+   "females": 69,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 12174,
+   "females": 1086,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 267,
+   "females": 34,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (1)—Vernaculars of N.-W. F. P.",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 799,
+   "females": 28,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 10060,
+   "females": 953,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Pashto",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 705,
+   "females": 27,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1655,
+   "females": 128,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Lahnda",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 266,
+   "females": 34,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 448,
+   "females": 5,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kashmiri",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 94,
+   "females": 1,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Kohistani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (1)—Vernaculars of N.-W. F. P."
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 11,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 28450,
+   "females": 577,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 630,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "A (2)—Other Indian Vernaculars",
+   "mt_path": [
+    "A—Indian Vernaculars"
+   ],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 5108,
+   "females": 41,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 18203,
+   "females": 492,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 222,
+   "females": 3,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Punjabi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 4094,
+   "females": 41,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1132,
+   "females": 24,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 100,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 201,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1593,
+   "females": 31,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 269,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Urdu",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 360,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindi",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1711,
+   "females": 30,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 4591,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 5,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Naipali (Gorkhali)",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 198,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1220,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 34,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "A—Indian Vernaculars",
+    "A (2)—Other Indian Vernaculars"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 255,
+   "females": null,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 210,
+   "females": 140,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 110,
+   "females": 19,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "B—Vernaculars of other Asiatic Countries and Africa",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8,
+   "females": 17,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 210,
+   "females": 140,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 110,
+   "females": 19,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Persian",
+   "mt_path": [
+    "B—Vernaculars of other Asiatic Countries and Africa"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Lahnda",
+   "persons": null,
+   "males": 8,
+   "females": 17,
+   "cols": [
+    7,
+    8
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": null,
+   "persons": null,
+   "males": 3801,
+   "females": 13,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "C—European Languages",
+   "mt_path": [],
+   "mt_is_total": true,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 47,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 3800,
+   "females": 13,
+   "cols": [
+    3,
+    4
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "English",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": "Pashto",
+   "persons": null,
+   "males": 47,
+   "females": null,
+   "cols": [
+    5,
+    6
+   ]
+  },
+  {
+   "area": "Trans-Frontier Posts",
+   "area_path": [
+    "N.-W. F. P."
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Others",
+   "mt_path": [
+    "C—European Languages"
+   ],
+   "mt_is_total": false,
+   "subsidiary": null,
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "cols": [
+    3,
+    4
+   ]
+  }
+ ]
+}

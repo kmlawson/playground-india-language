@@ -1,0 +1,1303 @@
+{
+ "key": "jk",
+ "identifier": "in.ernet.dli.2015.56050",
+ "leaf": 233,
+ "printed_page": 223,
+ "table": "XV Part I",
+ "orientation": "scan is sideways; rotated 90 clockwise to read",
+ "layout": "rows = State, provinces, districts/jagirs/ilaqas (17 rows); columns = languages (Persons/Males/Females)",
+ "records": [
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1413166,
+   "males": 764133,
+   "females": 649033
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 163834,
+   "males": 88407,
+   "females": 75427
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 2870,
+   "males": 2528,
+   "females": 342
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1951,
+   "males": 1171,
+   "females": 780
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 118559,
+   "males": 63218,
+   "females": 55341
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 22544,
+   "males": 11953,
+   "females": 10591
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 759,
+   "males": 742,
+   "females": 17
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 16739,
+   "males": 8504,
+   "females": 8235
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 412,
+   "males": 291,
+   "females": 121
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1247497,
+   "males": 674534,
+   "females": 572963
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 723570,
+   "males": 392618,
+   "females": 330952
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 502583,
+   "males": 270275,
+   "females": 232308
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 21344,
+   "males": 11641,
+   "females": 9703
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1835,
+   "males": 1192,
+   "females": 643
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 1535,
+   "males": 939,
+   "females": 596
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 246,
+   "males": 207,
+   "females": 39
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri (Total)",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": true,
+   "cols": null,
+   "persons": 54,
+   "males": 46,
+   "females": 8
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Banjwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 672,
+   "males": 337,
+   "females": 335
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Banjwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 672,
+   "males": 337,
+   "females": 335
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Banjwahi",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 672,
+   "males": 337,
+   "females": 335
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1370673,
+   "males": 741954,
+   "females": 628719
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 121431,
+   "males": 66290,
+   "females": 55141
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2795,
+   "males": 2455,
+   "females": 340
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1947,
+   "males": 1167,
+   "females": 780
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 76494,
+   "males": 41367,
+   "females": 35127
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 22338,
+   "males": 11795,
+   "females": 10543
+  },
+  {
+   "area": "Mirpur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 759,
+   "males": 742,
+   "females": 17
+  },
+  {
+   "area": "Poonch Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 16739,
+   "males": 8504,
+   "females": 8235
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 359,
+   "males": 260,
+   "females": 99
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1247424,
+   "males": 674489,
+   "females": 572935
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 723500,
+   "males": 392576,
+   "females": 330924
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 502581,
+   "males": 270273,
+   "females": 232308
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 21343,
+   "males": 11640,
+   "females": 9703
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1818,
+   "males": 1175,
+   "females": 643
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1519,
+   "males": 923,
+   "females": 596
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 245,
+   "males": 206,
+   "females": 39
+  },
+  {
+   "area": "Frontier Ilaqas",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kashmiri",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 54,
+   "males": 46,
+   "females": 8
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12577,
+   "males": 6596,
+   "females": 5981
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12488,
+   "males": 6534,
+   "females": 5954
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 23,
+   "males": 21,
+   "females": 2
+  },
+  {
+   "area": "Kathua District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 12460,
+   "males": 6508,
+   "females": 5952
+  },
+  {
+   "area": "Chenani Jagir",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 72,
+   "males": 45,
+   "females": 27
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 69,
+   "males": 42,
+   "females": 27
+  },
+  {
+   "area": "Kashmir North",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Muzaffarabad",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Frontier Districts",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 17,
+   "males": 17,
+   "females": null
+  },
+  {
+   "area": "Ladakh District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 16,
+   "males": 16,
+   "females": null
+  },
+  {
+   "area": "Gilgit District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Frontier Districts"
+   ],
+   "area_is_total": false,
+   "language": "Kishtwari",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Poguli",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9751,
+   "males": 5147,
+   "females": 4604
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Poguli",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9751,
+   "males": 5147,
+   "females": 4604
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Poguli",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 9691,
+   "males": 5107,
+   "females": 4584
+  },
+  {
+   "area": "Reasi District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Poguli",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 60,
+   "males": 40,
+   "females": 20
+  },
+  {
+   "area": "Jammu and Kashmir State",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1919,
+   "males": 976,
+   "females": 943
+  },
+  {
+   "area": "Jammu Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1918,
+   "males": 976,
+   "females": 942
+  },
+  {
+   "area": "Jammu District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 4,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Udhampur District",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Jammu Province"
+   ],
+   "area_is_total": false,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1914,
+   "males": 972,
+   "females": 942
+  },
+  {
+   "area": "Kashmir Province",
+   "area_path": [
+    "Jammu and Kashmir State"
+   ],
+   "area_is_total": true,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Kashmir South (including Municipality)",
+   "area_path": [
+    "Jammu and Kashmir State",
+    "Kashmir Province"
+   ],
+   "area_is_total": false,
+   "language": "Rambani",
+   "lang_path": [
+    "Languages of the State",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Dardic Branch",
+    "Dard Group",
+    "Kashmiri"
+   ],
+   "lang_is_total": false,
+   "cols": null,
+   "persons": 1,
+   "males": null,
+   "females": 1
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Area names: rows printed with ditto marks (Kathua ,, / Udhampur ,, / Reasi ,, / Mirpur ,, under 'Jammu District'; Chenani ,, under 'Poonch Jagir'; Gilgit ,, under 'Ladakh District') expanded to '<name> District'/'Chenani Jagir'/'Gilgit District'. Printed row numbers (I., 1., ...) dropped. No printed column numbers, so cols = null. Nil cells printed '....' omitted. Dard Group '(continued)'. Kashmiri 'Total' recorded as 'Kashmiri (Total)', lang_is_total=true; it covers Banjwahi, Kashmiri, Kishtwari, Poguli, Rambani here plus Siraji on leaf 234 (Kashmiri concluded) - with Siraji it reconciles in every row."
+}

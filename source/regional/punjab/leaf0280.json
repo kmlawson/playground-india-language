@@ -1,0 +1,4042 @@
+{
+ "key": "punjab",
+ "identifier": "in.ernet.dli.2015.56042",
+ "leaf": 280,
+ "printed_page": 274,
+ "table": "XV Part II",
+ "orientation": "upright",
+ "layout": "rows = Punjab, British Territory, divisions/districts, Punjab States (A/B groups, Simla Hill States); columns = mother tongue x subsidiary language, Males/Females only (no Persons columns). Cols 23-24 conclude 'subsidiary to Lahnda (W. Punjabi)' begun on leaf 279 (p.273); cols 25-38 'subsidiary to Hindustani'.",
+ "records": [
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 35738,
+   "females": 21930
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 35738,
+   "females": 21930
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 35738,
+   "females": 21929
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 19
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "mother_tongue": "Lahnda (Western Punjabi)",
+   "subsidiary": "Balochi",
+   "subsidiary_is_total": false,
+   "cols": [
+    23,
+    24
+   ],
+   "persons": null,
+   "males": 35736,
+   "females": 21910
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 41215,
+   "females": 30059
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 33802,
+   "females": 25688
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1508,
+   "females": 1093
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 132,
+   "females": 121
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 7
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 79,
+   "females": 64
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 695,
+   "females": 661
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 599,
+   "females": 240
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 3483,
+   "females": 2613
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 22
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 119,
+   "females": 397
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 499,
+   "females": 391
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1206,
+   "females": 637
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1608,
+   "females": 1166
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 21981,
+   "females": 18027
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 16549,
+   "females": 13716
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 3250,
+   "females": 2385
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 511,
+   "females": 877
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 108,
+   "females": 253
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 600,
+   "females": 203
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 963,
+   "females": 593
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 3737,
+   "females": 2361
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1489,
+   "females": 1185
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1026,
+   "females": 667
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 350,
+   "females": 186
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 654,
+   "females": 170
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 167,
+   "females": 115
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 38
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 3093,
+   "females": 1594
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1232,
+   "females": 399
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1466,
+   "females": 944
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 50,
+   "females": 8
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 248,
+   "females": 165
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 58,
+   "females": 34
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 44
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 7413,
+   "females": 4371
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 48
+  },
+  {
+   "area": "Kalsia",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 37
+  },
+  {
+   "area": "Nalagarh",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 9
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 27
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 7391,
+   "females": 4323
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 48
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 18,
+   "females": 6
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 7
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 53,
+   "females": 53
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 2214,
+   "females": 373
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 2547,
+   "females": 2833
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 431,
+   "females": 302
+  },
+  {
+   "area": "Nabha",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1020,
+   "females": 390
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Total",
+   "subsidiary_is_total": true,
+   "cols": [
+    25,
+    26
+   ],
+   "persons": null,
+   "males": 1077,
+   "females": 309
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 40057,
+   "females": 29269
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 32870,
+   "females": 25014
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1208,
+   "females": 1001
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 119,
+   "females": 93
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 6
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 49,
+   "females": 52
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 667,
+   "females": 655
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 371,
+   "females": 195
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 3328,
+   "females": 2500
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 31,
+   "females": 4
+  },
+  {
+   "area": "Hoshiarpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 119,
+   "females": 397
+  },
+  {
+   "area": "Jullundur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 499,
+   "females": 391
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1204,
+   "females": 637
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1475,
+   "females": 1071
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 21868,
+   "females": 17821
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 16441,
+   "females": 13514
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 3250,
+   "females": 2381
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 507,
+   "females": 877
+  },
+  {
+   "area": "Sialkot",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 108,
+   "females": 253
+  },
+  {
+   "area": "Gujranwala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 600,
+   "females": 203
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 962,
+   "females": 593
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 3646,
+   "females": 2352
+  },
+  {
+   "area": "Gujrat",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 18,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1489,
+   "females": 1185
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1026,
+   "females": 666
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 338,
+   "females": 186
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 586,
+   "females": 170
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 160,
+   "females": 113
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 47,
+   "females": 32
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 2820,
+   "females": 1340
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1164,
+   "females": 318
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1452,
+   "females": 924
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 49,
+   "females": 8
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 126,
+   "females": 62
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 29,
+   "females": 28
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 7187,
+   "females": 4255
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 45
+  },
+  {
+   "area": "Kalsia",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 11
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 34
+  },
+  {
+   "area": "Nalagarh",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 9
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 25
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 7165,
+   "females": 4210
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 43
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 3
+  },
+  {
+   "area": "Kapurthala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 7
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 52,
+   "females": 52
+  },
+  {
+   "area": "Faridkot",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 2214,
+   "females": 373
+  },
+  {
+   "area": "Chamba",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 2544,
+   "females": 2833
+  },
+  {
+   "area": "Jind",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 15,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 431,
+   "females": 302
+  },
+  {
+   "area": "Nabha",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 16,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 1020,
+   "females": 390
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Punjabi",
+   "subsidiary_is_total": false,
+   "cols": [
+    27,
+    28
+   ],
+   "persons": null,
+   "males": 872,
+   "females": 205
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 517,
+   "females": 434
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 312,
+   "females": 330
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 63,
+   "females": 40
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 63,
+   "females": 40
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 54
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 50
+  },
+  {
+   "area": "Amritsar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 13,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 6
+  },
+  {
+   "area": "Shahpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 19,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 5
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 232,
+   "females": 230
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 40,
+   "females": 68
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 14,
+   "females": 16
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 114,
+   "females": 96
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 25,
+   "females": 6
+  },
+  {
+   "area": "Dera Ghazi Khan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 29,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 44
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 205,
+   "females": 104
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 205,
+   "females": 104
+  },
+  {
+   "area": "Bahawalpur",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Lahnda (Western Punjabi)",
+   "subsidiary_is_total": false,
+   "cols": [
+    29,
+    30
+   ],
+   "persons": null,
+   "males": 205,
+   "females": 104
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 379,
+   "females": 104
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 363,
+   "females": 96
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 250,
+   "females": 51
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 6
+  },
+  {
+   "area": "Simla",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 228,
+   "females": 45
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 21,
+   "females": 18
+  },
+  {
+   "area": "Kangra",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 7,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 18
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 27
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 47,
+   "females": 27
+  },
+  {
+   "area": "Gurdaspur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 41,
+   "females": null
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 32,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 8
+  },
+  {
+   "area": "A.-Having political relations with the Punjab Government",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "SIMLA HILL STATES",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government"
+   ],
+   "area_is_total": true,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Keonthal",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Other Simla Hill States",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "A.-Having political relations with the Punjab Government",
+    "Simla Hill States"
+   ],
+   "area_is_total": false,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 5
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Mandi",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 8,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 3
+  },
+  {
+   "area": "Suket",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 9,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Maler Kotla",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Western Pahari",
+   "subsidiary_is_total": false,
+   "cols": [
+    31,
+    32
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 124,
+   "females": 216
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 121,
+   "females": 212
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 40
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 28
+  },
+  {
+   "area": "Gurgaon",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 3,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Karnal",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 4,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 30,
+   "females": 12
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 55
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 65,
+   "females": 55
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 112
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 112
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 5
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "Sirmoor",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India"
+   ],
+   "area_is_total": false,
+   "serial": 6,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Rajasthani",
+   "subsidiary_is_total": false,
+   "cols": [
+    33,
+    34
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 4
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 77,
+   "females": 23
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 75,
+   "females": 23
+  },
+  {
+   "area": "AMBALA DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 1
+  },
+  {
+   "area": "Hissar",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 1,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Rohtak",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 2,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Ambala",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Ambala Division"
+   ],
+   "area_is_total": false,
+   "serial": 5,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "JULLUNDUR DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Ludhiana",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 10,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Ferozepore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Jullundur Division"
+   ],
+   "area_is_total": false,
+   "serial": 11,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 8,
+   "females": null
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Sheikhupura",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 17,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 11,
+   "females": 3
+  },
+  {
+   "area": "Jhelum",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 20,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Attock",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 22,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Mianwali",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 23,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "MULTAN DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 39,
+   "females": 19
+  },
+  {
+   "area": "Montgomery",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 24,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 13
+  },
+  {
+   "area": "Lyallpur",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 25,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "Jhang",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 26,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Multan",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 27,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 3
+  },
+  {
+   "area": "Muzaffargarh",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Multan Division"
+   ],
+   "area_is_total": false,
+   "serial": 28,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "PUNJAB STATES",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "B.-Having political relations with the Government of India",
+   "area_path": [
+    "Punjab",
+    "Punjab States"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Patiala",
+   "area_path": [
+    "Punjab",
+    "Punjab States",
+    "B.-Having political relations with the Government of India",
+    "Phulkian States"
+   ],
+   "area_is_total": false,
+   "serial": 14,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Pashto",
+   "subsidiary_is_total": false,
+   "cols": [
+    35,
+    36
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "PUNJAB",
+   "area_path": [],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 61,
+   "females": 13
+  },
+  {
+   "area": "BRITISH TERRITORY",
+   "area_path": [
+    "Punjab"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 61,
+   "females": 13
+  },
+  {
+   "area": "LAHORE DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 13
+  },
+  {
+   "area": "Lahore",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Lahore Division"
+   ],
+   "area_is_total": false,
+   "serial": 12,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 13
+  },
+  {
+   "area": "RAWALPINDI DIVISION",
+   "area_path": [
+    "Punjab",
+    "British Territory"
+   ],
+   "area_is_total": true,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 33,
+   "females": null
+  },
+  {
+   "area": "Rawalpindi",
+   "area_path": [
+    "Punjab",
+    "British Territory",
+    "Rawalpindi Division"
+   ],
+   "area_is_total": false,
+   "serial": 21,
+   "mother_tongue": "Hindustani",
+   "subsidiary": "Kashmiri",
+   "subsidiary_is_total": false,
+   "cols": [
+    37,
+    38
+   ],
+   "persons": null,
+   "males": 33,
+   "females": null
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [
+  "Sheikhupura / Hindustani -> Total / females: doubtful, read as 593"
+ ],
+ "notes": "Page 274 is Part II (manifest's part2 range 280-282 is one leaf late: Part II begins on leaf 279 = p.273, and Part I ends on leaf 278 = p.272). Table continues on leaf 281 (p.275). Right-hand columns (33-38 especially) are printed/skewed roughly one row lower than their area labels; row assignment was fixed by checking each district's Total = sum of its subsidiary columns (all districts reconcile). Sheikhupura Hindustani-Total Females: last digit broken; reads as 593 (fits both the Lahore Division total 18,027 and Punjabi 593), flagged doubtful. Dera Ghazi Khan Hindustani->Punjabi Males cell is blank in print (no '..'); recorded as nil. Lyallpur Punjabi Males 1,452 (the 4 is faint and can look like 1,152; 1,452 reconciles with the district total 1,466 and division 2,820). Printed decimal points in '41.215', '7.413', '4.255' are read as commas."
+}

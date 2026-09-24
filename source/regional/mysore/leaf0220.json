@@ -1,0 +1,1146 @@
+{
+ "key": "mysore",
+ "identifier": "in.ernet.dli.2015.56052",
+ "leaf": 220,
+ "printed_page": 212,
+ "table": "XV Part I",
+ "orientation": "rotated 90 clockwise to read",
+ "layout": "rows = State/districts/cities, columns = languages (Persons, Males, Females)",
+ "records": [
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    139,
+    140,
+    141
+   ],
+   "persons": 9,
+   "males": 2,
+   "females": 7
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Hebrew",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Semitic Family"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    139,
+    140,
+    141
+   ],
+   "persons": 9,
+   "males": 2,
+   "females": 7
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 5,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 3,
+   "males": 1,
+   "females": 2
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Japanese",
+   "lang_path": [
+    "B. Vernaculars of other Asiatic Countries and Africa",
+    "Mongolian Family",
+    "Japanese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    142,
+    143,
+    144
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 14370,
+   "males": 7237,
+   "females": 7133
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 4416,
+   "males": 2260,
+   "females": 2156
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 856,
+   "males": 386,
+   "females": 470
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 290,
+   "males": 119,
+   "females": 171
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 2132,
+   "males": 1171,
+   "females": 961
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 97,
+   "males": 46,
+   "females": 51
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 41,
+   "males": 19,
+   "females": 22
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 506,
+   "males": 219,
+   "females": 287
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 127,
+   "males": 83,
+   "females": 44
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 39,
+   "males": 25,
+   "females": 14
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 124,
+   "males": 69,
+   "females": 55
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 132,
+   "males": 88,
+   "females": 44
+  },
+  {
+   "area": "Shimoga District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 72,
+   "males": 35,
+   "females": 37
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Total",
+   "lang_path": [
+    "C. European Languages"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    145,
+    146,
+    147
+   ],
+   "persons": 9954,
+   "males": 4977,
+   "females": 4977
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 49,
+   "males": 41,
+   "females": 8
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 42,
+   "males": 40,
+   "females": 2
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 39,
+   "males": 37,
+   "females": 2
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 2,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Italian",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    148,
+    149,
+    150
+   ],
+   "persons": 7,
+   "males": 1,
+   "females": 6
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 127,
+   "males": 38,
+   "females": 89
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 56,
+   "males": 13,
+   "females": 43
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 27,
+   "males": 6,
+   "females": 21
+  },
+  {
+   "area": "Bangalore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 14,
+   "males": 4,
+   "females": 10
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 7,
+   "males": 1,
+   "females": 6
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 2,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 4,
+   "males": null,
+   "females": 4
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "French",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    151,
+    152,
+    153
+   ],
+   "persons": 71,
+   "males": 25,
+   "females": 46
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Spanish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    154,
+    155,
+    156
+   ],
+   "persons": 11,
+   "males": 3,
+   "females": 8
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Spanish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    154,
+    155,
+    156
+   ],
+   "persons": 8,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Spanish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    154,
+    155,
+    156
+   ],
+   "persons": 8,
+   "males": 3,
+   "females": 5
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Spanish",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    154,
+    155,
+    156
+   ],
+   "persons": 3,
+   "males": null,
+   "females": 3
+  },
+  {
+   "area": "MYSORE STATE, INCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 306,
+   "males": 144,
+   "females": 162
+  },
+  {
+   "area": "MYSORE STATE, EXCLUDING CIVIL AND MILITARY STATION, BANGALORE",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 93,
+   "males": 55,
+   "females": 38
+  },
+  {
+   "area": "Bangalore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 44,
+   "males": 22,
+   "females": 22
+  },
+  {
+   "area": "Kolar Gold Fields (City)",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 6,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Kolar District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 1,
+   "males": null,
+   "females": 1
+  },
+  {
+   "area": "Tumkur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Mysore City",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 9,
+   "males": 5,
+   "females": 4
+  },
+  {
+   "area": "Mysore District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 1,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Chitaldrug District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 3,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Hassan District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 10,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Kadur District",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 18,
+   "males": 14,
+   "females": 4
+  },
+  {
+   "area": "Civil and Military Station, Bangalore",
+   "area_path": [
+    "Mysore State"
+   ],
+   "area_is_total": false,
+   "language": "Portuguese",
+   "lang_path": [
+    "C. European Languages",
+    "Indo-European Family",
+    "Romance Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    157,
+    158,
+    159
+   ],
+   "persons": 213,
+   "males": 89,
+   "females": 124
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table XV(i) Language, rows = State totals (including/excluding Civil and Military Station, Bangalore), 11 districts/cities, and C&M Station Bangalore; columns = languages x Persons/Males/Females. Table spans printed pp. 204-213 (leaves 212-221); only this leaf transcribed here. Nil cells ('...') omitted; blank cells also omitted. Checks passed: P=M+F for every record; State incl. = State excl. + C&M Station; State excl. = sum of the 11 districts/cities, for every column. C. Total (cols 145-147) covers all European languages including those continued on printed page 213 (leaf 221); checked there. B. Total (col 121-123, leaf 219) = Singhalese + Persian + Armenian + Chinese + Arabic + Hebrew + Japanese, checked across leaves 219-220."
+}

@@ -1,0 +1,3305 @@
+{
+ "key": "cp_berar",
+ "identifier": "in.ernet.dli.2015.56037",
+ "leaf": 348,
+ "printed_page": 338,
+ "table": "XV Part I",
+ "orientation": "upright",
+ "layout": "rows = province, British districts by division, Berar districts, Central Provinces States (serial-numbered 1-37); columns = languages x Persons/Males/Females",
+ "records": [
+  {
+   "area": "Central Provinces and Berar",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 17990937,
+   "males": 8997203,
+   "females": 8993734
+  },
+  {
+   "area": "C. P. British Districts and Berar",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 15507723,
+   "males": 7761818,
+   "females": 7745905
+  },
+  {
+   "area": "C. P. British Districts",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 12065885,
+   "males": 6002239,
+   "females": 6063646
+  },
+  {
+   "area": "Jubbulpore Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2463466,
+   "males": 1240655,
+   "females": 1222811
+  },
+  {
+   "area": "Saugor",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 544589,
+   "males": 280385,
+   "females": 264204
+  },
+  {
+   "area": "Damoh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 305568,
+   "males": 154791,
+   "females": 150777
+  },
+  {
+   "area": "Jubbulpore",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 773811,
+   "males": 391649,
+   "females": 382162
+  },
+  {
+   "area": "Mandla",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 445766,
+   "males": 221359,
+   "females": 224407
+  },
+  {
+   "area": "Seoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 393732,
+   "males": 192471,
+   "females": 201261
+  },
+  {
+   "area": "Nerbudda Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2254566,
+   "males": 1137806,
+   "females": 1116760
+  },
+  {
+   "area": "Narsinghpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 321481,
+   "males": 161417,
+   "females": 160064
+  },
+  {
+   "area": "Hoshangabad",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 486630,
+   "males": 248226,
+   "females": 238404
+  },
+  {
+   "area": "Nimar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 466931,
+   "males": 242042,
+   "females": 224889
+  },
+  {
+   "area": "Betul",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 406252,
+   "males": 201114,
+   "females": 205138
+  },
+  {
+   "area": "Chhindwara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 573272,
+   "males": 285007,
+   "females": 288265
+  },
+  {
+   "area": "Nagpur Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3602108,
+   "males": 1809541,
+   "females": 1792567
+  },
+  {
+   "area": "Wardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 516266,
+   "males": 261394,
+   "females": 254872
+  },
+  {
+   "area": "Nagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 940049,
+   "males": 481246,
+   "females": 458803
+  },
+  {
+   "area": "Chanda",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 759695,
+   "males": 381204,
+   "females": 378491
+  },
+  {
+   "area": "Bhandara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 824496,
+   "males": 408799,
+   "females": 415697
+  },
+  {
+   "area": "Balaghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 561602,
+   "males": 276898,
+   "females": 284704
+  },
+  {
+   "area": "Chhattisgarh Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3745745,
+   "males": 1814237,
+   "females": 1931508
+  },
+  {
+   "area": "Raipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1527573,
+   "males": 739950,
+   "females": 787623
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 1400248,
+   "males": 683920,
+   "females": 716328
+  },
+  {
+   "area": "Drug",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 817924,
+   "males": 390367,
+   "females": 427557
+  },
+  {
+   "area": "Berar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 3441838,
+   "males": 1759579,
+   "females": 1682259
+  },
+  {
+   "area": "Amraoti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 941604,
+   "males": 485593,
+   "females": 456011
+  },
+  {
+   "area": "Akola",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 876362,
+   "males": 448896,
+   "females": 427466
+  },
+  {
+   "area": "Buldana",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 766584,
+   "males": 388966,
+   "females": 377618
+  },
+  {
+   "area": "Yeotmal",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 857288,
+   "males": 436124,
+   "females": 421164
+  },
+  {
+   "area": "Central Provinces States",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 2483214,
+   "males": 1235385,
+   "females": 1247829
+  },
+  {
+   "area": "Makrai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 15516,
+   "males": 7900,
+   "females": 7616
+  },
+  {
+   "area": "Bastar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 524721,
+   "males": 263248,
+   "females": 261473
+  },
+  {
+   "area": "Kanker",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 136101,
+   "males": 67132,
+   "females": 68969
+  },
+  {
+   "area": "Nandgaon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 182380,
+   "males": 87886,
+   "females": 94494
+  },
+  {
+   "area": "Khairagarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 157400,
+   "males": 75647,
+   "females": 81753
+  },
+  {
+   "area": "Chhuikhadan",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 31668,
+   "males": 15238,
+   "females": 16430
+  },
+  {
+   "area": "Kawardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 72820,
+   "males": 35098,
+   "females": 37722
+  },
+  {
+   "area": "Sakti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 48489,
+   "males": 23571,
+   "females": 24918
+  },
+  {
+   "area": "Raigarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 277569,
+   "males": 136723,
+   "females": 140846
+  },
+  {
+   "area": "Sarangarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 128967,
+   "males": 62443,
+   "females": 66524
+  },
+  {
+   "area": "Changbhakar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 23322,
+   "males": 11987,
+   "females": 11335
+  },
+  {
+   "area": "Korea",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 90886,
+   "males": 46748,
+   "females": 44138
+  },
+  {
+   "area": "Surguja",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 501939,
+   "males": 254923,
+   "females": 247016
+  },
+  {
+   "area": "Udaipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 97738,
+   "males": 49425,
+   "females": 48313
+  },
+  {
+   "area": "Jashpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Population (all languages)",
+   "lang_path": [
+    "Population"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3,
+    4
+   ],
+   "persons": 193698,
+   "males": 97416,
+   "females": 96282
+  },
+  {
+   "area": "Central Provinces and Berar",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 5605461,
+   "males": 2826577,
+   "females": 2778884
+  },
+  {
+   "area": "C. P. British Districts and Berar",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4825293,
+   "males": 2432735,
+   "females": 2392558
+  },
+  {
+   "area": "C. P. British Districts",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 4432936,
+   "males": 2223199,
+   "females": 2209737
+  },
+  {
+   "area": "Jubbulpore Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1135040,
+   "males": 578200,
+   "females": 556840
+  },
+  {
+   "area": "Saugor",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 540520,
+   "males": 278073,
+   "females": 262447
+  },
+  {
+   "area": "Damoh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 303836,
+   "males": 153913,
+   "females": 149923
+  },
+  {
+   "area": "Jubbulpore",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 7556,
+   "males": 3814,
+   "females": 3742
+  },
+  {
+   "area": "Mandla",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3399,
+   "males": 1691,
+   "females": 1708
+  },
+  {
+   "area": "Seoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 279729,
+   "males": 140709,
+   "females": 139020
+  },
+  {
+   "area": "Nerbudda Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1378590,
+   "males": 699387,
+   "females": 679203
+  },
+  {
+   "area": "Narsinghpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 319949,
+   "males": 160590,
+   "females": 159359
+  },
+  {
+   "area": "Hoshangabad",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 432516,
+   "males": 219870,
+   "females": 212646
+  },
+  {
+   "area": "Nimar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 173911,
+   "males": 92382,
+   "females": 81529
+  },
+  {
+   "area": "Betul",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 150661,
+   "males": 75207,
+   "females": 75454
+  },
+  {
+   "area": "Chhindwara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 301553,
+   "males": 151338,
+   "females": 150215
+  },
+  {
+   "area": "Nagpur Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 650771,
+   "males": 332052,
+   "females": 318719
+  },
+  {
+   "area": "Wardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 38040,
+   "males": 21132,
+   "females": 16908
+  },
+  {
+   "area": "Nagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 142916,
+   "males": 77932,
+   "females": 64984
+  },
+  {
+   "area": "Chanda",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 23311,
+   "males": 12719,
+   "females": 10592
+  },
+  {
+   "area": "Bhandara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 131003,
+   "males": 63950,
+   "females": 67053
+  },
+  {
+   "area": "Balaghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 315501,
+   "males": 156319,
+   "females": 159182
+  },
+  {
+   "area": "Chhattisgarh Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 1268535,
+   "males": 613560,
+   "females": 654975
+  },
+  {
+   "area": "Raipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 48552,
+   "males": 25981,
+   "females": 22571
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 437513,
+   "males": 214650,
+   "females": 222863
+  },
+  {
+   "area": "Drug",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 782470,
+   "males": 372929,
+   "females": 409541
+  },
+  {
+   "area": "Berar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 392357,
+   "males": 209536,
+   "females": 182821
+  },
+  {
+   "area": "Amraoti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 130824,
+   "males": 70651,
+   "females": 60173
+  },
+  {
+   "area": "Akola",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 111820,
+   "males": 60366,
+   "females": 51454
+  },
+  {
+   "area": "Buldana",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 85443,
+   "males": 44640,
+   "females": 40803
+  },
+  {
+   "area": "Yeotmal",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 64270,
+   "males": 33879,
+   "females": 30391
+  },
+  {
+   "area": "Central Provinces States",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 780168,
+   "males": 393842,
+   "females": 386326
+  },
+  {
+   "area": "Makrai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 11457,
+   "males": 5700,
+   "females": 5757
+  },
+  {
+   "area": "Bastar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 9861,
+   "males": 5309,
+   "females": 4552
+  },
+  {
+   "area": "Kanker",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 73224,
+   "males": 35963,
+   "females": 37261
+  },
+  {
+   "area": "Nandgaon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 18143,
+   "males": 9301,
+   "females": 8842
+  },
+  {
+   "area": "Khairagarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 3100,
+   "males": 1573,
+   "females": 1527
+  },
+  {
+   "area": "Chhuikhadan",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 31310,
+   "males": 15046,
+   "females": 16264
+  },
+  {
+   "area": "Kawardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 323,
+   "males": 204,
+   "females": 119
+  },
+  {
+   "area": "Sakti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 829,
+   "males": 460,
+   "females": 369
+  },
+  {
+   "area": "Raigarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 2734,
+   "males": 1589,
+   "females": 1145
+  },
+  {
+   "area": "Sarangarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 372,
+   "males": 194,
+   "females": 178
+  },
+  {
+   "area": "Changbhakar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 323,
+   "males": 157,
+   "females": 166
+  },
+  {
+   "area": "Korea",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 81811,
+   "males": 42082,
+   "females": 39729
+  },
+  {
+   "area": "Surguja",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 443593,
+   "males": 224467,
+   "females": 219126
+  },
+  {
+   "area": "Udaipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 307,
+   "males": 213,
+   "females": 94
+  },
+  {
+   "area": "Jashpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Total Western Hindi",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family"
+   ],
+   "lang_is_total": true,
+   "cols": [
+    5,
+    6,
+    7
+   ],
+   "persons": 102781,
+   "males": 51584,
+   "females": 51197
+  },
+  {
+   "area": "Central Provinces and Berar",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 5601063,
+   "males": 2824347,
+   "females": 2776716
+  },
+  {
+   "area": "C. P. British Districts and Berar",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 4820895,
+   "males": 2430505,
+   "females": 2390390
+  },
+  {
+   "area": "C. P. British Districts",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 4431133,
+   "males": 2222233,
+   "females": 2208900
+  },
+  {
+   "area": "Jubbulpore Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1135031,
+   "males": 578193,
+   "females": 556838
+  },
+  {
+   "area": "Saugor",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 540519,
+   "males": 278072,
+   "females": 262447
+  },
+  {
+   "area": "Damoh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 303836,
+   "males": 153913,
+   "females": 149923
+  },
+  {
+   "area": "Jubbulpore",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 7549,
+   "males": 3809,
+   "females": 3740
+  },
+  {
+   "area": "Mandla",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3399,
+   "males": 1691,
+   "females": 1708
+  },
+  {
+   "area": "Seoni",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Jubbulpore Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 279728,
+   "males": 140708,
+   "females": 139020
+  },
+  {
+   "area": "Nerbudda Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1378138,
+   "males": 699092,
+   "females": 679046
+  },
+  {
+   "area": "Narsinghpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 319949,
+   "males": 160590,
+   "females": 159359
+  },
+  {
+   "area": "Hoshangabad",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 432507,
+   "males": 219865,
+   "females": 212642
+  },
+  {
+   "area": "Nimar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 173550,
+   "males": 92168,
+   "females": 81382
+  },
+  {
+   "area": "Betul",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 150594,
+   "males": 75140,
+   "females": 75454
+  },
+  {
+   "area": "Chhindwara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nerbudda Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 301538,
+   "males": 151329,
+   "females": 150209
+  },
+  {
+   "area": "Nagpur Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 649448,
+   "males": 331396,
+   "females": 318052
+  },
+  {
+   "area": "Wardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 37706,
+   "males": 20971,
+   "females": 16735
+  },
+  {
+   "area": "Nagpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 142116,
+   "males": 77527,
+   "females": 64589
+  },
+  {
+   "area": "Chanda",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 23130,
+   "males": 12632,
+   "females": 10498
+  },
+  {
+   "area": "Bhandara",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 130995,
+   "males": 63947,
+   "females": 67048
+  },
+  {
+   "area": "Balaghat",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Nagpur Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 315501,
+   "males": 156319,
+   "females": 159182
+  },
+  {
+   "area": "Chhattisgarh Division",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 1268516,
+   "males": 613552,
+   "females": 654964
+  },
+  {
+   "area": "Raipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 48545,
+   "males": 25977,
+   "females": 22568
+  },
+  {
+   "area": "Bilaspur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 437501,
+   "males": 214646,
+   "females": 222855
+  },
+  {
+   "area": "Drug",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "C. P. British Districts",
+    "Chhattisgarh Division"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 782470,
+   "males": 372929,
+   "females": 409541
+  },
+  {
+   "area": "Berar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 389762,
+   "males": 208272,
+   "females": 181490
+  },
+  {
+   "area": "Amraoti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 130063,
+   "males": 70307,
+   "females": 59756
+  },
+  {
+   "area": "Akola",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 111576,
+   "males": 60244,
+   "females": 51332
+  },
+  {
+   "area": "Buldana",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 84712,
+   "males": 44263,
+   "females": 40449
+  },
+  {
+   "area": "Yeotmal",
+   "area_path": [
+    "Central Provinces and Berar",
+    "C. P. British Districts and Berar",
+    "Berar"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 63411,
+   "males": 33458,
+   "females": 29953
+  },
+  {
+   "area": "Central Provinces States",
+   "area_path": [
+    "Central Provinces and Berar"
+   ],
+   "area_is_total": true,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 780168,
+   "males": 393842,
+   "females": 386326
+  },
+  {
+   "area": "Makrai",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 11457,
+   "males": 5700,
+   "females": 5757
+  },
+  {
+   "area": "Bastar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 9861,
+   "males": 5309,
+   "females": 4552
+  },
+  {
+   "area": "Kanker",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 73224,
+   "males": 35963,
+   "females": 37261
+  },
+  {
+   "area": "Nandgaon",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 18143,
+   "males": 9301,
+   "females": 8842
+  },
+  {
+   "area": "Khairagarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 3100,
+   "males": 1573,
+   "females": 1527
+  },
+  {
+   "area": "Chhuikhadan",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 31310,
+   "males": 15046,
+   "females": 16264
+  },
+  {
+   "area": "Kawardha",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 323,
+   "males": 204,
+   "females": 119
+  },
+  {
+   "area": "Sakti",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 829,
+   "males": 460,
+   "females": 369
+  },
+  {
+   "area": "Raigarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 2734,
+   "males": 1589,
+   "females": 1145
+  },
+  {
+   "area": "Sarangarh",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 372,
+   "males": 194,
+   "females": 178
+  },
+  {
+   "area": "Changbhakar",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 323,
+   "males": 157,
+   "females": 166
+  },
+  {
+   "area": "Korea",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 81811,
+   "males": 42082,
+   "females": 39729
+  },
+  {
+   "area": "Surguja",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 443593,
+   "males": 224467,
+   "females": 219126
+  },
+  {
+   "area": "Udaipur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 307,
+   "males": 213,
+   "females": 94
+  },
+  {
+   "area": "Jashpur",
+   "area_path": [
+    "Central Provinces and Berar",
+    "Central Provinces States"
+   ],
+   "area_is_total": false,
+   "language": "Hindustani",
+   "lang_path": [
+    "A-Vernaculars of India",
+    "Indo-European Family",
+    "Aryan Sub-Family",
+    "Western Hindi",
+    "Dialect included in Western Hindi"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9,
+    10
+   ],
+   "persons": 102781,
+   "males": 51584,
+   "females": 51197
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Table continues on following leaves (facing pages). Bhandara Total Western Hindi females 67,053: last digit poorly printed but reads as 3."
+}

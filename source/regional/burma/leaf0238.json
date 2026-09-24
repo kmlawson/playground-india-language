@@ -1,0 +1,4915 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 238,
+ "printed_page": 232,
+ "table": "XV Part I",
+ "part": "I-E Distribution of Selected Languages by Districts",
+ "orientation": "upright",
+ "layout": "rows = districts and states (with division and province totals), columns = selected languages / residual 'other dialects' of a group (Males/Females only; no Persons).",
+ "records": [
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4324033,
+   "females": 4517727
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 271908,
+   "females": 276679
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 235441,
+   "females": 236906
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1982,
+   "females": 1782
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 44655,
+   "females": 44491
+  },
+  {
+   "area": "Provincial Total",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 123368,
+   "females": 127576
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4300481,
+   "females": 4497050
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 271880,
+   "females": 276666
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 161498,
+   "females": 161496
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1963,
+   "females": 1775
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 44650,
+   "females": 44490
+  },
+  {
+   "area": "Divisional Burma",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 123368,
+   "females": 127576
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 38526,
+   "females": 38981
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 263640,
+   "females": 269661
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 17346,
+   "females": 17280
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 26,
+   "females": 20
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 12344,
+   "females": 12098
+  },
+  {
+   "area": "Arakan Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 24440,
+   "females": 23323
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1394,
+   "females": 1051
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 148231,
+   "females": 145652
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 16331,
+   "females": 16369
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 18,
+   "females": 11
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 5337,
+   "females": 5070
+  },
+  {
+   "area": "Akyab",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 9511,
+   "females": 9453
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 5
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 206,
+   "females": 113
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1015,
+   "females": 911
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1064,
+   "females": 1009
+  },
+  {
+   "area": "Arakan Hill Tracts",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 7149,
+   "females": 7045
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 208,
+   "females": 323
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 94086,
+   "females": 101444
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 9
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1861,
+   "females": 1958
+  },
+  {
+   "area": "Kyaukpyu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 7676,
+   "females": 6691
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 36919,
+   "females": 37602
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 21117,
+   "females": 22452
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 4082,
+   "females": 4061
+  },
+  {
+   "area": "Sandoway",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Arakan Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 104,
+   "females": 134
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 939939,
+   "females": 962852
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 515,
+   "females": 200
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 106,
+   "females": 94
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 113,
+   "females": 84
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 8166,
+   "females": 8564
+  },
+  {
+   "area": "Pegu Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 69592,
+   "females": 69613
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 354,
+   "females": 142
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 58,
+   "females": 67
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 93,
+   "females": 75
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 29,
+   "females": 21
+  },
+  {
+   "area": "Rangoon Town",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 189020,
+   "females": 192232
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 51,
+   "females": 10
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 5
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 2
+  },
+  {
+   "area": "Pegu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 653,
+   "females": 640
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 225231,
+   "females": 236211
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 2
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 5
+  },
+  {
+   "area": "Tharrawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 610,
+   "females": 632
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 153992,
+   "females": 152639
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 4
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 35,
+   "females": 9
+  },
+  {
+   "area": "Hanthawaddy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 119132,
+   "females": 118344
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 87,
+   "females": 41
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 13
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Insein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 125,
+   "females": 122
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 182972,
+   "females": 193813
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Prome",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Pegu Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 6749,
+   "females": 7149
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 861562,
+   "females": 874443
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 7562,
+   "females": 6653
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 22
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 83,
+   "females": 86
+  },
+  {
+   "area": "Irrawaddy Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2647,
+   "females": 2630
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 196296,
+   "females": 200052
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 6724,
+   "females": 6425
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 10
+  },
+  {
+   "area": "Bassein",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 483,
+   "females": 456
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 261102,
+   "females": 273077
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 9
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 56,
+   "females": 74
+  },
+  {
+   "area": "Henzada",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2159,
+   "females": 2167
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 146822,
+   "females": 145215
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 762,
+   "females": 182
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 6
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": null,
+   "females": 2
+  },
+  {
+   "area": "Myaungmya",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 7
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 118588,
+   "females": 121748
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 30,
+   "females": 20
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 1
+  },
+  {
+   "area": "Maubin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 17,
+   "females": null
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 138754,
+   "females": 134351
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 33,
+   "females": 17
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 15
+  },
+  {
+   "area": "Pyapôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Irrawaddy Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 280900,
+   "females": 279448
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 73,
+   "females": 47
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 129720,
+   "females": 130396
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 15,
+   "females": 7
+  },
+  {
+   "area": "Tenasserim Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 290,
+   "females": 325
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1279,
+   "females": 902
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 2
+  },
+  {
+   "area": "Salween",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 82909,
+   "females": 80109
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 7,
+   "females": 9
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 56,
+   "females": 43
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Thatôn",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 51898,
+   "females": 51783
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 25,
+   "females": 13
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 134,
+   "females": 98
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 6
+  },
+  {
+   "area": "Amherst",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 7
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1068,
+   "females": 733
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 20,
+   "females": 13
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 76068,
+   "females": 77006
+  },
+  {
+   "area": "Tavoy",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 738,
+   "females": 352
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 1
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 53434,
+   "females": 53228
+  },
+  {
+   "area": "Mergui",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 143008,
+   "females": 145569
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 10
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 19
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Toungoo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Tenasserim Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 286,
+   "females": 317
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 706942,
+   "females": 747837
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 30,
+   "females": 13
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 31,
+   "females": null
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 18975,
+   "females": 19429
+  },
+  {
+   "area": "Magwe Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 95537,
+   "females": 100807
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 121253,
+   "females": 126322
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 10921,
+   "females": 11162
+  },
+  {
+   "area": "Thayetmyo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 171,
+   "females": 120
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 123509,
+   "females": 130459
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 6745,
+   "females": 6930
+  },
+  {
+   "area": "Minbu",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 2818,
+   "females": 2861
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 234104,
+   "females": 244364
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 8,
+   "females": 4
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Magwe",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1072,
+   "females": 1211
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 228001,
+   "females": 246632
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 12,
+   "females": 5
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 27,
+   "females": null
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 237,
+   "females": 126
+  },
+  {
+   "area": "Pakôkku",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 10343,
+   "females": 10788
+  },
+  {
+   "area": "Chin Hills",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 75,
+   "females": 60
+  },
+  {
+   "area": "Chin Hills",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Magwe Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 82205,
+   "females": 87038
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 775118,
+   "females": 830162
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 36,
+   "females": 92
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1753,
+   "females": 607
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 1027,
+   "females": 1154
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1078,
+   "females": 855
+  },
+  {
+   "area": "Mandalay Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 140,
+   "females": 27
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 154258,
+   "females": 162224
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 16,
+   "females": 87
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 2
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 988,
+   "females": 1152
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 178,
+   "females": 4
+  },
+  {
+   "area": "Mandalay",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 133,
+   "females": 27
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 72602,
+   "females": 75716
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 24,
+   "females": 36
+  },
+  {
+   "area": "Kyauksè",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 25,
+   "females": null
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 141919,
+   "females": 160480
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 2
+  },
+  {
+   "area": "Meiktila",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 1247,
+   "females": 165
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 225636,
+   "females": 242680
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 11,
+   "females": null
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 5,
+   "females": null
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": 2
+  },
+  {
+   "area": "Myingyan",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 7,
+   "females": null
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 180703,
+   "females": 189062
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 3
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 471,
+   "females": 404
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 11,
+   "females": null
+  },
+  {
+   "area": "Yamèthin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Mandalay Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 900,
+   "females": 851
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 697494,
+   "females": 763327
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 12551,
+   "females": 13097
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 668,
+   "females": 424
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1150,
+   "females": 589
+  },
+  {
+   "area": "Sagaing Division",
+   "area_path": [
+    "Burma",
+    "Divisional Burma"
+   ],
+   "area_is_total": true,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3250,
+   "females": 3418
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 15799,
+   "females": 15468
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 6,
+   "females": null
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 469,
+   "females": 400
+  },
+  {
+   "area": "Bhamo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 8
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 8003,
+   "females": 6325
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 4,
+   "females": null
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 12013,
+   "females": 12646
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 78,
+   "females": 27
+  },
+  {
+   "area": "Myitkyina",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 105,
+   "females": 69
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 208997,
+   "females": 230837
+  },
+  {
+   "area": "Shwebo",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 24,
+   "females": null
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 157017,
+   "females": 174773
+  },
+  {
+   "area": "Sagaing",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 218,
+   "females": 284
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 81457,
+   "females": 83627
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 9,
+   "females": null
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 69,
+   "females": 51
+  },
+  {
+   "area": "Katha",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 80,
+   "females": 8
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 176122,
+   "females": 204058
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 19,
+   "females": null
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 10,
+   "females": null
+  },
+  {
+   "area": "Lower Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 1
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 50099,
+   "females": 48239
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 2,
+   "females": null
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 236,
+   "females": 97
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 1035,
+   "females": 520
+  },
+  {
+   "area": "Upper Chindwin",
+   "area_path": [
+    "Burma",
+    "Divisional Burma",
+    "Sagaing Division"
+   ],
+   "area_is_total": false,
+   "language": "C.-Other Chin dialects",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    12,
+    13
+   ],
+   "persons": null,
+   "males": 3246,
+   "females": 3417
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 23552,
+   "females": 20677
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 28,
+   "females": 13
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 73943,
+   "females": 75410
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 19,
+   "females": 7
+  },
+  {
+   "area": "Eastern States",
+   "area_path": [
+    "Burma"
+   ],
+   "area_is_total": true,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 5,
+   "females": 1
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 18361,
+   "females": 16685
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 6,
+   "females": 1
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 5997,
+   "females": 6424
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Northern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 1
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4916,
+   "females": 3862
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A-2 and A-3 - Arakanese and Yanbye*",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    4,
+    5
+   ],
+   "persons": null,
+   "males": 22,
+   "females": 12
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 67061,
+   "females": 68053
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 13,
+   "females": 7
+  },
+  {
+   "area": "Southern Shan States",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C-45.-Chin (unspecified.)",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    10,
+    11
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A-1.-Burmese",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 275,
+   "females": 130
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "A.-Other dialects of Burma Group",
+   "lang_path": [
+    "A.-Burma Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    6,
+    7
+   ],
+   "persons": null,
+   "males": 885,
+   "females": 933
+  },
+  {
+   "area": "Karenni",
+   "area_path": [
+    "Burma",
+    "Eastern States"
+   ],
+   "area_is_total": false,
+   "language": "C-1.-Kathè",
+   "lang_path": [
+    "C.-Kuki-Chin Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    8,
+    9
+   ],
+   "persons": null,
+   "males": 3,
+   "females": null
+  }
+ ],
+ "footnotes": "* Part 1B gives the distribution for Yanbye alone; other figures in this column are for Arakanese. (Footnote begins at foot of leaf 238 and concludes at foot of leaf 239.)",
+ "unreadable": [],
+ "notes": "Sagaing Division Kathè Males printed with a broken first digit ('6(8'); read as 668 = sum of districts. In the Chin columns (10-13) for Sagaing districts the figures sit progressively lower than their row labels; assigned by counting entries (e.g. Other Chin dialects M 4 / F 1 = Lower Chindwin) and confirmed by the division sums. No row labels on leaf 239; this leaf has the District or State column. Part I-E Distribution of Selected Languages by Districts, leaves 238-239 (printed pages 232-233); same 51 rows as Part I-D. Self-checks: every division/total row = sum of its parts (all pass); and A-1 + A-2/3 + other Burma = I-D Burma Group, C-1 + C-45 + other Chin = I-D Kuki-Chin Group, I-1 + other Tai = I-D Tai (Shan) Group, N-1 + N-2 + N-9 + other Karen = I-D Karen Group, for every row (all pass)."
+}

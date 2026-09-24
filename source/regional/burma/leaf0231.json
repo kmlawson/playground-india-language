@@ -1,0 +1,1088 @@
+{
+ "key": "burma",
+ "identifier": "in.ernet.dli.2015.56035",
+ "leaf": 231,
+ "printed_page": 225,
+ "table": "XV Part I",
+ "part": "I-B Provincial Totals of Speakers of each Language",
+ "orientation": "upright",
+ "layout": "rows = languages (serial code, e.g. A1, in the margin; group total rows A, B, ...), columns = 1 Language, 2 Males, 3 Females, 4 Remarks (alternative names and district distribution). Area is the whole province; no Persons column (persons = null).",
+ "records": [
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Man Group",
+   "serial": "O",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 502,
+   "females": 445,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Miao",
+   "serial": "O1",
+   "lang_path": [
+    "O Man Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 442,
+   "females": 388,
+   "remarks": "Miaotzu, Miaobyu, Pe Miao, Hmeng, Mung, Khe-pok. Northern Shan States : M. 403, F. 340 ; Southern Shan States : M. 39, F. 48."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yao",
+   "serial": "O2",
+   "lang_path": [
+    "O Man Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 60,
+   "females": 57,
+   "remarks": "Lanten. Southern Shan States only."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Chinese Group",
+   "serial": "R",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 118504,
+   "females": 59812,
+   "remarks": "The distribution of Chinese languages as a whole is given in Part ID of this Table."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Yunnanese",
+   "serial": "R1",
+   "lang_path": [
+    "R Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 40487,
+   "females": 26748,
+   "remarks": "Anya Tayok, Momyin Tayok, Khe-long."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Cantonese",
+   "serial": "R2",
+   "lang_path": [
+    "R Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 23109,
+   "females": 8869,
+   "remarks": "Short-Coat Chinese."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Fukienese",
+   "serial": "R3",
+   "lang_path": [
+    "R Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 29923,
+   "females": 14195,
+   "remarks": "Long-Coat Chinese."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Other and unspecified Chinese.",
+   "serial": "R4",
+   "lang_path": [
+    "R Chinese Group"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 24985,
+   "females": 10000,
+   "remarks": "Tayok, Tarok, Talok, Khe"
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Indian Languages",
+   "serial": "X",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 765418,
+   "females": 314402,
+   "remarks": "The distribution of Indian Languages as a whole is given in Part ID of this Table ; the distribution of separate languages is not given."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Assamese",
+   "serial": "X1",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 862,
+   "females": 341,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Balochi",
+   "serial": "X2",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 77,
+   "females": 11,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bengali",
+   "serial": "X3",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 242415,
+   "females": 134579,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Bihari",
+   "serial": "X4",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 44,
+   "females": 13,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Central Pahari",
+   "serial": "X5",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2542,
+   "females": 427,
+   "remarks": "Includes Garhwali and Kumaoni."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Eastern Pahari",
+   "serial": "X6",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 25724,
+   "females": 12657,
+   "remarks": "Includes Naipali."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Gujarati",
+   "serial": "X7",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 12511,
+   "females": 5195,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kanarese",
+   "serial": "X8",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 161,
+   "females": 94,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Kashmiri",
+   "serial": "X9",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 31,
+   "females": 7,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Konkani",
+   "serial": "X10",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 605,
+   "females": 106,
+   "remarks": "Includes Goanese."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Malayalam",
+   "serial": "X11",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 11343,
+   "females": 875,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Marathi",
+   "serial": "X12",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 480,
+   "females": 193,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Oriya",
+   "serial": "X13",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 57247,
+   "females": 3435,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Pashto",
+   "serial": "X14",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1510,
+   "females": 493,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Punjabi",
+   "serial": "X15",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 20639,
+   "females": 7070,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Rajasthani",
+   "serial": "X16",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 153,
+   "females": 235,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Sindhi",
+   "serial": "X17",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 343,
+   "females": 88,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Tamil",
+   "serial": "X18",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 118659,
+   "females": 65448,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Telugu",
+   "serial": "X19",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 124483,
+   "females": 36157,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Western Hindi",
+   "serial": "X20",
+   "lang_path": [
+    "X Indian Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 145589,
+   "females": 46978,
+   "remarks": "Includes Hindustani, Hindi and Urdu."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "European Languages",
+   "serial": "Y",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 16069,
+   "females": 11826,
+   "remarks": "The distribution of European Languages as a whole is given in Part ID of this Table. With the exception of English the distribution of separate languages is not given."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Belgian",
+   "serial": "Y1",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Danish",
+   "serial": "Y2",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 10,
+   "females": 3,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Dutch",
+   "serial": "Y3",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 44,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "English",
+   "serial": "Y4",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 15328,
+   "females": 11538,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "French",
+   "serial": "Y5",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 102,
+   "females": 77,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "German",
+   "serial": "Y6",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 96,
+   "females": 13,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Greek",
+   "serial": "Y7",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 29,
+   "females": 8,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Italian",
+   "serial": "Y8",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 72,
+   "females": 53,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Norwegian",
+   "serial": "Y9",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 31,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Polish",
+   "serial": "Y10",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 1,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Portuguese",
+   "serial": "Y11",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 290,
+   "females": 105,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Russian",
+   "serial": "Y12",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 2,
+   "females": 5,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Slovak",
+   "serial": "Y13",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 42,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Spanish",
+   "serial": "Y14",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 4,
+   "females": 9,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Swedish",
+   "serial": "Y15",
+   "lang_path": [
+    "Y European Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 17,
+   "females": 6,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Other Languages",
+   "serial": "Z",
+   "lang_path": [],
+   "lang_is_total": true,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1750,
+   "females": 1071,
+   "remarks": "The distribution of \"Other Languages\" as a whole is given in Part ID of this Table. The distribution of separate languages is not given."
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Arabic",
+   "serial": "Z1",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 329,
+   "females": 250,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Armenian",
+   "serial": "Z2",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 116,
+   "females": 71,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Egyptian",
+   "serial": "Z3",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9,
+   "females": null,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Hebrew",
+   "serial": "Z4",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 260,
+   "females": 238,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Japanese",
+   "serial": "Z5",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 438,
+   "females": 169,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Javanese",
+   "serial": "Z6",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 2,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Maltese",
+   "serial": "Z7",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 1,
+   "females": 3,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Persian",
+   "serial": "Z8",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 421,
+   "females": 303,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Philippine languages",
+   "serial": "Z9",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 38,
+   "females": 10,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Singhalese",
+   "serial": "Z10",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 128,
+   "females": 24,
+   "remarks": ""
+  },
+  {
+   "area": "Burma",
+   "area_path": [],
+   "area_is_total": true,
+   "language": "Turkish",
+   "serial": "Z11",
+   "lang_path": [
+    "Z Other Languages"
+   ],
+   "lang_is_total": false,
+   "cols": [
+    2,
+    3
+   ],
+   "persons": null,
+   "males": 9,
+   "females": 1,
+   "remarks": ""
+  }
+ ],
+ "footnotes": "",
+ "unreadable": [],
+ "notes": "Last page of Part I-B. Serial numbers within groups X, Y, Z are printed as bare numbers (1, 2, ...); normalised to X1, Y1, Z1 etc. Females printed nil ('...') for Belgian, Norwegian, Slovak and Egyptian (records keep Males, Females null). The printed signature '29' at the foot of the page is not a table figure."
+}
