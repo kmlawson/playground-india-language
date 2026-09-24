@@ -157,7 +157,8 @@
     drag.pts[ev.pointerId] = [ev.clientX, ev.clientY];
     drag.on = true; drag.moved = false; drag.start = [ev.clientX, ev.clientY]; drag.view = Object.assign({}, view);
     if (Object.keys(drag.pts).length === 2) {
-      var a = Object.values(drag.pts); drag.d0 = Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]);
+      // two fingers placed close together must not start a huge zoom
+      var a = Object.values(drag.pts); drag.d0 = Math.max(24, Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]));
       drag.mid = toSvg({ clientX: (a[0][0] + a[1][0]) / 2, clientY: (a[0][1] + a[1][1]) / 2 });
     }
   });
@@ -177,8 +178,18 @@
     view.x = drag.view.x - dx * s; view.y = drag.view.y - dy * s; clampView(); applyView();
   });
   function endDrag(ev) {
+    if (!drag.pts[ev.pointerId]) return;
     delete drag.pts[ev.pointerId];
-    if (!Object.keys(drag.pts).length) { drag.on = false; svg.classList.remove('dragging'); setTimeout(function () { drag.moved = false; }, 0); }
+    var left = Object.values(drag.pts);
+    if (left.length === 1) {
+      // a pinch ended with one finger still down: carry on panning from where that finger is now,
+      // not from where the first finger originally touched (which made the map jump)
+      drag.start = left[0].slice(); drag.view = Object.assign({}, view); drag.moved = true;
+    } else if (left.length >= 2) {
+      var a = left; drag.d0 = Math.max(24, Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1])); drag.view = Object.assign({}, view);
+      drag.mid = toSvg({ clientX: (a[0][0] + a[1][0]) / 2, clientY: (a[0][1] + a[1][1]) / 2 });
+    }
+    if (!left.length) { drag.on = false; svg.classList.remove('dragging'); setTimeout(function () { drag.moved = false; }, 0); }
   }
   window.addEventListener('pointerup', endDrag); window.addEventListener('pointercancel', endDrag);
   $('#zoom').addEventListener('click', function (ev) {
@@ -217,9 +228,9 @@
     if (!itemised(u)) return h + '<span class="m">' + esc(COARSE) + '</span>' + hint;
     if (state.mode === 'lang') {
       var n = u.agg[state.lang.id] || 0;
-      h += '<span class="big">' + pct(u.P ? n / u.P * 100 : 0) + '</span><span class="m">' + num(n) + ' of ' + num(u.P) + ' · ' + esc(disp(state.lang)) + '</span>';
+      h += '<span class="big">' + pct(u.P ? n / u.P * 100 : 0) + '</span><br><span class="m">' + num(n) + ' of ' + num(u.P) + ' · ' + esc(disp(state.lang)) + '</span>';
     } else if (u.lead) {
-      h += '<span class="big">' + esc(leadName(u)) + '</span><span class="m">' + pct(u.lead.n / u.P * 100) + ' of ' + num(u.P) + '</span>';
+      h += '<span class="big">' + esc(leadName(u)) + '</span><br><span class="m">' + pct(u.lead.n / u.P * 100) + ' of ' + num(u.P) + '</span>';
     }
     if (sn) h += '<span class="m">' + esc(sn) + '</span>';
     return h;
@@ -265,7 +276,7 @@
     });
     var gL = $('#g-labels'); gL.textContent = '';
     if (state.mode === 'lead') {
-      window.LangColors.blocks(U.map(function (u) { return { id: u.i, key: unitEls[u.i] ? leadKey(u) : null, nb: u.nb, area: u.ar, pop: u.P }; }))
+      window.LangColors.blocks(U.map(function (u) { return { id: u.i, key: unitEls[u.i] ? leadKey(u) : null, nb: u.nb, area: u.ar, pop: u.P, x: u.lx, y: u.ly }; }))
         .sort(function (a, b) { return b.pop - a.pop; }).forEach(function (bk) {
           var u = U[bk.anchor], t = el('text', { x: u.lx, y: u.ly, class: 'label' }, gL); t.textContent = leadLabel(u.lead.l, u);
         });

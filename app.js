@@ -315,7 +315,8 @@
     drag.pts[ev.pointerId] = [ev.clientX, ev.clientY];
     drag.on = true; drag.moved = false; drag.start = [ev.clientX, ev.clientY]; drag.view = Object.assign({}, view);
     if (Object.keys(drag.pts).length === 2) {
-      var a = Object.values(drag.pts); drag.d0 = Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1]); drag.view = Object.assign({}, view);
+      // two fingers placed close together must not start a huge zoom
+      var a = Object.values(drag.pts); drag.d0 = Math.max(24, Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1])); drag.view = Object.assign({}, view);
       drag.mid = toSvg({ clientX: (a[0][0] + a[1][0]) / 2, clientY: (a[0][1] + a[1][1]) / 2 });
     }
   });
@@ -337,8 +338,18 @@
     view.x = drag.view.x - dx * s; view.y = drag.view.y - dy * s; clampView(); applyView();
   });
   function endDrag(ev) {
+    if (!drag.pts[ev.pointerId]) return;
     delete drag.pts[ev.pointerId];
-    if (!Object.keys(drag.pts).length) { drag.on = false; svg.classList.remove('dragging'); setTimeout(function () { drag.moved = false; }, 0); }
+    var left = Object.values(drag.pts);
+    if (left.length === 1) {
+      // a pinch ended with one finger still down: carry on panning from where that finger is now,
+      // not from where the first finger originally touched (which made the map jump)
+      drag.start = left[0].slice(); drag.view = Object.assign({}, view); drag.moved = true;
+    } else if (left.length >= 2) {
+      var a = left; drag.d0 = Math.max(24, Math.hypot(a[0][0] - a[1][0], a[0][1] - a[1][1])); drag.view = Object.assign({}, view);
+      drag.mid = toSvg({ clientX: (a[0][0] + a[1][0]) / 2, clientY: (a[0][1] + a[1][1]) / 2 });
+    }
+    if (!left.length) { drag.on = false; svg.classList.remove('dragging'); setTimeout(function () { drag.moved = false; }, 0); }
   }
   window.addEventListener('pointerup', endDrag); window.addEventListener('pointercancel', endDrag);
   $('#zoom').addEventListener('click', function (ev) {
@@ -464,7 +475,7 @@
     });
     if (state.mode === 'lead') {
       window.LangColors.blocks(MAP_UNITS.filter(function (u) { return unitEls[u] && !NOT_COMPARABLE[u] && LEAD[u] && LEAD[u].lang; }).map(function (u) {
-        return { id: u, key: key(LEAD[u].lang), nb: G.units[u].nb, area: G.units[u].ar, pop: popOf(u) };
+        var a = anchor(u); return { id: u, key: key(LEAD[u].lang), nb: G.units[u].nb, area: G.units[u].ar, pop: popOf(u), x: a[0], y: a[1] };
       })).forEach(function (bk) {
         var u = bk.anchor, a3 = anchor(u);
         var t = el('text', { x: a3[0], y: a3[1] + 3, class: 'label' + (SMALL[u] && bk.n === 1 ? ' small' : ''), 'data-pri': bk.pop, 'data-u': u }, gL);

@@ -39,7 +39,7 @@
     var c = document.getElementById('opt-num');
     if (c) c.addEventListener('change', function () { window.NUMFMT.set(c.checked ? 'in' : 'intl'); });
   }
-  var SITE = { version: '1.010', updated: '24 September 2026' };
+  var SITE = { version: '1.011', updated: '24 September 2026' };
   window.SITE = SITE;
   function fill() {
     [].forEach.call(document.querySelectorAll('.version'), function (el) {
@@ -57,6 +57,15 @@
     pad();
     if (location.hash.length > 1) { var t = document.getElementById(location.hash.slice(1)); if (t) t.scrollIntoView(); }
   });
-  function init() { fill(); pad(); numInit(); }
+  // header menu on narrow screens
+  function menuInit() {
+    var btn = document.getElementById('btn-menu'), bar = document.getElementById('bar'); if (!btn || !bar) return;
+    function set(open) { bar.classList.toggle('menu-open', open); btn.setAttribute('aria-expanded', open); }
+    btn.addEventListener('click', function (ev) { ev.stopPropagation(); set(!bar.classList.contains('menu-open')); });
+    document.getElementById('site-nav').addEventListener('click', function (ev) { if (ev.target.closest('a')) set(false); });
+    document.addEventListener('click', function (ev) { if (!ev.target.closest('#bar')) set(false); });
+    document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && bar.classList.contains('menu-open')) { set(false); btn.focus(); } });
+  }
+  function init() { fill(); pad(); numInit(); menuInit(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

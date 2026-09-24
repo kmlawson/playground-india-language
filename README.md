@@ -143,6 +143,14 @@ Details are in [LICENSE](LICENSE). The design follows the
 The version is **1.xxx**, where xxx counts the pushes to the published site; it goes up by one on every push.
 The number and date appear at the foot of every page (`version.js`).
 
+- **1.011** (24 September 2026)
+  - District map: no unit is drawn over another. geoBoundaries' "data not available" polygon had hidden
+    Gilgit-Baltistan and Azad Kashmir, and smaller overlaps sat along the borders between sources.
+  - Block labels sit in the middle of their block (the Bengali label is now in Bengal).
+  - Hover boxes: the figures sit on their own line under the language name.
+  - Phones: the header links fold into a Menu button, in two groups (pages; sections of the province map page).
+  - Touch: after a pinch, lifting one finger no longer makes the map jump. The remaining finger now pans from
+    where it is. Two fingers placed close together no longer start a huge zoom.
 - **1.010** (24 September 2026)
   - "Largest language" on both maps: a colour per language, with related languages in related colours
     (Indo-European reds to olives, Dravidian greens, Karen teal, Tibeto-Chinese blues, Austric violets;

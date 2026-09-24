@@ -306,6 +306,11 @@ Three units still come out split, all for real reasons:
 - Las Bela, whose coastal islands are separate pieces;
 - the Punjab plains cluster, which is joined through the scattered enclaves of Patiala, Nabha and Jind.
 
+No two units overlap. The present-day sources disagree along some borders (India, Pakistan, Bangladesh, and
+Burma's 1931 shapes), and geoBoundaries India draws a "DATA NOT AVAILABLE" polygon over Gilgit-Baltistan and
+Azad Kashmir. Units with figures therefore take priority, largest first, and each gives up any ground already
+drawn for another. Units without figures keep only what no unit with figures covers.
+
 Polygons are projected exactly like the province map (`data/geo.js`) and simplified together with
 `shapely.coverage_simplify` (tolerance 0.25 px), so neighbouring units still share their edges.
 
@@ -339,7 +344,8 @@ areas with no 1931 figures, also grey:
   - the spread runs over a fixed list of every language that leads a unit on either map, so each language has
     the same colour on both;
   - a lighter tint means the language leads with under half the population;
-  - one label is placed per contiguous block of units with the same language, at the block's largest unit.
+  - one label is placed per contiguous block of units with the same language, on the unit nearest the block's
+    area-weighted centre.
     The build stores each unit's neighbours for this (`nb` in `data/districts.js`).
 
 - **Population of this area, 1901–2011.** This comes from the *Census of India 2011*, Table A-2 (decadal

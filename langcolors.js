@@ -61,7 +61,7 @@
     return h;
   }
   // one label per contiguous block of units with the same leading language.
-  // units: [{ id, key, nb: [neighbour ids], area, pop }]; returns [{ key, anchor id, pop }] with the anchor at the block's largest unit
+  // units: [{ id, key, nb: [neighbour ids], area, pop, x, y (label point) }]; returns [{ key, anchor id, pop, n }]
   function blocks(units) {
     var byId = {}, seen = {}, out = [];
     units.forEach(function (u) { byId[u.id] = u; });
@@ -72,8 +72,15 @@
         var x = st.pop(); comp.push(x);
         (x.nb || []).forEach(function (j) { var y = byId[j]; if (y && !seen[j] && y.key === u.key) { seen[j] = 1; st.push(y); } });
       }
-      var big = comp.reduce(function (a, b) { return b.area > a.area ? b : a; });
-      out.push({ key: u.key, anchor: big.id, pop: comp.reduce(function (s, c) { return s + (c.pop || 0); }, 0), n: comp.length });
+      // anchor: the unit nearest the block's area-weighted centre, so the label sits in the main mass of the block
+      var A = 0, cx = 0, cy = 0;
+      comp.forEach(function (c) { var w = c.area || 1; A += w; cx += w * c.x; cy += w * c.y; });
+      cx /= A; cy /= A;
+      var best = comp.reduce(function (a, b) {
+        var da = (a.x - cx) * (a.x - cx) + (a.y - cy) * (a.y - cy), db = (b.x - cx) * (b.x - cx) + (b.y - cy) * (b.y - cy);
+        return db < da ? b : a;
+      });
+      out.push({ key: u.key, anchor: best.id, pop: comp.reduce(function (s, c) { return s + (c.pop || 0); }, 0), n: comp.length });
     });
     return out;
   }

@@ -300,6 +300,8 @@ def main():
         if a in used:
             continue
         nm = sname.get(a, a[2:]).replace('DATA NOT AVAILABLE', 'Unassigned area in geoBoundaries').replace(' (Burma, 1931)', '')
+        if 'DATA NOT AVAILABLE' in sname.get(a, ''):
+            nm = 'Aksai Chin and other areas'
         if a.startswith('A|B31X:'):
             note = 'Unadministered in 1931 and not enumerated (Census of India 1931, Vol. XI, Burma, Part I, p. 1).'
         elif a.startswith('A|PAK:'):
@@ -307,11 +309,26 @@ def main():
                     'Not in the 1931 district tables. The tribal areas and agencies of the North-West Frontier (and the states of Dir, Swat and Chitral) were not enumerated by district.')
         elif sstate.get(a) == 'puducherry' or 'Yanam' in nm:
             note = 'French India in 1931: outside the Census of India.'
+        elif 'DATA NOT AVAILABLE' in sname.get(a, ''):
+            note = 'Present-day territory that geoBoundaries marks as "data not available" (outside the areas administered by India), not otherwise drawn here. No 1931 district figures are linked to it.'
         else:
             note = 'No 1931 figures could be linked to this present-day district.'
         stats['no figures (unlinked shape)'] += 1
         units_out.append({'akeys': [a], 'series': None, 'snote': None, 'd2011': [], 'note': note, 'geom': shapes[a].buffer(0), 'name': nm.replace(' (Pakistan)', '').replace(' (India)', ''),
                           'names31': [], 'members': [], 'missing31': [], 'status': 'nodata', 'pop': [0, 0, 0], 'vals': {}, 'shapes': [nm]})
+    # no overlaps: the present-day sources disagree along some borders (India / Pakistan / Bangladesh / Burma
+    # 1931), and geoBoundaries India draws a "DATA NOT AVAILABLE" polygon over Gilgit-Baltistan and Azad
+    # Kashmir. Units with figures take priority (larger first), each giving up ground already drawn;
+    # units without figures keep only what no unit with figures covers.
+    order = sorted(range(len(units_out)), key=lambda i: (units_out[i]['status'] != 'ok', -units_out[i]['geom'].area))
+    taken = None
+    for i in order:
+        g = units_out[i]['geom']
+        if taken is not None:
+            g = fix(g.difference(taken))
+        units_out[i]['geom'] = g
+        taken = g if taken is None else unary_union([taken, g])
+    units_out = [u for u in units_out if not u['geom'].is_empty and u['geom'].area > 1e-4]
     print(dict(stats), file=sys.stderr)
     # projection identical to data/geo.js
     GEO = open(os.path.join(ROOT, 'data', 'geo.js')).read()
